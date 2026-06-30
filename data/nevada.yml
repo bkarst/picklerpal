@@ -1,0 +1,5273 @@
+state: Nevada
+state_slug: nevada
+country: us
+court_count: 118
+scraped_at: "2026-06-30T05:22:32.424Z"
+source: pickleheads.com misc.search API
+courts:
+  - id: "822ecb83-3f6a-4298-9d2e-80c5d9c024f9"
+    title: "3rd Shot Pickleball Reno"
+    address: "6895 Sierra Center Parkway, Reno, NV, USA"
+    lat: 39.463553
+    lng: -119.7796981
+    coords: "01010000003710DC92E6F15DC0397B67B455BB4340"
+    phone: "7754672025"
+    email: reno@3rdshotpickleball.com
+    url: "https://3rdshotpickleball.com/home-reno"
+    reservation_url: "https://3rdshotpickleball.com/home-reno"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 9
+    outdoor_courts: 0
+    total_courts: 9
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [food, locker rooms, restrooms, water, youth, lighted, pro shop, training, wheelchair accessible]
+    description: "Come play pickleball at 3rd Shot Pickleball Reno in Reno, NV! There are 9 indoor acrylic courts. These are dedicated courts with permanent lines and nets. The facility includes amenities like food, water, restrooms, lights, wheelchair accessibility, and trainers or lessons. A one-time fee is required to play. The courts can be reserved. Guests and Members welcome!"
+    access_details: "Open to the public, with Guest Play and Membership options available."
+    schedule_details: "6am - 10pm\nSee Court Reserve app to sign up and find sessions."
+    images:
+      - url: "https://cdn.filestackcontent.com/P0AM3flnTeaZhNakuV3w"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/103870046923127192812"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103870046923127192812\">3rd Shot Pickleball</a>"
+        attribution_name: "3rd Shot Pickleball"
+      - url: "https://cdn.filestackcontent.com/IP0ZLhmFTBObfDiogRq0"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/102430106288501653359"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/102430106288501653359\">Paul Steinberg</a>"
+        attribution_name: Paul Steinberg
+      - url: "https://cdn.filestackcontent.com/h0Xp6iXoSvKMwT6dckaa"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/114398130308325261780"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114398130308325261780\">Fernanda Berteli</a>"
+        attribution_name: Fernanda Berteli
+      - url: "https://cdn.filestackcontent.com/b4MwSudgScexjL7On4gH"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/102430106288501653359"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/102430106288501653359\">Paul Steinberg</a>"
+        attribution_name: Paul Steinberg
+    country_slug: us
+    state_slug: nevada
+    city_slug: reno
+    city_id: 1840020121
+    slug: "3rd-shot-pickleball-reno"
+    path: /courts/us/nevada/reno/3rd-shot-pickleball-reno
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-03-26T09:04:48.358Z"
+    updated_at: "2025-04-16T04:49:00.847Z"
+    schedule_sources_updated_at: null
+  - id: "4e67fadb-24dd-4aac-8309-98ce30ba039f"
+    title: ABC Park
+    address: "801 Adams Blvd, Boulder City, NV, 89005, USA"
+    lat: 35.96784
+    lng: -114.83056
+    coords: "0101000000695721E527B55CC05DE15D2EE2FB4140"
+    phone: "+17022939256"
+    email: null
+    url: "https://www.bcnv.org/237/Parks-Recreation"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 2
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/owSonjuQQMuICr8wJBXT"
+        source: user
+        attribution_url: "https://www.bcnv.org/ImageRepository/Path?filePath=%2fdocuments%5cIntranet%5c46%2fDSC07951.JPG"
+        attribution_html: null
+        attribution_name: Boulder City Org
+    country_slug: us
+    state_slug: nevada
+    city_slug: boulder-city
+    city_id: 1840019028
+    slug: abc-park
+    path: /courts/us/nevada/boulder-city/abc-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T04:54:08.034Z"
+    updated_at: "2025-08-06T08:54:20.945Z"
+    schedule_sources_updated_at: null
+  - id: ee94086a-6c7c-4490-b925-a2c789ef1142
+    title: Alf Sorensen Community Center
+    address: "1400 Baring Blvd, Sparks, NV, 89434, USA"
+    lat: 39.55904745680949
+    lng: -119.72120658203124
+    coords: "0101000000FCDEA63F28EE5DC051F4F7DD8EC74340"
+    phone: (775) 353-2385
+    email: recinfo@cityofsparks.us
+    url: "http://cityofsparks.us/residents/parks-and-facilities/alf-sorensen-community-center"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: $2 drop in fee
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/aedrYPERla813Ir2eQgX"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/116417225717553193218"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/116417225717553193218\">J Wasson</a>"
+        attribution_name: J Wasson
+      - url: "https://cdn.filestackcontent.com/dNWQr72mQiqlvNJj1psJ"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: nevada
+    city_slug: sparks
+    city_id: 1840021337
+    slug: alf-sorensen-community-center
+    path: /courts/us/nevada/sparks/alf-sorensen-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T03:11:01.895Z"
+    updated_at: "2023-02-23T22:31:46.048Z"
+    schedule_sources_updated_at: null
+  - id: "23bad057-932f-433c-9034-6531371aa3e1"
+    title: All American Tennis Center
+    address: "1651 S Buffalo Dr, Las Vegas, NV 89117, USA"
+    lat: 36.1526371
+    lng: -115.2622623
+    coords: "0101000000525ED0E7C8D05CC00154CC9C89134240"
+    phone: "+17252069062"
+    email: null
+    url: "https://allamericantenniscenter.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/jxLra4mRqGXyZSGbv4Kw"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: all-american-tennis-center
+    path: /courts/us/nevada/las-vegas/all-american-tennis-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-11-24T06:15:17.245Z"
+    updated_at: "2025-11-24T06:15:17.245Z"
+    schedule_sources_updated_at: null
+  - id: "2c0be675-5256-4358-9ac3-c05fe94b6fce"
+    title: Aloha Shores Park
+    address: "7550 Sauer Street, Las Vegas, Nevada 89128, United States"
+    lat: 36.19403
+    lng: -115.26384
+    coords: "01010000001BD82AC1E2D05CC0B0389CF9D5184240"
+    phone: "+17022296011"
+    email: null
+    url: "http://www.lasvegasnevada.gov/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/osgiR78wTtuGel1EGn3w"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Scott S
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: aloha-shores-park
+    path: /courts/us/nevada/las-vegas/aloha-shores-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T13:09:34.930Z"
+    updated_at: "2024-04-29T06:51:37.618Z"
+    schedule_sources_updated_at: null
+  - id: "03f289ca-0da3-4ba4-a2b1-54080471ee72"
+    title: Anthem Country Club
+    address: "Club Side Dr, Henderson, NV 89052, USA"
+    lat: 35.9676698
+    lng: -115.0834504
+    coords: "0101000000A4B5584057C55CC0D729A09ADCFB4140"
+    phone: "7025565517"
+    email: hhumayun@anthemcc.com
+    url: "http://www.anthemcc.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/bYramGYQTedF1nswyHkV"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/anthemcountryclublv/photos/4634057810054751"
+        attribution_html: null
+        attribution_name: Anthem Country Club
+    country_slug: us
+    state_slug: nevada
+    city_slug: henderson
+    city_id: 1840020361
+    slug: anthem-country-club
+    path: /courts/us/nevada/henderson/anthem-country-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T01:23:25.539Z"
+    updated_at: "2023-02-12T13:55:28.398Z"
+    schedule_sources_updated_at: null
+  - id: c7434c17-89f8-4d03-84dc-925e485475c6
+    title: Aventura Park
+    address: "2525 Via Firenze, Henderson, NV, USA"
+    lat: 35.9365608
+    lng: -115.1207318
+    coords: "01010000009525DF11BAC75CC0995B6B39E1F74140"
+    phone: "+17022674000"
+    email: null
+    url: "https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/202/752"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Ah4ygKouQTe125BNn4HQ"
+    country_slug: us
+    state_slug: nevada
+    city_slug: henderson
+    city_id: 1840020361
+    slug: aventura-park
+    path: /courts/us/nevada/henderson/aventura-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-04-26T08:04:53.427Z"
+    updated_at: "2024-04-26T08:05:59.415Z"
+    schedule_sources_updated_at: null
+  - id: "582c3a87-ac19-4ba4-86a0-3704558485a4"
+    title: Bill and Lillie Heinrich YMCA
+    address: "4141 Meadows Ln, Las Vegas, NV, 89107, USA"
+    lat: 36.169037
+    lng: -115.196304
+    coords: "0101000000BC04A73E90CC5CC030682101A3154240"
+    phone: "7028779622"
+    email: null
+    url: "https://www.lasvegasymca.org/bill-lillie-heinrich-ymca/"
+    reservation_url: null
+    facility_type: private
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [lighted, restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/TvvQyYwJTH6WDy8gHXjA"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/103705708475211607520"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103705708475211607520\">Darcy Anderson</a>"
+        attribution_name: Darcy Anderson
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: bill-and-lillie-heinrich-ymca
+    path: /courts/us/nevada/las-vegas/bill-and-lillie-heinrich-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T04:52:50.002Z"
+    updated_at: "2024-10-15T02:06:28.432Z"
+    schedule_sources_updated_at: null
+  - id: "0ec8d3b8-0092-4a5e-a7ce-390444fbc654"
+    title: Bill Briare Park
+    address: "650 N Tenaya Way, Las Vegas, NV 89128, USA"
+    lat: 36.17897178767212
+    lng: -115.24849052128754
+    coords: "0101000000F192C944E7CF5CC0AD7A2B8CE8164240"
+    phone: "+17022292273"
+    email: null
+    url: "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Bill-Briare-Park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/3cnk9BBKStaL6063Q6tx"
+        source: user
+        visible: true
+        attribution_url: "https://sawebfilesprod001.blob.core.windows.net/images/Bill%20Briare%20Web-3.jpg?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=BAlzuqqiW0fNAcwkBPLdrRXDnGMbxtxeU%2F%2FpFI1PBxU%3D"
+        attribution_html: null
+        attribution_name: Bill Briare Park
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: bill-briare-park
+    path: /courts/us/nevada/las-vegas/bill-briare-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-14T02:23:32.146Z"
+    updated_at: "2023-01-19T16:02:52.588Z"
+    schedule_sources_updated_at: null
+  - id: "52c57969-0795-4424-a77d-fe68ac0e935b"
+    title: Black Mountain Recreation Center & Aquatic Complex
+    address: "599 Greenway Rd, Henderson, NV, 89015, USA"
+    lat: 36.01299
+    lng: -114.975943
+    coords: "0101000000A6F0A0D975BE5CC0689604A8A9014240"
+    phone: (702) 267-4070
+    email: null
+    url: "https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/156/783"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 18
+    total_courts: 18
+    has_pickleball: true
+    surface: [hard, concrete, acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Egtd9eGZQSuchpJjufoR"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/116387468150063912203"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/116387468150063912203\">Nancy Rock</a>"
+        attribution_name: Nancy Rock
+      - url: "https://cdn.filestackcontent.com/2HeY4jG6TSbvNDz1rnQQ"
+        source: user
+        visible: true
+        attribution_url: "https://s3-media0.fl.yelpcdn.com/bphoto/C0zokOKEvqtjMl2iTVB9yQ/l.jpg"
+        attribution_html: null
+        attribution_name: Black Mountain Recreation Center & Aquatic Complex
+      - url: "https://cdn.filestackcontent.com/mnJBK846TI2z7DGaTPyY"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: henderson
+    city_id: 1840020361
+    slug: black-mountain-recreation-center-and-aquatic-complex
+    path: /courts/us/nevada/henderson/black-mountain-recreation-center-and-aquatic-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T17:28:46.839Z"
+    updated_at: "2026-01-29T07:51:36.677Z"
+    schedule_sources_updated_at: null
+  - id: c329bf6f-2534-4285-adc4-a55c8c5b0894
+    title: Bob Baskin Park
+    address: "2801 W Oakey Blvd, Las Vegas, NV 89102, USA"
+    lat: 36.1508535
+    lng: -115.1808129
+    coords: "01010000007A0C457092CB5CC05A7EE02A4F134240"
+    phone: "+17022292330"
+    email: null
+    url: "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Bob-Baskin-Park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ak8GhFhEQZmEXPtVB03G"
+        source: user
+        attribution_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/602357357_1363569565253754_2892171885248708263_n.jpg?stp=cp6_dst-jpegr_tt6&_nc_cat=105&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=vBO6V0O4V-IQ7kNvwFQwDkr&_nc_oc=AdmA6BSDU1aMWvpb37LoSf3_o2e2BghRzICDlAGBq97tV5_ILMnvuqzRMqg2ERhhQWg&_nc_zt=23&se=-1&_nc_ht=scontent-iad3-2.xx&_nc_gid=MbrbbumfHyN3tbRnVjkr-Q&oh=00_AfpjayNlbAUytpZ9cHxb0CBRZOvgwnNxG4Ltv81pSwl-PA&oe=697503B6"
+        attribution_html: null
+        attribution_name: Brien Vokits
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: bob-baskin-park
+    path: /courts/us/nevada/las-vegas/bob-baskin-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-01-20T09:25:08.016Z"
+    updated_at: "2026-01-20T09:29:43.736Z"
+    schedule_sources_updated_at: null
+  - id: "2ef508de-2f6a-427a-bd86-ae5484d44a1f"
+    title: Bob Price Recreation Center
+    address: "2050 Bonnie Ln, Las Vegas, NV, 89156, USA"
+    lat: 36.197408
+    lng: -115.045998
+    coords: "01010000009C6B98A1F1C25CC001FC53AA44194240"
+    phone: "7024557600"
+    email: Camerin.Butler@ClarkCountyNV.gov
+    url: "https://www.clarkcountynv.gov/government/departments/parks___recreation/facilities/bobprice.php"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 3
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard, concrete, wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: Free
+    schedule_details: Indoor- Mon-Fri 7a-11a
+    images:
+      - url: "https://cdn.filestackcontent.com/skS3Q3jRn2Cebj8kBwXo"
+        source: user
+        visible: true
+        attribution_url: "https://files.clarkcountynv.gov/clarknv/Parks%20&%20Recreation/Community%20Centers/Bob%20Price/center-bobprice.jpg"
+        attribution_html: null
+        attribution_name: Clark County
+      - url: "https://cdn.filestackcontent.com/w4TCC8KTdpSSBM9y6vA4"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115694199190070708795"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115694199190070708795\">JARED NEIFELD</a>"
+        attribution_name: JARED NEIFELD
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: bob-price-recreation-center
+    path: /courts/us/nevada/las-vegas/bob-price-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T04:57:19.053Z"
+    updated_at: "2023-07-21T04:46:12.430Z"
+    schedule_sources_updated_at: null
+  - id: "33f88c44-f371-4919-bf94-bceaed6c6c3e"
+    title: Boulder City Recreation Center
+    address: "900 Arizona St, Boulder City, NV, 89005, USA"
+    lat: 35.978931
+    lng: -114.833597
+    coords: "0101000000CC423BA759B55CC032056B9C4DFD4140"
+    phone: (702) 293-9256
+    email: null
+    url: "https://www.bcnv.org/facilities/facility/details/Recreation-Center-1"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/B0KXKg0nQSdjTaqnZ2X6"
+        source: user
+        visible: true
+        attribution_url: "https://bouldercityreview.com/sports/pickleball-proves-popular-city-to-add-courts-70529/"
+        attribution_html: null
+        attribution_name: Owen Krepps
+    country_slug: us
+    state_slug: nevada
+    city_slug: boulder-city
+    city_id: 1840019028
+    slug: boulder-city-recreation-center
+    path: /courts/us/nevada/boulder-city/boulder-city-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T23:47:44.768Z"
+    updated_at: "2022-11-30T16:06:07.604Z"
+    schedule_sources_updated_at: null
+  - id: "1530a4cb-1e70-4a4b-b77f-86b864cdd467"
+    title: Boys & Girls Club of Winnemucca
+    address: "1973 Whitworth Way, Winnemucca, NV, 89445, USA"
+    lat: 40.97658
+    lng: -117.70683
+    coords: "01010000003A75E5B33C6D5DC0BEF6CC92007D4440"
+    phone: null
+    email: null
+    url: "http://www.bgcwin.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/RO6zYiIhTlOUOo8Yo3LJ"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/112080961990606581354"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112080961990606581354\">Patty Gomez</a>"
+        attribution_name: Patty Gomez
+    country_slug: us
+    state_slug: nevada
+    city_slug: winnemucca
+    city_id: 1840021334
+    slug: boys-and-girls-club-of-winnemucca
+    path: /courts/us/nevada/winnemucca/boys-and-girls-club-of-winnemucca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-10T18:06:01.668Z"
+    updated_at: "2023-05-16T07:23:14.863Z"
+    schedule_sources_updated_at: null
+  - id: "44aaf0d0-12bb-437f-a40a-dc432b735987"
+    title: Boys and Girls Club
+    address: "1973 Whitworth Wy, Winnemucca, NV 89445, USA"
+    lat: 41.13376
+    lng: -118.18066
+    coords: "010100000081ECF5EE8F8B5DC0A9C1340C1F914440"
+    phone: "+17756237993"
+    email: null
+    url: "http://www.bgcwin.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/aq0vSMkLRFRtKHMk7yDX"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/103815052037261270241"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103815052037261270241\">Cindy Whitaker</a>"
+        attribution_name: Cindy Whitaker
+    country_slug: us
+    state_slug: nevada
+    city_slug: winnemucca
+    city_id: 1840021334
+    slug: boys-and-girls-club
+    path: /courts/us/nevada/winnemucca/boys-and-girls-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-03-17T08:56:47.421Z"
+    updated_at: "2025-03-17T10:28:59.502Z"
+    schedule_sources_updated_at: null
+  - id: "56ade074-cddb-4a0f-93ff-ae43411f7bfc"
+    title: Boys And Girls Club Of Truckee Meadows
+    address: "1300 Foster Dr, Reno, NV 89509, USA"
+    lat: 39.5157847
+    lng: -119.8331239
+    coords: "01010000000601E8E651F55DC07A23A93B05C24340"
+    phone: "+17753315437"
+    email: info@bgctm.org
+    url: "https://bgctm.org/athletics/adult-pickleball/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 8
+    outdoor_courts: 0
+    total_courts: 8
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [lighted, restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/qm82S85yQHaPJmOSHZHe"
+        source: user
+        visible: true
+        attribution_url: "https://bgctm.org/static/310b6f10609bbe570e54ba777c7096cd/6d3cb/pennington.jpg"
+        attribution_html: null
+        attribution_name: Boys And Girls Club Of Truckee Meadows
+    country_slug: us
+    state_slug: nevada
+    city_slug: reno
+    city_id: 1840020121
+    slug: boys-and-girls-club-of-truckee-meadows
+    path: /courts/us/nevada/reno/boys-and-girls-club-of-truckee-meadows
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T17:49:17.623Z"
+    updated_at: "2023-01-11T03:37:57.831Z"
+    schedule_sources_updated_at: null
+  - id: f0f91280-5890-4c22-9d30-56a02bbd2606
+    title: Broadbent Park
+    address: "1301 5th Street, Boulder City, NV 89005, USA"
+    lat: 35.9725946
+    lng: -114.8362203
+    coords: "0101000000153026A284B55CC013A2D7FA7DFC4140"
+    phone: null
+    email: null
+    url: "https://www.bcnv.org/facilities/facility/details/Broadbent-Park-5"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ElZDZW4CTXmrnmsHjNwz"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: boulder-city
+    city_id: 1840019028
+    slug: broadbent-park
+    path: /courts/us/nevada/boulder-city/broadbent-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-08-06T08:51:34.538Z"
+    updated_at: "2025-08-06T08:51:34.538Z"
+    schedule_sources_updated_at: null
+  - id: ff59ad83-0704-4b95-9f4c-172d7a4aeaf0
+    title: Burgess Park
+    address: "1605 Pyramid Way, Sparks, NV, 89431, USA"
+    lat: 39.54889810871988
+    lng: -119.75324612631988
+    coords: "01010000007C983D2F35F05DC0E2E4104B42C64340"
+    phone: "7753532376"
+    email: recinfo@cityofsparks.us
+    url: "https://www.cityofsparks.us/business_detail_T71_R56.php"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: "Very nice courts,"
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/FrTiEswScizX6bpxsyGg"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: sparks
+    city_id: 1840021337
+    slug: burgess-park
+    path: /courts/us/nevada/sparks/burgess-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-22T03:45:26.460Z"
+    updated_at: "2023-09-25T10:03:08.581Z"
+    schedule_sources_updated_at: null
+  - id: "8fd87dc3-2c6a-4c05-bbcc-c395a0e2fb61"
+    title: Cadence Central Park
+    address: "1170 E Sunset Rd, Henderson, NV, 89011, USA"
+    lat: 36.056298
+    lng: -114.969153
+    coords: "010100000080F44D9A06BE5CC0446ADAC534074240"
+    phone: (702) 558-9366
+    email: null
+    url: "http://www.cadencenv.com/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/gBQHvM6Sa23LJ7a0Cvhw"
+        source: user
+        visible: true
+        attribution_url: "https://www.cadencecommunityassociation.com/"
+        attribution_html: null
+        attribution_name: Cadence Community Association
+      - url: "https://cdn.filestackcontent.com/2fQDDdfRjiMCeQ6TfoVg"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: henderson
+    city_id: 1840020361
+    slug: cadence-central-park
+    path: /courts/us/nevada/henderson/cadence-central-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T03:29:20.201Z"
+    updated_at: "2023-02-12T13:59:48.867Z"
+    schedule_sources_updated_at: null
+  - id: "33acfaa2-4d5c-477a-9bb7-a53df7ebf4f7"
+    title: Canyon gate country club
+    address: "Las Vegas, NV, US"
+    lat: 36.1682014465332
+    lng: -115.21659851074219
+    coords: "0101000000000000C0DCCD5CC0000000A087154240"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 0
+    total_courts: 0
+    has_pickleball: true
+    surface: []
+    lines: null
+    nets: null
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: nevada
+    city_slug: bracken
+    city_id: 1840079245
+    slug: canyon-gate-country-club
+    path: /courts/us/nevada/bracken/canyon-gate-country-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-02-07T09:00:48.719Z"
+    updated_at: "2024-02-07T09:00:48.719Z"
+    schedule_sources_updated_at: null
+  - id: f6336979-92e6-4f77-a44f-c15cffa502b1
+    title: Canyon Gate Country Club
+    address: "2001 Canyon Gate Dr, Las Vegas, NV 89117, USA"
+    lat: 36.1480952
+    lng: -115.2859579
+    coords: "01010000001A225D224DD25CC0E85894C8F4124240"
+    phone: "+17022131272"
+    email: josh.targe@invitedclubs.com
+    url: "https://www.invitedclubs.com/clubs/canyon-gate-country-club"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/XJb8tXhBRmOrgaICh6gT"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/MS35Qcr5RiIKSjBwzCXI"
+        source: user
+        attribution_url: "https://www.invitedclubs.com/clubs/canyon-gate-country-club/racquet-sports"
+        attribution_html: null
+        attribution_name: Canyon Gate Country Club
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: canyon-gate-country-club
+    path: /courts/us/nevada/las-vegas/canyon-gate-country-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T06:39:42.916Z"
+    updated_at: "2025-05-26T06:22:26.784Z"
+    schedule_sources_updated_at: null
+  - id: f9edc8b1-30ed-4c68-b0fa-4596a857a49a
+    title: Carson City MAC Center
+    address: "1870 Russell Way, Carson City, NV, 89706, USA"
+    lat: 39.17808
+    lng: -119.74474
+    coords: "01010000007901F6D1A9EF5DC02D095053CB964340"
+    phone: "1 (775) 887-2339"
+    email: schapman@carson.org
+    url: "https://visitcarsoncity.com/attractions/multi-purpose-athletic-center-mac/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 12
+    outdoor_courts: 0
+    total_courts: 12
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, wheelchair accessible, water, lighted]
+    description: ""
+    access_details: "Daily drop in fee for open play, buy a punch card or invest in a membership."
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/p3kxXEhdQd2VPimG7RRO"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/contrib/117475582989855730395"
+        attribution_html: null
+        attribution_name: Doug Blair
+    country_slug: us
+    state_slug: nevada
+    city_slug: carson-city
+    city_id: 1840003826
+    slug: carson-city-mac-center
+    path: /courts/us/nevada/carson-city/carson-city-mac-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T13:49:44.927Z"
+    updated_at: "2025-01-27T07:12:47.038Z"
+    schedule_sources_updated_at: "2025-01-27T07:12:46.307Z"
+  - id: "00afe56f-882e-4340-b2ae-61e02a72f2db"
+    title: Caughlin Athletic Club
+    address: "4100 Caughlin Pkwy, Reno, NV, 89519, USA"
+    lat: 39.49590562240578
+    lng: -119.86628360845947
+    coords: "01010000003CD9CD3071F75DC05311DFD579BF4340"
+    phone: "7757476006"
+    email: info@renopickleball.org
+    url: "http://www.caughlinclub.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 6
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, pro shop, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/4w9kGtsLTYkN1Nacp5ob"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/TvX2Lo56T9WFfNuKLKJL"
+        source: user
+        visible: true
+        attribution_url: "https://caughlinclub.com/wp-content/uploads/2018/02/gym-hm.jpg"
+        attribution_html: null
+        attribution_name: Caughlin Athletic Club
+    country_slug: us
+    state_slug: nevada
+    city_slug: reno
+    city_id: 1840020121
+    slug: caughlin-athletic-club
+    path: /courts/us/nevada/reno/caughlin-athletic-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T12:23:06.924Z"
+    updated_at: "2023-01-11T02:32:11.756Z"
+    schedule_sources_updated_at: null
+  - id: "4171b78c-ee0b-43ac-837c-80f4ffe4fca7"
+    title: Centennial Hills YMCA
+    address: "6601 N Buffalo Dr, Las Vegas, NV, 89131, USA"
+    lat: 36.287792
+    lng: -115.260479
+    coords: "0101000000DE921CB0ABD05CC07506465ED6244240"
+    phone: "+17024789622"
+    email: null
+    url: "https://www.lasvegasymca.org/locations/centennial-hills-community-center-ymca"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/1EimTPNSS5CvNsTXgAHN"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110209568043237335449"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110209568043237335449\">City of Las Vegas Centennial Hills Community Center, Operated by the YMCA</a>"
+        attribution_name: "City of Las Vegas Centennial Hills Community Center, Operated by the YMCA"
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: centennial-hills-ymca
+    path: /courts/us/nevada/las-vegas/centennial-hills-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T22:32:27.139Z"
+    updated_at: "2022-11-30T16:12:58.968Z"
+    schedule_sources_updated_at: null
+  - id: "55003e44-ce69-4fa9-9231-0c99423561bd"
+    title: Charles Arthur Hughes Middle School Courts
+    address: "530 S Grapevine Rd, Mesquite, NV, 89027, USA"
+    lat: 36.794108
+    lng: -114.084441
+    coords: "0101000000425C397B67855CC0F9BEB854A5654240"
+    phone: "7023468732"
+    email: null
+    url: "https://www.mesquitenv.gov/locations/charles-arthur-hughes-middle-school"
+    reservation_url: null
+    facility_type: school
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/e4in4bDSRekf22bWTh2n"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/7rNcMwG8TQmVULb5ncyw"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/107605009685223670681"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/107605009685223670681\">Andres Hermosillo</a>"
+        attribution_name: Andres Hermosillo
+    country_slug: us
+    state_slug: nevada
+    city_slug: mesquite
+    city_id: 1840020362
+    slug: charles-arthur-hughes-middle-school-courts
+    path: /courts/us/nevada/mesquite/charles-arthur-hughes-middle-school-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T06:47:18.708Z"
+    updated_at: "2023-05-01T04:10:05.462Z"
+    schedule_sources_updated_at: null
+  - id: "8ab0add9-2607-4bbd-b6c4-414f60c49632"
+    title: Chicken N Pickle - Henderson
+    address: "3381 St Rose Pkwy, Henderson, NV 89052, USA"
+    lat: 35.9850732
+    lng: -115.1447151
+    coords: "0101000000316F1F0343C95CC04215EDE016FE4140"
+    phone: "+17252912670"
+    email: null
+    url: "https://chickennpickle.com/location/henderson/"
+    reservation_url: "https://www.reservecnp.com/henderson-nv/"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 6
+    outdoor_courts: 8
+    total_courts: 14
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms, water, lighted, training, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/BqYmvwbEQWaMF3ruIh7x"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/112198186416678695413"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112198186416678695413\">Jane Tran</a>"
+        attribution_name: Jane Tran
+      - url: "https://cdn.filestackcontent.com/ZAXQwsOaRsq0fTkgqm04"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/109740625374658460756"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/109740625374658460756\">Kranthi Muthavarapu</a>"
+        attribution_name: Kranthi Muthavarapu
+    country_slug: us
+    state_slug: nevada
+    city_slug: henderson
+    city_id: 1840020361
+    slug: chicken-n-pickle-henderson
+    path: /courts/us/nevada/henderson/chicken-n-pickle-henderson
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-28T06:48:00.962Z"
+    updated_at: "2025-03-20T04:40:02.403Z"
+    schedule_sources_updated_at: null
+  - id: f82c4f8b-6440-4165-83aa-5836d504755a
+    title: Chuck Minker Sports Complex
+    address: "275 N Mojave Rd, Las Vegas, NV 89101, USA"
+    lat: 36.1658047
+    lng: -115.1064631
+    coords: "0101000000C52E9B4AD0C65CC0F502A21639154240"
+    phone: "+17022296563"
+    email: null
+    url: "https://vegaspbnetwork.com/2024/06/10/chuck-minker-sports-complex-indoor-3-courts/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/uJj3rZXsTkqZqMkWviZl"
+        source: user
+        attribution_url: "https://vegaspbnetwork.com/2024/06/10/chuck-minker-sports-complex-indoor-3-courts/"
+        attribution_html: null
+        attribution_name: Chuck Minker Sports
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: chuck-minker-sports-complex
+    path: /courts/us/nevada/las-vegas/chuck-minker-sports-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-02-04T11:32:07.022Z"
+    updated_at: "2026-02-04T11:32:07.022Z"
+    schedule_sources_updated_at: null
+  - id: da30ce35-5fc9-4f27-9122-f8e564294706
+    title: City Of Mesquite Recreation Center
+    address: "100 W Old Mill Rd, Mesquite, NV, 89027, USA"
+    lat: 36.80828
+    lng: -114.070707
+    coords: "01010000004A26A77686845CC0650113B875674240"
+    phone: "7023468732"
+    email: null
+    url: "https://www.mesquitenv.gov/locations/mesquite-recreation-center"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/FOQnVv9S7qk8iBqgICX1"
+        source: user
+        visible: true
+        attribution_url: "https://assets.simpleviewcms.com/simpleview/image/fetch/c_limit,h_1200,q_75,w_1200/https://lasvegas.simpleviewcrm.com/images/listings/original_Rec-Center-Basketball-1bc2799bfbb21ff.jpg"
+        attribution_html: null
+        attribution_name: "Mesquite, Nevada"
+    country_slug: us
+    state_slug: nevada
+    city_slug: mesquite
+    city_id: 1840020362
+    slug: city-of-mesquite-recreation-center
+    path: /courts/us/nevada/mesquite/city-of-mesquite-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-13T07:33:39.216Z"
+    updated_at: "2022-12-01T04:04:29.477Z"
+    schedule_sources_updated_at: null
+  - id: "3991b2e2-a007-4f52-8c85-17c47f098797"
+    title: Cyan Park
+    address: "2121 Long Meadow Dr, Reno, NV, 89521, USA"
+    lat: 39.444952379431705
+    lng: -119.72900062831116
+    coords: "0101000000085740F2A7EE5DC0E1F71633F4B84340"
+    phone: "7753342270"
+    email: info@tmparksfoundation.org
+    url: "http://reno.gov/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/4SHxPk1SQnmUDOj1ePbU"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: reno
+    city_id: 1840020121
+    slug: cyan-park
+    path: /courts/us/nevada/reno/cyan-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T07:25:46.017Z"
+    updated_at: "2022-11-30T16:10:29.554Z"
+    schedule_sources_updated_at: null
+  - id: "0ad932df-1f4e-48ba-bd8e-709dc1347a6b"
+    title: Darling Tennis Center
+    address: "7901 W Washington Ave, Las Vegas, NV 89128, USA"
+    lat: 36.1800525
+    lng: -115.2757869
+    coords: "0101000000930A197EA6D15CC01288D7F50B174240"
+    phone: "+17022292100"
+    email: null
+    url: "https://www.darlingtennis.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 0
+    total_courts: 0
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/5cw4yPMARKCPGpGOIp0l"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/112468593554017940747"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112468593554017940747\">William Norton</a>"
+        attribution_name: William Norton
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: darling-tennis-center
+    path: /courts/us/nevada/las-vegas/darling-tennis-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-10-01T06:48:53.246Z"
+    updated_at: "2025-10-01T06:48:53.246Z"
+    schedule_sources_updated_at: null
+  - id: "86fbb558-45da-490d-9c4e-8354acaf4428"
+    title: Deer Springs Park
+    address: "6550 Aviary Wy, North Las Vegas, NV 89084, USA"
+    lat: 36.2791955
+    lng: -115.1885338
+    coords: "0101000000334C12F010CC5CC05ED89AADBC234240"
+    phone: "+17026332418"
+    email: null
+    url: "https://www.cityofnorthlasvegas.com/Home/Components/FacilityDirectory/FacilityDirectory/100/777"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/kchVBEBWQ2Ct9UODAfcr"
+        source: user
+        attribution_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2yi1X15Enj7hc1PUaKXcXX_Rd86aDK-2Pw&s"
+        attribution_html: null
+        attribution_name: City of North Las Vegas
+    country_slug: us
+    state_slug: nevada
+    city_slug: north-las-vegas
+    city_id: 1840020363
+    slug: deer-springs-park
+    path: /courts/us/nevada/north-las-vegas/deer-springs-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-10-14T09:53:47.921Z"
+    updated_at: "2024-10-14T09:59:01.928Z"
+    schedule_sources_updated_at: null
+  - id: e18373b4-c202-4f3a-bda9-b6e59e47a22f
+    title: Desert Breeze Community Center
+    address: "8275 Spring Mountain Rd, Las Vegas, NV, USA"
+    lat: 36.1250108
+    lng: -115.2720919
+    coords: "01010000006B0025F469D15CC0CAD2985A00104240"
+    phone: null
+    email: null
+    url: "https://www.clarkcountynv.gov/government/departments/parks___recreation/Desert_Breeze_park_information.php"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Xi6a43uRrOxE6iXZCjSw"
+        source: user
+        attribution_url: "https://www.google.com/maps/contrib/103365207406416431955/photos/@35.5716451,-114.5342021,176871m/data=!3m2!1e3!4b1!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D"
+        attribution_html: null
+        attribution_name: Showmick Zaman
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: desert-breeze-community-center
+    path: /courts/us/nevada/las-vegas/desert-breeze-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-12-28T15:18:44.530Z"
+    updated_at: "2025-01-20T06:32:16.308Z"
+    schedule_sources_updated_at: null
+  - id: "78518482-3853-4cd1-bac6-fdfca9e7ee92"
+    title: Desert Vista Community Center
+    address: "10360 Sun City Blvd, Las Vegas, NV, 89134, USA"
+    lat: 36.21141
+    lng: -115.32349
+    coords: "010100000051A5660FB4D45CC010069E7B0F1B4240"
+    phone: "7022173411"
+    email: null
+    url: "https://www.suncitysummerlin.com/Page/41537~855428/Desert-Vista-Fitness-Center"
+    reservation_url: null
+    facility_type: private
+    access: membership
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 10
+    total_courts: 10
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/i0c0D763QUOo5p1xMykr"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/ielCOx4T2yVwUK3Yj4dH"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/106648269273935264843"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106648269273935264843\">Big B</a>"
+        attribution_name: Big B
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: desert-vista-community-center
+    path: /courts/us/nevada/las-vegas/desert-vista-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T20:52:43.441Z"
+    updated_at: "2023-04-28T06:36:40.270Z"
+    schedule_sources_updated_at: null
+  - id: a1529af6-46b2-4cab-9659-2244e34b9320
+    title: Dick Taylor
+    address: "1140 Beech St, Reno, NV 89512, United States"
+    lat: 39.541747
+    lng: -119.80964
+    coords: "010100000024624A24D1F35DC062DA37F757C54340"
+    phone: "+17753342417"
+    email: null
+    url: "https://www.reno.gov/Home/Components/FacilityDirectory/FacilityDirectory/111/2864"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: Restrooms open except during winter
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/6Kvk5N90Q2cnVEjmzHqg"
+        source: user
+        attribution_url: "https://s3-media0.fl.yelpcdn.com/bphoto/N6-VPfymM0L6edfdLC6K8g/348s.jpg"
+        attribution_html: null
+        attribution_name: Yelp
+    country_slug: us
+    state_slug: nevada
+    city_slug: reno
+    city_id: 1840020121
+    slug: dick-taylor
+    path: /courts/us/nevada/reno/dick-taylor
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-03-31T07:49:24.096Z"
+    updated_at: "2025-03-31T07:57:27.953Z"
+    schedule_sources_updated_at: null
+  - id: "9104b226-3b0e-4718-9e70-bfa34f8ad6db"
+    title: Dill Dinkers Pickleball Henderson
+    address: "1221 West Warm Springs Road, Henderson, Nevada 89014, USA"
+    lat: 36.0534087
+    lng: -115.0379803
+    coords: "01010000001B99EC446EC25CC033E9A518D6064240"
+    phone: "+17028503465"
+    email: null
+    url: "https://locations.dilldinkers.com/us/nv/henderson/west-warm-springs-road"
+    reservation_url: "https://dilldinkers.com"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 11
+    outdoor_courts: 0
+    total_courts: 11
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, locker rooms, food, water, lighted, pro shop, training, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/P6RiqzODSHSwoa6ym90H"
+        source: user
+        attribution_url: "https://www.google.com/search?q=Dill+Dinkers+Pickleball+Henderson&sourceid=chrome&ie=UTF-8#lpg=cid:CgIgAQ%3D%3D,ik:CAoSLEFGMVFpcE55NUU5aUM3R0p2YXNVVFl2LVh4S1gta1dTLXpLaEZVb29RQ1NQ"
+        attribution_html: null
+        attribution_name: Dill Dinkers Pickleball
+    country_slug: us
+    state_slug: nevada
+    city_slug: henderson
+    city_id: 1840020361
+    slug: dill-dinkers-pickleball-henderson
+    path: /courts/us/nevada/henderson/dill-dinkers-pickleball-henderson
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-05-26T12:48:25.073Z"
+    updated_at: "2026-06-26T12:17:22.418Z"
+    schedule_sources_updated_at: null
+  - id: "0aa8bbad-c35a-4a44-b1a6-d45f8a307d18"
+    title: Downtown Recreation Center
+    address: "50 E Van Wagenen St, Henderson, NV 89015, USA"
+    lat: 36.0282841
+    lng: -114.9845077
+    coords: "0101000000408A952C02BF5CC0973F3AD09E034240"
+    phone: (702) 267-4040
+    email: null
+    url: "https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/158/783"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, locker rooms, lighted, wheelchair accessible]
+    description: null
+    access_details: "Ages 18 and under: $5 per year. Ages 18-60: $25 per year. Ages 60+ and Military: $0 per year. Day passes are $3 per day for anyone under 18 and $5 for anyone over 18. Memberships expire every year."
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/RWEnuCn2RxCc5rNlbDNu"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/116387468150063912203"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/116387468150063912203\">Nancy Rock</a>"
+        attribution_name: Nancy Rock
+    country_slug: us
+    state_slug: nevada
+    city_slug: henderson
+    city_id: 1840020361
+    slug: downtown-recreation-center
+    path: /courts/us/nevada/henderson/downtown-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T03:51:56.428Z"
+    updated_at: "2026-03-29T08:04:14.139Z"
+    schedule_sources_updated_at: null
+  - id: "969f4ede-1067-43bd-a12d-988b3db4002f"
+    title: Dressler Park
+    address: "QJ4M+HF Smith Valley, NV, USA"
+    lat: 38.7564857
+    lng: -119.3662625
+    coords: "010100000014D044D870D75DC022B2FE85D4604340"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: No Fee
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/uLapykJTYWacsUe1LfCD"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/FyEgBihUTw6t8pxtOKjG"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/KFpmx4voSCW6RI6x7zph"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: nevada
+    city_slug: smith-valley
+    city_id: 1840037104
+    slug: dressler-park
+    path: /courts/us/nevada/smith-valley/dressler-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-13T10:18:18.075Z"
+    updated_at: "2024-08-15T07:53:52.620Z"
+    schedule_sources_updated_at: null
+  - id: "21336148-271b-41d1-b336-388eb8df7bcb"
+    title: Dula Community Center
+    address: "451 E Bonanza Rd, Las Vegas, NV 89101, USA"
+    lat: 36.1744987
+    lng: -115.1383803
+    coords: "010100000048BA0B39DBC85CC0E6D830F955164240"
+    phone: "+17022296307"
+    email: null
+    url: "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Dula-Gymnasium"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: One-time fee Drop-in $3; Monthly $18
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/qMt4TIL8Q1muoS6DmPeD"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/112871836213430424595"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112871836213430424595\">David Hed</a>"
+        attribution_name: David Hed
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: dula-community-center
+    path: /courts/us/nevada/las-vegas/dula-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-09-05T02:47:28.716Z"
+    updated_at: "2025-08-27T07:53:03.848Z"
+    schedule_sources_updated_at: "2025-08-27T07:53:03.101Z"
+  - id: "8a0b29d9-2019-4e3a-bd89-ea4175c1a6ff"
+    title: Dundee Jones Park
+    address: "10561 Jeffreys , Henderson , NV 89052, USA"
+    lat: 35.9993146
+    lng: -115.1198964
+    coords: "01010000001F3AF361ACC75CC029B5728AE9FF4140"
+    phone: "+17022672323"
+    email: null
+    url: "https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/371/752"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/MnYYMDpsTkmdxzIe6Xd6"
+        source: user
+        visible: true
+        attribution_url: "https://www.cityofhenderson.com/home/showpublishedimage/9875/638174230471370000"
+        attribution_html: null
+        attribution_name: City of Henderson
+    country_slug: us
+    state_slug: nevada
+    city_slug: henderson
+    city_id: 1840020361
+    slug: dundee-jones-park
+    path: /courts/us/nevada/henderson/dundee-jones-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-06-23T06:31:59.639Z"
+    updated_at: "2023-06-23T06:31:59.639Z"
+    schedule_sources_updated_at: null
+  - id: b1683a44-9ac2-4c0c-a703-211e377e9fde
+    title: Durango Hills Park
+    address: "3521 N Durango Dr, Las Vegas, NV 89129, USA"
+    lat: 36.22542037848099
+    lng: -115.27953644152525
+    coords: "01010000000999D0ECE3D15CC0C2B63093DA1C4240"
+    phone: "7022777231"
+    email: null
+    url: "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Durango-Hills-Park"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 7
+    total_courts: 7
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/I0eblJsLQQOx3hEcodbn"
+        source: user
+        visible: true
+        attribution_url: "https://www.reviewjournal.com/local/local-las-vegas/downtown/the-place-for-pickleball/"
+        attribution_html: null
+        attribution_name: Jan Hogan
+      - url: "https://cdn.filestackcontent.com/UwcEZfBZSDSUzr1ZiC7A"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/twXHafSqTxxW9CVaNpJ4"
+        source: user
+        visible: true
+        attribution_url: "https://www.lasvegasymca.org/durango-hills-ymca/"
+        attribution_html: null
+        attribution_name: Durango Hills YMCA
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: durango-hills-park
+    path: /courts/us/nevada/las-vegas/durango-hills-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-31T19:59:53.339Z"
+    updated_at: "2024-03-19T10:57:49.881Z"
+    schedule_sources_updated_at: null
+  - id: d4876843-1ab2-4f42-aabd-ded019c06040
+    title: Evelyn Mount Northeast Community Center
+    address: "1301 Valley Rd, Reno, NV, 89512, USA"
+    lat: 39.54174794428422
+    lng: -119.809148416008
+    coords: "010100000055177016C9F35DC01FB023FF57C54340"
+    phone: "+17753342262"
+    email: emnecc@reno.gov
+    url: "http://www.reno.gov/government/departments/parks-recreation-community-services/facilities/evelyn-mount-community-center"
+    reservation_url: null
+    facility_type: public
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 2
+    total_courts: 5
+    has_pickleball: true
+    surface: [wood, hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: Schedule changes monthly
+    images:
+      - url: "https://cdn.filestackcontent.com/yFsozsFMQYuzA2JqS5AJ"
+        source: user
+        visible: true
+        attribution_url: "https://www.reno.gov/home/showpublishedimage/13903/636560653787130000"
+        attribution_html: null
+        attribution_name: City of Reno
+    country_slug: us
+    state_slug: nevada
+    city_slug: reno
+    city_id: 1840020121
+    slug: evelyn-mount-northeast-community-center
+    path: /courts/us/nevada/reno/evelyn-mount-northeast-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T06:13:03.204Z"
+    updated_at: "2023-01-11T03:46:17.094Z"
+    schedule_sources_updated_at: null
+  - id: "9684d257-99c9-4dce-9a44-21bb48fa6a81"
+    title: Fallon City-County Gym
+    address: "321 Venturacci Ln, Fallon, Nevada 89406, United States"
+    lat: 39.47298
+    lng: -118.79671
+    coords: "01010000005B99F04BFDB25DC0BFD4CF9B8ABC4340"
+    phone: null
+    email: null
+    url: "https://www.fallonnevada.gov/residents/city-recreation/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [food, restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Qkm2kI0QAusbgmc2pSF6"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110337025233971289016"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110337025233971289016\">William Coblentz</a>"
+        attribution_name: William Coblentz
+      - url: "https://cdn.filestackcontent.com/twLSyB4hTKCrpJudl24A"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110337025233971289016"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110337025233971289016\">William Coblentz</a>"
+        attribution_name: William Coblentz
+    country_slug: us
+    state_slug: nevada
+    city_slug: fallon
+    city_id: 1840020191
+    slug: fallon-city-county-gym
+    path: /courts/us/nevada/fallon/fallon-city-county-gym
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-20T13:11:20.327Z"
+    updated_at: "2023-05-16T05:35:39.969Z"
+    schedule_sources_updated_at: null
+  - id: c7be3694-ff31-46bf-b73a-b4b94e1c3101
+    title: Gardnerville Douglas County Community & Senior Center
+    address: "1329 Waterloo Ln, Gardnerville, NV, 89410, USA"
+    lat: 38.934289
+    lng: -119.740986
+    coords: "0101000000CF328B506CEF5DC09B012EC896774340"
+    phone: null
+    email: null
+    url: "https://communityservices.douglascountynv.gov/recreation/community_centers/douglas_county_community___senior_center"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 8
+    total_courts: 12
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [food, locker rooms, restrooms, water, training]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/xmy5yEHqQsOWB45a0Sz5"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/102088398423233153042"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/102088398423233153042\">Your Right to Know</a>"
+        attribution_name: Your Right to Know
+      - url: "https://cdn.filestackcontent.com/xHoMiHvSRmKZAIWGFhFH"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/0x8ntguR1WZ0YIGJDN5J"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/Xy6WhS9kQ4mw9DmZfchC"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/tDbOYtfjTnyhPtO09cFC"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: nevada
+    city_slug: gardnerville
+    city_id: 1840017563
+    slug: gardnerville-douglas-county-community-and-senior-center
+    path: /courts/us/nevada/gardnerville/gardnerville-douglas-county-community-and-senior-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-01T16:55:46.864Z"
+    updated_at: "2024-06-25T09:59:24.492Z"
+    schedule_sources_updated_at: null
+  - id: ef2ea407-9e34-471c-87e6-22f10a0f68cc
+    title: Golden Valley Park
+    address: "7490 Hillview Dr, Reno, NV, 89506, USA"
+    lat: 39.61565177832599
+    lng: -119.82863477182771
+    coords: "01010000000555235A08F55DC033D16EADCDCE4340"
+    phone: "+17757854512"
+    email: webteam@washoecounty.gov
+    url: "https://www.washoecounty.gov/parks/parks_and_trails/park_directory/peavine_district/golden_valley_park.php"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Hl6OXXZeQfs6VD1EB9Og"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: reno
+    city_id: 1840020121
+    slug: golden-valley-park
+    path: /courts/us/nevada/reno/golden-valley-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T21:33:20.412Z"
+    updated_at: "2022-12-01T15:49:04.428Z"
+    schedule_sources_updated_at: null
+  - id: "131209b5-f828-4e53-8b89-129484e9632b"
+    title: Grand Park
+    address: "1001 Kettle Ridge Dr, Las Vegas, NV 89138, USA"
+    lat: 36.195094
+    lng: -115.360599
+    coords: "010100000019FED30D14D75CC0AAD216D7F8184240"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Qm92gedZSaiQmGo05NHB"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/103992958652703891753"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103992958652703891753\">Santosh Singh</a>"
+        attribution_name: Santosh Singh
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: grand-park
+    path: /courts/us/nevada/las-vegas/grand-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-03-19T07:18:11.713Z"
+    updated_at: "2026-03-19T07:18:11.713Z"
+    schedule_sources_updated_at: null
+  - id: ea9a4236-8ad5-4917-a0bc-501ad8298bce
+    title: Green valley Park
+    address: "1395 Ricci Ln, Fernley, NV 89408, USA"
+    lat: 39.583909
+    lng: -119.227782
+    coords: "01010000008527F4FA93CE5DC0876BB587BDCA4340"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: ""
+    access_details: No fee
+    schedule_details: No fench around courts.  Bench & bleachers for sitting
+    images:
+      - url: "https://cdn.filestackcontent.com/Z04oahH3T1OBlGrvsV2D"
+        source: user
+        attribution_url: "https://s3-media0.fl.yelpcdn.com/bphoto/Mu7YBKtBjRiNzaAfQ11CWQ/348s.jpg"
+        attribution_html: null
+        attribution_name: Yelp
+      - url: "https://cdn.filestackcontent.com/wcH6HU6hTYSFyM2rTNAc"
+    country_slug: us
+    state_slug: nevada
+    city_slug: fernley
+    city_id: 1840020214
+    slug: green-valley-park
+    path: /courts/us/nevada/fernley/green-valley-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-09-18T05:51:16.314Z"
+    updated_at: "2024-09-23T11:09:41.289Z"
+    schedule_sources_updated_at: null
+  - id: "7495c728-fa92-4e08-8ca3-0eb5dc2f5188"
+    title: Hafen Muti-Use Courts
+    address: "450 Hafen Ln, Mesquite, NV, 89027, USA"
+    lat: 36.797385
+    lng: -114.07707
+    coords: "01010000002D6002B7EE845CC015A930B610664240"
+    phone: "7023468732"
+    email: null
+    url: "http://www.mesquitenv.gov/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/0MB9TtFQ2iOWj5zT9f5s"
+        source: user
+        visible: true
+        attribution_url: "https://assets-global.website-files.com/59d3b5e54e9881000114dd8b/62225633d89f4c1ebcf8154e_PickleballTop.png"
+        attribution_html: null
+        attribution_name: City of Mesquite
+    country_slug: us
+    state_slug: nevada
+    city_slug: mesquite
+    city_id: 1840020362
+    slug: hafen-muti-use-courts
+    path: /courts/us/nevada/mesquite/hafen-muti-use-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-13T12:10:37.432Z"
+    updated_at: "2022-12-01T01:39:21.710Z"
+    schedule_sources_updated_at: null
+  - id: "1bf1e437-41d3-4be7-856a-485b918940e0"
+    title: Hidden Valley Park
+    address: "4740 Parkway Drive, Reno, NV 89502, USA"
+    lat: 39.48369
+    lng: -119.708109
+    coords: "0101000000354069A851ED5DC07DB3CD8DE9BD4340"
+    phone: "+17758236500"
+    email: devans@washoecounty.gov
+    url: "https://www.washoecounty.us/parks/parks_and_trails/park_directory/truckee_river_district/hidden_valley_regional_park.php"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [water, restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/rG2Bb18CSSGNMTZfncFS"
+        source: user
+        visible: true
+        attribution_url: "https://www.washoecounty.gov/parks/files/images/HVTennis-and-Pickle-Ball.jpg"
+        attribution_html: null
+        attribution_name: Washoe County
+      - url: "https://cdn.filestackcontent.com/a52G78pQHiQ0a3jgNegw"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: reno
+    city_id: 1840020121
+    slug: hidden-valley-park
+    path: /courts/us/nevada/reno/hidden-valley-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T20:33:19.228Z"
+    updated_at: "2025-03-14T08:12:00.511Z"
+    schedule_sources_updated_at: null
+  - id: ccaf014a-e2cf-4ae2-9a22-b881c31776bf
+    title: Hollywood Regional Pickleball Courts
+    address: "1650 S. Hollywood Blvd., Las Vegas , NV 89142, USA"
+    lat: 36.1526698
+    lng: -115.025793
+    coords: "0101000000CEDDAE97A6C15CC01E0B1BAF8A134240"
+    phone: "+17024550566"
+    email: null
+    url: "https://www.clarkcountynv.gov/government/departments/parks___recreation/facilities/hollywood.php"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ebxEOZLIRKUTWxUiS9Ez"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: hollywood-regional-pickleball-courts
+    path: /courts/us/nevada/las-vegas/hollywood-regional-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-29T14:13:33.543Z"
+    updated_at: "2026-05-19T04:13:34.986Z"
+    schedule_sources_updated_at: null
+  - id: "196d7990-bd1f-49b9-8e61-e6417a40461a"
+    title: Huckleberry Park
+    address: "10325 Farm Rd, Las Vegas, NV, 89166, USA"
+    lat: 36.298397
+    lng: -115.321277
+    coords: "01010000003FFD67CD8FD45CC0BD1C76DF31264240"
+    phone: "+17022162020"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Zv1Bfp3SyysRCg6QWUHU"
+        source: user
+        visible: true
+        attribution_url: "https://s3-media0.fl.yelpcdn.com/bphoto/Xc6tZ3XR56koySUggpmH5w/l.jpg"
+        attribution_html: null
+        attribution_name: MapQuest
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: huckleberry-park
+    path: /courts/us/nevada/las-vegas/huckleberry-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-23T16:44:46.037Z"
+    updated_at: "2024-08-23T04:02:31.099Z"
+    schedule_sources_updated_at: null
+  - id: "073cfaaf-50e8-4754-9033-fe35fe045491"
+    title: In Town Park
+    address: "90 S Center St, Fernley, NV 89408, USA"
+    lat: 39.60642
+    lng: -119.25264
+    coords: "0101000000556AF6402BD05DC0F6D1A92B9FCD4340"
+    phone: "7755752756"
+    email: null
+    url: "http://www.cityoffernley.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/R8vctzSn2rw4JB4ejUXw"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: fernley
+    city_id: 1840020214
+    slug: in-town-park
+    path: /courts/us/nevada/fernley/in-town-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-14T23:30:18.511Z"
+    updated_at: "2025-06-18T08:08:01.482Z"
+    schedule_sources_updated_at: null
+  - id: fd991ed4-d32e-4e5f-8fce-f64788b5b32c
+    title: Incline Village Recreation Center Gym
+    address: "980 Incline Way, Incline Village, NV, 89451, USA"
+    lat: 39.243623
+    lng: -119.942784
+    coords: "01010000004BCCB39256FC5DC0D6C6D8092F9F4340"
+    phone: "+17758321300"
+    email: null
+    url: "https://www.yourtahoeplace.com/parks-recreation/rec-center"
+    reservation_url: null
+    facility_type: public
+    access: one-time
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: "These courts are NOT available in late spring-summer-early fall.\nThey are only available when outdoor play is not possible because of weather.\nNever in summer."
+    access_details: ""
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/yQatSR8gS0y4xZaX1yXd"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/118232784573531959828"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/118232784573531959828\">Jeff Ream</a>"
+        attribution_name: Jeff Ream
+    country_slug: us
+    state_slug: nevada
+    city_slug: incline-village
+    city_id: 1840033809
+    slug: incline-village-recreation-center-gym
+    path: /courts/us/nevada/incline-village/incline-village-recreation-center-gym
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-22T07:23:29.289Z"
+    updated_at: "2024-05-20T09:58:05.792Z"
+    schedule_sources_updated_at: null
+  - id: "7686e81d-0317-4c2a-8660-702e1af47834"
+    title: Incline Village Tennis & Pickelball Center
+    address: "964 Incline Way, Incline Village, NV, 89451, USA"
+    lat: 39.245483
+    lng: -119.943797
+    coords: "01010000000744882B67FC5DC0AB5CA8FC6B9F4340"
+    phone: "7758311235"
+    email: Inclinetennis@gmail.com
+    url: "https://www.yourtahoeplace.com/parks-recreation/tennis-center"
+    reservation_url: null
+    facility_type: public
+    access: one-time
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 15
+    total_courts: 15
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, training, pro shop, wheelchair accessible]
+    description: "Beautiful courts Located in Incline Village, NV in a forest with a stream running by.  \nFree 18 hole disc golf course all around the courts.\nShort walk to the beach of Lake Tahoe.\nOpen play every day.\nSeason pass, daily fee or punch cards all available."
+    access_details: "Season passes, daily fee or punch cards available."
+    schedule_details: "Open every day from dawn to dusk\nOpen play every morning until 12p/1p or later"
+    images:
+      - url: "https://cdn.filestackcontent.com/6Rm51ISgTqeWY23EEpsf"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Paul Steinberg
+      - url: "https://cdn.filestackcontent.com/FuVFnkDESme9EL5kyoK3"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/6GYYZ9pSKhJCzAOm3ZRg"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/t23nUVyXQW2kKDEP0ls7"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/pDrD9e5USy2LUXJFBjtV"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/3fZebCLSemK2O66K9qEN"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Paul Steinberg
+      - url: "https://cdn.filestackcontent.com/pbLBh4gMQkMVkHMWF5OX"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: nevada
+    city_slug: incline-village
+    city_id: 1840033809
+    slug: incline-village-tennis-and-pickelball-center
+    path: /courts/us/nevada/incline-village/incline-village-tennis-and-pickelball-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-05T08:13:29.687Z"
+    updated_at: "2024-05-20T08:34:23.044Z"
+    schedule_sources_updated_at: "2024-05-15T15:05:34.584Z"
+  - id: "49f5a06a-c19e-4a16-8fee-d516957c60e1"
+    title: Jam On It Pickleball
+    address: "Reno-Sparks Convention Center, 4590 South Virginia Street, Reno, Nevada 89502, United States"
+    lat: 39.4868927
+    lng: -119.7914047
+    coords: "0101000000A519E65FA6F25DC0A094FF7F52BE4340"
+    phone: "+17758277620"
+    email: dinytunes408@gmail.com
+    url: "https://www.visitrenotahoe.com/event-venues/reno-sparks-convention-center/?"
+    reservation_url: "https://app.courtreserve.com/"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 19
+    outdoor_courts: 0
+    total_courts: 19
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted, training, wheelchair accessible]
+    description: ""
+    access_details: Prime Time is slightly more expensive than the other sessions
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/kz1MYCszRI2nwsVM6PYt"
+        source: user
+        attribution_url: "https://www.jamonitpickleball.com"
+        attribution_html: null
+        attribution_name: Reno/Sparks Convention Center Hall 2
+    country_slug: us
+    state_slug: nevada
+    city_slug: reno
+    city_id: 1840020121
+    slug: jam-on-it-pickleball
+    path: /courts/us/nevada/reno/jam-on-it-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-11T07:52:32.231Z"
+    updated_at: "2025-12-23T02:11:50.192Z"
+    schedule_sources_updated_at: null
+  - id: "1622ba14-d8f8-4f27-92c3-47396c993135"
+    title: Johnson Lane Park
+    address: "1450 Stephanie Way, Minden, NV, 89423, USA"
+    lat: 39.041373
+    lng: -119.727963
+    coords: "0101000000AD6C1FF296EE5DC0FDF7E0B54B854340"
+    phone: "7757825500"
+    email: null
+    url: "https://communityservices.douglascountynv.gov/parks/park_sites/johnson_lane_park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/0m4VQeSlStKsL79l4LAP"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: minden
+    city_id: 1840018826
+    slug: johnson-lane-park
+    path: /courts/us/nevada/minden/johnson-lane-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T09:37:06.048Z"
+    updated_at: "2022-11-30T15:22:55.081Z"
+    schedule_sources_updated_at: null
+  - id: "7215cacb-cf60-4be5-8ca5-c7bb4cac0997"
+    title: Kahle Community Center
+    address: "236 Kingsbury Grade, Stateline, NV, 89449, USA"
+    lat: 38.968662
+    lng: -119.93244
+    coords: "0101000000DD5ED218ADFB5DC06170CD1DFD7B4340"
+    phone: null
+    email: null
+    url: "https://communityservices.douglascountynv.gov/recreation/community_centers/kahle_community_center"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 2
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: ""
+    access_details: No fees
+    schedule_details: Indoor open Monday Wednesday and Friday
+    images:
+      - url: "https://cdn.filestackcontent.com/HCil7EfQ0CagtNNpGGDg"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: "Warren Carlson "
+      - url: "https://cdn.filestackcontent.com/8MK0QtRYRJWXeqYh3eMr"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/101633979153219818706"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101633979153219818706\">Amanda Jacobs</a>"
+        attribution_name: Amanda Jacobs
+    country_slug: us
+    state_slug: nevada
+    city_slug: stateline
+    city_id: 1840018827
+    slug: kahle-community-center
+    path: /courts/us/nevada/stateline/kahle-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-26T22:14:47.120Z"
+    updated_at: "2025-10-01T08:46:14.981Z"
+    schedule_sources_updated_at: null
+  - id: d580ca8a-b0c7-4f45-9465-5d09519b9631
+    title: Knight Skye Park
+    address: "8675 North Shaumber Road, Las Vegas, NV, USA"
+    lat: 36.316913
+    lng: -115.325246
+    coords: "0101000000E94999D4D0D45CC0B056ED9A90284240"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: knight-skye-park
+    path: /courts/us/nevada/las-vegas/knight-skye-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-12-03T08:02:52.370Z"
+    updated_at: "2025-12-03T08:02:52.370Z"
+    schedule_sources_updated_at: null
+  - id: "7cc18b18-7e80-416e-b412-768a01260925"
+    title: Lampe Park
+    address: "1324 Waterloo Ln, Gardnerville, NV, 89410, USA"
+    lat: 38.933289
+    lng: -119.74287
+    coords: "01010000007DCB9C2E8BEF5DC0B85B920376774340"
+    phone: "7757825500"
+    email: null
+    url: "https://communityservices.douglascountynv.gov/parks/park_sites/lampe_park"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Kv4pAQrGQvCQjpQKpSTE"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: gardnerville
+    city_id: 1840017563
+    slug: lampe-park
+    path: /courts/us/nevada/gardnerville/lampe-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T02:46:28.881Z"
+    updated_at: "2024-06-03T08:56:42.362Z"
+    schedule_sources_updated_at: null
+  - id: "4468cc54-1bb1-408a-b3f8-98c889351e31"
+    title: Life Time - Summerlin
+    address: "10721 W Charleston Blvd, Las Vegas, NV 89135, USA"
+    lat: 36.15789
+    lng: -115.32776
+    coords: "0101000000F73B1405FAD45CC0C72E51BD35144240"
+    phone: "+17022282611"
+    email: null
+    url: "https://www.lifetime.life/life-time-locations/nv-las-vegas-summerlin.html"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [food, locker rooms, restrooms, water, wheelchair accessible, training, pro shop, lighted, youth]
+    description: Court reservations for corporate events are now available
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Tycs5F7eRpCdKRGZ9p6k"
+        source: user
+        visible: true
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipP7wgBrMuQH-xEj8AL_Tkc1brwWhmsT_GuVTzXa=s680-w680-h510"
+        attribution_html: null
+        attribution_name: Pollo Aceves
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: life-time-summerlin
+    path: /courts/us/nevada/las-vegas/life-time-summerlin
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-26T04:24:50.959Z"
+    updated_at: "2025-05-05T06:15:29.736Z"
+    schedule_sources_updated_at: null
+  - id: "62fcc9a7-8ef7-4c8c-96f8-f07bf8575eb5"
+    title: Life Time Athletic Green Valley
+    address: "121 Carnegie St, Henderson, NV, 89074, USA"
+    lat: 36.02142
+    lng: -115.09348
+    coords: "010100000020B58993FBC55CC07BBDFBE3BD024240"
+    phone: "7028027300"
+    email: null
+    url: "http://www.lifetime.life/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, food, locker rooms, water, lighted, training, pro shop, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/PlAkQNfQRW6XzhkSt6rs"
+        source: user
+        visible: true
+        attribution_url: "https://living.lifetime.life/locations/nv-green-valley.html"
+        attribution_html: null
+        attribution_name: Life Time Living
+      - url: "https://cdn.filestackcontent.com/ezH0PUGQGqXQ6phXZFad"
+        source: user
+        visible: true
+        attribution_url: "https://www.lifetime.life/life-time-locations/nv-henderson-green-valley/sports.html"
+        attribution_html: null
+        attribution_name: Life Time
+    country_slug: us
+    state_slug: nevada
+    city_slug: henderson
+    city_id: 1840020361
+    slug: life-time-athletic-green-valley
+    path: /courts/us/nevada/henderson/life-time-athletic-green-valley
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T22:04:30.737Z"
+    updated_at: "2024-03-18T09:52:59.797Z"
+    schedule_sources_updated_at: null
+  - id: d65c05e2-0752-4183-8102-de4c1e092b4c
+    title: Lone Mountain Park
+    address: "4445 N Jensen St, Las Vegas, NV 89129, USA"
+    lat: 36.2417356
+    lng: -115.309687
+    coords: "0101000000C43F6CE9D1D35CC0B4233031F11E4240"
+    phone: (702) 455-8200
+    email: null
+    url: "http://www.clarkcountynv.gov/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/AyMDXQ7cTSTBj4mI4rsD"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: lone-mountain-park
+    path: /courts/us/nevada/las-vegas/lone-mountain-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-29T20:08:24.511Z"
+    updated_at: "2023-01-19T15:55:46.021Z"
+    schedule_sources_updated_at: null
+  - id: c05a97c3-2895-45db-bac3-d432f35c496a
+    title: Lorenzi Park
+    address: "3343 W Washington Ave, Las Vegas, NV 89107, USA"
+    lat: 36.1808086
+    lng: -115.1865538
+    coords: "0101000000737C597FF0CB5CC0F3EA77BC24174240"
+    phone: "+17022296011"
+    email: null
+    url: "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Lorenzi-Park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/BaBpCtUQAmxUPM2IzJKw"
+        source: user
+        attribution_url: "https://www.facebook.com/photo/?fbid=1371031274507583&set=pcb.4212149079100158"
+        attribution_html: null
+        attribution_name: Brien Vokits
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: lorenzi-park
+    path: /courts/us/nevada/las-vegas/lorenzi-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-02-04T12:00:30.008Z"
+    updated_at: "2026-02-04T12:00:30.008Z"
+    schedule_sources_updated_at: null
+  - id: d521cf75-d76e-4b1f-a589-c1948bbc7797
+    title: Lt. Erik Lloyd Memorial Park
+    address: "9665 W Patrick Ln, Las Vegas, NV 89148, United States"
+    lat: 36.077092
+    lng: -115.3031634
+    coords: "01010000000716760767D35CC041649126DE094240"
+    phone: "+17024558200"
+    email: CCParks@ClarkCountyNV.gov
+    url: "https://www.clarkcountynv.gov/government/departments/parks___recreation"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [acrylic]
+    lines: tape
+    nets: tennis
+    amenities: [water, restrooms, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/cL783i0cQw6fTQ9zK4O7"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: lt-erik-lloyd-memorial-park
+    path: /courts/us/nevada/las-vegas/lt-erik-lloyd-memorial-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-09-04T06:20:04.785Z"
+    updated_at: "2025-09-04T06:20:04.785Z"
+    schedule_sources_updated_at: null
+  - id: "72568cb6-4448-4cea-bc52-c11819378bd3"
+    title: Main City Park
+    address: "1467 Idaho Street, Elko, Nevada 89801, United States"
+    lat: 40.841348
+    lng: -115.75302
+    coords: "0101000000F94ECC7A31F05CC00B47904AB16B4440"
+    phone: null
+    email: null
+    url: "https://www.elkocity.com/residents/recreation/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Wxy89UN1RGyz1gLLocZD"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: elko
+    city_id: 1840020120
+    slug: main-city-park
+    path: /courts/us/nevada/elko/main-city-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-20T15:49:51.204Z"
+    updated_at: "2023-05-16T09:00:10.534Z"
+    schedule_sources_updated_at: null
+  - id: bf267954-d9f0-4666-80ee-545ec63dda65
+    title: "Mills Park Pickleball Complex - Carson City, Nevada"
+    address: "1111 E William St, Carson City, NV, 89701, USA"
+    lat: 39.169479
+    lng: -119.755893
+    coords: "01010000009F91088D60F05DC0ED2DE57CB1954340"
+    phone: "+17754502304"
+    email: dave.whitefield@gmail.com
+    url: "http://www.carson.org/index.aspx?page=1082"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 14
+    total_courts: 14
+    has_pickleball: true
+    surface: [acrylic, asphalt, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: "As of August 2025, there are a total of 14 courts with permanent nets at this location. Six of the courts are new and individually fenced. There are five gates, with combination locks to prevent vandalism. The code is 1492. If you're the last group leaving the courts, please lock the gate(s)."
+    access_details: Free - open to the public
+    schedule_details: Mornings are very popular with most of our players. Evenings can also be good if there's no wind.
+    images:
+      - url: "https://cdn.filestackcontent.com/trTwQb3QOeYanaMZMDXQ"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Dave Whitefield
+      - url: "https://cdn.filestackcontent.com/jbeudVYHSoSURq5TNy1w"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Dave Whitefield
+      - url: "https://cdn.filestackcontent.com/LcGQfxa7TRWq2k6Hl4gO"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Dave Whitefield
+      - url: "https://cdn.filestackcontent.com/MEckeIdRmWSwECmm07GC"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Dave Whitefield
+      - url: "https://cdn.filestackcontent.com/VnDyq4bvRGi4ax5JkcTM"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Dave Whitefield
+      - url: "https://cdn.filestackcontent.com/TGtw8y9LQ3iA1ZJexneQ"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Dave Whitefield
+      - url: "https://cdn.filestackcontent.com/DhpA7kNnRnvCMMwa2j2T"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Dave Whitefield
+      - url: "https://cdn.filestackcontent.com/hhwGyOWCTPWkzZw6N5XT"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Dave Whitefield
+      - url: "https://cdn.filestackcontent.com/0xwrlAOGQPetBfcnwGXQ"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Dave Whitefield
+    country_slug: us
+    state_slug: nevada
+    city_slug: carson-city
+    city_id: 1840003826
+    slug: mills-park-pickleball-complex-carson-city-nevada
+    path: /courts/us/nevada/carson-city/mills-park-pickleball-complex-carson-city-nevada
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-31T07:57:18.796Z"
+    updated_at: "2026-03-04T07:40:10.905Z"
+    schedule_sources_updated_at: null
+  - id: d9ecbf88-2b24-454c-980e-6ae76d90e42c
+    title: Mirabelli Community Center
+    address: "6200 Hargrove Ave, Las Vegas, Nevada 89107, United States"
+    lat: 36.17312
+    lng: -115.22747
+    coords: "01010000008DB454DE8ECE5CC04A24D1CB28164240"
+    phone: "+17022296359"
+    email: null
+    url: "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Mirabelli-Community-Center"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Bz9kUTknRXKfBDCgg5U1"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Art McCracken
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: mirabelli-community-center
+    path: /courts/us/nevada/las-vegas/mirabelli-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-28T03:20:29.645Z"
+    updated_at: "2023-04-28T03:20:29.645Z"
+    schedule_sources_updated_at: null
+  - id: b59dc48b-42f6-4316-90b4-2a4463f63a3a
+    title: Mission Hills Park
+    address: "804 San Bruno Ave, Henderson, NV, 89002, USA"
+    lat: 35.997972
+    lng: -114.972035
+    coords: "010100000050E449D235BE5CC06F29E78BBDFF4140"
+    phone: "7022674230"
+    email: null
+    url: "http://www.cityofhenderson.com/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ePfG1AQmOLxC2S84OjQE"
+        source: user
+        visible: true
+        attribution_url: "https://www.cityofhenderson.com/home/showpublishedimage/4103/637473565207370000"
+        attribution_html: null
+        attribution_name: City of Henderson
+    country_slug: us
+    state_slug: nevada
+    city_slug: henderson
+    city_id: 1840020361
+    slug: mission-hills-park
+    path: /courts/us/nevada/henderson/mission-hills-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T18:44:47.465Z"
+    updated_at: "2023-02-12T14:26:32.858Z"
+    schedule_sources_updated_at: null
+  - id: a2940b18-bdf5-4d47-8be6-9b3c0f2764a1
+    title: Mitch Park
+    address: "950 Mitch Dr, Gardnerville, NV 89460, USA"
+    lat: 38.9070743
+    lng: -119.7322503
+    coords: "01010000001EBF5C30DDEE5DC063C5BA021B744340"
+    phone: "+17752652048"
+    email: info@grgid.com
+    url: "https://www.grgid.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: Permanent lines on a basketball court. One porta-potty.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/3mCWMgmFQ3GF4R90zDrM"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: brad21photo
+      - url: "https://cdn.filestackcontent.com/VqOlgVLSQ1Cgb70uSewt"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: brad21photo
+    country_slug: us
+    state_slug: nevada
+    city_slug: gardnerville
+    city_id: 1840017563
+    slug: mitch-park
+    path: /courts/us/nevada/gardnerville/mitch-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-07-09T09:45:30.078Z"
+    updated_at: "2024-07-09T09:45:30.078Z"
+    schedule_sources_updated_at: null
+  - id: "1598dd4d-0b41-4cbd-b3ec-4d187d30420d"
+    title: Mogul Park
+    address: "110 Mogul Mountain Dr, Reno, NV, 89523, USA"
+    lat: 39.515528701602236
+    lng: -119.9391809976921
+    coords: "01010000002F879D8A1BFC5DC0F6C330D8FCC14340"
+    phone: "7758236500"
+    email: info@tmparksfoundation.org
+    url: "https://www.tmparksfoundation.org/parks/mogul-park"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/A4S3hhPVRKWa35a6s9dE"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/DbWK8r9DSXuuNaZ66Wgs"
+        source: user
+        visible: true
+        attribution_url: "https://static.wixstatic.com/media/197602_88b12e5382c34feb9901886dd4788f4c~mv2.jpg/v1/fill/w_560,h_340,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/197602_88b12e5382c34feb9901886dd4788f4c~mv2.jpg"
+        attribution_html: null
+        attribution_name: Truckee Meadows Parks Foundation
+    country_slug: us
+    state_slug: nevada
+    city_slug: reno
+    city_id: 1840020121
+    slug: mogul-park
+    path: /courts/us/nevada/reno/mogul-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-07T22:45:04.386Z"
+    updated_at: "2022-11-30T15:14:59.699Z"
+    schedule_sources_updated_at: null
+  - id: aa0de80d-e520-4f39-812c-078c51e6bc18
+    title: Montagna Park
+    address: "3495 Via Altamira, Henderson, NV 89044, USA"
+    lat: 35.928855
+    lng: -115.139064
+    coords: "01010000004303B16CE6C85CC0F0DC7BB8E4F64140"
+    phone: null
+    email: null
+    url: "https://www.cityofhenderson.com/government/departments/parks-and-recreation/parks-and-trails/upcoming-projects/inspirada-cumulative-park-park-j-and-village-5-trailhead"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/m7tdU5U2Tsezl6XMfgEy"
+      - url: "https://cdn.filestackcontent.com/RKaMXbzVSqaM6fOtha9H"
+    country_slug: us
+    state_slug: nevada
+    city_slug: henderson
+    city_id: 1840020361
+    slug: montagna-park
+    path: /courts/us/nevada/henderson/montagna-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-04-30T08:41:21.801Z"
+    updated_at: "2024-08-19T10:52:03.822Z"
+    schedule_sources_updated_at: "2024-08-17T04:08:25.283Z"
+  - id: "7435967e-a0ea-466a-afa5-bc031da8add1"
+    title: Mr. Pickleball
+    address: "2000 S Rainbow Blvd, Las Vegas, NV, USA"
+    lat: 36.1492873
+    lng: -115.2423545
+    coords: "010100000076E272BC82CF5CC0A49AA3D81B134240"
+    phone: "+17752398383"
+    email: playpickleballindoor@gmail.com
+    url: "https://playpickleballindoor.com"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 5
+    outdoor_courts: 0
+    total_courts: 5
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted, training]
+    description: "https://playpickleballindoor.com"
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/sDWSZR5RkGrCPBDTBYyg"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/104525197550208812548"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/104525197550208812548\">Cynthia X</a>"
+        attribution_name: Cynthia X
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: mr-pickleball
+    path: /courts/us/nevada/las-vegas/mr-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-03-19T05:40:37.407Z"
+    updated_at: "2026-03-19T06:01:48.751Z"
+    schedule_sources_updated_at: null
+  - id: f6d7abf9-2e12-4a7b-92a8-32be884efb5c
+    title: Neighborhood Recreation Center
+    address: "1638 N Bruce St, North Las Vegas, NV, 89030, USA"
+    lat: 36.190242
+    lng: -115.124516
+    coords: "01010000000AF5F411F8C75CC0AE2990D959184240"
+    phone: "7026331637"
+    email: null
+    url: "http://www.cityofnorthlasvegas.com/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/xINjAJsKTpaUQ5ca0kTk"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/105048178884129361890"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/105048178884129361890\">Brandon Rizo</a>"
+        attribution_name: Brandon Rizo
+    country_slug: us
+    state_slug: nevada
+    city_slug: north-las-vegas
+    city_id: 1840020363
+    slug: neighborhood-recreation-center
+    path: /courts/us/nevada/north-las-vegas/neighborhood-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T16:43:32.622Z"
+    updated_at: "2022-12-01T15:54:32.475Z"
+    schedule_sources_updated_at: null
+  - id: "2bf1e1c7-504b-4006-b3de-53751ed64dd3"
+    title: Neil Road Recreation Center
+    address: "3925 Neil Rd, Reno, NV, 89502, USA"
+    lat: 39.48875252436295
+    lng: -119.78221477546309
+    coords: "0101000000F7C38FCE0FF25DC0F8FC55718FBE4340"
+    phone: "7756898484"
+    email: null
+    url: "https://www.reno.gov/government/departments/parks-recreation-community-services/facilities/neil-road-recreation-center"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 4
+    outdoor_courts: 2
+    total_courts: 6
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: $1
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/y0C4P2pRZikDIZHGDFBO"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/102305121455145614428"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/102305121455145614428\">Neil Road Recreation Center</a>"
+        attribution_name: Neil Road Recreation Center
+    country_slug: us
+    state_slug: nevada
+    city_slug: reno
+    city_id: 1840020121
+    slug: neil-road-recreation-center
+    path: /courts/us/nevada/reno/neil-road-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-01T14:28:26.651Z"
+    updated_at: "2023-01-11T03:51:57.392Z"
+    schedule_sources_updated_at: null
+  - id: f9dc748c-f283-4842-8a5e-b6459cb2fabd
+    title: Oak Leaf Park Pickleball Courts
+    address: "6303 Mesa Park Dr, Las Vegas, NV, 89135, USA"
+    lat: 36.07350564144622
+    lng: -115.31746101586914
+    coords: "01010000006D3A024851D45CC0A00A03A268094240"
+    phone: "3607711059"
+    email: null
+    url: "https://parkslocator.clarkcountynv.gov/Search/ParkDetail?parkId=116"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/RFCCDacsTpmlHi8ND5e3"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/101195986454139841696"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101195986454139841696\">Randi Levenbaum</a>"
+        attribution_name: Randi Levenbaum
+      - url: "https://cdn.filestackcontent.com/cuf7FziPR7KS245cs56k"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: oak-leaf-park-pickleball-courts
+    path: /courts/us/nevada/las-vegas/oak-leaf-park-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T13:56:46.772Z"
+    updated_at: "2022-12-01T16:04:53.250Z"
+    schedule_sources_updated_at: null
+  - id: "00b591b6-1ed8-427f-babf-00879596ee6a"
+    title: Oats park
+    address: "151 E Park St, Fallon, NV 89406, United States"
+    lat: 39.4734214
+    lng: -118.7685356
+    coords: "0101000000F4F3F0AF2FB15DC0FF1C8B1299BC4340"
+    phone: "+1 (775) 423-3040"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted, water]
+    description: ""
+    access_details: None
+    schedule_details: City parks hours
+    images:
+      - url: "https://cdn.filestackcontent.com/LJD9qzRziteFUykIrQUf"
+        visible: true
+    country_slug: us
+    state_slug: nevada
+    city_slug: fallon
+    city_id: 1840020191
+    slug: oats-park
+    path: /courts/us/nevada/fallon/oats-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-03-06T03:33:46.512Z"
+    updated_at: "2024-03-06T03:33:46.512Z"
+    schedule_sources_updated_at: null
+  - id: f88eaf40-3a62-44a7-97bb-3b827505f46b
+    title: Old Mill Outdoor Courts
+    address: "49 W Old Mill Rd, Mesquite, NV 89027, USA"
+    lat: 36.8094937
+    lng: -114.0695473
+    coords: "01010000009BC1847673845CC0B5E8537D9D674240"
+    phone: "+17023468732"
+    email: null
+    url: "https://www.mesquitenv.gov/locations/old-mill-pickleball-courts"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 14
+    total_courts: 14
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [food, water, restrooms, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/9eGVp6EoSmqZzblu4An5"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/cdtnfR7AS5Cq7mLfY3uV"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: nevada
+    city_slug: mesquite
+    city_id: 1840020362
+    slug: old-mill-outdoor-courts
+    path: /courts/us/nevada/mesquite/old-mill-outdoor-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-10-18T11:47:25.118Z"
+    updated_at: "2025-03-10T08:44:06.204Z"
+    schedule_sources_updated_at: null
+  - id: "73d009eb-101a-40f5-95fe-e26cd0ea8829"
+    title: Opio Park Pickleball courts
+    address: "2201 Sullivan Lane, Sparks, NV, USA"
+    lat: 39.5524475
+    lng: -119.7715029
+    coords: "01010000003A11B34D60F15DC0E4A08499B6C64340"
+    phone: "+17754101702"
+    email: null
+    url: "https://www.tmparksfoundation.org/parks/oppio-park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard, asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: "9 am - 10 pm 7 days per week"
+    images:
+      - url: "https://cdn.filestackcontent.com/z7YJNG1fQoGkmcvtiwNu"
+        source: user
+        attribution_url: ""
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/yJ88jXYkQYSiTI5iKjkr"
+        source: user
+        attribution_url: "https://static.wixstatic.com/media/197602_1079afbee9e6445cb0622e75629b641e~mv2.jpg/v1/fill/w_980,h_735,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/197602_1079afbee9e6445cb0622e75629b641e~mv2.jpg"
+        attribution_html: null
+        attribution_name: Truckee Meadows
+    country_slug: us
+    state_slug: nevada
+    city_slug: sparks
+    city_id: 1840021337
+    slug: opio-park-pickleball-courts
+    path: /courts/us/nevada/sparks/opio-park-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-29T08:57:28.354Z"
+    updated_at: "2026-01-27T05:23:31.722Z"
+    schedule_sources_updated_at: null
+  - id: a5758b20-30e8-42e7-a715-626506cb457b
+    title: Pah Rah Mountain Park
+    address: "1750 Shadow Ln, Sparks, NV, 89434, USA"
+    lat: 39.56446931701773
+    lng: -119.70974114155578
+    coords: "0101000000E6E61B666CED5DC0E317D48740C84340"
+    phone: "7753532376"
+    email: recinfo@cityofsparks.us
+    url: "http://cityofsparks.us/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete, hard]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/W9Dr8d7THSRsUDuZ5oNw"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/uv?pb=!1s0x8099395031230b0d%3A0x545bf97ea8ec1e9b!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNW--EJcheqr07-uYvW5a3HuOE5j3vvDaeP99xX%3Dw191-h144-k-no!5sPah%20Rah%20Mountain%20Park%201750%20Shadow%20Ln%2C%20Sparks%2C%20NV%2C%2089434%2C%20USA%20pickleball%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipOeB_DhCrply77v8IWpPpNa6lxAPgLbznOc9EYA&hl=en&sa=X&ved=2ahUKEwib6tLc9o77AhWsgFYBHZKuB7kQoip6BAhFEAM&cshid=1667372548321896"
+        attribution_html: null
+        attribution_name: Audrey Pastore
+      - url: "https://cdn.filestackcontent.com/pKY36ZezQxmcpvOYeAwE"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: sparks
+    city_id: 1840021337
+    slug: pah-rah-mountain-park
+    path: /courts/us/nevada/sparks/pah-rah-mountain-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T22:49:29.363Z"
+    updated_at: "2022-12-01T03:07:25.792Z"
+    schedule_sources_updated_at: null
+  - id: b14d6609-1584-43af-8bcb-636e2221dfdc
+    title: Paradise Recreation And Community Services Center
+    address: "4775 McLeod Dr, Las Vegas, NV, 89121, USA"
+    lat: 36.10234
+    lng: -115.11111
+    coords: "01010000008C101E6D1CC75CC04C89247A190D4240"
+    phone: "7024557513"
+    email: ""
+    url: "https://www.clarkcountynv.gov/government/departments/parks___recreation/facilities/paradise.php"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ksDoduhSLeOgv3FzbvUZ"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/108066506798992606488"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108066506798992606488\">chris franco</a>"
+        attribution_name: chris franco
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: paradise-recreation-and-community-services-center
+    path: /courts/us/nevada/las-vegas/paradise-recreation-and-community-services-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T01:36:32.060Z"
+    updated_at: "2025-08-18T06:18:33.472Z"
+    schedule_sources_updated_at: "2025-08-18T06:18:32.733Z"
+  - id: f6cb5062-2911-4a6b-a960-d8113e7c4a6b
+    title: Patriot Park
+    address: "Thom Blvd, Las Vegas, NV, USA"
+    lat: 36.2291798
+    lng: -115.212239
+    coords: "0101000000E3FBE25295CD5CC0B0F380C3551D4240"
+    phone: null
+    email: null
+    url: "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Patriot-Park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: patriot-park
+    path: /courts/us/nevada/las-vegas/patriot-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-02-23T07:34:00.019Z"
+    updated_at: "2026-02-23T08:26:36.868Z"
+    schedule_sources_updated_at: null
+  - id: "5e7bc4ff-a539-402e-9e8c-1d6ed3f5e0d0"
+    title: Petrack Park
+    address: "150 NV-160, Pahrump, NV 89060, USA"
+    lat: 36.2199677
+    lng: -115.995413
+    coords: "0101000000D940BAD8B4FF5CC092D6CEE6271C4240"
+    phone: "+17757272825"
+    email: null
+    url: "http://www.pahrumpnv.org/"
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/AhmjrqvuQO2SEp3S4aTI"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: pahrump
+    city_id: 1840018821
+    slug: petrack-park
+    path: /courts/us/nevada/pahrump/petrack-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T04:46:34.417Z"
+    updated_at: "2025-07-18T09:55:21.951Z"
+    schedule_sources_updated_at: null
+  - id: "2e355eb3-abb5-4ab0-aa6d-bdd414dcf630"
+    title: Plaza Hotel and Casino
+    address: "1 N Main St, Las Vegas, NV, 89101, USA"
+    lat: 36.171847
+    lng: -115.146373
+    coords: "01010000001D01DC2C5EC95CC036751E15FF154240"
+    phone: "7023862228"
+    email: null
+    url: "https://www.plazahotelcasino.com/pickleball/"
+    reservation_url: null
+    facility_type: private
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 13
+    total_courts: 13
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms, water, lighted, training]
+    description: "Free Weekly Pickleball Lessons - Learn a new skill shot and drills every week from local Pickleball Pro, National Champion and certified instructor, Steve Cole."
+    access_details: $20/hr court rental Locals with Nevada ID $30/hr court rental Non-Hotel Guest. $10 rental per paddle (1 ball included) *Hotel Guests(must show room key) play for free. Equipment rental not included. *Parking will be validated with receipt for court rental fee.
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/WJnSksgT4CeYHKKEyegA"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/10JFsZT5SpysosOgHtoj"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/t6RsZ71cT0yGtZ04ZedQ"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/TIIbwiniQPKPzPrt8bny"
+        source: user
+        visible: true
+        attribution_url: "https://www.plazahotelcasino.com/entertainment/pickleball-open/"
+        attribution_html: null
+        attribution_name: Plaza Hotel and Casino
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: plaza-hotel-and-casino
+    path: /courts/us/nevada/las-vegas/plaza-hotel-and-casino
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T00:34:57.920Z"
+    updated_at: "2024-10-23T09:33:53.445Z"
+    schedule_sources_updated_at: null
+  - id: fdaa7cd3-120e-44bd-8133-57bf6a1aa93a
+    title: Plumas Alpine/Reno Tennis Center
+    address: "2601 Plumas St, Reno, NV, 89509, USA"
+    lat: 39.499245
+    lng: -119.81326
+    coords: "010100000047C9AB730CF45DC084D89942E7BF4340"
+    phone: "7756892975"
+    email: rreynolds@tennisnation.com
+    url: "https://www.reno.gov/government/departments/parks-recreation-community-services/athletics/tennis"
+    reservation_url: null
+    facility_type: club
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 24
+    total_courts: 24
+    has_pickleball: true
+    surface: [asphalt, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted, training, wheelchair accessible, pro shop, youth]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/8hGrkFKQSOSl4s0Jrxi8"
+      - url: "https://cdn.filestackcontent.com/bcaLS5CQXGuPirsI0JIg"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/yAuICckmSDqa7cEHzGY5"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: reno
+    city_id: 1840020121
+    slug: plumas-alpinereno-tennis-center
+    path: /courts/us/nevada/reno/plumas-alpinereno-tennis-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T03:41:17.764Z"
+    updated_at: "2025-03-13T08:58:08.266Z"
+    schedule_sources_updated_at: null
+  - id: d17c0117-3361-4a5e-ba77-d90856233853
+    title: Plumas Street Gym
+    address: "475 Monroe St, Reno, NV 89509, USA"
+    lat: 39.5130312
+    lng: -119.8136489
+    coords: "01010000004AFBD5D212F45DC0F0E9A001ABC14340"
+    phone: "+17753342262"
+    email: renodirect@reno.gov
+    url: "https://www.reno.gov/government/departments/parks-recreation-community-services/facilities/facility-rentals/plumas-gym"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/P5NgXGqQ3eZ2ojKprxGa"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/uv?pb=!1s0x809940c71b595799%3A0x40b97cc5ecb77a1c!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMrbMUQaz6dNJYWHdN_hst8GZxfXDbn8lrba5Gm%3Dw191-h144-k-no!5sPlumas%20Gym%20475%20Monroe%20St%2C%20Reno%2C%20NV%2089509%2C%20USA%20court%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipPC7GBMBf8OwJwj45RKV-4bDO6LoRFrmZWfcxqI&hl=en&sa=X&ved=2ahUKEwislJ7OupP7AhXWIUQIHcRvBmwQoip6BAg_EAM"
+        attribution_html: null
+        attribution_name: "Richard \"Eric\" Dearmore"
+    country_slug: us
+    state_slug: nevada
+    city_slug: reno
+    city_id: 1840020121
+    slug: plumas-street-gym
+    path: /courts/us/nevada/reno/plumas-street-gym
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-22T21:17:07.733Z"
+    updated_at: "2022-12-01T03:56:20.290Z"
+    schedule_sources_updated_at: null
+  - id: e29cf0c6-b461-4beb-a0c4-7a107c3147ba
+    title: Police Memorial Park
+    address: "3250 Metro Academy Way, Las Vegas, NV 89129, USA"
+    lat: 36.2241276481505
+    lng: -115.3106794173355
+    coords: "0101000000C43FEC2BE2D35CC0C877FB36B01C4240"
+    phone: (702) 455-8200
+    email: ""
+    url: "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Police-Memorial-Park"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: Recently renovated. New courts and fresh paint
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/tasO9efTTzqKCDdPvOLj"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/lGedqDB6R0qnuWAxMV0h"
+        source: user
+        visible: true
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipN5MmTCI2P1-9tBtOStAARaXkit5knp6yUV1IcG=s680-w680-h510"
+        attribution_html: null
+        attribution_name: Terri Galura - Chiong
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: police-memorial-park
+    path: /courts/us/nevada/las-vegas/police-memorial-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-10T20:32:53.472Z"
+    updated_at: "2025-12-09T05:20:37.240Z"
+    schedule_sources_updated_at: null
+  - id: "57e9daeb-1bc6-4653-a5c6-6649fb2b5fc0"
+    title: Police Memorial Park Pickleball Courts
+    address: "3250 Metro Academy Way, Las Vegas, NV 89129, United States"
+    lat: 36.2226833
+    lng: -115.309687
+    coords: "0101000000C43F6CE9D1D35CC0C46EE9E2801C4240"
+    phone: (702) 229-6011
+    email: null
+    url: "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Police-Memorial-Park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [concrete, asphalt, hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/zIw6lyqOQNexNrpZhpcK"
+        source: user
+        attribution_url: ""
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: police-memorial-park-pickleball-courts
+    path: /courts/us/nevada/las-vegas/police-memorial-park-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-04-06T08:08:47.888Z"
+    updated_at: "2026-04-06T08:35:35.210Z"
+    schedule_sources_updated_at: null
+  - id: bda2a2d7-5046-48bd-9ee3-863762f91202
+    title: Red Rock Country Club
+    address: "2250 Red Springs Dr, Las Vegas, NV, 89135, USA"
+    lat: 36.14983
+    lng: -115.34886
+    coords: "01010000007CB8E4B853D65CC0D7FA22A12D134240"
+    phone: "7023045600"
+    email: null
+    url: "http://www.redrockcountryclub.com/"
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/mEKF1QAwQ4iNmDZd7MfD"
+        source: user
+        attribution_url: "https://www.redrockcountryclub.com/pickleball-290.html"
+        attribution_html: null
+        attribution_name: Red Rock Country Club
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: red-rock-country-club
+    path: /courts/us/nevada/las-vegas/red-rock-country-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T18:49:25.112Z"
+    updated_at: "2025-04-11T07:35:46.623Z"
+    schedule_sources_updated_at: null
+  - id: "07ef4817-e150-4c50-bdd0-99de7f2f722d"
+    title: Reno Tennis Center
+    address: "2601 Plumas St, Reno, NV 89509, USA"
+    lat: 39.4987759
+    lng: -119.8131661
+    coords: "0101000000D16DD3E90AF45DC0384481E3D7BF4340"
+    phone: "+17756892975"
+    email: null
+    url: "https://www.tennisnation.com/reno-tennis-center/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 24
+    total_courts: 24
+    has_pickleball: true
+    surface: [asphalt, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, youth, lighted, pro shop, training, wheelchair accessible, adaptive]
+    description: "The Reno Tennis Center is the heart of racquet sports in Reno, Nevada — a community-focused, city-accessible facility where players of all ages and abilities come together to play, learn, compete, and connect through tennis and pickleball. Operated by Tennis Nation Racquet Sports in partnership with the City of Reno, this is a true civic facility built for everyday players, families, newcomers, and lifelong athletes."
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/qTIDH9VhRsenk5jSE0d6"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: nevada
+    city_slug: reno
+    city_id: 1840020121
+    slug: reno-tennis-center
+    path: /courts/us/nevada/reno/reno-tennis-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-05-13T03:47:41.369Z"
+    updated_at: "2026-05-13T04:12:50.818Z"
+    schedule_sources_updated_at: null
+  - id: "558495ad-49d8-40b8-8f9e-a4dfc1b39a1d"
+    title: Saddlebrook Park
+    address: "1146 W Dorrell Ln, North Las Vegas, NV 89086, USA"
+    lat: 36.2873505
+    lng: -115.12609
+    coords: "01010000009296CADB11C85CC0A0FEB3E6C7244240"
+    phone: ""
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms, water]
+    description: ""
+    access_details: None
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/s9mYBDWMTLWOBvVEacnk"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: north-las-vegas
+    city_id: 1840020363
+    slug: saddlebrook-park
+    path: /courts/us/nevada/north-las-vegas/saddlebrook-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-06-26T10:18:15.547Z"
+    updated_at: "2025-06-18T08:39:58.928Z"
+    schedule_sources_updated_at: null
+  - id: "3132eea9-ef0d-4983-9541-297fbe870672"
+    title: Siena Heights Trailhead
+    address: "2570 Siena Heights Dr, Henderson, NV, 89052, USA"
+    lat: 36.006767
+    lng: -115.108593
+    coords: "0101000000C5E40D30F3C65CC095D8B5BDDD004240"
+    phone: (702) 267-3000
+    email: null
+    url: "https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/301/752"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Rsfrto5XRcyojFByidhE"
+        source: user
+        visible: true
+        attribution_url: "https://s3-media0.fl.yelpcdn.com/bphoto/sx97AT7Mvo4is3779HP12Q/l.jpg"
+        attribution_html: null
+        attribution_name: MapQuest
+    country_slug: us
+    state_slug: nevada
+    city_slug: henderson
+    city_id: 1840020361
+    slug: siena-heights-trailhead
+    path: /courts/us/nevada/henderson/siena-heights-trailhead
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-30T06:04:37.130Z"
+    updated_at: "2023-02-12T14:31:38.826Z"
+    schedule_sources_updated_at: null
+  - id: a70d3436-8b33-4edc-a26c-4993b6524fb4
+    title: Silver State Athletic Center
+    address: "5680 Morgan Mill Road Carson City, NV 89701, USA"
+    lat: 39.1834572
+    lng: -119.7035418
+    coords: "01010000009D972FD406ED5DC09D1B89867B974340"
+    phone: ""
+    email: null
+    url: "https://www.silverstateathleticcenter.com/locations/carson-city.php"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: the phone number on this site will not go through
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/P2RLvyJAStyaCGfWZipu"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/104343483616378737583"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/104343483616378737583\">Silver State Volleyball Club - Carson City</a>"
+        attribution_name: Silver State Volleyball Club - Carson City
+    country_slug: us
+    state_slug: nevada
+    city_slug: carson-city
+    city_id: 1840003826
+    slug: silver-state-athletic-center
+    path: /courts/us/nevada/carson-city/silver-state-athletic-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-10-20T04:30:43.547Z"
+    updated_at: "2025-02-07T03:49:14.206Z"
+    schedule_sources_updated_at: "2024-05-31T06:18:27.752Z"
+  - id: "2380c0be-9b9f-412c-9bf7-e4135485e652"
+    title: Skye Canyon Park
+    address: "Skye Vlg Rd, Las Vegas, NV 89124, USA"
+    lat: 36.3140956
+    lng: -115.3147761
+    coords: "0101000000FFC3A74A25D45CC0A4E8DC4834284240"
+    phone: null
+    email: null
+    url: "https://skyecanyon.com/amenities/parks/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, water, wheelchair accessible]
+    description: Lights off at 9pm
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/AA3A8htQ92nrzwiGCjdM"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: nevada
+    city_slug: enterprise
+    city_id: 1840033827
+    slug: skye-canyon-park
+    path: /courts/us/nevada/enterprise/skye-canyon-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-06-17T07:14:39.259Z"
+    updated_at: "2026-06-17T08:29:23.536Z"
+    schedule_sources_updated_at: null
+  - id: "6e3ea461-5f75-4a7e-8026-816a8f9ad724"
+    title: Skye Hills Park at Farm Road
+    address: "7599 Skye Hills St, Las Vegas, NV 89166, USA"
+    lat: 36.2987556
+    lng: -115.3338763
+    coords: "0101000000355AB33A5ED55CC099BF9D9F3D264240"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Gb1eUaLsQuzchKoAKP56"
+        source: user
+        attribution_url: "https://neighborhoodsinlasvegas.com/wp-content/uploads/2024/06/Pickleball-Court-scaled.jpg"
+        attribution_html: null
+        attribution_name: Summerlin Real Estate
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: skye-hills-park-at-farm-road
+    path: /courts/us/nevada/las-vegas/skye-hills-park-at-farm-road
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-10-11T07:58:20.178Z"
+    updated_at: "2025-06-16T10:13:42.457Z"
+    schedule_sources_updated_at: null
+  - id: "96d3a1eb-6203-4090-b36a-53565b0b90c2"
+    title: Skye View Park
+    address: "10501 Eagle Canyon Ave, Las Vegas, NV, 89166, USA"
+    lat: 36.310177
+    lng: -115.324943
+    coords: "01010000001B84B9DDCBD45CC0577C43E1B3274240"
+    phone: "+17027860207"
+    email: null
+    url: "https://skyecanyon.com/amenities/parks/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: Park closes at 9pm
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/iqjxMxDJRwK0aKqZVcTV"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115622538379610424899"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115622538379610424899\">Nolan DiFalco</a>"
+        attribution_name: Nolan DiFalco
+      - url: "https://cdn.filestackcontent.com/PqjzOFVSnuaW1LZevv5D"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115622538379610424899"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115622538379610424899\">Nolan DiFalco</a>"
+        attribution_name: Nolan DiFalco
+      - url: "https://cdn.filestackcontent.com/5f33SodR5qobVpe9GyTx"
+        source: user
+        visible: true
+        attribution_url: "https://skyecanyon.com/"
+        attribution_html: null
+        attribution_name: Skye Canyon
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: skye-view-park
+    path: /courts/us/nevada/las-vegas/skye-view-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T08:11:36.893Z"
+    updated_at: "2024-07-22T09:28:39.989Z"
+    schedule_sources_updated_at: null
+  - id: "8143c776-cb86-488c-9607-34a2c7cd65cc"
+    title: Southern Highlands Racquets
+    address: "1 Robert Trent Jones Ln, Las Vegas, NV 89141, USA"
+    lat: 35.9789123
+    lng: -115.1945102
+    coords: "010100000042EFE8DA72CC5CC079138DFF4CFD4140"
+    phone: "+17027685697"
+    email: null
+    url: null
+    reservation_url: "https://app.utrsports.net/clubs/1419273"
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/3iR37NRRkGPXIyNlWTyu"
+        source: user
+        attribution_url: "https://www.google.com/search?q=Southern+Highlands+-+Racquets+1+Robert+Trent+Jones+Lane%2C+Las+Vegas%2C+NV%2C+89141&sca_esv=50bdd2a08bdd7bce&biw=1280&bih=585&ei=IQZGae2wHteA0PEPmYKtqQc&ved=0ahUKEwitxbLYi8uRAxVXADQIHRlBK3UQ4dUDCBE&oq=Southern+Highlands+-+Racquets+1+Robert+Trent+Jones+Lane%2C+Las+Vegas%2C+NV%2C+89141&gs_lp=Egxnd3Mtd2l6LXNlcnAiTVNvdXRoZXJuIEhpZ2hsYW5kcyAtIFJhY3F1ZXRzIDEgUm9iZXJ0IFRyZW50IEpvbmVzIExhbmUsIExhcyBWZWdhcywgTlYsIDg5MTQxSJBbUJ8FWORPcAF4AZABAJgBvAKgAf4GqgEFMi0yLjG4AQzIAQD4AQH4AQKYAgOgAugEqAIUwgIXEAAYgAQYkQIYtAIY5wYYigUY6gLYAQHCAh0QLhiABBiRAhi0AhjnBhjHARiKBRjqAhivAdgBAcICIBAAGIAEGLQCGNQDGOUCGOcGGLcDGIoFGOoCGIoD2AEBwgIQEAAYAxi0AhjqAhiPAdgBAsICEBAuGAMYtAIY6gIYjwHYAQLCAgYQABgWGB7CAgUQABjvBcICCBAAGIAEGKIEmAMW8QXYxr_ItkEZsLoGBAgBGAe6BgYIAhABGAqSBwcxLjAuMS4xoAe9C7IHBTItMS4xuAfRBMIHBzItMi4wLjHIByCACAA&sclient=gws-wiz-serp#lpg=cid:CgIgAQ%3D%3D,ik:CAoSLEFGMVFpcE5tOUhCaTlBWFlMaWUteHhzMFdpYmg1MGk2TFlvTWZqeERaaWZf"
+        attribution_html: null
+        attribution_name: Southern Highlands Racquets
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: southern-highlands-racquets
+    path: /courts/us/nevada/las-vegas/southern-highlands-racquets
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-12-20T02:33:08.790Z"
+    updated_at: "2025-12-20T02:33:08.790Z"
+    schedule_sources_updated_at: null
+  - id: dfbb5e8c-975e-468d-9908-47886debd58c
+    title: Southside Park Tennis Courts
+    address: "400-498 S 3rd St, Elko, NV 89801, United States"
+    lat: 40.94688
+    lng: -115.59585
+    coords: "010100000095D4096822E65CC0459E245D33794440"
+    phone: null
+    email: null
+    url: "https://greenvillerec.com/parks/southside-park/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/16ggRDuiSDmnw2OaeJRq"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: elko
+    city_id: 1840020120
+    slug: southside-park-tennis-courts
+    path: /courts/us/nevada/elko/southside-park-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T22:43:23.491Z"
+    updated_at: "2024-01-13T19:44:43.038Z"
+    schedule_sources_updated_at: null
+  - id: "73799a95-f14b-42ba-89e2-26d9126100ba"
+    title: Spanish Oaks Tennis Club
+    address: "2201 Spanish Oaks Dr, Las Vegas, NV, 89102, USA"
+    lat: 36.150448
+    lng: -115.184453
+    coords: "01010000008BA9F413CECB5CC0D2DF4BE141134240"
+    phone: "7028765836"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete, hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/zO2bRSbSQus0EJu7be8K"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/oobWHnalSctITtXC2oUA"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: spanish-oaks-tennis-club
+    path: /courts/us/nevada/las-vegas/spanish-oaks-tennis-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T00:22:27.302Z"
+    updated_at: "2024-03-19T10:59:38.837Z"
+    schedule_sources_updated_at: null
+  - id: d99e1ff3-b19c-4fe0-b90d-14037588884d
+    title: Spirit Park
+    address: "7655 Tule Springs Pkwy, North Las Vegas, NV 89084, USA"
+    lat: 36.2986138
+    lng: -115.1626069
+    coords: "0101000000A766C52668CA5CC030911CFA38264240"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, water, restrooms]
+    description: ""
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/N6vVmTwbRtuB3qF5G7mO"
+    country_slug: us
+    state_slug: nevada
+    city_slug: north-las-vegas
+    city_id: 1840020363
+    slug: spirit-park
+    path: /courts/us/nevada/north-las-vegas/spirit-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-02-12T09:18:29.617Z"
+    updated_at: "2026-02-12T09:19:42.903Z"
+    schedule_sources_updated_at: null
+  - id: "20c97443-0b03-4749-86a1-62346be4c706"
+    title: Stone Bridge Park
+    address: "Desert Bridge Ave, Las Vegas, NV 89138, USA"
+    lat: 36.1596407
+    lng: -115.3673336
+    coords: "010100000034AEC96482D75CC026CE401B6F144240"
+    phone: "7024558200"
+    email: null
+    url: "https://www.summerlink.com/community/parks"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/6dheQUpITDmy1Gj3XKr1"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/mNq5exN2Q7GFNK9jceTT"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/place/Stonebridge+Park/"
+        attribution_html: null
+        attribution_name: Jeremy Kelley
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: stone-bridge-park
+    path: /courts/us/nevada/las-vegas/stone-bridge-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T22:49:26.839Z"
+    updated_at: "2025-09-25T09:45:21.051Z"
+    schedule_sources_updated_at: null
+  - id: c7bed82d-c0c1-4d0a-a313-cc9d6fc63517
+    title: Summit Christian Church
+    address: "7075 Pyramid Way, Sparks, NV 89441, USA"
+    lat: 39.5944432
+    lng: -119.7399687
+    coords: "010100000013A4ADA55BEF5DC030AAFBB616CC4340"
+    phone: "+17754245683"
+    email: kmckinley@summitnv.org
+    url: "https://www.summitnv.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [food, restrooms, water, wheelchair accessible]
+    description: "Come visit us and play on our 3 brand new courts. All available for open play. With court seating, an onsite cafe, water bottle fill stations and restrooms we have everything you need to enjoy a day of friendly pickleball!"
+    access_details: null
+    schedule_details: "Cafe hours 7am-3pm, bathroom hours 7am-7pm"
+    images:
+      - url: "https://cdn.filestackcontent.com/QPvJBXGRCiH79WkXDQas"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: "Summit Christian Church pickleball "
+    country_slug: us
+    state_slug: nevada
+    city_slug: sparks
+    city_id: 1840021337
+    slug: summit-christian-church
+    path: /courts/us/nevada/sparks/summit-christian-church
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-06-21T09:19:18.423Z"
+    updated_at: "2025-08-21T07:12:17.811Z"
+    schedule_sources_updated_at: null
+  - id: "3a66a8e1-6a71-4a1e-b518-f945dea25ba6"
+    title: Sunny Springs Park
+    address: "7620 Golden Talon Ave, Las Vegas, NV, 89131, USA"
+    lat: 36.29340339805843
+    lng: -115.26098457308578
+    coords: "01010000007E8AA3F8B3D05CC01E99173E8E254240"
+    phone: "7022296718"
+    email: null
+    url: "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Sunny-Springs-Park"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ZuTBgaLuRpaVP0chrdHG"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: sunny-springs-park
+    path: /courts/us/nevada/las-vegas/sunny-springs-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T21:01:57.728Z"
+    updated_at: "2023-10-19T01:01:18.935Z"
+    schedule_sources_updated_at: null
+  - id: "52901c32-ccaf-4b8d-b87a-3f377c635fef"
+    title: Sunset Park Pickleball Complex
+    address: "2601 Sunset Park Rd, Las Vegas, NV 89120, USA"
+    lat: 36.0681973
+    lng: -115.1122712
+    coords: "010100000017128B732FC75CC077966AB0BA084240"
+    phone: "+17024558241"
+    email: CCPRSports@clarkcountynv.gov
+    url: "https://www.clarkcountynv.gov/government/departments/parks___recreation/services/sunset-park-pickleball-complex"
+    reservation_url: "https://www.clarkcountynv.gov/government/departments/parks___recreation/sports/pickleball/pickleball-drop-in-reservation-information"
+    facility_type: public
+    access: free
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 24
+    total_courts: 24
+    has_pickleball: true
+    surface: [hard, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/I7bqd0lGQsOI1bfpL1mM"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/101195986454139841696"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101195986454139841696\">Randi Levenbaum</a>"
+        attribution_name: Randi Levenbaum
+      - url: "https://cdn.filestackcontent.com/YfRYb35ATCCYyT9EJkWO"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/116819770158073062340"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/116819770158073062340\">Terry S</a>"
+        attribution_name: Terry S
+      - url: "https://cdn.filestackcontent.com/tGJgNapMS0iqUNrO78Ot"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/184338965_4299084760155745_1479789445931371513_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=b9115d&_nc_ohc=xSwCfrG45ycAX8D9ukU&_nc_ht=scontent-lax3-2.xx&oh=00_AfBP1_GN4W4LM1Nv2JWWvodDwxUIq3_BN9tuccMKyhmp6g&oe=63AEDCB2"
+        attribution_html: null
+        attribution_name: Brian Rowley
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: sunset-park-pickleball-complex
+    path: /courts/us/nevada/las-vegas/sunset-park-pickleball-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-06-27T19:52:44.934Z"
+    updated_at: "2025-10-15T05:52:32.821Z"
+    schedule_sources_updated_at: null
+  - id: "1b0bbb99-bfd1-46e1-8a5f-6d822bf53dc5"
+    title: Swift Sportsdome
+    address: "1465 S Meadows Pkwy. Reno, NV 89521"
+    lat: 39.4464652
+    lng: -119.7445606
+    coords: "0101000000F8B880E1A6EF5DC0AB668CC525B94340"
+    phone: "+17753281301"
+    email: info@renodome.com
+    url: "https://swiftsportsdome.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: Pickleball is temporarily unavailable at Swift.
+    access_details: "$5 drop in fee: $40 monthly membership"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/eZCtvHBrQUGnKMn7gJ9X"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Soledad Garcia Huidobro
+    country_slug: us
+    state_slug: nevada
+    city_slug: reno
+    city_id: 1840020121
+    slug: swift-sportsdome
+    path: /courts/us/nevada/reno/swift-sportsdome
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-01-11T04:12:32.456Z"
+    updated_at: "2023-11-14T19:12:47.233Z"
+    schedule_sources_updated_at: null
+  - id: "52c62fb7-d536-48a1-b441-926626851bfc"
+    title: The Courts LV
+    address: "10000 Covington Cross Dr, Las Vegas, NV 89144, United States"
+    lat: 36.1877354
+    lng: -115.3137259
+    coords: "01010000001F1ACC1514D45CC097A6ADB607184240"
+    phone: "+17029311188"
+    email: info@courtslv.com
+    url: "https://courtslv.com/"
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: 8
+    outdoor_courts: 0
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, training, food, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/T3FE9ESPQ7SRzV3t0TiH"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/112450502930772976482"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112450502930772976482\">Jerome Rosalejos</a>"
+        attribution_name: Jerome Rosalejos
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: the-courts-lv
+    path: /courts/us/nevada/las-vegas/the-courts-lv
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-06-26T12:13:49.149Z"
+    updated_at: "2026-06-26T12:13:49.149Z"
+    schedule_sources_updated_at: null
+  - id: "48d7d320-5e09-4fa6-9860-49234cacf6d6"
+    title: The Courts of Las Vegas
+    address: "10000 Covington Cross Drive, Las Vegas, NV, USA"
+    lat: 36.1877354
+    lng: -115.3137259
+    coords: "01010000001F1ACC1514D45CC097A6ADB607184240"
+    phone: "+12133084617"
+    email: sue@courtslv.com
+    url: "https://www.courtslv.com"
+    reservation_url: "https://courtslv.podplay.app/book/the-courts-at-summerlin?pod=standard-courts-summerlin"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 8
+    outdoor_courts: 0
+    total_courts: 8
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [food, locker rooms, restrooms, water, youth, lighted, pro shop, training, wheelchair accessible, adaptive]
+    description: ""
+    access_details: $30 for 2 hours for open play or you can join a reservation with a $10 day pass - nonmember courts are $64/hr
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/9HM4xntQSmq1qXa6gyN9"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/JorKhszzSGOijbTflqkH"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/V8ZNHsuoQemYB7AIWHba"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/1rdhTpyWRbC2ztrMyB4C"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pickle Jar
+      - url: "https://cdn.filestackcontent.com/r3fTRhlvSm2l5WJhoNVM"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/pV2FZQXSq2lQuajEhDJm"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/f5mCOGWuTJyPB6jGpLkj"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/hfOEYiHDSsyhQTMKmDN2"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: the-courts-of-las-vegas
+    path: /courts/us/nevada/las-vegas/the-courts-of-las-vegas
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-06-18T08:29:50.967Z"
+    updated_at: "2026-06-18T08:35:06.493Z"
+    schedule_sources_updated_at: null
+  - id: c63c4f47-2340-4154-8e98-b9a4cb2cc035
+    title: The Hive at Lazy 5 Regional Park
+    address: "7100 Pyramid Way, Sparks, NV, 89436, USA"
+    lat: 39.62102497692529
+    lng: -119.72459382209014
+    coords: "0101000000B130C4BE5FEE5DC057F216BF7DCF4340"
+    phone: "+17754241866"
+    email: reserveparks@washoecounty.us
+    url: "https://www.washoecounty.gov/parks/parks_and_trails/park_directory/pah_rah_district/lazy_5_regional_park.php"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: "The \"Hive\" at Lazy 5 is a very interesting place to play. The sound, and the lighting are unique and the court is fast!"
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/3KMZFh5rRQKrTxLJU1EC"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Frank PickleBall
+      - url: "https://cdn.filestackcontent.com/9KU8odkRRdK9BaM6ZiK1"
+        source: user
+        visible: true
+        attribution_url: "https://www.washoecounty.gov/parks/files/facility_images/Hive-basketball2x.jpg"
+        attribution_html: null
+        attribution_name: Washoe County
+      - url: "https://cdn.filestackcontent.com/K5pt5gt1RHmV1ZvpRHmn"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Frank PickleBall Carbone
+    country_slug: us
+    state_slug: nevada
+    city_slug: sparks
+    city_id: 1840021337
+    slug: the-hive-at-lazy-5-regional-park
+    path: /courts/us/nevada/sparks/the-hive-at-lazy-5-regional-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T01:43:43.543Z"
+    updated_at: "2025-09-11T06:17:12.407Z"
+    schedule_sources_updated_at: null
+  - id: acc66d11-b64b-4aa0-bf42-a35531ccba03
+    title: The Pickleball Universe
+    address: "9001 Dean Martin Dr, Las Vegas, NV 89139, USA"
+    lat: 36.0264723
+    lng: -115.1854848
+    coords: "0101000000ED79A3FBDECB5CC0FD5FBF7163034240"
+    phone: "7022416317"
+    email: Info@tgepickleballuniverse.com
+    url: "https://thepickleballuniverse.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 16
+    total_courts: 16
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, food]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/HBXeYB2kQJOkhC5SXvzn"
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: the-pickleball-universe
+    path: /courts/us/nevada/las-vegas/the-pickleball-universe
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-11-06T08:09:31.674Z"
+    updated_at: "2025-12-02T07:40:33.602Z"
+    schedule_sources_updated_at: null
+  - id: "2859d9e7-23ba-4953-8fe2-3cd42f6d56ff"
+    title: The Picklr - Henderson
+    address: "1450 W Horizon Ridge Pkwy #435, Henderson, NV 89012, USA"
+    lat: 36.0230129
+    lng: -115.0491129
+    coords: "0101000000F3D36EAA24C35CC06C713216F2024240"
+    phone: "+17253030469"
+    email: henderson.nv@thepicklrfranchise.com
+    url: "https://thepicklr.com/location/henderson/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: false
+    indoor_courts: 11
+    outdoor_courts: 0
+    total_courts: 11
+    has_pickleball: true
+    surface: [concrete, wood]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, training, locker rooms, pro shop, wheelchair accessible, water, youth, adaptive, lighted, food]
+    description: ""
+    access_details: "Unlimited $159, Junior $89, Family $379"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/TNQBxeyRKqVzd5hbpP4D"
+        source: user
+        attribution_url: "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo4GI1aDa6BJhQ5EhE4xAQutS5UpZIaHomtkA94h0yf6XTxOQkIs0oKEkTSejC_bSrbSPlfzcmsE7gl27c4Fk5Hs0Auh0LHPTVtI6aSSihO5Yy4pq4WHAHLvaso4WVzHxBTQvc9=s680-w680-h510-rw"
+        attribution_html: null
+        attribution_name: Claudio F.
+    country_slug: us
+    state_slug: nevada
+    city_slug: henderson
+    city_id: 1840020361
+    slug: the-picklr-henderson
+    path: /courts/us/nevada/henderson/the-picklr-henderson
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-02-10T07:31:46.504Z"
+    updated_at: "2026-05-15T04:51:21.524Z"
+    schedule_sources_updated_at: null
+  - id: "9405059e-d864-4bc3-8346-adf616701a94"
+    title: Vegas Indoor Pickleball
+    address: "7575 West Sunset Road, Las Vegas, NV 89113, U.S."
+    lat: 36.0696217
+    lng: -115.2562534
+    coords: "0101000000491FA97466D05CC0C44B265DE9084240"
+    phone: "+17025071605"
+    email: info@vegasindoorpickleball.com
+    url: "https://www.vegasindoorpickleball.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms]
+    description: ""
+    access_details: null
+    schedule_details: Online revervations required
+    images:
+      - url: "https://cdn.filestackcontent.com/6J96212RGyM3jHQQaEDg"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Vegas Indoor Pickleball interior
+      - url: "https://cdn.filestackcontent.com/c2GtszoXSJmw4BtxD9Y1"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: "Vegas Indoor Pickleball "
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: vegas-indoor-pickleball
+    path: /courts/us/nevada/las-vegas/vegas-indoor-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-28T11:24:29.084Z"
+    updated_at: "2024-08-07T00:53:48.983Z"
+    schedule_sources_updated_at: null
+  - id: "38756889-4ca1-4be8-acf0-c58c049ec689"
+    title: Veterans Memorial Leisure Services Center
+    address: "101 N Pavilion Center Dr, Las Vegas, NV, 89144, USA"
+    lat: 36.173784
+    lng: -115.332551
+    coords: "01010000002250FD8348D55CC0B648DA8D3E164240"
+    phone: "+17022291100"
+    email: null
+    url: "http://www.lasvegasnevada.gov/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [lighted, restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/iceNBbRQBOCLl7d7DHIA"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115421560062089936704"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115421560062089936704\">Mihreteab TESEMA</a>"
+        attribution_name: Mihreteab TESEMA
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: veterans-memorial-leisure-services-center
+    path: /courts/us/nevada/las-vegas/veterans-memorial-leisure-services-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T12:43:46.860Z"
+    updated_at: "2022-11-30T16:10:14.520Z"
+    schedule_sources_updated_at: null
+  - id: "382060dc-16f3-475c-83bb-c0afbf4357dc"
+    title: Veterans Memorial Park
+    address: "1650 Buchanan Blvd, Boulder City, NV 89005, United States"
+    lat: 35.9523218
+    lng: -114.8486783
+    coords: "0101000000CBD4C9BE50B65CC0492245AEE5F94140"
+    phone: "+17022939256"
+    email: null
+    url: "https://www.bcnv.org/facilities/facility/details/veterans-memorial-park-15"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/4aDXnqMnRX6XOqW1WMel"
+        source: user
+        attribution_url: "https://www.bcnv.org/ImageRepository/Document?documentID=15361"
+        attribution_html: null
+        attribution_name: Boulder City Org
+    country_slug: us
+    state_slug: nevada
+    city_slug: boulder-city
+    city_id: 1840019028
+    slug: veterans-memorial-park
+    path: /courts/us/nevada/boulder-city/veterans-memorial-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-08-06T09:00:58.388Z"
+    updated_at: "2025-08-06T09:00:58.388Z"
+    schedule_sources_updated_at: null
+  - id: "66a51490-f905-4018-8f3f-b9dd217cb36a"
+    title: Ward 6 Pickleball Courts
+    address: "Centennial Hills Park, 7101 North Buffalo Drive, Las Vegas, NV, USA"
+    lat: 36.2888821
+    lng: -115.261766
+    coords: "01010000001A4D2EC6C0D05CC02DF3B116FA244240"
+    phone: "+17022296011"
+    email: null
+    url: "https://www.lasvegasnevada.gov/Residents/Parks-Facilities/Centennial-Hills-Park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms, water]
+    description: "Two outdoor pickleball courts in Centennial Hills Park. Just opened October 13th, 2023. Tucked right behind a library."
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/oir96gUDTA2BpABs6uGc"
+        source: user
+        visible: true
+        attribution_url: "https://cityoflasvegas.smugmug.com/Parks-Recreation/Parks/Centennial-Hills/"
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/8msAUy1jRnqCGu7FSLsZ"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/KLAO7T5BRkuidcYspggx"
+        source: user
+        visible: true
+        attribution_url: "https://cityoflasvegas.smugmug.com/Parks-Recreation/Parks/Centennial-Hills/"
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/vb13wtOrRKyYCFKYcr39"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/I8y5kesrRwqD7BvyPi7w"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: ward-6-pickleball-courts
+    path: /courts/us/nevada/las-vegas/ward-6-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-10-25T10:10:13.625Z"
+    updated_at: "2023-10-25T10:10:59.904Z"
+    schedule_sources_updated_at: null
+  - id: "0664e6d8-28b5-4f8b-a29b-3b17def478dc"
+    title: West Flamingo Senior Center
+    address: "6255 West Flamingo Road, Las Vegas, Nevada 89103, United States"
+    lat: 36.11353
+    lng: -115.22772
+    coords: "01010000004A29E8F692CE5CC0B48EAA26880E4240"
+    phone: "+17024557742"
+    email: null
+    url: "https://www.clarkcountynv.gov/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/6FzmbxX5TPu9cDv4wF7L"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/117417914964327922403"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117417914964327922403\">Brenda</a>"
+        attribution_name: Brenda
+      - url: "https://cdn.filestackcontent.com/B3dqgYkqRTiCSFFUlWnv"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/114860201027099313839"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114860201027099313839\">irie a</a>"
+        attribution_name: irie a
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: west-flamingo-senior-center
+    path: /courts/us/nevada/las-vegas/west-flamingo-senior-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-28T06:35:37.101Z"
+    updated_at: "2023-04-28T06:35:37.101Z"
+    schedule_sources_updated_at: null
+  - id: f3bc2f08-1f98-4729-b09c-4ff11515e95d
+    title: West Wendover Nevada
+    address: "2332 Florence Way, West Wendover, NV, 89883, USA"
+    lat: 40.729218
+    lng: -114.086539
+    coords: "010100000007B5DFDA89855CC0C8D3F203575D4440"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: null
+    outdoor_courts: null
+    total_courts: 0
+    has_pickleball: true
+    surface: [clay]
+    lines: null
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images: []
+    country_slug: us
+    state_slug: nevada
+    city_slug: west-wendover
+    city_id: 1840021336
+    slug: west-wendover-nevada
+    path: /courts/us/nevada/west-wendover/west-wendover-nevada
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T13:01:53.349Z"
+    updated_at: "2022-04-12T13:01:53.349Z"
+    schedule_sources_updated_at: null
+  - id: c7a0532e-5106-437d-8940-d490eeba51e0
+    title: Westgate Las Vegas Resort & Casino
+    address: "3000 Paradise Rd, Las Vegas, NV, 89109, USA"
+    lat: 36.136387
+    lng: -115.152469
+    coords: "0101000000D829560DC2C95CC0BE4C142175114240"
+    phone: "+17027325648"
+    email: null
+    url: "https://www.westgateresorts.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms, water]
+    description: "$20 per Hour/per Court. \nNot very busy."
+    access_details: $20 per hour per Court. No per person fee.
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/vJGFTCWQi24leKPkPJx4"
+        source: user
+        visible: true
+        attribution_url: "https://www.westgateresorts.com/hotels/nevada/las-vegas/westgate-las-vegas-resort-casino/amenities/pickleball/"
+        attribution_html: null
+        attribution_name: Westgate Las Vegas Resort & Casino
+      - url: "https://cdn.filestackcontent.com/9D7Is5psQgm4iOp1OThT"
+        source: user
+        visible: true
+        attribution_url: "https://dlq00ggnjruqn.cloudfront.net/prometheus/getImage?id=145929"
+        attribution_html: null
+        attribution_name: Westgate Las Vegas Resort & Casino
+    country_slug: us
+    state_slug: nevada
+    city_slug: las-vegas
+    city_id: 1840020364
+    slug: westgate-las-vegas-resort-and-casino
+    path: /courts/us/nevada/las-vegas/westgate-las-vegas-resort-and-casino
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-13T15:48:25.301Z"
+    updated_at: "2023-08-28T10:56:29.118Z"
+    schedule_sources_updated_at: null
+  - id: "80dfef35-2fa2-46b1-9f5f-55af966ae70b"
+    title: Whitney Mesa Tennis Complex
+    address: "1661 Galleria Dr, Henderson, NV, 89014, USA"
+    lat: 36.07909
+    lng: -115.06014
+    coords: "01010000009D4B7155D9C35CC067B8019F1F0A4240"
+    phone: "+17022672323"
+    email: null
+    url: "https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/329/777"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 10
+    outdoor_courts: 4
+    total_courts: 14
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [food, pro shop, restrooms, water]
+    description: There are 8 tennis courts and 4 pickleball courts.
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/tfBJY0QBRt6nLZ7Uy1AC"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/BJZ67euGQlWxwSS6JMz7"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Nancy Rock
+    country_slug: us
+    state_slug: nevada
+    city_slug: henderson
+    city_id: 1840020361
+    slug: whitney-mesa-tennis-complex
+    path: /courts/us/nevada/henderson/whitney-mesa-tennis-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-23T00:34:59.846Z"
+    updated_at: "2024-03-25T07:30:01.026Z"
+    schedule_sources_updated_at: null
+  - id: "2234b4c5-14d5-49cb-bbb6-7ed51d62f0ce"
+    title: Wilkinson Park
+    address: "1201 E Taylor St, Reno, NV, 89502, USA"
+    lat: 39.5186721609392
+    lng: -119.79144593848417
+    coords: "0101000000DC95DD0CA7F25DC02D4A70D963C24340"
+    phone: "+17753342417"
+    email: renodirect@reno.gov
+    url: "https://www.reno.gov/Home/Components/FacilityDirectory/FacilityDirectory/136/2864?npage=5"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Sggx6vy8TvK06zTqqyd8"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: nevada
+    city_slug: reno
+    city_id: 1840020121
+    slug: wilkinson-park
+    path: /courts/us/nevada/reno/wilkinson-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-05T18:54:05.887Z"
+    updated_at: "2022-11-30T15:40:11.019Z"
+    schedule_sources_updated_at: null
+  - id: "2c24be7e-f528-4ef8-bcf1-b2c38b037f1f"
+    title: Yerington Tennis/Pickleball Court
+    address: "200 Joe Parr Way, Yerington, NV 89447, USA"
+    lat: 38.9941226
+    lng: -119.1616942
+    coords: "0101000000FC3CA13259CA5DC0749BCB683F7F4340"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: nevada
+    city_slug: yerington
+    city_id: 1840021443
+    slug: yerington-tennispickleball-court
+    path: /courts/us/nevada/yerington/yerington-tennispickleball-court
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-04-13T09:08:48.910Z"
+    updated_at: "2026-04-13T10:04:36.722Z"
+    schedule_sources_updated_at: null

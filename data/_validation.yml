@@ -1,0 +1,228 @@
+scraped_total: 16311
+sitemap_us_total: 18433
+mismatched_states: 55
+detail:
+  - state: alabama
+    scraped: 246
+    sitemap: 262
+    diff: -16
+  - state: alaska
+    scraped: 51
+    sitemap: 53
+    diff: -2
+  - state: arizona
+    scraped: 311
+    sitemap: 429
+    diff: -118
+  - state: arkansas
+    scraped: 118
+    sitemap: 132
+    diff: -14
+  - state: ca
+    scraped: 0
+    sitemap: 1
+    diff: -1
+  - state: california
+    scraped: 1197
+    sitemap: 1397
+    diff: -200
+  - state: colorado
+    scraped: 376
+    sitemap: 401
+    diff: -25
+  - state: connecticut
+    scraped: 210
+    sitemap: 227
+    diff: -17
+  - state: delaware
+    scraped: 53
+    sitemap: 77
+    diff: -24
+  - state: district-of-columbia
+    scraped: 29
+    sitemap: 29
+    diff: 0
+  - state: florida
+    scraped: 1059
+    sitemap: 1431
+    diff: -372
+  - state: georgia
+    scraped: 469
+    sitemap: 566
+    diff: -97
+  - state: hawaii
+    scraped: 141
+    sitemap: 156
+    diff: -15
+  - state: idaho
+    scraped: 160
+    sitemap: 176
+    diff: -16
+  - state: illinois
+    scraped: 710
+    sitemap: 740
+    diff: -30
+  - state: indiana
+    scraped: 369
+    sitemap: 412
+    diff: -43
+  - state: iowa
+    scraped: 267
+    sitemap: 284
+    diff: -17
+  - state: kansas
+    scraped: 191
+    sitemap: 201
+    diff: -10
+  - state: kentucky
+    scraped: 194
+    sitemap: 218
+    diff: -24
+  - state: louisiana
+    scraped: 160
+    sitemap: 170
+    diff: -10
+  - state: maine
+    scraped: 141
+    sitemap: 168
+    diff: -27
+  - state: maryland
+    scraped: 369
+    sitemap: 407
+    diff: -38
+  - state: massachusetts
+    scraped: 394
+    sitemap: 427
+    diff: -33
+  - state: mi
+    scraped: 0
+    sitemap: 1
+    diff: -1
+  - state: michigan
+    scraped: 568
+    sitemap: 592
+    diff: -24
+  - state: minnesota
+    scraped: 423
+    sitemap: 448
+    diff: -25
+  - state: mississippi
+    scraped: 104
+    sitemap: 120
+    diff: -16
+  - state: missouri
+    scraped: 371
+    sitemap: 417
+    diff: -46
+  - state: montana
+    scraped: 73
+    sitemap: 82
+    diff: -9
+  - state: nc
+    scraped: 0
+    sitemap: 1
+    diff: -1
+  - state: nebraska
+    scraped: 138
+    sitemap: 146
+    diff: -8
+  - state: nevada
+    scraped: 118
+    sitemap: 139
+    diff: -21
+  - state: new-hampshire
+    scraped: 99
+    sitemap: 109
+    diff: -10
+  - state: new-jersey
+    scraped: 400
+    sitemap: 430
+    diff: -30
+  - state: new-mexico
+    scraped: 118
+    sitemap: 128
+    diff: -10
+  - state: new-york
+    scraped: 761
+    sitemap: 813
+    diff: -52
+  - state: north-carolina
+    scraped: 587
+    sitemap: 677
+    diff: -90
+  - state: north-dakota
+    scraped: 55
+    sitemap: 59
+    diff: -4
+  - state: ohio
+    scraped: 678
+    sitemap: 719
+    diff: -41
+  - state: oklahoma
+    scraped: 168
+    sitemap: 186
+    diff: -18
+  - state: oregon
+    scraped: 253
+    sitemap: 298
+    diff: -45
+  - state: pennsylvania
+    scraped: 579
+    sitemap: 612
+    diff: -33
+  - state: puerto-rico
+    scraped: 0
+    sitemap: 1
+    diff: -1
+  - state: rhode-island
+    scraped: 59
+    sitemap: 64
+    diff: -5
+  - state: south-carolina
+    scraped: 255
+    sitemap: 311
+    diff: -56
+  - state: south-dakota
+    scraped: 55
+    sitemap: 62
+    diff: -7
+  - state: tennessee
+    scraped: 317
+    sitemap: 342
+    diff: -25
+  - state: texas
+    scraped: 996
+    sitemap: 1149
+    diff: -153
+  - state: united-states
+    scraped: 0
+    sitemap: 5
+    diff: -5
+  - state: utah
+    scraped: 271
+    sitemap: 307
+    diff: -36
+  - state: vermont
+    scraped: 85
+    sitemap: 102
+    diff: -17
+  - state: virginia
+    scraped: 461
+    sitemap: 545
+    diff: -84
+  - state: washington
+    scraped: 468
+    sitemap: 540
+    diff: -72
+  - state: west-virginia
+    scraped: 87
+    sitemap: 93
+    diff: -6
+  - state: wisconsin
+    scraped: 499
+    sitemap: 516
+    diff: -17
+  - state: wyoming
+    scraped: 50
+    sitemap: 55
+    diff: -5

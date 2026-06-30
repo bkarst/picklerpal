@@ -1,0 +1,3690 @@
+state: West Virginia
+state_slug: west-virginia
+country: us
+court_count: 87
+scraped_at: "2026-06-30T05:22:32.424Z"
+source: pickleheads.com misc.search API
+courts:
+  - id: d6a2b49c-fd6f-4bf7-b103-fc73ba3e73ec
+    title: "7827 Tennis Center"
+    address: "265 Melody Farms Rd, Barboursville, WV 25504, USA"
+    lat: 38.4230098
+    lng: -82.2586089
+    coords: "010100000017FD570C8D9054C09A71642F25364340"
+    phone: "3047361210"
+    email: "7827tennis@gmail.com"
+    url: "https://playtennisnearme.com/7827-tennis-center/"
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: null
+    indoor_courts: 10
+    outdoor_courts: 0
+    total_courts: 10
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [food, locker rooms, restrooms, water, youth, lighted, pro shop, training]
+    description: ""
+    access_details: You can try out this facility one time for a $12 charge. The membership is $75 for the year as well as $6 per session. Members can brings guests but the guest must pay the $12 non member fee. Their Facebook page and website have all additional information regarding scheduling.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/9y7qiPDRTt66kEh1zX1q"
+      - url: "https://cdn.filestackcontent.com/MleGcQfURoCi0nxbjuYn"
+      - url: "https://cdn.filestackcontent.com/MW7dhdxMTRuzxE8aIUZd"
+      - url: "https://cdn.filestackcontent.com/QbbeWWRpmhPtFVPt5oQQ"
+      - url: "https://cdn.filestackcontent.com/mUBT0AG0QDOwbfV2HOKt"
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: barboursville
+    city_id: 1840006213
+    slug: "7827-tennis-center"
+    path: /courts/us/west-virginia/barboursville/7827-tennis-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-09-06T11:28:03.403Z"
+    updated_at: "2025-11-17T06:12:50.042Z"
+    schedule_sources_updated_at: null
+  - id: "257ba120-d13c-4921-824d-4302156d23f8"
+    title: ATP Indoor Pickleball Facility
+    address: "907 Oak St, Kenova, WV 25530, USA"
+    lat: 38.3993219
+    lng: -82.5705162
+    coords: "0101000000A535615683A454C0CD89E2FA1C334340"
+    phone: "+18049389383"
+    email: oxleyjb@yahoo.com
+    url: "https://atppickleballwv.com/"
+    reservation_url: "https://app.courtreserve.com/Online/Account/LogIn/10905"
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/35T4XekRhK5PLmVunZnC"
+        source: user
+        attribution_url: "https://www.facebook.com/photo.php?fbid=122140267124066238&set=pb.61551987158027.-2207520000&type=3"
+        attribution_html: null
+        attribution_name: ATP Indoor Pickleball Facilty
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: kenova
+    city_id: 1840006263
+    slug: atp-indoor-pickleball-facility
+    path: /courts/us/west-virginia/kenova/atp-indoor-pickleball-facility
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-12-01T06:50:19.372Z"
+    updated_at: "2025-12-01T06:50:19.372Z"
+    schedule_sources_updated_at: null
+  - id: "29928b94-cffe-4f7b-bab1-ca36e800f107"
+    title: Avalon Resort Pickleball Club
+    address: "223 Avalon Ln, Paw Paw, WV 25434, USA"
+    lat: 39.4566294
+    lng: -78.46378299999999
+    coords: "0101000000355CE49EAE9D53C030B209D572BA4340"
+    phone: "+13049475600"
+    email: information@avalon-resort.com
+    url: "https://www.avalon-resort.com"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 5
+    total_courts: 5
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [food, restrooms, adaptive]
+    description: ""
+    access_details: Call for access availability and instructions
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/yqeYUmtSKKaHVD05b9Cg"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/0Zfaf6KHQcK7w5zhWmFa"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: paw-paw
+    city_id: 1840005719
+    slug: avalon-resort-pickleball-club
+    path: /courts/us/west-virginia/paw-paw/avalon-resort-pickleball-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-08-13T06:24:42.934Z"
+    updated_at: "2025-08-13T07:04:00.532Z"
+    schedule_sources_updated_at: null
+  - id: "778aa12b-fd63-42ed-95de-6010653a3156"
+    title: Baltimore Street
+    address: "750 Baltimore Street, Martinsburg, WV, USA"
+    lat: 39.4672839
+    lng: -77.9692324
+    coords: "01010000004F0E55E7077E53C0423976F5CFBB4340"
+    phone: null
+    email: null
+    url: "https://www.mbcparks-rec.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/GTZYoNjBQBOXgoa707SS"
+        source: user
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipMMD0FmWk4Tu63hPbLySsR7nqzbYPtbFxO1nmmi=s680-w680-h510"
+        attribution_html: null
+        attribution_name: Ken C
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: martinsburg
+    city_id: 1840005742
+    slug: baltimore-street
+    path: /courts/us/west-virginia/martinsburg/baltimore-street
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-11-12T08:01:26.261Z"
+    updated_at: "2024-11-12T08:15:33.041Z"
+    schedule_sources_updated_at: null
+  - id: "70f745bf-861e-45f6-9a4e-363b6e83619c"
+    title: Barboursville Park
+    address: "Park Rd, Barboursville, WV 25504, USA"
+    lat: 38.3942897
+    lng: -82.2975389
+    coords: "01010000006C3299E00A9354C02853BB1578324340"
+    phone: "+13047369820"
+    email: null
+    url: "https://www.barboursvillepickleballclub.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 15
+    total_courts: 15
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, food]
+    description: "They just added more courts.  \n\nWe have added our local club now as the website address.\n\nThanks!"
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/TCUzDbMStiv6oRbUPRYV"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: barboursville
+    city_id: 1840006213
+    slug: barboursville-park
+    path: /courts/us/west-virginia/barboursville/barboursville-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T13:38:28.120Z"
+    updated_at: "2024-09-13T07:17:04.652Z"
+    schedule_sources_updated_at: null
+  - id: cc01a85b-af90-47fc-ac25-11e4b035c32b
+    title: Bishop Donahue
+    address: "325 Logan St, McMechen, WV, 26040, USA"
+    lat: 39.992417
+    lng: -80.730722
+    coords: "0101000000EF1D3526C42E54C04A7F2F8507FF4340"
+    phone: "3043128631"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/F8BX5C2GQriLtNKPNnXB"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/114581726419392930521"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114581726419392930521\">Beks U</a>"
+        attribution_name: Beks U
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: mcmechen
+    city_id: 1840005556
+    slug: bishop-donahue
+    path: /courts/us/west-virginia/mcmechen/bishop-donahue
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-26T13:15:58.292Z"
+    updated_at: "2022-12-30T04:13:52.838Z"
+    schedule_sources_updated_at: null
+  - id: a9bf7347-8a3e-4ea5-8082-526267604b88
+    title: Bluefield FitRec
+    address: "703 College Avenue, Bluefield, WV, USA"
+    lat: 37.2527675
+    lng: -81.22516329999999
+    coords: "01010000009A705413694E54C0EFFE78AF5AA04240"
+    phone: "+13043255707"
+    email: fitrecfront@bluewv.org
+    url: "https://playbluefieldwv.com"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [locker rooms, restrooms, water, youth, training]
+    description: "3 Courts with painted lines over basketball gym."
+    access_details: "304-325-5707 Ext. 1"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/V4Ki4KdNSVGySlX9FVPB"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: bluefield
+    city_id: 1840006401
+    slug: bluefield-fitrec
+    path: /courts/us/west-virginia/bluefield/bluefield-fitrec
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-12-10T10:25:26.676Z"
+    updated_at: "2024-12-10T10:34:40.421Z"
+    schedule_sources_updated_at: "2024-12-10T10:34:39.692Z"
+  - id: "20237811-78da-4c89-a15f-6f878a65b4cc"
+    title: Bridgeport Pickleball Courts
+    address: "2890 Hinkle Lake Rd, Bridgeport, WV 26330, USA"
+    lat: 39.26943199999999
+    lng: -80.2525953
+    coords: "0101000000E4277A852A1054C0773F6EBF7CA24340"
+    phone: "+13048428240"
+    email: mleonard@bridgeportwv.gov
+    url: "https://www.bridgeportwv.gov/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: "Come play pickleball at Deegan and Hinkle Lakes Park in WV, USA! There are 8 outdoor hard courts. These are dedicated courts with permanent lines and nets. The courts are free. Restrooms and water are located within the park but not immediately available at the courts, future updates plan to build these amenities at the court."
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/KmUNx5HHQuSRcbH9UlcW"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/ahLQCwajRHmvvFvdbNbA"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/4fJQBvkuRWuxhmCHXXwt"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/YtNyXqFXSyaGMXrU7jdC"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/Rg54yGoCRNiHt3WJQJZs"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: bridgeport
+    city_id: 1840005766
+    slug: bridgeport-pickleball-courts
+    path: /courts/us/west-virginia/bridgeport/bridgeport-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-11-06T09:47:43.925Z"
+    updated_at: "2024-11-06T09:47:43.925Z"
+    schedule_sources_updated_at: null
+  - id: "72f5cd38-cc3c-4f82-85d9-fb34da181890"
+    title: Burnsville Courts
+    address: "230 Kanawha Ave, Burnsville, WV, USA"
+    lat: 38.859202
+    lng: -80.656791
+    coords: "0101000000A8531EDD082A54C03354C554FA6D4340"
+    phone: "3046445632"
+    email: Johnnastalnaker@aol.com
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted, wheelchair accessible]
+    description: Beautiful Setting in scenic Central West Virginia.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/yrF6ocjnSuVUPdm2BIwg"
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: burnsville
+    city_id: 1840006115
+    slug: burnsville-courts
+    path: /courts/us/west-virginia/burnsville/burnsville-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-10-13T08:31:28.400Z"
+    updated_at: "2025-10-13T09:48:40.990Z"
+    schedule_sources_updated_at: null
+  - id: bc775c5a-8380-4fd0-81e0-7103a7df2f1b
+    title: Buzz Henderson Center- Jewel City Church
+    address: "511 Jewel City Blvd, Meadowbrook, WV 26404, USA"
+    lat: 39.3577618
+    lng: -80.30754019999999
+    coords: "0101000000234D17BDAE1354C009617F23CBAD4340"
+    phone: "304-592-5755"
+    email: hello@bhcwv.org
+    url: "https://bhcwv.org"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [wheelchair accessible, restrooms, water]
+    description: ""
+    access_details: $5/day pass
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ZXtlOmu7Q1GKErXDqX0V"
+        source: user
+        attribution_url: "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/b/c4/bc45a40e-c081-11ee-b319-ebf1ae931570/65babf659f2e7.image.jpg?resize=666%2C500"
+        attribution_html: null
+        attribution_name: WV News
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: meadowbrook
+    city_id: 1840122809
+    slug: buzz-henderson-center-jewel-city-church
+    path: /courts/us/west-virginia/meadowbrook/buzz-henderson-center-jewel-city-church
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-03T10:28:16.713Z"
+    updated_at: "2024-05-03T10:29:37.224Z"
+    schedule_sources_updated_at: null
+  - id: "785e4cfb-cf54-42b2-8fcf-7bd6e17a0b5f"
+    title: Cacapon Resort State Park
+    address: "818 Cacapon Lodge Dr, Berkeley Springs, WV 25411, USA"
+    lat: 39.5057984
+    lng: -78.29944189999999
+    coords: "010100000055E35B0E2A9353C0402F8100BEC04340"
+    phone: "+13042581022"
+    email: null
+    url: "https://wvstateparks.com/park/cacapon-resort-state-park/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/vNJY28vT8OLpxRrxyiqA"
+        source: user
+        attribution_url: ""
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: berkeley-springs
+    city_id: 1840038304
+    slug: cacapon-resort-state-park
+    path: /courts/us/west-virginia/berkeley-springs/cacapon-resort-state-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-04-13T09:11:42.553Z"
+    updated_at: "2026-04-13T09:58:15.599Z"
+    schedule_sources_updated_at: null
+  - id: "3066903a-a7ad-40f1-a703-946a20b315e2"
+    title: Ceredo Senior Wellness Center
+    address: "484 Main Street, Ceredo, WV, USA"
+    lat: 38.39414
+    lng: -82.5584771
+    coords: "01010000002804BC16BEA354C0D105F52D73324340"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/BlOKvgFQ0i1E0eODAZkd"
+        source: user
+        attribution_url: "https://www.facebook.com/photo/?fbid=4111907155520064&set=pcb.4111827262194720"
+        attribution_html: null
+        attribution_name: Town of Ceredo - West Virginia
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: huntington
+    city_id: 1840006211
+    slug: ceredo-senior-wellness-center
+    path: /courts/us/west-virginia/huntington/ceredo-senior-wellness-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-11-18T03:24:08.808Z"
+    updated_at: "2025-11-18T03:26:33.769Z"
+    schedule_sources_updated_at: null
+  - id: "95a6b5ca-d8ca-4bbd-ab48-e16a262b36e3"
+    title: Chief Logan Recreational Center
+    address: "505 Conference Center Dr, Logan, WV, 25601, USA"
+    lat: 37.895848
+    lng: -82.038078
+    coords: "01010000009D2CB5DE6F8254C0F017B325ABF24240"
+    phone: "+13048558591"
+    email: null
+    url: "http://www.chiefloganreccenter.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/lm0l0d0nSMOFXiRnuH7h"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115059155047209721464"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115059155047209721464\">WILLIAM KNOTTS</a>"
+        attribution_name: WILLIAM KNOTTS
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: logan
+    city_id: 1840006336
+    slug: chief-logan-recreational-center
+    path: /courts/us/west-virginia/logan/chief-logan-recreational-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T06:11:59.519Z"
+    updated_at: "2023-06-26T09:44:14.518Z"
+    schedule_sources_updated_at: null
+  - id: "2abfbd51-7686-43f9-94ba-87337bce0793"
+    title: City of Bluefield Parks & Recreation
+    address: "1780 Stadium Dr, Bluefield, WV 24701, USA"
+    lat: 37.2472584
+    lng: -81.25014089999999
+    coords: "01010000001639FA4E025054C0A5D4CA29A69F4240"
+    phone: "+13043255707"
+    email: fitrecfront@bluewv.org
+    url: "https://playbluefieldwv.com"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: "Brand new 2024 Public Courts from City of Bluefield, West Virginia"
+    access_details: Free
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/clk7JBESSqqy1ZwO1KhG"
+        source: user
+        attribution_url: "https://www.wvva.com/video/2024/09/08/first-pickleball-tournament-held-bluefield-city-parks-new-courts-raises-money-two-organizations/"
+        attribution_html: null
+        attribution_name: WVVA News
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: bluefield
+    city_id: 1840006401
+    slug: city-of-bluefield-parks-and-recreation
+    path: /courts/us/west-virginia/bluefield/city-of-bluefield-parks-and-recreation
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-12-10T10:25:41.120Z"
+    updated_at: "2024-12-11T09:59:01.668Z"
+    schedule_sources_updated_at: null
+  - id: "30c67ffd-4b4f-447a-870b-031e7d2f6cfb"
+    title: Clarksburg Veterans Memorial Park
+    address: "State Rte 98, Clarksburg, WV, 26301, USA"
+    lat: 39.2715
+    lng: -80.3528775
+    coords: "0101000000A27F828B951654C0986E1283C0A24340"
+    phone: "+15409922993"
+    email: null
+    url: "https://cityparksofclarksburg.com/veterans-memorial-park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 9
+    total_courts: 9
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: Newly renovated courts (Aug 2024).  9 Courts with Permanent Lines and Permanent Nets
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/GLxOXxnzS7yQHN9RdOVZ"
+        source: user
+        attribution_url: "https://www.facebook.com/share/g/gQymkUtdDoy7uwDH/"
+        attribution_html: null
+        attribution_name: Harrision County Pickleball
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: united-states
+    city_id: 564097252
+    slug: clarksburg-veterans-memorial-park
+    path: /courts/us/west-virginia/united-states/clarksburg-veterans-memorial-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T16:19:47.790Z"
+    updated_at: "2024-09-09T09:57:07.110Z"
+    schedule_sources_updated_at: "2024-09-06T20:28:26.454Z"
+  - id: fa2e1437-2266-4063-a09f-5459fd15a795
+    title: Coonskin Park
+    address: "Henry C. Shores Dr, Charleston, WV 25311, USA"
+    lat: 38.39564
+    lng: -81.58169
+    coords: "0101000000419AB1683A6554C0A67EDE54A4324340"
+    phone: "3043418000"
+    email: null
+    url: "http://www.kcprc.com/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/0w7DOjXTTSmKhoYoEjWu"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: charleston
+    city_id: 1840006196
+    slug: coonskin-park
+    path: /courts/us/west-virginia/charleston/coonskin-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T13:06:18.900Z"
+    updated_at: "2023-04-24T06:21:18.927Z"
+    schedule_sources_updated_at: null
+  - id: "23a19e1c-fe3a-4659-a07b-045549d270ea"
+    title: Daniels Missionary Baptist Church Gymnasium
+    address: "152 C And O Dam Rd, Daniels, WV, 25832, USA"
+    lat: 37.742667
+    lng: -81.123183
+    coords: "0101000000151BF33AE24754C0C26856B60FDF4240"
+    phone: null
+    email: null
+    url: "http://www.dmbcwv.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ic6QXphCTeuUy4YnY31m"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/DanielsMissionaryBaptistChurch/photos/pb.100064854931694.-2207520000./535086373208262/?type=3"
+        attribution_html: null
+        attribution_name: Daniels Missionary Baptist Church
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: daniels
+    city_id: 1840038126
+    slug: daniels-missionary-baptist-church-gymnasium
+    path: /courts/us/west-virginia/daniels/daniels-missionary-baptist-church-gymnasium
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T00:49:32.414Z"
+    updated_at: "2022-12-30T02:17:40.129Z"
+    schedule_sources_updated_at: null
+  - id: "5f2d6298-145c-461b-a4f5-d11b0ed427bf"
+    title: David Henry Memorial Park
+    address: "95 Biser St, Berkeley Springs, WV 25411, USA"
+    lat: 39.6213563
+    lng: -78.22758859999999
+    coords: "0101000000507CC6CF908E53C0F0D46D9A88CF4340"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [clay]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/d8jgEKwXSVBPpk9MxhSA"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/104950541559669332978"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/104950541559669332978\">Carlyn Swaim</a>"
+        attribution_name: Carlyn Swaim
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: berkeley-springs
+    city_id: 1840038304
+    slug: david-henry-memorial-park
+    path: /courts/us/west-virginia/berkeley-springs/david-henry-memorial-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-07-29T08:31:15.145Z"
+    updated_at: "2025-07-29T08:52:05.770Z"
+    schedule_sources_updated_at: null
+  - id: ebde0c01-3333-48a6-87c5-2acc26d4d209
+    title: Dumont Tri-County YMCA
+    address: "200 Carls Lane, Scott Depot, WV, USA"
+    lat: 38.4505333
+    lng: -81.92786269999999
+    coords: "010100000068EB3B1A627B54C025A13E13AB394340"
+    phone: "+13047570016"
+    email: null
+    url: "https://www.ymca.org/locations/dumont-tri-county-ymca-inc"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [locker rooms, restrooms, water]
+    description: ""
+    access_details: "Daily fee, monthly fee, or membership"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/29rEj8xsQjquKObrki97"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/105744201125683444958"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/105744201125683444958\">Laeeq Ahmed</a>"
+        attribution_name: Laeeq Ahmed
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: teays-valley
+    city_id: 1840038312
+    slug: dumont-tri-county-ymca
+    path: /courts/us/west-virginia/teays-valley/dumont-tri-county-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-03-07T06:33:31.200Z"
+    updated_at: "2025-03-07T06:36:50.746Z"
+    schedule_sources_updated_at: "2025-03-07T06:36:49.887Z"
+  - id: "3f9aed15-af8a-4e26-9e5e-b45fb6cbb25f"
+    title: Dunbar Recreation Center
+    address: "2601 Fairlawn Avenue, Dunbar, WV 25064, USA"
+    lat: 38.3714416
+    lng: -81.7492682
+    coords: "0101000000B3BB9B02F46F54C0DC2FFA658B2F4340"
+    phone: null
+    email: null
+    url: "https://cityofdunbarwv.gov/contactus.html"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/023FKpUaQWGtqtnS8G3Z"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: dunbar
+    city_id: 1840006197
+    slug: dunbar-recreation-center
+    path: /courts/us/west-virginia/dunbar/dunbar-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-06-05T10:11:01.771Z"
+    updated_at: "2026-06-05T10:17:09.804Z"
+    schedule_sources_updated_at: null
+  - id: e1f96c61-859e-4d39-af7a-cab907bde180
+    title: East End Park
+    address: "East End Park, 236 Curtis Ave, Moundsville, WV 26041, USA"
+    lat: 39.9222259
+    lng: -80.72990279999999
+    coords: "010100000090D03BBAB62E54C01803907F0BF64340"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ZAwkNeeSheoIxtEhIWqh"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/108841453236374574125"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108841453236374574125\">Scott Green</a>"
+        attribution_name: Scott Green
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: moundsville
+    city_id: 1840005557
+    slug: east-end-park
+    path: /courts/us/west-virginia/moundsville/east-end-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-22T07:05:58.131Z"
+    updated_at: "2023-08-22T07:08:37.310Z"
+    schedule_sources_updated_at: null
+  - id: "7bfcfab4-a628-47d3-b57b-cd84c3ccd50b"
+    title: East Marion Park
+    address: "35 City View Ter, Fairmont, WV, 26554, USA"
+    lat: 39.47137
+    lng: -80.13024
+    coords: "0101000000632827DA550854C0632827DA55BC4340"
+    phone: "3043631249"
+    email: null
+    url: "https://www.mcparc.com/east-marion-park.html"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/xq93eD0SuWDARTXrMDQb"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: fairmont
+    city_id: 1840005732
+    slug: east-marion-park
+    path: /courts/us/west-virginia/fairmont/east-marion-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T00:16:06.792Z"
+    updated_at: "2023-04-24T06:29:54.677Z"
+    schedule_sources_updated_at: null
+  - id: b74e888c-56bd-4808-9294-0b119016fd01
+    title: Edgington Lane
+    address: "129 21st Ln, Wheeling, WV 26003, USA"
+    lat: 40.0774114
+    lng: -80.68156979999999
+    coords: "01010000003D3CF0D69E2B54C036ABE39DE8094440"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/iIK9Muo9RLKnlMSaOyaw"
+        source: user
+        attribution_url: "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/436311430_971290038335119_5179856060060087394_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Y7wsqtJVYLIQ7kNvgHIgjZi&_nc_ht=scontent-lax3-2.xx&gid=AFdLuKeMwFyr6I49-yiIUrM&oh=00_AYBI1Ew3osharqW-OgrfbYnF2Jq8_m2mLLhzCu2zDnHAjQ&oe=668C4421"
+        attribution_html: null
+        attribution_name: "Pickleball Wheeling, West Virginia"
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: wheeling
+    city_id: 1840005510
+    slug: edgington-lane
+    path: /courts/us/west-virginia/wheeling/edgington-lane
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-07-04T10:47:25.640Z"
+    updated_at: "2024-07-04T11:25:42.772Z"
+    schedule_sources_updated_at: null
+  - id: "00fdb9bd-8b3f-4097-952a-b245e2f4a1a4"
+    title: Eleanor pickleball courts
+    address: "12314 Charleston Road, Eleanor, WV, USA"
+    lat: 38.5373355
+    lng: -81.92897889999999
+    coords: "0101000000238BEA63747B54C06ABDDF68C7444340"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/TZDxMbjuTESDBThLQuNh"
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: eleanor
+    city_id: 1840006179
+    slug: eleanor-pickleball-courts
+    path: /courts/us/west-virginia/eleanor/eleanor-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-09-13T07:22:58.647Z"
+    updated_at: "2024-09-13T07:22:58.647Z"
+    schedule_sources_updated_at: null
+  - id: "739af768-0ec3-4ccc-85fb-a4ef5358b940"
+    title: Elkins City Park
+    address: "100 Park Street, Elkins, WV, USA"
+    lat: 38.9261082
+    lng: -79.846679
+    coords: "010100000070CD1DFD2FF653C05AC7A7B68A764340"
+    phone: "+13046363960"
+    email: ""
+    url: "https://www.facebook.com/share/g/y6HdLBcVZom9ufxa/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 3
+    total_courts: 6
+    has_pickleball: true
+    surface: [asphalt, hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: ""
+    access_details: None
+    schedule_details: Open Play most weekday evenings
+    images:
+      - url: "https://cdn.filestackcontent.com/B5jRksKnSz2NaCvgue7s"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: elkins
+    city_id: 1840005991
+    slug: elkins-city-park
+    path: /courts/us/west-virginia/elkins/elkins-city-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-09-09T10:43:48.580Z"
+    updated_at: "2024-09-09T12:21:09.801Z"
+    schedule_sources_updated_at: null
+  - id: "1117ff06-c94e-4bd0-a862-948ef9d1ea54"
+    title: Elkins Randolph County YMCA
+    address: "400 Davis Ave, Elkins, WV, 26241, USA"
+    lat: 38.926483
+    lng: -79.849293
+    coords: "010100000031EE06D15AF653C065A6B4FE96764340"
+    phone: "3046364515"
+    email: null
+    url: "http://www.elkinsymca.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: true
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/uVIgb7eFSzuwSVXWyzB7"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115856554290638922608"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115856554290638922608\">Michael Moore</a>"
+        attribution_name: Michael Moore
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: elkins
+    city_id: 1840005991
+    slug: elkins-randolph-county-ymca
+    path: /courts/us/west-virginia/elkins/elkins-randolph-county-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T02:00:18.797Z"
+    updated_at: "2023-10-18T00:31:57.802Z"
+    schedule_sources_updated_at: null
+  - id: "184fb35b-da65-43b5-9798-2e0d2d40f71e"
+    title: Fayette County Soldiers and Sailors Memorial Building
+    address: "200 W Maple Ave, Fayetteville, WV 25840, United States"
+    lat: 38.0521405
+    lng: -81.10538489999999
+    coords: "010100000080BF4EA0BE4654C00726378AAC064340"
+    phone: "+13045741111"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/xpNNGuZoQUCva0sxh1b4"
+        source: user
+        visible: true
+        attribution_url: "https://fayettecounty.wv.gov/departments/Pages/Fayette-County-Soldier-and-Sailors-Memorial-Building.aspx"
+        attribution_html: null
+        attribution_name: Fayette County Gov
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: fayetteville
+    city_id: 1840006293
+    slug: fayette-county-soldiers-and-sailors-memorial-building
+    path: /courts/us/west-virginia/fayetteville/fayette-county-soldiers-and-sailors-memorial-building
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-09T19:27:25.738Z"
+    updated_at: "2023-08-10T02:57:49.089Z"
+    schedule_sources_updated_at: null
+  - id: b3512402-5cd1-411b-a213-fe12834945e7
+    title: Glade Springs Resort
+    address: "151 Groundskeepers Ln, Daniels, WV 25832, USA"
+    lat: 37.719091
+    lng: -81.0699459
+    coords: "0101000000503F5EFE794454C089EC832C0BDC4240"
+    phone: null
+    email: along@gladesprings.com
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/CqcGsKSHCiuehlGGAIy1"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/112292675390375571037"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112292675390375571037\">A Cope</a>"
+        attribution_name: A Cope
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: daniels
+    city_id: 1840038126
+    slug: glade-springs-resort
+    path: /courts/us/west-virginia/daniels/glade-springs-resort
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-04-16T04:53:27.849Z"
+    updated_at: "2025-04-16T05:07:41.151Z"
+    schedule_sources_updated_at: null
+  - id: e54e5cbd-3655-43fb-aac5-2da6ad77ff02
+    title: Glenwood Recreational Park
+    address: "8RPQ+2M Glenwood, WV, USA"
+    lat: 37.3350501
+    lng: -81.16077779999999
+    coords: "01010000000F3BF82E4A4A54C0C102F3EBE2AA4240"
+    phone: "+13044251681"
+    email: null
+    url: "https://www.gardnercenter.org/glenwoodpark/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ZQeDpdd2RBW6foSohh9x"
+        source: user
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipNtRZC2WZOdiPYyf_PyxL1y4EyqN7NeIuWmHKyq=s680-w680-h510"
+        attribution_html: null
+        attribution_name: Glenwood Recreational Park
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: glenwood
+    city_id: 1840038136
+    slug: glenwood-recreational-park
+    path: /courts/us/west-virginia/glenwood/glenwood-recreational-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-06-20T10:21:45.776Z"
+    updated_at: "2024-06-20T10:51:50.966Z"
+    schedule_sources_updated_at: null
+  - id: "5d9d0f0a-9dd6-4ed3-8bbf-7a00f8a117c9"
+    title: Granville Pickleball Court
+    address: "453 Dents Run Blvd, Morgantown, WV, 26501, USA"
+    lat: 39.642107
+    lng: -79.985691
+    coords: "01010000008A3DB48F15FF53C02FC4EA8F30D24340"
+    phone: "3042883881"
+    email: null
+    url: "https://www.morgantownpickleball.com/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/oFNFFBvSW2vQBhWRzGCc"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: morgantown
+    city_id: 1840005647
+    slug: granville-pickleball-court
+    path: /courts/us/west-virginia/morgantown/granville-pickleball-court
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T13:30:58.476Z"
+    updated_at: "2022-12-30T02:54:29.442Z"
+    schedule_sources_updated_at: null
+  - id: f2f35c2a-99aa-47e1-b8f7-9796346c4d67
+    title: Gripped Fitness & Pickleball
+    address: "216 Hinkle Rd, Fayetteville, WV 25840, USA"
+    lat: 38.02363709999999
+    lng: -81.1209253
+    coords: "01010000009330783DBD4754C072BC5D8A06034340"
+    phone: "+13047196572"
+    email: null
+    url: "https://www.grippedfitness.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ORSY60NS7yS8mW9uSRF4"
+        source: user
+        attribution_url: "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw-xcdKx1Bd6u-0YihcLU5F2a0FFg9sjXMPzh0ueC6xybtVOPUoyOEjlZ01GEJNv1mFXNH63OIXDGlotYmN55KMFkg2iZEvwkxkz-xEIi5_sQcssMgx1X7LknmLHk-N4YJHHxnISJFnxtdE=s680-w680-h510-rw"
+        attribution_html: null
+        attribution_name: Kimberly Shingledecker
+      - url: "https://cdn.filestackcontent.com/Dx1yRzpuSNuX1p4yvZww"
+        source: user
+        attribution_url: "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyjgHk3tClTcrINWpBlItwqVhgFN5biJp_W0ndXgc-Jwt9lSRlzkB-mNBA-BrUBT8cI7LBbVDDCfG7kb4s5cLIgZV4wg-0UJMQo4SesS_q-GKn4Bfwch39O6T0pak1MZhjgJyjEgnjl3WFx=s680-w680-h510-rw"
+        attribution_html: null
+        attribution_name: Kimberly Shingledecker
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: fayetteville
+    city_id: 1840006293
+    slug: gripped-fitness-and-pickleball
+    path: /courts/us/west-virginia/fayetteville/gripped-fitness-and-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-12-30T06:18:13.011Z"
+    updated_at: "2025-12-30T06:29:12.579Z"
+    schedule_sources_updated_at: null
+  - id: "67b315e4-4a38-4e74-857b-2b08f3357bc7"
+    title: Harrison County YMCA
+    address: "Hillside St, Clarksburg, WV 26301, USA"
+    lat: 39.277286
+    lng: -80.3484087
+    coords: "0101000000140901544C1654C0BFD18E1B7EA34340"
+    phone: "3044762595"
+    email: null
+    url: "http://www.harrisoncountyymca.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/xdtpo0bASsuJvVX9P01i"
+        source: user
+        visible: true
+        attribution_url: "https://www.harrisoncountyymca.org/membership"
+        attribution_html: null
+        attribution_name: Harrison County YMCA
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: clarksburg
+    city_id: 1840005767
+    slug: harrison-county-ymca
+    path: /courts/us/west-virginia/clarksburg/harrison-county-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T06:55:05.722Z"
+    updated_at: "2022-12-30T03:09:04.505Z"
+    schedule_sources_updated_at: null
+  - id: "2cb263e1-3913-44fd-b721-e0b30c2f6ee3"
+    title: Highlands Sports Complex
+    address: "225 McCormick Way, Triadelphia, WV, 26059, USA"
+    lat: 40.055833
+    lng: -80.606018
+    coords: "010100000064B2B8FFC82654C0CF84268925074440"
+    phone: "3042389650"
+    email: null
+    url: "https://www.highlandssports.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, wheelchair accessible, food]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/4MUj2SuDRTCTsI0MhQ14"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Kristin Sosnak
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: triadelphia
+    city_id: 1840005512
+    slug: highlands-sports-complex
+    path: /courts/us/west-virginia/triadelphia/highlands-sports-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T21:48:48.013Z"
+    updated_at: "2024-05-13T12:37:23.375Z"
+    schedule_sources_updated_at: null
+  - id: "4204be5f-7231-4c7f-9b40-d008665892b6"
+    title: Hollowell Park
+    address: "186 Matthews St, Lewisburg, WV 24901"
+    lat: 37.81389
+    lng: -80.44353
+    coords: "0101000000DF32A7CB621C54C04E452A8C2DE84240"
+    phone: null
+    email: null
+    url: "https://www.mypacer.com/routes/333844/hollowell-park-walking-and-running-lewisburg-west-virginia-usa"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/16q8W4MVSaWaa1hDhTOQ"
+        source: user
+        visible: true
+        attribution_url: "https://wvdn.com/34919/"
+        attribution_html: null
+        attribution_name: WV Daily News
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: lewisburg
+    city_id: 1840006285
+    slug: hollowell-park
+    path: /courts/us/west-virginia/lewisburg/hollowell-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-04T03:32:07.588Z"
+    updated_at: "2023-04-26T03:50:43.217Z"
+    schedule_sources_updated_at: null
+  - id: "3941ac54-21ea-4185-b248-a90d4584f715"
+    title: Hough Park
+    address: "100 Park Drive, Mannington, WV - West Virginia 26582, USA"
+    lat: 39.529998
+    lng: -80.35145
+    coords: "0101000000780B24287E1654C0037976F9D6C34340"
+    phone: "+13049862700"
+    email: null
+    url: "http://www.cityofmannington.com"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/NdD18ByYQya1XIVKuXdh"
+        source: user
+        visible: true
+        attribution_url: "https://marioncvb.com/wp-content/uploads/2020/06/Hough-Park-sign.jpg"
+        attribution_html: null
+        attribution_name: Marion County
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: mannington
+    city_id: 1840005733
+    slug: hough-park
+    path: /courts/us/west-virginia/mannington/hough-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-21T04:57:41.940Z"
+    updated_at: "2023-04-21T04:57:41.940Z"
+    schedule_sources_updated_at: null
+  - id: "512bd534-78a6-45af-ad99-f0d2d27b6da8"
+    title: Howard Long Wellness Center
+    address: "800 Medical Park Rd, Wheeling, WV 26003, USA"
+    lat: 40.0648133
+    lng: -80.68752219999999
+    coords: "010100000088111D5D002C54C044EC5DCD4B084440"
+    phone: "+13042429355"
+    email: null
+    url: "https://wvumedicine.org/wheeling/services/howard-long-wellness-center/"
+    reservation_url: "https://wvumedicine.org/wheeling/services/howard-long-wellness-center/"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 4
+    total_courts: 7
+    has_pickleball: true
+    surface: [asphalt, wood]
+    lines: permanent
+    nets: portable
+    amenities: [food, locker rooms, restrooms, water]
+    description: The Wellness Center has indoor courts that have all the amenities.  The outdoor courts do not have the amenities.
+    access_details: "Membership, Guests, Silver Sneakers"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/qJ7TeYUqS9eRwOFadjTF"
+        source: user
+        attribution_url: "https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/43727776_1832893473475387_1928501154115747840_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=2a1932&_nc_ohc=sD7LT-8iavMQ7kNvgHhwisJ&_nc_ht=scontent-lax3-1.xx&gid=AnFWVgeKSlJJAcnLFkwAlje&oh=00_AYAzM8r4Eqh9SjoBN938wMNb0MIxyV3KBdfnaixzYZXD5A&oe=66AE0EFC"
+        attribution_html: null
+        attribution_name: Howard Long Wellness Center of Wheeling Hospital
+      - url: "https://cdn.filestackcontent.com/Y49gMjARSdyF6flFz3Qp"
+        source: user
+        attribution_url: "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/305222832_521154430012296_8020048848954142462_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=R8rIi7zY-TAQ7kNvgFQlLSJ&_nc_ht=scontent-lax3-2.xx&oh=00_AYDOGaKK9fYxzm2O_dl04PwiEUjeUN_RugMSyE8lri3Jqw&oe=668C58FD"
+        attribution_html: null
+        attribution_name: Howard Long Wellness Center of Wheeling Hospital
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: wheeling
+    city_id: 1840005510
+    slug: howard-long-wellness-center
+    path: /courts/us/west-virginia/wheeling/howard-long-wellness-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-07-04T10:47:44.320Z"
+    updated_at: "2024-07-04T11:23:43.631Z"
+    schedule_sources_updated_at: null
+  - id: c438236a-4d7c-4939-b694-f86fdba72253
+    title: Hurricane Bridge Park
+    address: "3255 Teays Valley Road, Hurricane, WV 25526, USA"
+    lat: 38.4347312
+    lng: -82.0107771
+    coords: "0101000000ED026F92B08054C082469F45A5374340"
+    phone: "+13045625896"
+    email: null
+    url: "https://www.hurricanewv.com/residents/city-projects/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/cKe1fbWhTaWTauNJhpu3"
+        source: user
+        visible: true
+        attribution_url: "https://www.hurricanebreezenews.com/wp-content/uploads/2022/04/PICKEBALL2-1024x768.jpg"
+        attribution_html: null
+        attribution_name: "Hurricane Breeze "
+      - url: "https://cdn.filestackcontent.com/tpyJIg0RSiXqAX66VN5s"
+      - url: "https://cdn.filestackcontent.com/qyaHUY23SEaGijKoK9q5"
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: hurricane
+    city_id: 1840006180
+    slug: hurricane-bridge-park
+    path: /courts/us/west-virginia/hurricane/hurricane-bridge-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-07-10T04:51:06.444Z"
+    updated_at: "2025-09-01T04:54:18.709Z"
+    schedule_sources_updated_at: null
+  - id: a4da880a-896b-4f7d-a0bd-8612c10a1059
+    title: Jackson Park
+    address: "4913 McClung Street, South Charleston, WV, USA"
+    lat: 38.3506102
+    lng: -81.7320672
+    coords: "01010000005B9E6230DA6E54C06F5287CBE02C4340"
+    phone: "+13047446587"
+    email: null
+    url: "https://parks.cityofsouthcharleston.com/jackson/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt, hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/lz4JeU6mTiOGJWtaFVZz"
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: south-charleston
+    city_id: 1840006200
+    slug: jackson-park
+    path: /courts/us/west-virginia/south-charleston/jackson-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-14T10:40:50.922Z"
+    updated_at: "2024-08-14T11:03:20.980Z"
+    schedule_sources_updated_at: null
+  - id: "6ea9b92c-6466-4b3d-9117-1307a22084db"
+    title: Jackson Park
+    address: "1605 34th St, Vienna, WV 26105, United States"
+    lat: 39.3243228
+    lng: -81.53802429999999
+    coords: "0101000000023D79FD6E6254C06FACD56883A94340"
+    phone: null
+    email: null
+    url: "https://m.facebook.com/groups/627140109395641/?ref=share"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: "Open play every morning at 9am, and every evening, times vary, contact MOV Facebook Page"
+    images:
+      - url: "https://cdn.filestackcontent.com/cKK7MysKTlijNDQlC8Jz"
+        source: user
+        attribution_url: "https://vienna-wv.com/ImageRepository/Document?documentID=364"
+        attribution_html: null
+        attribution_name: "Vienna, WV"
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: vienna
+    city_id: 1840005787
+    slug: jackson-park
+    path: /courts/us/west-virginia/vienna/jackson-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-12T11:07:07.903Z"
+    updated_at: "2024-08-12T11:14:02.298Z"
+    schedule_sources_updated_at: null
+  - id: b50565ad-98a5-4286-a222-d53bb6ba00ed
+    title: Jackson Park Pickleball Courts
+    address: "1601 34th St, Vienna, WV 26105, USA"
+    lat: 39.3256831
+    lng: -81.53547069999999
+    coords: "0101000000D61DE626456254C011AEDBFBAFA94340"
+    phone: "+13042954541"
+    email: null
+    url: "https://vienna-wv.com/Facilities/Facility/Details/Jackson-Memorial-Park-1"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/xJOZpbaS2mSsSOpDY0TQ"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/9YAGpEgTT5NqPyQn8egA"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: vienna
+    city_id: 1840005787
+    slug: jackson-park-pickleball-courts
+    path: /courts/us/west-virginia/vienna/jackson-park-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-07-20T04:28:25.211Z"
+    updated_at: "2023-07-21T05:11:58.276Z"
+    schedule_sources_updated_at: null
+  - id: "38cbdc5d-5dd9-48a0-b894-b45432b9d5dc"
+    title: James Hite Park
+    address: "25-45 Hite Rd, Kearneysville, WV 25430, United States"
+    lat: 39.3503667
+    lng: -77.8989033
+    coords: "01010000000EF1B4A1877953C0C10DE7D0D8AC4340"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 9
+    total_courts: 9
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/h6gE7r9dShKiT2v1QeM1"
+        source: user
+        attribution_url: "https://www.facebook.com/jeffcounty.parksnrec/posts/construction-is-wrapping-up-on-the-new-pickleball-courts-at-james-hite-park-and-/989782906737936/"
+        attribution_html: null
+        attribution_name: Jefferson County Parks and Recreation Commission
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: kearneysville
+    city_id: 1840038144
+    slug: james-hite-park
+    path: /courts/us/west-virginia/kearneysville/james-hite-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-05-21T01:12:12.806Z"
+    updated_at: "2026-05-21T01:12:12.806Z"
+    schedule_sources_updated_at: null
+  - id: "43b91a8b-75da-499d-a29d-f38d21e0d69c"
+    title: Jefferson Memorial Park
+    address: "801 S Mildred St, Charles Town, WV 25414, United States"
+    lat: 39.2823692
+    lng: -77.85274079999999
+    coords: "0101000000C0FD254E937653C0E7B287AC24A44340"
+    phone: "+1 (304) 725-8313"
+    email: null
+    url: "https://jmpark.org"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [lighted, restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/9maohJTZa4PGtYULoctw"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/103567748167123697169"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103567748167123697169\">Eugene Weatherholt</a>"
+        attribution_name: Eugene Weatherholt
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: charles-town
+    city_id: 1840005759
+    slug: jefferson-memorial-park
+    path: /courts/us/west-virginia/charles-town/jefferson-memorial-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-05-22T09:37:36.501Z"
+    updated_at: "2025-05-22T10:14:03.931Z"
+    schedule_sources_updated_at: null
+  - id: "591f7c69-f2ed-4285-bdc4-b3944188f52d"
+    title: John G. McKinley court
+    address: "404 2nd Ave, Ripley, WV, USA"
+    lat: 38.815295
+    lng: -81.6998371
+    coords: "0101000000C2418C21CA6C54C0D1CB28965B684340"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: ripley
+    city_id: 1840006008
+    slug: john-g-mckinley-court
+    path: /courts/us/west-virginia/ripley/john-g-mckinley-court
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-23T15:57:18.030Z"
+    updated_at: "2025-06-23T15:57:18.030Z"
+    schedule_sources_updated_at: null
+  - id: "7b35a439-aebb-42f2-a92b-21a94bbbe086"
+    title: Joplin Park
+    address: "2115 Kanawha Turnpike Access, South Charleston, WV, USA"
+    lat: 38.3633515
+    lng: -81.67593180000001
+    coords: "0101000000E5D47377426B54C0EDB94C4D822E4340"
+    phone: "+13047440059"
+    email: null
+    url: "https://parks.cityofsouthcharleston.com/joplin/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: No fee
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/9kiNVs6fSEnMHJoxeFwJ"
+        source: user
+        attribution_url: "https://www.wchstv.com/resources/media2/16x9/full/1015/center/80/f1a3e3ec-8ce0-4a4b-a162-3b4fa5d08019-large16x9_Screenshot20240529163116.png"
+        attribution_html: null
+        attribution_name: WCHS
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: south-charleston
+    city_id: 1840006200
+    slug: joplin-park
+    path: /courts/us/west-virginia/south-charleston/joplin-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-21T07:39:18.088Z"
+    updated_at: "2025-03-03T06:43:59.348Z"
+    schedule_sources_updated_at: null
+  - id: "6edcf037-4f16-4c5d-ad4c-91fa12aae022"
+    title: Kanawha City Community Center
+    address: "3511 Venable Ave, Charleston, WV 25304, USA"
+    lat: 38.3265733
+    lng: -81.5973518
+    coords: "01010000003B4D0B033B6654C0979F6527CD294340"
+    phone: "+13043486484"
+    email: null
+    url: "https://getactivecwv.com/kanawha-city"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/FY8ORyC6QnGgwQ9KkdyN"
+        source: user
+        attribution_url: "https://getactivecwv.com/images/pics/lg/lg-pic-1529616107.jpg"
+        attribution_html: null
+        attribution_name: Charleston Parks
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: charleston
+    city_id: 1840006196
+    slug: kanawha-city-community-center
+    path: /courts/us/west-virginia/charleston/kanawha-city-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-07-23T10:37:41.523Z"
+    updated_at: "2025-07-23T10:37:41.523Z"
+    schedule_sources_updated_at: null
+  - id: "5cc87fbc-2804-46e1-98a3-c3c87ecf0237"
+    title: Krepps Park
+    address: "1235 Parkview Dr, Morgantown, WV, 26505, USA"
+    lat: 39.650734
+    lng: -79.977444
+    coords: "0101000000F96A47718EFE53C0983270404BD34340"
+    phone: "3046850572"
+    email: null
+    url: "http://www.boparc.org/krepps-park.html"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/8kfwJAvnRvyvVyU2YB7o"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: morgantown
+    city_id: 1840005647
+    slug: krepps-park
+    path: /courts/us/west-virginia/morgantown/krepps-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T16:08:44.860Z"
+    updated_at: "2024-10-29T11:46:54.825Z"
+    schedule_sources_updated_at: null
+  - id: a6cf2bd4-a28b-4d24-b1f7-db1713698c1f
+    title: Linkous Park
+    address: "Linkous Park Dr, Welch, WV 24801, USA"
+    lat: 37.4281762
+    lng: -81.5854653
+    coords: "0101000000571C7343786554C079F64B7ACEB64240"
+    phone: null
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Snk9MLvcS46VmuJ4perJ"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: welch
+    city_id: 1840006422
+    slug: linkous-park
+    path: /courts/us/west-virginia/welch/linkous-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T19:29:07.903Z"
+    updated_at: "2022-12-30T04:11:35.495Z"
+    schedule_sources_updated_at: null
+  - id: ccb88db4-50b6-4f2b-9d16-d5303049c88b
+    title: MacD Pickleball Club
+    address: "Linkous Park, 201 Riverside Dr, Welch, WV 24801, USA"
+    lat: 37.42662
+    lng: -81.5842306
+    coords: "0101000000A314BE08646554C0E6E8F17B9BB64240"
+    phone: "+13046872759"
+    email: jay@picklesavvy.com
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/roTl3dZcTXWf0kjKHlST"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/MacDPickleball/photos/1461453294241238"
+        attribution_html: null
+        attribution_name: MacD Pickleball Club
+      - url: "https://cdn.filestackcontent.com/gUG4jw45Ry5leDZW2RS4"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/MacDPickleball/photos/771517516568156"
+        attribution_html: null
+        attribution_name: MacD Pickleball Club
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: welch
+    city_id: 1840006422
+    slug: macd-pickleball-club
+    path: /courts/us/west-virginia/welch/macd-pickleball-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-29T17:39:20.892Z"
+    updated_at: "2024-06-20T09:53:33.777Z"
+    schedule_sources_updated_at: null
+  - id: b9b3dc04-c283-4319-8919-e313d5325ef4
+    title: Marilla Park Pickleball
+    address: "798 E Brockway Ave, Morgantown, WV 26501, USA"
+    lat: 39.6290643
+    lng: -79.93670399999999
+    coords: "0101000000128255F5F2FB53C063CAD12D85D04340"
+    phone: "+13042968356"
+    email: adminoffice@boparc.org
+    url: "https://www.boparc.org/marilla-park.html"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/HSeTzftaQum1bODYK8uh"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/wyTUhcsLSlWkv7fHrxoi"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/X29GkgCPQCurmN2TLVJs"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/4rlIYjDTmKIOUQqRLnPg"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: morgantown
+    city_id: 1840005647
+    slug: marilla-park-pickleball
+    path: /courts/us/west-virginia/morgantown/marilla-park-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-20T10:21:57.478Z"
+    updated_at: "2025-06-20T10:51:06.379Z"
+    schedule_sources_updated_at: null
+  - id: a994dbab-caf0-483c-aa3e-a9cf18229530
+    title: Mary Lou Retton Park
+    address: "Mary Lou Retton Park - Pickleball Courts, Park Rd, Fairmont, WV 26554, USA"
+    lat: 39.4599567
+    lng: -80.1871273
+    coords: "0101000000156CC8E4F90B54C0BD0974DCDFBA4340"
+    phone: "+13043637037"
+    email: info@mcparc.com
+    url: "https://www.mcparc.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/mO42hvqvR7erXGG386B6"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/7qVf4LHSgGoeZqyRhm0G"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: fairmont
+    city_id: 1840005732
+    slug: mary-lou-retton-park
+    path: /courts/us/west-virginia/fairmont/mary-lou-retton-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-04-28T07:13:26.049Z"
+    updated_at: "2025-04-28T07:31:12.903Z"
+    schedule_sources_updated_at: null
+  - id: fa5595a4-4f1f-40bc-9f1a-93ec862d0203
+    title: Mason County Multi-Sport Complex
+    address: "27th Street, Point Pleasant, WV, USA"
+    lat: 38.8714323
+    lng: -82.1253228
+    coords: "01010000005DDCEB49058854C0CB96F6178B6F4340"
+    phone: "3045936613"
+    email: ed_cromley@hotmail.com
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt, acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, wheelchair accessible]
+    description: ""
+    access_details: Free to play
+    schedule_details: "Daily until 10:30 as lights automatically go out."
+    images:
+      - url: "https://cdn.filestackcontent.com/nKLlQoFSoyvck8pzOKEU"
+        source: user
+        attribution_url: "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/6/e7/6e735116-0571-11ee-bc6c-5b259d3f8a0e/6480e7f2ce0d7.image.jpg?resize=667%2C500"
+        attribution_html: null
+        attribution_name: WV News
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: point-pleasant
+    city_id: 1840006048
+    slug: mason-county-multi-sport-complex
+    path: /courts/us/west-virginia/point-pleasant/mason-county-multi-sport-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-15T09:58:22.258Z"
+    updated_at: "2024-09-09T10:28:58.988Z"
+    schedule_sources_updated_at: null
+  - id: d7ffc707-9f49-4181-aa8b-a8b312a52234
+    title: Midland Trail Community Center
+    address: "126 W Main St, Ansted, WV 25812, USA"
+    lat: 38.1328941
+    lng: -81.10475989999999
+    coords: "0101000000A91BDE62B44654C06AAA82AC02114340"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/jtQl8DDxRcG6RFl3sAwh"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/QLKDja78SeiMLhaqDZkw"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: ansted
+    city_id: 1840006299
+    slug: midland-trail-community-center
+    path: /courts/us/west-virginia/ansted/midland-trail-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-04T03:59:19.620Z"
+    updated_at: "2023-12-08T06:57:50.673Z"
+    schedule_sources_updated_at: null
+  - id: "1a5f94a3-e09c-484e-94c6-d26e2e47a96e"
+    title: Mylan Park  Sports Complex
+    address: "500 Mylan Park Lane, Morgantown, WV, USA"
+    lat: 39.639361
+    lng: -80.033519
+    coords: "0101000000DB32E02C250254C03FABCC94D6D14340"
+    phone: "3049739733"
+    email: info@mylanpark.org
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: true
+    indoor_courts: 6
+    outdoor_courts: 6
+    total_courts: 12
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, training]
+    description: ""
+    access_details: "Daily, monthly and yearly passes available.   Daily drop in fee $8.00.  Please call for additional info"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/aFe7k5ZzQ4u48G2dXvGV"
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: morgantown
+    city_id: 1840005647
+    slug: mylan-park-sports-complex
+    path: /courts/us/west-virginia/morgantown/mylan-park-sports-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-14T07:01:21.456Z"
+    updated_at: "2024-07-29T10:31:24.563Z"
+    schedule_sources_updated_at: null
+  - id: fafd6260-a1f4-429c-b769-1a86be0230ca
+    title: New Haven Pickleball Courts
+    address: "104 Butler Street, New Haven, WV, USA"
+    lat: 38.9863731
+    lng: -81.9650305
+    coords: "01010000001F49490FC37D54C0BB134779417E4340"
+    phone: "+13046745435"
+    email: bradsmithwv@outlook.com
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt, acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/F3lCL839TJSVZLj9xItC"
+        source: user
+        attribution_url: "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/452647694_485122647492700_2925917822071705688_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeF9WPjCD6icVq0lfMbXVyecg9LePFuZIp6D0t48W5kinj0WJpD7ohyWm33etPikCBwSvI_eQS637bVZewWGRKzH&_nc_ohc=zVV6zl4z7w4Q7kNvgFG9LbW&_nc_ht=scontent-lax3-1.xx&_nc_gid=AD5xm2pRtXxzKS6W66vEJ2t&oh=00_AYCJuk24GgP7-Fx1e8_rKwyslwMCqFc3830EfhvH7eHYVA&oe=66E4A6A0"
+        attribution_html: null
+        attribution_name: Town of New Haven WV
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: new-haven
+    city_id: 1840006051
+    slug: new-haven-pickleball-courts
+    path: /courts/us/west-virginia/new-haven/new-haven-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-09-09T11:06:28.332Z"
+    updated_at: "2024-09-09T11:47:19.102Z"
+    schedule_sources_updated_at: null
+  - id: "957acd3c-c6e5-43ac-b7c1-7f3e582fa6f1"
+    title: New River Park
+    address: "100 Adair St, Beckley, WV, 25801, USA"
+    lat: 37.784549
+    lng: -81.193469
+    coords: "01010000008CF2CCCB614C54C0048E041A6CE44240"
+    phone: "+13045751222"
+    email: null
+    url: "http://www.beckley.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/xUiyZrdmTVO92bTIpH3k"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: beckley
+    city_id: 1840006350
+    slug: new-river-park
+    path: /courts/us/west-virginia/beckley/new-river-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T00:19:08.282Z"
+    updated_at: "2026-01-30T06:21:26.683Z"
+    schedule_sources_updated_at: "2026-01-30T04:17:55.054Z"
+  - id: ccd4b6f6-f9dd-4bb5-a7cd-4166820b7a5b
+    title: Nitro Athletic Complex
+    address: "1651 Park Ave, Nitro, WV, 25143, USA"
+    lat: 38.422074
+    lng: -81.846762
+    coords: "0101000000B75F3E59317654C0F73E558506364340"
+    phone: null
+    email: null
+    url: "http://cityofnitro.org/"
+    reservation_url: null
+    facility_type: public
+    access: needs-audit
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 9
+    total_courts: 9
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms, water, lighted, training, youth]
+    description: ""
+    access_details: $5
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/DhfbKLoySweOJUmM5Eo1"
+      - url: "https://cdn.filestackcontent.com/MfVAph2ySRiefK9B0lEB"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Nitro Pickleball Courts
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: nitro
+    city_id: 1840006199
+    slug: nitro-athletic-complex
+    path: /courts/us/west-virginia/nitro/nitro-athletic-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T00:33:55.264Z"
+    updated_at: "2025-06-26T06:16:40.258Z"
+    schedule_sources_updated_at: null
+  - id: "410525c4-2a78-4730-8656-cfc4bd8962d8"
+    title: North Charleston Community Center
+    address: "2009 7th Ave, Charleston, WV, 25387, USA"
+    lat: 38.37352
+    lng: -81.6713
+    coords: "010100000082734694F66A54C07233DC80CF2F4340"
+    phone: "+13043486884"
+    email: null
+    url: "https://charlestonwv.com/listing/north-charleston-community-center/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: no fee
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/k6xMHCRsTSKoD8QzsQBH"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115562674805629473714"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115562674805629473714\">Tosha McCartney</a>"
+        attribution_name: Tosha McCartney
+      - url: "https://cdn.filestackcontent.com/vfJwaPXTxqjjL4F3eOYw"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/117648091215994301942"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117648091215994301942\">North Charleston Community Center</a>"
+        attribution_name: North Charleston Community Center
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: charleston
+    city_id: 1840006196
+    slug: north-charleston-community-center
+    path: /courts/us/west-virginia/charleston/north-charleston-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-31T22:14:25.958Z"
+    updated_at: "2025-03-07T06:20:42.534Z"
+    schedule_sources_updated_at: "2025-03-07T06:20:41.765Z"
+  - id: "6b798681-da8b-4037-90cd-48e7e7a90a78"
+    title: Nutter Fort Park
+    address: "1 Clarksburg Park Way, Clarksburg, WV, USA"
+    lat: 39.272469
+    lng: -80.36401599999999
+    coords: "010100000020CEC3094C1754C04016A243E0A24340"
+    phone: "+13046241655"
+    email: null
+    url: "https://cityparksofclarksburg.com/welcome"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: tape
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/w3DleB04Tgy4dV5qOAFo"
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: clarksburg
+    city_id: 1840005767
+    slug: nutter-fort-park
+    path: /courts/us/west-virginia/clarksburg/nutter-fort-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-07-25T10:25:51.014Z"
+    updated_at: "2024-07-25T10:56:35.256Z"
+    schedule_sources_updated_at: null
+  - id: "210d38b7-37fe-4265-b9ff-f24b715f4771"
+    title: Oglebay Tennis Center
+    address: "427 Broadway Dr, Wheeling, WV 26003, USA"
+    lat: 40.1044444
+    lng: -80.6570453
+    coords: "010100000064DFBA070D2A54C00B20216F5E0D4440"
+    phone: "+13042434040"
+    email: null
+    url: "https://oglebay.com/activities/tennis/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [food, restrooms, pro shop, lighted]
+    description: ""
+    access_details: $3.50 per hour
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/WeIC9AMpReLdjxnaIFwn"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: wheeling
+    city_id: 1840005510
+    slug: oglebay-tennis-center
+    path: /courts/us/west-virginia/wheeling/oglebay-tennis-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-07T09:51:44.098Z"
+    updated_at: "2024-05-07T09:52:05.493Z"
+    schedule_sources_updated_at: null
+  - id: "2d3d5c95-b923-4c9b-9160-c0ab21b4e8c5"
+    title: Ohio Valley Pickleball Club
+    address: "142 Gashell Run Rd, Triadelphia, WV 26059, USA"
+    lat: 40.0658706
+    lng: -80.6076531
+    coords: "010100000008F4D3C9E32654C04A62A4726E084440"
+    phone: ""
+    email: info@ovpickleball.com
+    url: "https://ovpickleball.com/"
+    reservation_url: "https://app.courtreserve.com/Online/Reservations/Index/10024"
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, locker rooms, water, lighted, training, youth]
+    description: ""
+    access_details: "Membership information can be found on CourtReserve: https://app.courtreserve.com/Online/Portal/Index/10024"
+    schedule_details: "Schedule can be found on CourtReserve: https://app.courtreserve.com/Online/Reservations/Index/10024"
+    images:
+      - url: "https://cdn.filestackcontent.com/K4Sm60ntSeao82xoqHYU"
+        source: user
+        attribution_url: "https://i0.wp.com/ovpickleball.com/wp-content/uploads/2023/05/st_paddy_classic_23-1.jpg?fit=2400%2C1600&ssl=1"
+        attribution_html: null
+        attribution_name: ovpickleball
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: triadelphia
+    city_id: 1840005512
+    slug: ohio-valley-pickleball-club
+    path: /courts/us/west-virginia/triadelphia/ohio-valley-pickleball-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-07-04T10:49:16.050Z"
+    updated_at: "2025-03-03T06:50:49.439Z"
+    schedule_sources_updated_at: null
+  - id: "0a4d579e-4611-426d-96dd-346b10375799"
+    title: Palisades Park
+    address: "119 Park St, Pineville, WV, 24874, USA"
+    lat: 37.5821
+    lng: -81.5358
+    coords: "0101000000984C158C4A6254C03480B74082CA4240"
+    phone: null
+    email: null
+    url: "https://visitwv.com/venue/pinevilles-palisades-park-2/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/hHXfjhsxTamLdmbyS17p"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/place/119+Park+St,+Pineville,+WV+24874,+USA/@37.5818586,-81.5388287,241m/data=!3m1!1e3!4m9!1m2!2m1!1sPalisades+Park+119+Park+St,+Pineville,+WV,+24874,+USA+pickleball+courts!3m5!1s0x884faca261e0ae27:0xbd22451942ac8679!8m2!3d37.5818639!4d-81.5366679!15sCkdQYWxpc2FkZXMgUGFyayAxMTkgUGFyayBTdCwgUGluZXZpbGxlLCBXViwgMjQ4NzQsIFVTQSBwaWNrbGViYWxsIGNvdXJ0c5IBEGdlb2NvZGVkX2FkZHJlc3PgAQA?hl=en-GB"
+        attribution_html: null
+        attribution_name: Palisades Park
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: pineville
+    city_id: 1840006383
+    slug: palisades-park
+    path: /courts/us/west-virginia/pineville/palisades-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T12:25:22.382Z"
+    updated_at: "2023-04-26T03:46:09.576Z"
+    schedule_sources_updated_at: null
+  - id: "9ee69dde-4e92-4f9a-8c65-777f50fe5634"
+    title: Parkersburg City Park
+    address: "1920 Park Ave, Parkersburg, WV 26101, USA"
+    lat: 39.2699713
+    lng: -81.5290496
+    coords: "01010000008F7DDAF2DB6154C0E72D686B8EA24340"
+    phone: null
+    email: null
+    url: "https://www.parkersburgwv.gov/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [asphalt, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/3yUPhJMISOKL1PmJVlJ9"
+        source: user
+        attribution_url: "https://s3-media0.fl.yelpcdn.com/bphoto/f3eWdclqrKX23gSFK8Vwhw/348s.jpg"
+        attribution_html: null
+        attribution_name: Yelp
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: parkersburg
+    city_id: 1840005786
+    slug: parkersburg-city-park
+    path: /courts/us/west-virginia/parkersburg/parkersburg-city-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-08T09:57:43.182Z"
+    updated_at: "2024-08-08T10:11:20.877Z"
+    schedule_sources_updated_at: null
+  - id: b9c6750b-04af-4fb4-91b9-889b946d5b25
+    title: Parkersburg YMCA
+    address: "1800 30th St, Parkersburg, WV, 26101, USA"
+    lat: 39.280424
+    lng: -81.52994
+    coords: "0101000000E7357689EA6154C0BA8102EFE4A34340"
+    phone: "3044281528"
+    email: null
+    url: "http://www.parkersburgymca.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/B6y2yl5wTkaICXSzxvhK"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/104045795707728137968"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/104045795707728137968\">Meloney Victory</a>"
+        attribution_name: Meloney Victory
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: parkersburg
+    city_id: 1840005786
+    slug: parkersburg-ymca
+    path: /courts/us/west-virginia/parkersburg/parkersburg-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T16:19:48.980Z"
+    updated_at: "2022-12-30T04:13:26.390Z"
+    schedule_sources_updated_at: null
+  - id: ec56cf26-e2fc-4f35-b6dc-3c341be71fb0
+    title: Pat's Pickleball Courts
+    address: "Sycamore Ave, Wheeling, WV, 26003, USA"
+    lat: 40.036691
+    lng: -80.660372
+    coords: "01010000006CCCEB88432A54C05D876A4AB2044440"
+    phone: "3042813486"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/eGZzBzoyQ7q3UI5UYzf5"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/WheelingPickleball/photos/5088200304582251"
+        attribution_html: null
+        attribution_name: "Pickleball Wheeling, West Virginia"
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: wheeling
+    city_id: 1840005510
+    slug: pats-pickleball-courts
+    path: /courts/us/west-virginia/wheeling/pats-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-07T04:46:52.339Z"
+    updated_at: "2025-09-29T08:55:18.410Z"
+    schedule_sources_updated_at: null
+  - id: "86ea9796-7870-4acc-a26f-6135f4e47dba"
+    title: Phil Gainer Community Center
+    address: "142 Robert E Lee Ave, Elkins, WV, 26241, USA"
+    lat: 38.925494
+    lng: -79.864753
+    coords: "01010000008B87F71C58F753C076525F9676764340"
+    phone: "3046357151"
+    email: null
+    url: "http://www.philgainercommunitycenter.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/cjVo37UMTL2dRBhtqXUQ"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/116705910719235244877"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/116705910719235244877\">Phil Gainer</a>"
+        attribution_name: Phil Gainer
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: elkins
+    city_id: 1840005991
+    slug: phil-gainer-community-center
+    path: /courts/us/west-virginia/elkins/phil-gainer-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T00:11:52.143Z"
+    updated_at: "2022-12-30T03:33:13.456Z"
+    schedule_sources_updated_at: null
+  - id: b5c06059-68cd-4ed3-bd1a-61488b02725c
+    title: Princeton Health and Fitness
+    address: "401 12th St Ext., Princeton, WV 24740, USA"
+    lat: 37.361509
+    lng: -81.119681
+    coords: "0101000000F73C7FDAA84754C0D61A4AED45AE4240"
+    phone: "+13044877876"
+    email: null
+    url: "https://www.princetonhealthandfitness.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: none
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Z9rYflNlSumbRWpwBy0D"
+        source: user
+        attribution_url: "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/327262971_1254734425392825_8227620380192594599_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=O_RnI854NkMQ7kNvgHdWXW3&_nc_ht=scontent-lax3-1.xx&oh=00_AYC1A3bYFrm17hBRaBhToKmx1_-ge7wUE8SYufNhd5ayKQ&oe=66E9D724"
+        attribution_html: null
+        attribution_name: Princeton Health & Fitness Center
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: princeton
+    city_id: 1840006402
+    slug: princeton-health-and-fitness
+    path: /courts/us/west-virginia/princeton/princeton-health-and-fitness
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-09-13T07:23:51.636Z"
+    updated_at: "2024-09-13T07:29:04.921Z"
+    schedule_sources_updated_at: null
+  - id: "8e1f666d-7b21-4fcb-8abc-dd0247440797"
+    title: Ritter Park
+    address: "1571 Ritter Park Dr, Huntington, WV, 25701, USA"
+    lat: 38.39915
+    lng: -82.4304
+    coords: "0101000000B30C71AC8B9B54C06519E25817334340"
+    phone: "3046334260"
+    email: null
+    url: "http://www.ghprd.org/index.php/ritter-park"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 14
+    total_courts: 14
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/3JqMlZ6ShKNwngcwGhZQ"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/iQPcc5iGRimjxlV72wLz"
+        source: user
+        visible: true
+        attribution_url: "https://www.ghprd.org/index.php/ritter-park"
+        attribution_html: null
+        attribution_name: Greater Huntington Park & Recreation
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: huntington
+    city_id: 1840006211
+    slug: ritter-park
+    path: /courts/us/west-virginia/huntington/ritter-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T03:03:35.114Z"
+    updated_at: "2026-05-11T03:57:43.375Z"
+    schedule_sources_updated_at: null
+  - id: "394f4677-5fe6-4390-80a3-4bf3b664b645"
+    title: Sam Michael's Park
+    address: "235 Sam Michael's Lane, Harpers Ferry, WV, USA"
+    lat: 39.3430628
+    lng: -77.80951759999999
+    coords: "01010000005462E822CF7353C0B23C597BE9AB4340"
+    phone: "3047283207"
+    email: tvanvliet@jcprc.org
+    url: "https://jeffersoncountywv.myrec.com/info/default.aspx"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: tape
+    nets: portable
+    amenities: [food, locker rooms, restrooms, water, wheelchair accessible]
+    description: null
+    access_details: $3
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Glu87yhSwum43frByyVg"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110273615238912583511"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110273615238912583511\">SVG Commercial Cleaning LLC</a>"
+        attribution_name: SVG Commercial Cleaning LLC
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: harpers-ferry
+    city_id: 1840005758
+    slug: sam-michaels-park
+    path: /courts/us/west-virginia/harpers-ferry/sam-michaels-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-07T10:20:11.845Z"
+    updated_at: "2026-01-16T09:52:48.813Z"
+    schedule_sources_updated_at: "2026-01-16T09:52:47.285Z"
+  - id: "0faa993f-366e-46b4-b3da-ca7c1fd314e4"
+    title: Shawnee Park
+    address: "2000 WV-25, Dunbar, WV 25064, USA"
+    lat: 38.3758354
+    lng: -81.76161139999999
+    coords: "0101000000B0D0BD3DBE7054C0ECD6D75F1B304340"
+    phone: "+13043575147"
+    email: null
+    url: "https://shawneesports.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/FiKevLlfS3mYwsXUSsEb"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/110089225688775418200"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110089225688775418200\">Matthew Bonar</a>"
+        attribution_name: Matthew Bonar
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: dunbar
+    city_id: 1840006197
+    slug: shawnee-park
+    path: /courts/us/west-virginia/dunbar/shawnee-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-21T07:39:38.488Z"
+    updated_at: "2024-12-29T07:37:48.274Z"
+    schedule_sources_updated_at: null
+  - id: "747368d1-8a83-4848-9b81-ee6c367b6443"
+    title: Sistersville City Park
+    address: "820 Chelsea St, Sistersville, WV 26175, USA"
+    lat: 39.562517
+    lng: -80.99768279999999
+    coords: "01010000000772F508DA3F54C0D6389B8E00C84340"
+    phone: "+13046521578"
+    email: null
+    url: "https://www.cityofsistersville.com/park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: "Newly built in 2024, outdoor courts are fenced, and adjacent to a children’s playground and outdoor pool."
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/GjwbJugxScSgsfG8Qi1y"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/OV6Y07EFRx6uXdlQADD0"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/eTxZqb89QG2WWBytZ8IC"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: sistersville
+    city_id: 1840005746
+    slug: sistersville-city-park
+    path: /courts/us/west-virginia/sistersville/sistersville-city-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-06-10T10:51:03.077Z"
+    updated_at: "2024-06-10T10:53:17.835Z"
+    schedule_sources_updated_at: null
+  - id: a10dbef7-fadc-486c-8473-272585b6b208
+    title: South Charleston Community Center
+    address: "601 Jefferson Rd, South Charleston, WV, 25309, USA"
+    lat: 38.357133
+    lng: -81.716549
+    coords: "0101000000D13E56F0DB6D54C043A9BD88B62D4340"
+    phone: "3047444731"
+    email: null
+    url: "http://cityofsouthcharleston.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: tape
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/KhdcNvMhTKGG6QYn8Jtp"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115562674805629473714"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115562674805629473714\">Tosha McCartney</a>"
+        attribution_name: Tosha McCartney
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: south-charleston
+    city_id: 1840006200
+    slug: south-charleston-community-center
+    path: /courts/us/west-virginia/south-charleston/south-charleston-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T14:12:21.415Z"
+    updated_at: "2024-01-11T09:55:14.624Z"
+    schedule_sources_updated_at: null
+  - id: d12a95f6-e942-4067-8f58-5e455563c0e3
+    title: Southwood Park
+    address: "2104 Belmont Rd, Parkersburg, WV, 26101, USA"
+    lat: 39.237388
+    lng: -81.551524
+    coords: "010100000062BD512B4C6354C03F3BE0BA629E4340"
+    phone: "3044248572"
+    email: null
+    url: "https://parkersburgcity.com/pc/services-2/parks-and-recreation/southwood-park/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 7
+    total_courts: 7
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/srFGtIpwQXi5xPSAkVjB"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Amy Lou
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: parkersburg
+    city_id: 1840005786
+    slug: southwood-park
+    path: /courts/us/west-virginia/parkersburg/southwood-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-10T19:23:03.826Z"
+    updated_at: "2023-04-24T06:54:00.359Z"
+    schedule_sources_updated_at: null
+  - id: "007c90cd-e77f-4d05-a77b-28aa10dfb131"
+    title: Starvaggi Park
+    address: "136 Starvaggi Drive, Weirton, WV, USA"
+    lat: 40.412812
+    lng: -80.52881459999999
+    coords: "01010000006D293119D82154C0BCB20B06D7344440"
+    phone: "3047978500"
+    email: null
+    url: "https://www.cityofweirton.com/183/Parks-Recreation"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, lighted]
+    description: Restrooms open during pool season.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/syxkYcXpSkKACiM74zqo"
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: weirton
+    city_id: 1840005405
+    slug: starvaggi-park
+    path: /courts/us/west-virginia/weirton/starvaggi-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-15T10:52:22.221Z"
+    updated_at: "2024-05-15T10:52:22.221Z"
+    schedule_sources_updated_at: null
+  - id: "1eea7c21-d646-4a71-8a7b-af23cbd36b0e"
+    title: Stonewall Resort
+    address: "940 Resort Dr, Roanoke, WV, 26447, USA"
+    lat: 38.949423
+    lng: -80.492632
+    coords: "0101000000A33D5E48871F54C0FD885FB186794340"
+    phone: "3042698860"
+    email: null
+    url: "https://www.stonewallresort.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: tennis
+    amenities: [food, locker rooms, restrooms, pro shop, water, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/CDoJD4kSMekV1uQAtwJj"
+        source: user
+        visible: true
+        attribution_url: "https://www.reservations.com/Hotel/stonewall-resort-roanoke-us"
+        attribution_html: null
+        attribution_name: STONEWALL RESORT
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: roanoke
+    city_id: 1840123058
+    slug: stonewall-resort
+    path: /courts/us/west-virginia/roanoke/stonewall-resort
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T04:29:21.730Z"
+    updated_at: "2022-12-30T02:10:34.444Z"
+    schedule_sources_updated_at: null
+  - id: "13928753-76f8-41ff-a408-d4a918541b1b"
+    title: The Bridge Sports Complex
+    address: "400 Forrester Blvd, Bridgeport, WV, 26330, USA"
+    lat: 39.309971
+    lng: -80.23219
+    coords: "0101000000541D7233DC0E54C0ADDA3521ADA74340"
+    phone: "3048488270"
+    email: null
+    url: "https://www.thebridgewv.com/"
+    reservation_url: null
+    facility_type: private
+    access: membership
+    has_reservations: null
+    indoor_courts: 12
+    outdoor_courts: 0
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [pro shop, restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/zONrzJKTQiKVUfZPqGkc"
+        source: user
+        visible: true
+        attribution_url: "https://www.thebridgewv.com/about/facility"
+        attribution_html: null
+        attribution_name: The Bridge Sports Complex
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: bridgeport
+    city_id: 1840005766
+    slug: the-bridge-sports-complex
+    path: /courts/us/west-virginia/bridgeport/the-bridge-sports-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T23:32:02.669Z"
+    updated_at: "2024-03-04T08:36:10.990Z"
+    schedule_sources_updated_at: null
+  - id: "5df2fd0d-53a2-480d-bb59-4d8e39e1a902"
+    title: The Charleston Tennis Club
+    address: "1600 Tennis Club Rd, Charleston, WV, 25314, USA"
+    lat: 38.329776
+    lng: -81.654563
+    coords: "0101000000FC8A355CE46954C0BB809719362A4340"
+    phone: "3043465391"
+    email: null
+    url: "http://www.charlestontennisclub.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 6
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, locker rooms, pro shop, water, lighted]
+    description: Private
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/74njU5qiSOSdyre08hmf"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/104517478383649/photos/pb.100065165826319.-2207520000./306705641498164/?type=3"
+        attribution_html: null
+        attribution_name: Charleston Tennis Club
+      - url: "https://cdn.filestackcontent.com/Jwxfj4VETmyDM6va9BkG"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/104517478383649/photos/pb.100065165826319.-2207520000./220139376821458/?type=3"
+        attribution_html: null
+        attribution_name: Charleston Tennis Club
+      - url: "https://cdn.filestackcontent.com/IfJ7YS2SRC6cXwhf9WOi"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/104517478383649/photos/pb.100065165826319.-2207520000./224141329754596/?type=3"
+        attribution_html: null
+        attribution_name: Charleston Tennis Club
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: charleston
+    city_id: 1840006196
+    slug: the-charleston-tennis-club
+    path: /courts/us/west-virginia/charleston/the-charleston-tennis-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T13:50:09.745Z"
+    updated_at: "2025-03-03T06:44:55.417Z"
+    schedule_sources_updated_at: null
+  - id: e554e187-d86c-472e-892a-5902b0ac945f
+    title: Town of Pax Pickelball
+    address: "83 School, Oak Hill, WV, 25901, USA"
+    lat: 37.975183
+    lng: -81.14794
+    coords: "01010000004C7155D9774954C0BE4EEACBD2FC4240"
+    phone: "3045751331"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: null
+    outdoor_courts: null
+    total_courts: 0
+    has_pickleball: true
+    surface: []
+    lines: null
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images: []
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: oak-hill
+    city_id: 1840006297
+    slug: town-of-pax-pickelball
+    path: /courts/us/west-virginia/oak-hill/town-of-pax-pickelball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-01T04:51:30.456Z"
+    updated_at: "2022-04-01T04:51:30.456Z"
+    schedule_sources_updated_at: null
+  - id: d75d1923-c607-4c01-9775-df0914eacca8
+    title: Triple A & E Pickleplex
+    address: "3785 Old Mill Rd, Weston, Lewis County, WV, USA"
+    lat: 39.097314
+    lng: -80.4749081
+    coords: "0101000000C086F1E4641E54C0B2B8FFC8748C4340"
+    phone: "+13048849112"
+    email: null
+    url: "https://www.facebook.com/p/Triple-A-E-Pickleplex-61587024983652/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/xuazV5s6TlGF0rRsEG7Q"
+        source: user
+        attribution_url: "https://www.facebook.com/photo?fbid=122125172643234166&set=a.122096966025234166"
+        attribution_html: null
+        attribution_name: Triple A & E Pickleplex
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: weston
+    city_id: 1840005930
+    slug: triple-a-and-e-pickleplex
+    path: /courts/us/west-virginia/weston/triple-a-and-e-pickleplex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-06-11T13:18:59.662Z"
+    updated_at: "2026-06-11T13:18:59.662Z"
+    schedule_sources_updated_at: null
+  - id: "57c7db34-ef82-4b8b-a3be-773f8373a4f0"
+    title: Upshur County Recreation Park
+    address: "270 Bu Drive, Buckhannon, WV, USA"
+    lat: 38.951269
+    lng: -80.24345
+    coords: "0101000000840D4FAF940F54C06D59BE2EC3794340"
+    phone: "+13044725310"
+    email: null
+    url: "https://www.upshurcounty.org/departments/parks_and_recreation/index.php"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [lighted]
+    description: ""
+    access_details: No fees required
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ldS2hcTWQa6vEz7OdrSi"
+      - url: "https://cdn.filestackcontent.com/HeXzpifEQBq3B7xFujak"
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: buckhannon
+    city_id: 1840005997
+    slug: upshur-county-recreation-park
+    path: /courts/us/west-virginia/buckhannon/upshur-county-recreation-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-16T10:02:00.709Z"
+    updated_at: "2024-08-16T10:28:14.349Z"
+    schedule_sources_updated_at: null
+  - id: "99e16f9e-545c-4001-8e95-3678ce9b4324"
+    title: W. Randy Smith Recreation Center
+    address: "40 Excellence Way, Inwood, WV, 25428, USA"
+    lat: 39.350849
+    lng: -78.044381
+    coords: "010100000015E46723D78253C0CA6ABA9EE8AC4340"
+    phone: "3042290022"
+    email: null
+    url: "http://mbcparks-rec.org/parks-and-facilities/w-randy-smith-recreation-center/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: false
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [water, restrooms, wheelchair accessible]
+    description: "8 courts available fall through spring."
+    access_details: "3$"
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/G2MhKsaQq6JzWBmrNcL7"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/randysmithreccenter/photos/pb.100063912186228.-2207520000./3675053539205810/?type=3"
+        attribution_html: null
+        attribution_name: W. Randy Smith Recreation Center
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: inwood
+    city_id: 1840005740
+    slug: w-randy-smith-recreation-center
+    path: /courts/us/west-virginia/inwood/w-randy-smith-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-31T01:56:16.399Z"
+    updated_at: "2024-05-14T11:06:55.570Z"
+    schedule_sources_updated_at: null
+  - id: "6e252e46-5ecf-4bda-a30f-78eafc5e1b92"
+    title: War Memorial Park
+    address: "405 N Red Hill Rd, Martinsburg, WV, 25401, USA"
+    lat: 39.467551
+    lng: -77.981715
+    coords: "010100000087BF266BD47E53C0261B0FB6D8BB4340"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: martinsburg
+    city_id: 1840005742
+    slug: war-memorial-park
+    path: /courts/us/west-virginia/martinsburg/war-memorial-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T11:37:26.444Z"
+    updated_at: "2024-09-20T09:58:56.530Z"
+    schedule_sources_updated_at: "2023-10-28T01:02:46.005Z"
+  - id: e949fc64-22c1-4978-897d-e75e08ab9fc4
+    title: Washington Park Pickleball Court
+    address: "Maple St, Spencer, WV 25276, USA"
+    lat: 38.793645
+    lng: -81.3536952
+    coords: "0101000000243031F1A25654C024D1CB2896654340"
+    phone: "3049271640"
+    email: null
+    url: "https://www.cityofspencer.com/parks-recreation"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted, wheelchair accessible]
+    description: One permanent pickleball court is on site.  Two additional courts are painted on a single tennis court. Bring a net or portable nets are available during scheduled open play.
+    access_details: null
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: spencer
+    city_id: 1840006110
+    slug: washington-park-pickleball-court
+    path: /courts/us/west-virginia/spencer/washington-park-pickleball-court
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T07:58:58.656Z"
+    updated_at: "2024-08-28T10:14:15.372Z"
+    schedule_sources_updated_at: null
+  - id: "2957ea6a-7d4e-4d2f-a726-08caaca330d6"
+    title: Wesleyan's old tennis courts
+    address: "59 College Avenue, Buckhannon, WV, USA"
+    lat: 38.990326
+    lng: -80.2206477
+    coords: "010100000002DC87171F0E54C073309B00C37E4340"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: ""
+    access_details: No fees.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/gBcMEvCWQL222oOJwq9Z"
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: buckhannon
+    city_id: 1840005997
+    slug: wesleyans-old-tennis-courts
+    path: /courts/us/west-virginia/buckhannon/wesleyans-old-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-12T10:49:56.453Z"
+    updated_at: "2024-08-13T10:03:24.779Z"
+    schedule_sources_updated_at: null
+  - id: "221957ad-089c-459c-a74b-09f16df0c8b1"
+    title: West View Tennis Center
+    address: "518 Fairmont Rd, Morgantown, WV, 26501, USA"
+    lat: 39.633134
+    lng: -79.971924
+    coords: "0101000000A48CB80034FE53C02AFEEF880AD14340"
+    phone: "3042924841"
+    email: null
+    url: "http://www.westviewtennis.com/"
+    reservation_url: null
+    facility_type: public
+    access: one-time
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, food, pro shop, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/M2mvBMGQbC0MZLjtZ55y"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/105605561813756506616"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/105605561813756506616\">Keith Browning</a>"
+        attribution_name: Keith Browning
+      - url: "https://cdn.filestackcontent.com/XTWfNdB9TPmVorFtNhFK"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/105605561813756506616"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/105605561813756506616\">Keith Browning</a>"
+        attribution_name: Keith Browning
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: morgantown
+    city_id: 1840005647
+    slug: west-view-tennis-center
+    path: /courts/us/west-virginia/morgantown/west-view-tennis-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T16:35:51.081Z"
+    updated_at: "2022-12-30T02:13:46.643Z"
+    schedule_sources_updated_at: null
+  - id: "7c8c0b29-9c67-4f62-9ee1-72b0c35452f0"
+    title: Wheeling Chambers YMCA
+    address: "55 Lounez Ave, Wheeling, WV, 26003, USA"
+    lat: 40.042517
+    lng: -80.656632
+    coords: "010100000074603942062A54C01343723271054440"
+    phone: "3042428086"
+    email: null
+    url: "http://wheelingymca.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/osWFk3l8RvGDZDmf2eVU"
+        source: user
+        visible: true
+        attribution_url: "https://wheelingymca.org/our-facility/"
+        attribution_html: null
+        attribution_name: Wheeling YMCA
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: wheeling
+    city_id: 1840005510
+    slug: wheeling-chambers-ymca
+    path: /courts/us/west-virginia/wheeling/wheeling-chambers-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T02:38:40.257Z"
+    updated_at: "2022-12-30T03:25:47.387Z"
+    schedule_sources_updated_at: null
+  - id: "45096104-fc50-4c06-be0e-9215a5716950"
+    title: Wildwood Middle School
+    address: "1209 Shenandoah Junction Rd, Shenandoah Junction, WV, 25442, USA"
+    lat: 39.356592
+    lng: -77.833513
+    coords: "01010000009DF2E846587553C0F30181CEA4AD4340"
+    phone: "3047254518"
+    email: null
+    url: "https://wms.jcswv.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: []
+    lines: temporary
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/yrwRQdnnRFdX9kuAV4gD"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: shenandoah-junction
+    city_id: 1840025611
+    slug: wildwood-middle-school
+    path: /courts/us/west-virginia/shenandoah-junction/wildwood-middle-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-01T12:15:35.559Z"
+    updated_at: "2022-12-30T02:46:55.748Z"
+    schedule_sources_updated_at: null
+  - id: da727546-2b30-43bb-95a4-19fef527c05b
+    title: YMCA of Kanawha Valley
+    address: "100 Ymca Dr, Charleston, WV, 25311, USA"
+    lat: 38.34355
+    lng: -81.6057
+    coords: "0101000000FBCBEEC9C36654C039454772F92B4340"
+    phone: "3043403533"
+    email: null
+    url: "http://www.ymcawv.org/"
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: false
+    indoor_courts: 13
+    outdoor_courts: 0
+    total_courts: 13
+    has_pickleball: true
+    surface: [wood, concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, locker rooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/kvJyMMp8S6MXkdG5EaD5"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/i5syCeTfQ2et9ZiO1lT8"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/N1TN4VgSNuLCzHL8grQc"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/GJJjNtipS6CblqXwgX21"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: west-virginia
+    city_slug: charleston
+    city_id: 1840006196
+    slug: ymca-of-kanawha-valley
+    path: /courts/us/west-virginia/charleston/ymca-of-kanawha-valley
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-20T04:52:48.506Z"
+    updated_at: "2024-04-25T09:24:55.922Z"
+    schedule_sources_updated_at: null

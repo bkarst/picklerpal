@@ -1,0 +1,5033 @@
+state: New Mexico
+state_slug: new-mexico
+country: us
+court_count: 118
+scraped_at: "2026-06-30T05:22:32.424Z"
+source: pickleheads.com misc.search API
+courts:
+  - id: "0f39e6fe-2bf9-48dd-884e-76f43dea112c"
+    title: "310 Fitness"
+    address: "4190 White Sage Arc, Las Cruces, NM, USA"
+    lat: 32.3700973
+    lng: -106.7393253
+    coords: "0101000000BF26101B51AF5AC040EB2B595F2F4040"
+    phone: "+15755242447"
+    email: null
+    url: "https://www.310-fitness.com"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, locker rooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/fQLDn1jHQ42oVOOo9jIP"
+        source: user
+        attribution_url: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEv1slJR7dZGj-MD-0oeOA3Sl5U1xeWMhk4ChkwFxf-YnBz9SKfp2IW1acPr62vdcaq73cjMqpIdSnSiDGL31zzSNxYtApYOiE8Dqa6k7892q4LcHcuTd6n9xfwKa1TyzagK3Pa=s680-w680-h510-rw"
+        attribution_html: null
+        attribution_name: Angela Beck
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: las-cruces
+    city_id: 1840020683
+    slug: "310-fitness"
+    path: /courts/us/new-mexico/las-cruces/310-fitness
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-05-19T04:39:17.997Z"
+    updated_at: "2026-05-19T05:11:35.339Z"
+    schedule_sources_updated_at: null
+  - id: "91f8dca5-a8f1-47b9-abd8-73a8325192a7"
+    title: Alamosa Community Center
+    address: "6900 Gonzales Rd SW Ste C, Albuquerque, NM, 87121, USA"
+    lat: 35.07154
+    lng: -106.71048
+    coords: "0101000000931D1B8178AD5AC08C2D043928894140"
+    phone: "5055073663"
+    email: null
+    url: "https://www.cabq.gov/family/crei/community-centers/alamosa-community-center"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/DJ3Ucf2rTiCsD4edImks"
+        source: user
+        visible: true
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipNMYS5Apvd3y3z-PPcSS1oAhAQx-AD8BmDoEm-O=s680-w680-h510"
+        attribution_html: null
+        attribution_name: Robert G
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: alamosa-community-center
+    path: /courts/us/new-mexico/albuquerque/alamosa-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-31T18:05:50.678Z"
+    updated_at: "2023-08-04T07:54:28.554Z"
+    schedule_sources_updated_at: null
+  - id: "7ea10c7d-4115-461e-a954-7f822a14d033"
+    title: Alamosa Park
+    address: "1100 Bataan Dr SW, Albuquerque, NM 87121, USA"
+    lat: 35.071015
+    lng: -106.707389
+    coords: "0101000000362383DC45AD5AC04243FF0417894140"
+    phone: "+15052246682"
+    email: null
+    url: "http://www.cabq.gov/parksandrecreation/parks"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: byo
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Wmz6KJeERse4iVUL1gXb"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: alamosa-park
+    path: /courts/us/new-mexico/albuquerque/alamosa-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-03-14T03:00:20.767Z"
+    updated_at: "2025-11-05T08:16:21.565Z"
+    schedule_sources_updated_at: null
+  - id: "4623868e-225e-4d61-adbb-d171fc3c388d"
+    title: Albuquerque Rebels Vollyball Club
+    address: "7800 Las Lomitas Dr NE, Albuquerque, NM 87113, USA"
+    lat: 35.1693167
+    lng: -106.6091612
+    coords: "01010000007FFF417FFCA65AC055956C2BAC954140"
+    phone: "5055543242"
+    email: Paula@arvcrebels.com
+    url: "http://www.arvcrebels.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 5
+    outdoor_courts: 0
+    total_courts: 5
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: This is primarily a Volleyball facility but from 10am to 1pm they offer the space for Pickleball.  There is a fee of $20 a month.  There are periods during the summer when the courts are not available due to clinics being run for youth.
+    access_details: $20 a month
+    schedule_details: "10am to 1pm"
+    images:
+      - url: "https://cdn.filestackcontent.com/bGGtgUmuQG2MXsUnkyf7"
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: albuquerque-rebels-vollyball-club
+    path: /courts/us/new-mexico/albuquerque/albuquerque-rebels-vollyball-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-30T05:40:02.120Z"
+    updated_at: "2025-06-30T06:42:15.103Z"
+    schedule_sources_updated_at: null
+  - id: dbf60b3b-6c94-47ab-8584-7f8e0a4ead60
+    title: Alto Lakes Golf & Country Club
+    address: "101 Country Ln, Alto, NM, 88312, USA"
+    lat: 33.424102
+    lng: -105.634389
+    coords: "01010000004CFC51D499685AC087156EF948B64040"
+    phone: "5753364232"
+    email: null
+    url: "http://www.altolakesgolf.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/4SIOSkLcR2KpnTeQB5yp"
+        source: user
+        visible: true
+        attribution_url: "https://www.trulia.com/pictures/thumbs_6/zillowstatic/fp/9fc8a4197015a5b378903ff3d86b89d9-full.jpg"
+        attribution_html: null
+        attribution_name: Trulia
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: alto
+    city_id: 1840033605
+    slug: alto-lakes-golf-and-country-club
+    path: /courts/us/new-mexico/alto/alto-lakes-golf-and-country-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T09:31:36.125Z"
+    updated_at: "2022-12-22T03:44:19.600Z"
+    schedule_sources_updated_at: null
+  - id: c3ed276c-9d63-48f9-ae95-27fcf90cb717
+    title: Angel Fire Community Center
+    address: "15 CS Ranch Rd Angel Fire, NM 87710, USA"
+    lat: 36.3920987
+    lng: -105.2859813
+    coords: "010100000020B182844D525AC0EDA64A4A30324240"
+    phone: "+15753771544"
+    email: null
+    url: "https://www.angelfirenm.gov/167/Community-Center"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/tzSFBfRRCnnE26pNw8qQ"
+        source: user
+        visible: true
+        attribution_url: "https://www.angelfirenm.gov/ImageRepository/Document?documentId=122"
+        attribution_html: null
+        attribution_name: Community Center
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: angel-fire
+    city_id: 1840022641
+    slug: angel-fire-community-center
+    path: /courts/us/new-mexico/angel-fire/angel-fire-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-25T02:08:05.201Z"
+    updated_at: "2026-01-07T08:06:07.816Z"
+    schedule_sources_updated_at: "2024-05-20T05:32:19.516Z"
+  - id: b2cbaa8e-e3f9-416e-ad41-eb766204d0bc
+    title: Angel Fire Resort
+    address: "San Mateo Cir, Angel Fire, NM 87710, USA"
+    lat: 36.3840983
+    lng: -105.309021
+    coords: "0101000000BE310400C7535AC07F7912222A314240"
+    phone: "+15753774488"
+    email: null
+    url: "https://www.angelfireresort.com/activities/summer-activities/golf/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: byo
+    amenities: [lighted, restrooms]
+    description: null
+    access_details: null
+    schedule_details: "Tennis Courts #5 & #6"
+    images:
+      - url: "https://cdn.filestackcontent.com/psrVIMG2R26IJUq9XHDQ"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: angel-fire
+    city_id: 1840022641
+    slug: angel-fire-resort
+    path: /courts/us/new-mexico/angel-fire/angel-fire-resort
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T05:36:54.827Z"
+    updated_at: "2023-05-25T02:13:14.960Z"
+    schedule_sources_updated_at: null
+  - id: "725f0033-6370-48f8-b9e6-8db5397e9e60"
+    title: Apodaca Park
+    address: "801 E Madrid Ave, Las Cruces, NM 88001, USA"
+    lat: 32.3295206
+    lng: -106.776982
+    coords: "01010000002AE5B512BAB15AC0DD2D24BB2D2A4040"
+    phone: "4252339082"
+    email: null
+    url: "http://www.las-cruces.org/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/9MysfVg2QneL0578oqqy"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: las-cruces
+    city_id: 1840020683
+    slug: apodaca-park
+    path: /courts/us/new-mexico/las-cruces/apodaca-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T10:34:37.410Z"
+    updated_at: "2025-09-25T10:11:43.697Z"
+    schedule_sources_updated_at: null
+  - id: "3e0243b5-dd9c-465a-a748-702c07cbe98a"
+    title: Ativo Senior Living
+    address: "4500 Quaker Heights Place Albuquerque, NM 87120, USA"
+    lat: 35.133516
+    lng: -106.7036813
+    coords: "0101000000A2934A1D09AD5AC012BF620D17914140"
+    phone: (928) 437-0229
+    email: null
+    url: "https://www.ativoseniorliving.com/contact-us"
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 0
+    total_courts: 0
+    has_pickleball: true
+    surface: []
+    lines: null
+    nets: null
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: OPENING WINTER 2024.
+    images:
+      - url: "https://cdn.filestackcontent.com/F7q3J0Q0CI6leCtMTJQA"
+        source: user
+        visible: true
+        attribution_url: "https://www.multihousingnews.com/wp-content/uploads/sites/57/2023/01/Ativo-of-Albuquerque.jpg"
+        attribution_html: null
+        attribution_name: Ativo Senior Living
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: ativo-senior-living
+    path: /courts/us/new-mexico/albuquerque/ativo-senior-living
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-03-14T02:24:42.439Z"
+    updated_at: "2023-03-14T02:24:42.439Z"
+    schedule_sources_updated_at: null
+  - id: b0f17c66-8f50-4363-abe8-da8abe7dc920
+    title: Barranca Mesa Tennis Courts
+    address: "185 Loma Del Escolar St, Los Alamos, NM 87544, USA"
+    lat: 35.9022564
+    lng: -106.2805327
+    coords: "010100000059FD6C3FF4915AC0A84D41237DF34140"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water]
+    description: ""
+    access_details: No fee.
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: los-alamos
+    city_id: 1840017779
+    slug: barranca-mesa-tennis-courts
+    path: /courts/us/new-mexico/los-alamos/barranca-mesa-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-24T09:57:42.961Z"
+    updated_at: "2024-08-26T10:14:57.850Z"
+    schedule_sources_updated_at: null
+  - id: c88a840f-ae55-4c2b-a79d-74147c163d1d
+    title: Belen Community Center In Eagle Park
+    address: "305 Eagle Ln, Belen, NM, 87002, USA"
+    lat: 34.665028
+    lng: -106.791899
+    coords: "01010000000CAF2479AEB25AC04F7633A31F554140"
+    phone: "5058647819"
+    email: null
+    url: "https://www.belen-nm.gov/departments/parks-recreation/"
+    reservation_url: null
+    facility_type: public
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/hEtr8oTXQ2Wqi0H29BP2"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/278166795_172328185142479_5063374103797943695_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Z90-Uh6WzHMAX8bI2AD&_nc_ht=scontent-atl3-2.xx&oh=00_AfAHgnZAwUCSu1CSjBDWZoCTduyskhWRa723kNliZxqJTA&oe=63A80AF7"
+        attribution_html: null
+        attribution_name: Belen Community Center
+      - url: "https://cdn.filestackcontent.com/10mXBwgdQsb7pxy3u5Mn"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/116581826696228934665"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/116581826696228934665\">Gabriel Candelaria</a>"
+        attribution_name: Gabriel Candelaria
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: belen
+    city_id: 1840019194
+    slug: belen-community-center-in-eagle-park
+    path: /courts/us/new-mexico/belen/belen-community-center-in-eagle-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T11:39:53.634Z"
+    updated_at: "2022-12-22T02:41:59.902Z"
+    schedule_sources_updated_at: null
+  - id: "13a0877e-7751-4928-8807-4e3ad52f12fc"
+    title: Bernalillo County North Domingo Baca Tennis Courts
+    address: "8401 Eubank Blvd NE, Albuquerque, NM 87122, USA"
+    lat: 35.178861195454324
+    lng: -106.52541001660234
+    coords: "010100000010935551A0A15AC0F97F74ECE4964140"
+    phone: "+15053643680"
+    email: rutrujillo@bernco.gov
+    url: "https://www.bernco.gov/community-services/parks-recreation/parks/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: OPEN FROM SUNRISE TO SUNSET.
+    images:
+      - url: "https://cdn.filestackcontent.com/knh8cYiRKxpf0MoXhkxQ"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/104737248464988401400"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/104737248464988401400\">D. Wright</a>"
+        attribution_name: D. Wright
+      - url: "https://cdn.filestackcontent.com/y3SfzJiOQUWVfu2Zn5P4"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/104737248464988401400"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/104737248464988401400\">D. Wright</a>"
+        attribution_name: D. Wright
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: bernalillo-county-north-domingo-baca-tennis-courts
+    path: /courts/us/new-mexico/albuquerque/bernalillo-county-north-domingo-baca-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-03-16T01:36:03.972Z"
+    updated_at: "2023-08-04T06:47:16.175Z"
+    schedule_sources_updated_at: null
+  - id: "11272dbd-569c-4d75-9e91-65c9c2f1325f"
+    title: Bernalillo Recreation Center
+    address: "370 Rotary Park Rd, Bernalillo, NM, 87004, USA"
+    lat: 35.305123
+    lng: -106.554226
+    coords: "0101000000F225547078A35AC0F3203D450EA74140"
+    phone: "5059342649"
+    email: null
+    url: "https://www.recreation.gov/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/RfK2QVMQI62qbIyRhfnX"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110019750266690127351"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110019750266690127351\">pat miera</a>"
+        attribution_name: pat miera
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: bernalillo
+    city_id: 1840020388
+    slug: bernalillo-recreation-center
+    path: /courts/us/new-mexico/bernalillo/bernalillo-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-01T17:46:20.227Z"
+    updated_at: "2024-06-19T09:04:21.964Z"
+    schedule_sources_updated_at: "2024-06-18T19:45:02.037Z"
+  - id: "93504b0a-8416-4007-9d61-0ec7f48fa7aa"
+    title: Boys And Girls Club Of Albuquerque
+    address: "3333 Truman St NE, Albuquerque, NM, 87110, USA"
+    lat: 35.121356
+    lng: -106.588243
+    coords: "010100000076C6F7C5A5A55AC03196E997888F4140"
+    phone: "5053312014"
+    email: null
+    url: "https://www.bgccnm.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/UtrpgfreRQCBUzzhqe8q"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/101290893297848595347"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101290893297848595347\">Charles Hollis II</a>"
+        attribution_name: Charles Hollis II
+      - url: "https://cdn.filestackcontent.com/etS575PRNuODPzafYYix"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110716613326115687154"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110716613326115687154\">Olivia Rimbert &#39;s Dad</a>"
+        attribution_name: Olivia Rimbert &#39;s Dad
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: boys-and-girls-club-of-albuquerque
+    path: /courts/us/new-mexico/albuquerque/boys-and-girls-club-of-albuquerque
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T23:45:58.888Z"
+    updated_at: "2022-12-22T01:13:55.578Z"
+    schedule_sources_updated_at: null
+  - id: "35dbe442-1a47-43e8-a8d7-de64f1f3e886"
+    title: Brookside Park
+    address: "1801 Brookside Dr, Farmington, New Mexico 87401, United States"
+    lat: 36.72175
+    lng: -108.16767
+    coords: "01010000004DA1F31ABB0A5BC0AAF1D24D625C4240"
+    phone: (505) 599-1197
+    email: null
+    url: "http://www.fmtn.org/198/Parks-Facilities"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/kDgFjXeOQBCsS7oxs3bC"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/340782593_686063040195974_7151052489443405969_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeG5S0VegtSuABMY4gWT0rOul5bBx9s2x_eXlsHH2zbH9z-yIuT1NGfnE_Bz7wtR8FlybXI-P8T41PuoclV7qoTu&_nc_ohc=YsC5oUooi_IAX8eADwG&_nc_ht=scontent-lax3-2.xx&oh=00_AfCH05i3jRbX3B-4G5lOEuO8Uh3uiXE5O6WmFI5fW0a_6A&oe=643E0F21"
+        attribution_html: null
+        attribution_name: "City of Farmington, New Mexico"
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: farmington
+    city_id: 1840020349
+    slug: brookside-park
+    path: /courts/us/new-mexico/farmington/brookside-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-14T03:27:11.535Z"
+    updated_at: "2023-04-14T03:27:11.535Z"
+    schedule_sources_updated_at: null
+  - id: "62dfa731-67fc-4122-ac96-7f67f8c81919"
+    title: Cahoon Park
+    address: "1101 West 4th Street, Roswell, NM, USA"
+    lat: 33.3972327
+    lng: -104.5394576
+    coords: "010100000009652B7986225AC06EB36785D8B24040"
+    phone: (575) 624-6720
+    email: null
+    url: "https://www.roswell-nm.gov/1248/City-of-Roswell"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 16
+    total_courts: 16
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: byo
+    amenities: [lighted]
+    description: These are tennis courts with a pickle ball court on each side of the net
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/waCZrrXoTAxktbUH7e8v"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: roswell
+    city_id: 1840020549
+    slug: cahoon-park
+    path: /courts/us/new-mexico/roswell/cahoon-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-09-16T11:12:54.333Z"
+    updated_at: "2024-09-16T11:48:05.890Z"
+    schedule_sources_updated_at: null
+  - id: "7568059d-b63f-4353-8d60-d95d26dfb40f"
+    title: Cesar Chavez Community Center
+    address: "7505 Kathryn Ave SE, Albuquerque, NM, 87108, USA"
+    lat: 35.065463
+    lng: -106.565152
+    coords: "010100000037514B732BA45AC08D0C721761884140"
+    phone: "5055073663"
+    email: null
+    url: "http://www.cabq.gov/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/lLdAsNhKQJuPzRjH2FIb"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113048405825532391706"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113048405825532391706\">Drew Evans</a>"
+        attribution_name: Drew Evans
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: cesar-chavez-community-center
+    path: /courts/us/new-mexico/albuquerque/cesar-chavez-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-29T11:24:19.114Z"
+    updated_at: "2023-08-04T06:24:03.673Z"
+    schedule_sources_updated_at: null
+  - id: "87981eee-1f12-4eb9-ae3c-00ee9ee9db75"
+    title: Columbus Park
+    address: "5301 Guadalupe Trl NW, Albuquerque, NM, 87107, USA"
+    lat: 35.13168
+    lng: -106.63882
+    coords: "0101000000F701486DE2A85AC0C6C4E6E3DA904140"
+    phone: "+15052246682"
+    email: null
+    url: "https://www.cabq.gov/parksandrecreation/recreation/pickleball?fbclid=IwAR1Q4HN0Vzm4Z2ZY_Kr0HLjKHjpQ2FXLHBOQeVewOSCjRsJw1DTO5Hy88oM"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/D0D4UZRQTRSlxRZ5BP8U"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: columbus-park
+    path: /courts/us/new-mexico/albuquerque/columbus-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T17:42:26.374Z"
+    updated_at: "2024-07-31T06:18:35.966Z"
+    schedule_sources_updated_at: null
+  - id: f65a4775-4e07-4734-8476-2f2839d12874
+    title: Daniel Fernandez Recreation Center
+    address: "1103 NM-314, Los Lunas, NM 87031, USA"
+    lat: 34.795038
+    lng: -106.7389213
+    coords: "01010000005774907C4AAF5AC0E38920CEC3654140"
+    phone: "+15058393845"
+    email: null
+    url: "https://www.loslunasnm.gov/112/Daniel-Fernandez-Recreation-Center"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/mhkQsWeNRrmjtobwOvqS"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/104829649419925514029"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/104829649419925514029\">ImZuci</a>"
+        attribution_name: ImZuci
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: los-lunas
+    city_id: 1840022814
+    slug: daniel-fernandez-recreation-center
+    path: /courts/us/new-mexico/los-lunas/daniel-fernandez-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-01-31T03:44:42.457Z"
+    updated_at: "2024-01-31T03:44:42.457Z"
+    schedule_sources_updated_at: null
+  - id: "1491b912-2a8f-49d0-87f4-e2bef690fc90"
+    title: Defined Pickleball
+    address: "1644 Rio Rancho Blvd SE, Rio Rancho, NM 87124, USA"
+    lat: 35.23310379999999
+    lng: -106.6579244
+    coords: "0101000000634FF16E1BAA5AC061C96658D69D4140"
+    phone: "+15056458100"
+    email: memberservices@definedpickleball.com
+    url: "https://www.definedpickleball.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 18
+    outdoor_courts: 0
+    total_courts: 18
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [food, locker rooms, restrooms, water, lighted, pro shop, training]
+    description: ""
+    access_details: $40
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/cZRUdgWrQqyQhc5UxLlK"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/3rCDrdnuSJu4SFKZGABL"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/YH438J3sQ5mG0fMg1hQT"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/Q8ONsx4hQ4CawSEp2aPX"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: rio-rancho
+    city_id: 1840020387
+    slug: defined-pickleball
+    path: /courts/us/new-mexico/rio-rancho/defined-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-09-18T08:22:56.937Z"
+    updated_at: "2026-03-02T07:46:07.407Z"
+    schedule_sources_updated_at: "2026-01-07T08:09:32.895Z"
+  - id: "19fd38c7-5608-45e4-b5c5-a10eab1158c0"
+    title: Dennis Chavez Community Center
+    address: "715 Kathryn Ave SE, Albuquerque, NM 87102, USA"
+    lat: 35.0667059
+    lng: -106.6405514
+    coords: "01010000000D9A4CCBFEA85AC0A279A5D189884140"
+    phone: "+15058481341"
+    email: null
+    url: "https://www.cabq.gov/family/crei/community-centers/dennis-chavez-community-center"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/CVsxUxxSUGBGyopslvFw"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/117520605576053958524"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117520605576053958524\">TIFFANY GONZALEZ</a>"
+        attribution_name: TIFFANY GONZALEZ
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: dennis-chavez-community-center
+    path: /courts/us/new-mexico/albuquerque/dennis-chavez-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-10-23T03:40:08.512Z"
+    updated_at: "2024-10-23T03:40:08.512Z"
+    schedule_sources_updated_at: null
+  - id: "6e0cb52b-ac2b-4119-8dfb-59f56c58b03d"
+    title: Dr. Saul Community Center
+    address: "109 Roosevelt Ave N, Mountainair, NM, 87036, USA"
+    lat: 34.520864
+    lng: -106.243269
+    coords: "01010000005CC823B8918F5AC0F6D4EAABAB424140"
+    phone: "5059182920"
+    email: null
+    url: "http://mountainairnm.gov/index.php?page=recreational-facilities"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/QXYgKbmNT6WvR8JYHUZQ"
+        source: user
+        visible: true
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipP171Wa287VO-c3W-5BMkLydR9eL2FzLjGZXSnG=s680-w680-h510"
+        attribution_html: null
+        attribution_name: Crystal Aguilar
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: mountainair
+    city_id: 1840022806
+    slug: dr-saul-community-center
+    path: /courts/us/new-mexico/mountainair/dr-saul-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-29T15:42:16.876Z"
+    updated_at: "2022-12-21T11:00:44.145Z"
+    schedule_sources_updated_at: null
+  - id: "274aec1b-2b25-4945-b841-270b86444863"
+    title: Eagle Ranch Park
+    address: "3500 Congress Ave NW, Albuquerque, NM, 87114, USA"
+    lat: 35.18874
+    lng: -106.66784
+    coords: "01010000007BBDFBE3BDAA5AC039B9DFA128984140"
+    phone: "+15052246682"
+    email: null
+    url: "http://www.cabq.gov/parksandrecreation/parks/city-parks"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/NQ8CiFgFRJqO63VKge7i"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: eagle-ranch-park
+    path: /courts/us/new-mexico/albuquerque/eagle-ranch-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-30T19:37:29.706Z"
+    updated_at: "2023-08-04T08:22:22.019Z"
+    schedule_sources_updated_at: null
+  - id: "4a4979db-7c0f-4eac-b1a7-210f7a998819"
+    title: East Mesa Sports Complex
+    address: "Sonoma Springs Avenue, Las Cruces, NM, USA"
+    lat: 32.3321031
+    lng: -106.7325583
+    coords: "0101000000743A353CE2AE5AC03AB3B85A822A4040"
+    phone: "5755412550"
+    email: null
+    url: "https://www.lascruces.gov/178/Parks-Recreation"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms]
+    description: These courts are managed by the city parks and recreation dept.
+    access_details: null
+    schedule_details: Every day
+    images:
+      - url: "https://cdn.filestackcontent.com/zb2OrsBCS0SsPx20jDa2"
+        source: user
+        attribution_url: "https://lascruces.gov/ribbon-cutting-to-open-pickleball-courts-at-east-mesa-public-recreation-complex/"
+        attribution_html: null
+        attribution_name: "City of Las Cruces "
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: las-cruces
+    city_id: 1840020683
+    slug: east-mesa-sports-complex
+    path: /courts/us/new-mexico/las-cruces/east-mesa-sports-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-24T10:18:19.986Z"
+    updated_at: "2025-03-13T08:28:09.369Z"
+    schedule_sources_updated_at: null
+  - id: d19f3dc6-7e82-4939-8679-d03331c308e4
+    title: Eastern NM University Tennis and Pickleball Center
+    address: "1500 S Avenue K, Portales, NM 88130, USA"
+    lat: 34.175573
+    lng: -103.3481517
+    coords: "0101000000FF62111E48D659C0C287122D79164140"
+    phone: "505-269-2432"
+    email: null
+    url: "https://www.enmu.edu/about/news-and-events/enmu-news/general-news/3413-eastern-new-mexico-university-to-host-ribbon-cutting-ceremony-at-new-pickleball-courts"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/e0E77uLyTSyE1QE45IDo"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/103857493377448542205"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103857493377448542205\">Crafty Cat</a>"
+        attribution_name: Crafty Cat
+      - url: "https://cdn.filestackcontent.com/WaRyiSpTQgydaOfUpSPZ"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/103857493377448542205"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103857493377448542205\">Crafty Cat</a>"
+        attribution_name: Crafty Cat
+      - url: "https://cdn.filestackcontent.com/yQoBlFlSziGxEtdcuXjg"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/103857493377448542205"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103857493377448542205\">Crafty Cat</a>"
+        attribution_name: Crafty Cat
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: portales
+    city_id: 1840020529
+    slug: eastern-nm-university-tennis-and-pickleball-center
+    path: /courts/us/new-mexico/portales/eastern-nm-university-tennis-and-pickleball-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-06-26T11:42:11.108Z"
+    updated_at: "2025-05-22T06:26:49.497Z"
+    schedule_sources_updated_at: null
+  - id: f58d5672-f840-4d74-80f5-21731bd52dfd
+    title: Escalante High School
+    address: "7575 NM-531, Los Ojos NM 87551, USA"
+    lat: 36.69973
+    lng: -106.55196
+    coords: "0101000000CF2C095053A35AC0DA03ADC090594240"
+    phone: "+15755887201"
+    email: null
+    url: "https://www.chamberofcommerce.com/united-states/new-mexico/los-ojos/high-school/31624464-escalante-high-school"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/e0SlbWf5So6uTSy1cqXO"
+        source: user
+        visible: true
+        attribution_url: "https://cdn.schoolblocks.com/organizations/5b803cab-4aec-4ffc-b574-4a39e3b5ffd0/1okw2-escalante-school-listing.jpg"
+        attribution_html: null
+        attribution_name: "Escalante High School "
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: tierra-amarilla
+    city_id: 1840024843
+    slug: escalante-high-school
+    path: /courts/us/new-mexico/tierra-amarilla/escalante-high-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-24T03:31:38.057Z"
+    updated_at: "2023-05-24T03:31:38.057Z"
+    schedule_sources_updated_at: null
+  - id: "2fc2bb57-182d-483f-a150-0e7f72542b03"
+    title: Farmington Recreation Center
+    address: "1101 Fairgrounds Rd, Farmington, NM, 87401, USA"
+    lat: 36.74124
+    lng: -108.187511
+    coords: "0101000000FA28232E000C5BC0573ECBF3E05E4240"
+    phone: "+15055991184"
+    email: null
+    url: "http://www.fmtn.org/Recreation"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/P3IJ4nxJTeKaKRHA4OlX"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/117916153878075252767"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117916153878075252767\">Jack Lowery</a>"
+        attribution_name: Jack Lowery
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: farmington
+    city_id: 1840020349
+    slug: farmington-recreation-center
+    path: /courts/us/new-mexico/farmington/farmington-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T15:36:26.999Z"
+    updated_at: "2026-03-19T05:23:42.608Z"
+    schedule_sources_updated_at: null
+  - id: "36336ff2-56a9-486b-b103-e8ba22835a07"
+    title: Farmington Sports Complex
+    address: "2301 Pinon Hills Blvd, Farmington, NM, 87402, USA"
+    lat: 36.776789
+    lng: -108.176086
+    coords: "010100000024D236FE440B5BC03F726BD26D634240"
+    phone: "5053205634"
+    email: null
+    url: "https://www.fmtn.org/193/Parks-Recreation-Cultural-Affairs"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/iZfIfwjLSoO1DQw2GJZv"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/238594085_10161175762988098_5814994464014398196_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=100&ccb=1-7&_nc_sid=da1649&efg=eyJpIjoidCJ9&_nc_ohc=FVxlAODISxYAX8mfbr8&_nc_ht=scontent-sea1-1.xx&oh=00_AfDw-sA7Oa3qwuflxeuRr774uopyT9TWEniYWhvjcqnYDw&oe=63A70347"
+        attribution_html: null
+        attribution_name: Farmington Parks
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: farmington
+    city_id: 1840020349
+    slug: farmington-sports-complex
+    path: /courts/us/new-mexico/farmington/farmington-sports-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T10:04:55.430Z"
+    updated_at: "2022-12-21T10:02:43.733Z"
+    schedule_sources_updated_at: null
+  - id: "3d0b93b3-e052-47e4-a1ea-7a95a2bb971d"
+    title: First Baptist Church Los Alamos
+    address: "2200 Diamond Dr, Los Alamos, NM 87544, USA"
+    lat: 35.8979372
+    lng: -106.3215861
+    coords: "01010000004996DDDD94945AC050EE2D9BEFF24140"
+    phone: "8584420301"
+    email: OFFICE@FBC-LA.ORG
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: The First Baptist Church does not sponsor this event. They have allowed the Pajarito Pickleball Club use of the gym during the winter months and in the event of inclement weather.
+    access_details: The church allows the use of their gym free of charge But we collect a contribution to express our gratitude and help with their utility expenses. Suggested donation is $5 per session.
+    schedule_details: Events will be posted on TeamReach. Use code - 87544.
+    images:
+      - url: "https://cdn.filestackcontent.com/Unw9UxAdTtmhGQzcSvST"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo.php?fbid=551985976970629&set=pb.100064776936527.-2207520000.&type=3"
+        attribution_html: null
+        attribution_name: First Baptist Church Los Alamos
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: los-alamos
+    city_id: 1840017779
+    slug: first-baptist-church-los-alamos
+    path: /courts/us/new-mexico/los-alamos/first-baptist-church-los-alamos
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-19T11:28:57.081Z"
+    updated_at: "2024-05-24T08:45:41.146Z"
+    schedule_sources_updated_at: null
+  - id: "425dfcf1-9aab-4b52-86aa-bc64ea05fc09"
+    title: First United Methodist Church
+    address: "1020 S Granite St, Deming, NM, 88030, USA"
+    lat: 32.258502
+    lng: -107.766291
+    coords: "0101000000060E68E90AF15AC0ADF9F19716214040"
+    phone: "8484596642"
+    email: null
+    url: "http://www.fumcdeming.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/0iq7bmFS4GGEbCZvQnLt"
+        source: user
+        visible: true
+        attribution_url: "https://fumcdeming.org/wp-content/uploads/2021/12/Church-Picture-Color2.jpg"
+        attribution_html: null
+        attribution_name: fumcdeming.com
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: deming
+    city_id: 1840019458
+    slug: first-united-methodist-church
+    path: /courts/us/new-mexico/deming/first-united-methodist-church
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T16:18:14.305Z"
+    updated_at: "2022-12-21T10:08:26.441Z"
+    schedule_sources_updated_at: null
+  - id: fa72997f-c0e5-4ff9-8762-f39a1781bb82
+    title: Florence Park Courts
+    address: "1291 Morris Dr, Aztec, NM, 87410, USA"
+    lat: 36.826892
+    lng: -108.003192
+    coords: "0101000000F7E6374C34005BC07AA9D898D7694240"
+    phone: "5053205634"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/j0yK4qnbSxKKnDSC68eK"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: aztec
+    city_id: 1840018993
+    slug: florence-park-courts
+    path: /courts/us/new-mexico/aztec/florence-park-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T04:46:32.964Z"
+    updated_at: "2025-07-14T08:07:04.571Z"
+    schedule_sources_updated_at: null
+  - id: "02a3d3d8-1c3a-4872-aa87-acfd96a378c0"
+    title: Ford Canyon Park
+    address: "908 E Buena Vista Ave, Gallup, NM, 87301, USA"
+    lat: 35.523169
+    lng: -108.728475
+    coords: "0101000000083D9B559F2E5BC0F9A3A833F7C24140"
+    phone: (505) 722-5103
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/zgcnxVAGTTOJqQ7fItfH"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/3NvjFKzfTFqZcotyuRNN"
+        source: user
+        visible: true
+        attribution_url: "https://www.gallupnm.gov/facilities/Facility/Details/9"
+        attribution_html: null
+        attribution_name: City of Gallup Gov
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: gallup
+    city_id: 1840020395
+    slug: ford-canyon-park
+    path: /courts/us/new-mexico/gallup/ford-canyon-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T10:08:40.060Z"
+    updated_at: "2023-04-10T07:21:35.629Z"
+    schedule_sources_updated_at: null
+  - id: "9736a902-2f25-4fd2-9ca4-2fc6e36a19e9"
+    title: Forked Lightning Racquet Club
+    address: "2398 Brenner Wy, Santa Fe, NM 87507, USA"
+    lat: 35.6412886
+    lng: -105.9955714
+    coords: "01010000004FF51A71B77F5AC01926AEBE15D24140"
+    phone: "+15052304999"
+    email: info@forkedlightningrc.com
+    url: "https://www.forkedlightningrc.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 8
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: Guests must be accompanied by a member.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Z7YCB72qRnquso68aKhU"
+        source: user
+        attribution_url: "https://www.google.com/search?q=Forked+Lightning+Racquet+Club+2398+Brenner+Way%2C+Santa+Fe%2C+NM%2C+87505&sca_esv=a24914ecfd1c384e&ei=9Rscab_nIYSk5NoPhtaBgA8&ved=0ahUKEwj_tf7MkvuQAxUEElkFHQZrAPAQ4dUDCBE&oq=Forked+Lightning+Racquet+Club+2398+Brenner+Way%2C+Santa+Fe%2C+NM%2C+87505&gs_lp=Egxnd3Mtd2l6LXNlcnAiQ0ZvcmtlZCBMaWdodG5pbmcgUmFjcXVldCBDbHViIDIzOTggQnJlbm5lciBXYXksIFNhbnRhIEZlLCBOTSwgODc1MDVIi1ZQzQVY5jpwAXgAkAEAmAGBA6ABgQiqAQMzLTO4AQzIAQD4AQH4AQKYAgOgAvQFqAIKwgIdEC4YgAQYigUYkQIY5wYYxwEYrwEY6gIYtALYAQHCAhcQABiABBiKBRiRAhjnBhjqAhi0AtgBAcICEBAAGAMYjwEY6gIYtALYAQHCAhEQLhivARjHARiRAhiABBiKBcICBRAAGIAEwgIGEAAYFhgewgIIEAAYgAQYogTCAgUQABjvBcICIBAuGK8BGMcBGJECGIAEGIoFGJcFGNwEGN4EGOAE2AECwgILEC4YrwEYxwEYgATCAhoQLhivARjHARiABBiXBRjcBBjeBBjgBNgBApgDD7oGBAgBGAe6BgYIAhABGBSSBwcxLjMtMS4xoAeLErIHBTMtMS4xuAfkBcIHBTItMS4yyAcc&sclient=gws-wiz-serp#lpg=cid:CgIgAQ%3D%3D,ik:CAoSLEFGMVFpcE5MdmlleVBMRlMyN3pnMDA5M1VZdHhsNlYzMlZlVVYyNjREVFhY"
+        attribution_html: null
+        attribution_name: Forked Lightning Racquet Club
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: santa-fe
+    city_id: 1840021707
+    slug: forked-lightning-racquet-club
+    path: /courts/us/new-mexico/santa-fe/forked-lightning-racquet-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-11-18T07:29:59.400Z"
+    updated_at: "2025-11-18T07:29:59.400Z"
+    schedule_sources_updated_at: null
+  - id: cc07f3fc-3733-4c3d-91a2-72af7c9e13c3
+    title: Fort Marcy Park
+    address: "917 Old Taos Hwy, Santa Fe, NM 87501, USA"
+    lat: 35.69632
+    lng: -105.936995
+    coords: "0101000000FE60E0B9F77B5AC07EC6850321D94140"
+    phone: "+15059556949"
+    email: null
+    url: "http://santafepickleballclub.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 12
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: Outdoor play - free
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/eNgjjTGkRNeZGvPO9EoF"
+        source: user
+        visible: true
+        attribution_url: "https://i0.wp.com/santafepickleballclub.com/wp-content/uploads/2021/09/New-courts.jpg?resize=900%2C412"
+        attribution_html: null
+        attribution_name: Santa Fe Pickleball Club
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: santa-fe
+    city_id: 1840021707
+    slug: fort-marcy-park
+    path: /courts/us/new-mexico/santa-fe/fort-marcy-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-24T02:49:12.240Z"
+    updated_at: "2025-06-16T10:34:48.097Z"
+    schedule_sources_updated_at: null
+  - id: "8fd166d2-6b44-4074-abf4-40f9c38d67d2"
+    title: Fort Marcy Recreation complex
+    address: "490 Bishops Lodge Rd, Santa Fe, NM 87501, USA"
+    lat: 35.69465
+    lng: -105.93597
+    coords: "01010000006002B7EEE67B5AC04D158C4AEAD84140"
+    phone: ""
+    email: sfepickleballclub@gmail.com
+    url: "http://santafepickleballclub.com/"
+    reservation_url: null
+    facility_type: public
+    access: one-time
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [water, training]
+    description: null
+    access_details: ""
+    schedule_details: Open play daily in the a.m.'s and evening; club events 12 - 5
+    images:
+      - url: "https://cdn.filestackcontent.com/2OL34XNqQZq5IODADH81"
+        source: user
+        visible: true
+        attribution_url: "https://santafepickleballclub.com/wp-content/uploads/2019/11/Ft-Marcy-indoor.jpg"
+        attribution_html: null
+        attribution_name: Santa Fe Pickleball Club
+      - url: "https://cdn.filestackcontent.com/whWih0R9TpysojCuc5to"
+        source: user
+        visible: true
+        attribution_url: "https://fastly.4sqi.net/img/general/600x600/822832_C48CRsik3ErpFFOjKx06BD3hwpdl3Rqp1adHBW87L5o.jpg"
+        attribution_html: null
+        attribution_name: Foursquare
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: santa-fe
+    city_id: 1840021707
+    slug: fort-marcy-recreation-complex
+    path: /courts/us/new-mexico/santa-fe/fort-marcy-recreation-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-05T21:20:22.371Z"
+    updated_at: "2025-04-11T10:54:20.598Z"
+    schedule_sources_updated_at: null
+  - id: "6b674351-8060-4d68-a05e-4da551983797"
+    title: Fred Baca
+    address: "301 Cam Del Medio, Taos, NM 87571, USA"
+    lat: 36.4005833
+    lng: -105.5903458
+    coords: "01010000002E15C039C8655AC07169465046334240"
+    phone: "5757584160"
+    email: null
+    url: "https://taos.org/places/taos-youth-family-center/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete, hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/MrhRIySWS6HpVHaF8quS"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Fred BAca
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: taos
+    city_id: 1840022638
+    slug: fred-baca
+    path: /courts/us/new-mexico/taos/fred-baca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-05T08:19:12.000Z"
+    updated_at: "2025-11-24T01:55:01.379Z"
+    schedule_sources_updated_at: "2025-11-21T16:21:20.781Z"
+  - id: fd64fc62-4513-461e-8828-7645a2188187
+    title: Gene Speer Tennis courts
+    address: "325 Library Lane, Truth or Consequences, NM, USA"
+    lat: 33.1334307
+    lng: -107.2531098
+    coords: "0101000000045372F332D05AC02564D64114914040"
+    phone: "2086181662"
+    email: icom181@gmail.com
+    url: "https://www.torcnm.org/services/community_services/parks_and_recreation.php"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: There was 1 portable net and it was locked up when we went to play.
+    access_details: Free
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/WrgUlHqQTqkscv22bn8l"
+        source: user
+        attribution_url: "https://sierracountynewmexico.info/wp-content/uploads/2023/08/pickleball-at-gene-speer-tennis-courts-in-truth-or-consequences.jpg"
+        attribution_html: null
+        attribution_name: Sierra County
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: truth-or-consequences
+    city_id: 1840021995
+    slug: gene-speer-tennis-courts
+    path: /courts/us/new-mexico/truth-or-consequences/gene-speer-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-04-25T09:55:06.941Z"
+    updated_at: "2025-01-06T08:27:58.716Z"
+    schedule_sources_updated_at: null
+  - id: de1a41b3-7ba5-45a3-a2b7-edccd59849aa
+    title: Genoveva Chavez Community Center
+    address: "3221 Rodeo Rd, Santa Fe, NM, 87507, USA"
+    lat: 35.64138
+    lng: -105.99291
+    coords: "0101000000C47762D68B7F5AC07C2766BD18D24140"
+    phone: "5059554001"
+    email: null
+    url: "http://www.chavezcenter.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [food, restrooms, water, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ET4GJNrsTqqpv8la2fqb"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/100385676131938487141"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/100385676131938487141\">Robert Renshaw</a>"
+        attribution_name: Robert Renshaw
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: santa-fe
+    city_id: 1840021707
+    slug: genoveva-chavez-community-center
+    path: /courts/us/new-mexico/santa-fe/genoveva-chavez-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T08:58:15.861Z"
+    updated_at: "2024-05-06T06:33:42.792Z"
+    schedule_sources_updated_at: null
+  - id: e4c6d41b-469f-4816-8ea0-215fbd610604
+    title: Harold Runnels Athletic Complex
+    address: "820 E Wilson Ave, Gallup, NM, 87301, USA"
+    lat: 35.535724
+    lng: -108.730194
+    coords: "0101000000116F9D7FBB2E5BC056D7A19A92C44140"
+    phone: (505) 722-7107
+    email: null
+    url: "https://www.gallupnm.gov/551/Harold-Runnels-Athletic-Complex"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/UaXS5hRjTe6SFUxUmfa1"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/107396816301433322134"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/107396816301433322134\">Frankie A</a>"
+        attribution_name: Frankie A
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: gallup
+    city_id: 1840020395
+    slug: harold-runnels-athletic-complex
+    path: /courts/us/new-mexico/gallup/harold-runnels-athletic-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T16:09:58.438Z"
+    updated_at: "2023-03-29T01:45:37.552Z"
+    schedule_sources_updated_at: null
+  - id: "933cf85e-a4d4-467d-8ac0-7cbc7f3d6364"
+    title: Haynes Park
+    address: "2006 Grande Blvd SE, Rio Rancho, NM, 87124, USA"
+    lat: 35.223354
+    lng: -106.663053
+    coords: "0101000000F1A0D9756FAA5AC024B726DD969C4140"
+    phone: "5058917240"
+    email: parksandrec@rrnm.gov
+    url: "https://www.rrnm.gov/4840/Pickleball"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: Free
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/MqI5pE9XT0WMI4uRqZiW"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: rio-rancho
+    city_id: 1840020387
+    slug: haynes-park
+    path: /courts/us/new-mexico/rio-rancho/haynes-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T00:08:47.310Z"
+    updated_at: "2024-08-20T06:25:21.110Z"
+    schedule_sources_updated_at: "2024-04-25T02:25:21.459Z"
+  - id: c87fdf54-e053-42b1-a4ba-d89c646b6418
+    title: High Altitude Health and Fitness
+    address: "1307 Paseo Del Pueblo Norte, El Prado, NM 87529, USA"
+    lat: 36.4350113
+    lng: -105.5751775
+    coords: "010100000048F949B5CF645AC0FA714573AE374240"
+    phone: "1-575-751-1242"
+    email: highaltitudehf1@gmail.com
+    url: "https://highaltitudehealthfitness.com/#PICKLEBALL"
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [food, locker rooms, restrooms, pro shop]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/IShOc9CrR9i7OolteYjc"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/110302178667467063003"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110302178667467063003\">High Altitude Health &amp; Fitness</a>"
+        attribution_name: High Altitude Health &amp; Fitness
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: el-prado
+    city_id: 1840140587
+    slug: high-altitude-health-and-fitness
+    path: /courts/us/new-mexico/el-prado/high-altitude-health-and-fitness
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-12-23T17:10:54.131Z"
+    updated_at: "2024-12-23T17:16:20.302Z"
+    schedule_sources_updated_at: null
+  - id: "29b514e8-8dab-455f-a303-969bf0418f18"
+    title: Hillcrest Park
+    address: "1700 E 7th St, Clovis, NM, USA"
+    lat: 34.4060727
+    lng: -103.1843833
+    coords: "01010000006DDB9CEFCCCB59C03326B330FA334140"
+    phone: null
+    email: null
+    url: "https://www.cityofclovis.org/write/departments/parks-and-recreation/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: ""
+    schedule_details: Open 24/7
+    images:
+      - url: "https://cdn.filestackcontent.com/cscUuwWnRcOQxbtRFnJS"
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: clovis
+    city_id: 1840019195
+    slug: hillcrest-park
+    path: /courts/us/new-mexico/clovis/hillcrest-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-08-25T08:31:11.600Z"
+    updated_at: "2025-08-25T08:52:27.011Z"
+    schedule_sources_updated_at: null
+  - id: c9ce7900-6ba4-4d24-a392-32a4a5580f1e
+    title: Hoffman Park
+    address: "8712 Phoenix Ave NE, Albuquerque, NM 87112, USA"
+    lat: 35.11027
+    lng: -106.546175
+    coords: "010100000024B9FC87F4A25AC06EDDCD531D8E4140"
+    phone: "+15057685353"
+    email: null
+    url: "https://www.cabq.gov/parksandrecreation/parks/city-parks"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ousTKQ1TTEe3mlljqfFE"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: hoffman-park
+    path: /courts/us/new-mexico/albuquerque/hoffman-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-10T23:27:08.568Z"
+    updated_at: "2025-05-14T07:51:42.977Z"
+    schedule_sources_updated_at: null
+  - id: db928c8d-9e7b-4298-9141-bf498c5be2b4
+    title: Hoover Middle School
+    address: "12015 Tivoli Ave NE, Albuquerque, NM, 87111, USA"
+    lat: 35.122168
+    lng: -106.505853
+    coords: "010100000058E542E55FA05AC0124F7633A38F4140"
+    phone: "5055073663"
+    email: null
+    url: "https://hoover-aps-nm.schoolloop.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/7FGcSejTSqWBQ06NiJt0"
+        source: user
+        visible: true
+        attribution_url: "https://abqpickleball.files.wordpress.com/2021/09/dscf3867-copy.jpg"
+        attribution_html: null
+        attribution_name: abqpickleball
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: hoover-middle-school
+    path: /courts/us/new-mexico/albuquerque/hoover-middle-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-01T01:09:20.287Z"
+    updated_at: "2023-08-04T06:28:28.283Z"
+    schedule_sources_updated_at: null
+  - id: "5ae38e5b-7bf3-46bd-9c99-0715c7a9cd8a"
+    title: Huning Ranch Park
+    address: "Huning Ranch Loop SW, Los Lunas, NM 87031, USA"
+    lat: 34.8146505
+    lng: -106.7710683
+    coords: "0101000000DEDEDA2E59B15AC0C495B37746684140"
+    phone: null
+    email: null
+    url: "https://www.google.com/maps/d/viewer?mid=10bgOkro_05v4JKkO3Vycl7h2uxI&hl=en&ll=34.807943619769226%2C-106.7549606&z=13"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/gbGBl6Y1RjKt1rv0dd39"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: los-lunas
+    city_id: 1840022814
+    slug: huning-ranch-park
+    path: /courts/us/new-mexico/los-lunas/huning-ranch-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-22T19:07:40.822Z"
+    updated_at: "2022-12-21T10:40:39.230Z"
+    schedule_sources_updated_at: null
+  - id: "9896367f-fb1c-42f6-80a2-292d9f5e0378"
+    title: Lake Carlsbad Tennis And Racquetball Complex
+    address: "637 Park Dr, Carlsbad, NM, 88220, USA"
+    lat: 32.42699
+    lng: -104.221111
+    coords: "01010000004B72C0AE260E5AC00ADCBA9BA7364040"
+    phone: "5758876562"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/PjgdznST1G6CfhuwJ0Pw"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: carlsbad
+    city_id: 1840019444
+    slug: lake-carlsbad-tennis-and-racquetball-complex
+    path: /courts/us/new-mexico/carlsbad/lake-carlsbad-tennis-and-racquetball-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T05:26:09.362Z"
+    updated_at: "2025-09-29T09:07:16.022Z"
+    schedule_sources_updated_at: null
+  - id: "361f0c28-eb1d-4f3b-80cf-4e5ab33c564d"
+    title: Loma Del Norte Park
+    address: "7479 Loma Del Norte Rd NE, Albuquerque, NM, 87109, USA"
+    lat: 35.16493089319103
+    lng: -106.56397455704305
+    coords: "0101000000AA91BD2818A45AC0822D9C741C954140"
+    phone: "+15057682000"
+    email: null
+    url: "https://www.cabq.gov/parksandrecreation"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/XRzBoe69RRKb7usir15e"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: loma-del-norte-park
+    path: /courts/us/new-mexico/albuquerque/loma-del-norte-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T09:00:48.575Z"
+    updated_at: "2023-03-16T01:44:25.077Z"
+    schedule_sources_updated_at: null
+  - id: "015a5177-b10f-4427-977a-6f9e33982907"
+    title: Lomas Encantadas Park
+    address: "3900 Cam Encantadas, Rio Rancho, NM, USA"
+    lat: 35.3237442
+    lng: -106.5919052
+    coords: "0101000000451559C6E1A55AC085A22F7370A94140"
+    phone: "+15058915015"
+    email: parksandrec@rrnm.gov
+    url: "https://www.rrnm.gov/4840/Pickleball"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/vQMzq0VvRoaITEt9gZe7"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: rio-rancho
+    city_id: 1840020387
+    slug: lomas-encantadas-park
+    path: /courts/us/new-mexico/rio-rancho/lomas-encantadas-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-06-19T06:14:39.441Z"
+    updated_at: "2025-11-10T07:49:09.205Z"
+    schedule_sources_updated_at: null
+  - id: "08fa196e-c91c-4d97-ae34-c035426debf0"
+    title: Los Duranes Community Center
+    address: "2920 Leopoldo Rd NW, Albuquerque, NM 87104, USA"
+    lat: 35.1101109
+    lng: -106.6808061
+    coords: "0101000000B59ABF5392AB5AC071372D1D188E4140"
+    phone: "5055073663"
+    email: richardgonzales@cabq.gov
+    url: "http://www.cabq.gov/family/facilities-centers/community-center-locations/northwest/los-duranes-community-center/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/r6a87dNCRiWPuoZA93dc"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/104232454145560170173"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/104232454145560170173\">Theodore Schnepper</a>"
+        attribution_name: Theodore Schnepper
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: los-duranes-community-center
+    path: /courts/us/new-mexico/albuquerque/los-duranes-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T10:44:43.022Z"
+    updated_at: "2023-08-04T07:46:28.019Z"
+    schedule_sources_updated_at: null
+  - id: "4c70f681-3276-4e76-b363-3d2786026697"
+    title: Los Vecinos Community Center
+    address: "478 Nm, Tijeras, NM, 87059, USA"
+    lat: 35.0786
+    lng: -106.39318
+    coords: "01010000003E5C72DC29995AC099BB96900F8A4140"
+    phone: (505) 314-0240
+    email: null
+    url: "https://www.bernco.gov/community-services/community-centers/los-vecinos/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/lAc1wqyVQVeI23pBSdMG"
+        source: user
+        visible: true
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipM4rdPjfsxYpz7mw3UwDv4Qynxutx9hY4Q7oUBG=s680-w680-h510"
+        attribution_html: null
+        attribution_name: Demitri Lucero
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: tijeras
+    city_id: 1840022796
+    slug: los-vecinos-community-center
+    path: /courts/us/new-mexico/tijeras/los-vecinos-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T08:31:44.723Z"
+    updated_at: "2023-05-04T05:47:53.664Z"
+    schedule_sources_updated_at: null
+  - id: "5dc91c60-ee52-4b47-b984-74e59f352320"
+    title: Los Volcanes Senior Center
+    address: "6500 Los Volcanes Rd NW, Albuquerque, NM, 87121, USA"
+    lat: 35.09059
+    lng: -106.71341
+    coords: "0101000000EBA86A82A8AD5AC01DACFF73988B4140"
+    phone: "+15057675999"
+    email: null
+    url: "https://www.cabq.gov/seniors/senior-multigenerational-centers/los-volcanes"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/lqmUo2ZGS5ivLBRd55On"
+        source: user
+        visible: true
+        attribution_url: "https://www.yelp.com/biz_photos/los-volcanes-senior-center-albuquerque?select=eNMZRlV2CAQdWDzKZLPk5g"
+        attribution_html: null
+        attribution_name: Katy T.
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: los-volcanes-senior-center
+    path: /courts/us/new-mexico/albuquerque/los-volcanes-senior-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T20:41:42.442Z"
+    updated_at: "2023-08-04T07:42:45.028Z"
+    schedule_sources_updated_at: null
+  - id: "6c4831db-8f51-4f8b-9b3d-a6f3189b7d5c"
+    title: Lyndon B. Johnson Middle School
+    address: "6811 Taylor Ranch Rd NW, Albuquerque, NM 87120, USA"
+    lat: 35.161335
+    lng: -106.696285
+    coords: "010100000081ECF5EE8FAC5AC09F5912A0A6944140"
+    phone: "+15058981492"
+    email: null
+    url: "https://lbj.aps.edu/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/pZ5YuSmT5eQo4C0bBNKB"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/117155563415100816918"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117155563415100816918\">Candace Tapia</a>"
+        attribution_name: Candace Tapia
+      - url: "https://cdn.filestackcontent.com/Ro6qNpq4SwCq32Z0y6mV"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/117155563415100816918"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117155563415100816918\">Candace Tapia</a>"
+        attribution_name: Candace Tapia
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: lyndon-b-johnson-middle-school
+    path: /courts/us/new-mexico/albuquerque/lyndon-b-johnson-middle-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-04T05:19:24.178Z"
+    updated_at: "2024-03-25T06:50:54.023Z"
+    schedule_sources_updated_at: null
+  - id: "2ff6045a-0b13-46be-8040-2f578e80d580"
+    title: Lynnwood Park
+    address: "10501-10599 Lexington Ave NE, Albuquerque, NM 87112, United States"
+    lat: 35.1117679
+    lng: -106.5234444
+    coords: "01010000008FD1F01C80A15AC00D9F19694E8E4140"
+    phone: "+15057682000"
+    email: null
+    url: "https://www.cabq.gov/parksandrecreation/recreation/pickleball?fbclid=IwAR2rn6gH-_HGkUVUlM2Xvd4Qf36R9m2xpf37JWJYTKFgCYnXgYZPBz9V8j0"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/KcYx0GK3QDGcRWKM7zJ8"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: lynnwood-park
+    path: /courts/us/new-mexico/albuquerque/lynnwood-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-03-14T02:38:26.218Z"
+    updated_at: "2024-01-23T11:44:14.622Z"
+    schedule_sources_updated_at: null
+  - id: "65074074-f934-42a2-a883-cfba779db88a"
+    title: Manzano Mesa Park
+    address: "501 Humbolt St SE, Albuquerque, NM 87123, USA"
+    lat: 35.0652479
+    lng: -106.5247803
+    coords: "010100000072851C0096A15AC0FC500E0B5A884140"
+    phone: "+15052246682"
+    email: rpadilla503272@comcast.net
+    url: "https://abqpickleball.com/manzano-mesa-pickleball-courts/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 36
+    total_courts: 39
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted, training]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/NUXToTQrubJE2PxB5FQ2"
+        source: user
+        visible: true
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipPSXLBjwgWmQzw9w83OTCzt9Jeclf05pyKjlWE4=s680-w680-h510"
+        attribution_html: null
+        attribution_name: Keith Polin
+      - url: "https://cdn.filestackcontent.com/h7V165wbQKe4bvybOpa5"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/UyAuetOTQsmtrvFfRYwj"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/114029658189067256733"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114029658189067256733\">Debra Hanes</a>"
+        attribution_name: Debra Hanes
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: manzano-mesa-park
+    path: /courts/us/new-mexico/albuquerque/manzano-mesa-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T02:37:07.406Z"
+    updated_at: "2024-07-08T11:06:13.734Z"
+    schedule_sources_updated_at: null
+  - id: d5da8263-a7ad-417e-8eb6-f767a36cc0fd
+    title: Meerscheidt Recreation Center
+    address: "1600 E Hadley Ave, Las Cruces, NM, 88001, USA"
+    lat: 32.317349
+    lng: -106.762091
+    coords: "0101000000DC645419C6B05AC08B355CE49E284040"
+    phone: "4252339082"
+    email: null
+    url: "http://las-cruces.org/Facilities/Facility/Details/Meerscheidt-Recreation-Center-12"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [food, restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/8hJo1i0Q2GpacSJkjenA"
+        source: user
+        visible: true
+        attribution_url: "https://kfoxtv.com/resources/media/993a0d4f-4d88-4e7a-9746-20f5cede281d-large16x9_exterior.jpg?1602282308625"
+        attribution_html: null
+        attribution_name: KFOX
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: las-cruces
+    city_id: 1840020683
+    slug: meerscheidt-recreation-center
+    path: /courts/us/new-mexico/las-cruces/meerscheidt-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T02:34:28.251Z"
+    updated_at: "2022-12-22T03:17:15.144Z"
+    schedule_sources_updated_at: null
+  - id: "699c3a92-5e91-48ba-b8cf-e0c568ba6880"
+    title: Montgomery Park
+    address: "5510 Ponderosa Ave NE, Albuquerque, NM, 87110, USA"
+    lat: 35.12645
+    lng: -106.58114
+    coords: "01010000007099D36531A55AC0234A7B832F904140"
+    phone: null
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: Street parking
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/A3AhQVC0Sse4ldJei7FO"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: montgomery-park
+    path: /courts/us/new-mexico/albuquerque/montgomery-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T21:56:09.358Z"
+    updated_at: "2025-05-20T06:11:48.756Z"
+    schedule_sources_updated_at: null
+  - id: "2b65bc60-2790-4f69-8b7e-886703b73d61"
+    title: Moreno Valley High School
+    address: "56 Cam Grande, Angel Fire, NM 87710, USA"
+    lat: 36.4084402
+    lng: -105.280696
+    coords: "01010000008E075BECF6515AC094AFBAC447344240"
+    phone: "+15753773100"
+    email: null
+    url: "https://www.mvhsnm.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: "Bring your own net, balls etc.  permanent lines and concrete surface.  No fencing around court,\nNo wind screens, this court is out in the wide open. Best for the highschool day play."
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/4oeUUYLGRqmKIxY5xcNq"
+        source: user
+        attribution_url: "https://www.facebook.com/photo.php?fbid=1062914045639219&set=pb.100057619013567.-2207520000&type=3"
+        attribution_html: null
+        attribution_name: "Moreno Valley Preparatory - Angel Fire, New Mexico"
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: angel-fire
+    city_id: 1840022641
+    slug: moreno-valley-high-school
+    path: /courts/us/new-mexico/angel-fire/moreno-valley-high-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-25T02:02:34.763Z"
+    updated_at: "2025-04-30T07:55:15.105Z"
+    schedule_sources_updated_at: "2024-08-05T07:36:11.579Z"
+  - id: "4129520b-e30a-4554-a00f-ca0c9ee6788b"
+    title: Mossman Gladden Park
+    address: "2115 Camina Placer, Farmington, NM, 87401, USA"
+    lat: 36.71771
+    lng: -108.181078
+    coords: "01010000009B012EC8960B5BC08E01D9EBDD5B4240"
+    phone: "5053205634"
+    email: null
+    url: "https://nm-farmington3.civicplus.com/193/Parks-Recreation-Cultural-Affairs"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: byo
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/xiXB0eSHTomcHG1gQaDr"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: farmington
+    city_id: 1840020349
+    slug: mossman-gladden-park
+    path: /courts/us/new-mexico/farmington/mossman-gladden-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-30T06:44:47.653Z"
+    updated_at: "2025-05-22T07:30:33.681Z"
+    schedule_sources_updated_at: null
+  - id: "43d3ca3f-2a2f-4451-9823-016c1f50631f"
+    title: Myrtle Street Pickleball Courts
+    address: "1501 Myrtle St, Los Alamos, NM 87544, USA"
+    lat: 35.8831291
+    lng: -106.2986456
+    coords: "010100000009466F021D935AC0AD52D55F0AF14140"
+    phone: "5056623100"
+    email: null
+    url: "https://www.losalamosnm.us/government/departments/community_services/parks_recreation_and_open_spaces/parks/tennis_courts"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [training]
+    description: ""
+    access_details: No fee.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/9lb2fsAKQFmwB4T8eOkx"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: los-alamos
+    city_id: 1840017779
+    slug: myrtle-street-tennis-court
+    path: /courts/us/new-mexico/los-alamos/myrtle-street-tennis-court
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-23T18:54:22.011Z"
+    updated_at: "2024-08-26T10:14:53.631Z"
+    schedule_sources_updated_at: "2024-08-26T10:14:52.898Z"
+  - id: "116149e7-1093-4542-a595-af5f6ede153e"
+    title: NMSU Activity Center
+    address: "1572 Stewart St., Las Cruces, NM 88003"
+    lat: 32.280053
+    lng: -106.7469952
+    coords: "01010000003791F4C4CEAF5AC0C712D6C6D8234040"
+    phone: (575) 646-2885
+    email: null
+    url: "https://recsports.nmsu.edu/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/96LoLAUQRT6tIU9J5Mtz"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/106090571586840408349"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106090571586840408349\">Eric Salas</a>"
+        attribution_name: Eric Salas
+      - url: "https://cdn.filestackcontent.com/2za74sqvT0WzDLQVpeUO"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115412449001612314350"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115412449001612314350\">IB</a>"
+        attribution_name: IB
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: las-cruces
+    city_id: 1840020683
+    slug: nmsu-activity-center
+    path: /courts/us/new-mexico/las-cruces/nmsu-activity-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-03-16T07:40:40.537Z"
+    updated_at: "2023-03-16T07:40:40.537Z"
+    schedule_sources_updated_at: null
+  - id: "60e4b9f4-d3f7-4244-877b-ad4e41afa615"
+    title: North Domingo Baca Multigenerational Center
+    address: "7521 Carmel Ave NE, Albuquerque, NM, 87113, USA"
+    lat: 35.17759
+    lng: -106.56053
+    coords: "0101000000529B38B9DFA35AC05F0CE544BB964140"
+    phone: "5057646475"
+    email: null
+    url: "http://www.cabq.gov/seniors/senior-multigenerational-centers/north-domingo-baca-multigenerational-center"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: false
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, training]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ISnM90bhTZvMScXrNJBy"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/117990966229163121164"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117990966229163121164\">Demetris</a>"
+        attribution_name: Demetris
+      - url: "https://cdn.filestackcontent.com/83lXYDjISpKTmmk6p8db"
+        source: user
+        visible: true
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipOZ29Wx-b5WwCbE6o2STlj2PTo_o-8IcNt-4d1v=s680-w680-h510"
+        attribution_html: null
+        attribution_name: Jay M
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: north-domingo-baca-multigenerational-center
+    path: /courts/us/new-mexico/albuquerque/north-domingo-baca-multigenerational-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-20T17:01:29.319Z"
+    updated_at: "2023-08-04T06:31:49.104Z"
+    schedule_sources_updated_at: null
+  - id: "458ea4e6-61bd-4ee7-a65c-10d45d5f9d36"
+    title: North Mesa Tennis Courts
+    address: "900 North Mesa Park Road, Los Alamos, New Mexico 87544, USA"
+    lat: 35.8929937
+    lng: -106.278784
+    coords: "01010000007AA9D898D7915AC05B84189E4DF24140"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water]
+    description: "There are few people who play at North Mesa. One court is not playable. Another court is not safe. The playing surface is crumbling. These courts are scheduled to be demolished and rebuilt this year, 2024, with 4 dedicated pickleball courts and one tennis court."
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Q3BfmtCQQCzmfDQcYyux"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: los-alamos
+    city_id: 1840017779
+    slug: north-mesa-tennis-courts
+    path: /courts/us/new-mexico/los-alamos/north-mesa-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-03-28T02:38:11.677Z"
+    updated_at: "2025-05-21T07:56:18.850Z"
+    schedule_sources_updated_at: null
+  - id: "00be7fb1-66d0-4d03-9a8f-698790c83531"
+    title: Oregon Courts
+    address: "Oregon Ave & 14th Street, Alamogordo, NM, USA"
+    lat: 32.9049879
+    lng: -105.9446313
+    coords: "0101000000CA11D7D6747C5AC04BE3BCA4D6734040"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms, wheelchair accessible]
+    description: great lighting for night games.  Courts are pretty new and in good shape
+    access_details: free
+    schedule_details: "Usually people playing in the mornings and evenings.  Friday & Saturday, 25-30 people 4 on 4 off rules apply.  everyone is very nice and all levels welcome"
+    images:
+      - url: "https://cdn.filestackcontent.com/OaDDEOxSE2ffxTHemG7e"
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: alamogordo
+    city_id: 1840019403
+    slug: oregon-courts
+    path: /courts/us/new-mexico/alamogordo/oregon-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-03-05T07:06:01.059Z"
+    updated_at: "2025-03-05T07:16:53.090Z"
+    schedule_sources_updated_at: null
+  - id: bb9c86ce-3b22-48ab-ba51-2d3e5f20de58
+    title: Paradise Hills Community Center
+    address: "5901 Paradise Blvd NW, Albuquerque, NM 87114, USA"
+    lat: 35.19518
+    lng: -106.71307
+    coords: "01010000008F705AF0A2AD5AC0A96A82A8FB984140"
+    phone: (505) 314-0245
+    email: null
+    url: "https://www.bernco.gov/community-services/community-centers/paradise-hills/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 4
+    total_courts: 7
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: for indoor court schedule
+    images:
+      - url: "https://cdn.filestackcontent.com/XJrKMInNTBCwfRKBVATz"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/MoZ321s6SyelzjDYhBm2"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/106452312125466203887"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106452312125466203887\">Jeff Moore</a>"
+        attribution_name: Jeff Moore
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: paradise-hills-community-center
+    path: /courts/us/new-mexico/albuquerque/paradise-hills-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T16:20:02.395Z"
+    updated_at: "2025-05-16T07:29:16.467Z"
+    schedule_sources_updated_at: null
+  - id: "6cfa9f16-7772-4753-ab7d-a299862d34b5"
+    title: Pat Hurley Park Upper Loop
+    address: "5035 Bluewater Rd NW, Albuquerque, NM 87105, USA"
+    lat: 35.0890907
+    lng: -106.7002532
+    coords: "0101000000D73ACCF2D0AC5AC05A70F552678B4140"
+    phone: null
+    email: null
+    url: "http://cabq.gov/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: Four permanent and two shared courts.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/555wTC9wRyOIfU0MCZ4V"
+        source: user
+        attribution_url: "https://images.squarespace-cdn.com/content/v1/63f432965641dd267f31a016/9b7a3750-be04-45cf-a421-e54924ef6026/IMG_1572.jpeg"
+        attribution_html: null
+        attribution_name: Pat Hurley Neighborhood
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: pat-hurley-park-upper-loop
+    path: /courts/us/new-mexico/albuquerque/pat-hurley-park-upper-loop
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-02-12T09:18:09.925Z"
+    updated_at: "2026-02-12T09:30:50.139Z"
+    schedule_sources_updated_at: null
+  - id: c2785334-f891-4602-85f0-7336a69e4579
+    title: Pickle Planet
+    address: "1836 A W Amador Ave, Las Cruces, NM 88005, USA"
+    lat: 32.3008542
+    lng: -106.8028234
+    coords: "0101000000AADD657561B35AC0A0EEF26382264040"
+    phone: "+15755733465"
+    email: Admin@pickleplanetus.com
+    url: "https://www.pickleplanetus.com/"
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, youth, lighted, pro shop, training, wheelchair accessible]
+    description: "Welcome to Pickle Planet, Las Cruces, New Mexico’s first and only climate-controlled indoor pickleball club, redefining the game with three full-size, professional-grade courts built to USA Pickleball standards. No more battling the scorching summer heat, freezing winters, or unpredictable weather—just uninterrupted, high-quality play 24/7 with exclusive member access.\n\nPickle Planet isn’t just a facility—it’s a hub for the pickleball community, welcoming players of all levels—from seasoned pros using AI analytics, live streaming, and video replay to elevate their game, to first-timers eager to learn and play in a premium, tech-driven environment.\n\nLocated at 1836 W Amador Ave, Suite A, Las Cruces, NM 88005, our state-of-the-art club offers private court bookings, league play, tournaments, community events, and cutting-edge pickleball retail. Whether you're a local or traveling in, Pickle Planet is your ultimate destination for competitive and recreational pickleball in New Mexico."
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/KSADQisQqWPJdP4Mbvpg"
+        source: user
+        attribution_url: "https://www.pickleplanetus.com/"
+        attribution_html: null
+        attribution_name: Pickle Planet
+      - url: "https://cdn.filestackcontent.com/RAzQEt8uQ1WK7F6yxJ99"
+        source: user
+        attribution_url: "https://www.pickleplanetus.com/"
+        attribution_html: null
+        attribution_name: Pickle Planet
+      - url: "https://cdn.filestackcontent.com/j3rCeGmSTDyvLc8Eurv4"
+        source: user
+        attribution_url: "https://www.pickleplanetus.com/"
+        attribution_html: null
+        attribution_name: Pickle Planet
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: las-cruces
+    city_id: 1840020683
+    slug: pickle-planet
+    path: /courts/us/new-mexico/las-cruces/pickle-planet
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-04-25T08:26:52.491Z"
+    updated_at: "2025-04-25T08:27:40.039Z"
+    schedule_sources_updated_at: null
+  - id: "866525fa-f194-4e48-a75b-e239060385dc"
+    title: Pinon Park
+    address: "99 Sherwood Blvd, Los Alamos, NM, 87544, USA"
+    lat: 35.81975
+    lng: -106.20741
+    coords: "010100000041B79734468D5AC0B0726891EDE84140"
+    phone: "5056628159"
+    email: null
+    url: "http://www.losalamosnm.us/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: No fee.
+    schedule_details: Event schedule is on the TeamReach app. The code is “WhiteRock.”
+    images:
+      - url: "https://cdn.filestackcontent.com/l7uY1AxnQTeASmcxmetP"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: white-rock
+    city_id: 1840019105
+    slug: pinon-park
+    path: /courts/us/new-mexico/white-rock/pinon-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T20:51:00.143Z"
+    updated_at: "2025-08-21T08:46:55.032Z"
+    schedule_sources_updated_at: null
+  - id: "084113e3-474c-4a52-9028-ab26430c6a3e"
+    title: Premier Sports Multiplex
+    address: "325 Academy Dr, Corrales, NM 87048, USA"
+    lat: 35.2484478
+    lng: -106.6064196
+    coords: "0101000000D1692794CFA65AC0AFE13323CD9F4140"
+    phone: "+15057383311"
+    email: psportsmultiplex@gmail.com
+    url: "https://premiersportsmultiplex.com/"
+    reservation_url: "https://app.courtreserve.com/Online/Portal/Index/14095"
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 8
+    outdoor_courts: 0
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/VJBm7UjhQjabKlU4QIGz"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/109465878600593393295"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/109465878600593393295\">Premier Sports Multiplex</a>"
+        attribution_name: Premier Sports Multiplex
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: corrales
+    city_id: 1840022681
+    slug: premier-sports-multiplex
+    path: /courts/us/new-mexico/corrales/premier-sports-multiplex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-12-20T00:16:38.667Z"
+    updated_at: "2025-12-20T00:16:38.667Z"
+    schedule_sources_updated_at: null
+  - id: e905a04a-c922-498e-a968-4db3bc40fc38
+    title: PRO Sports | Oasis Facility @ Canyon Club
+    address: "911 4 Hills Rd SE, Albuquerque, NM 87123, USA"
+    lat: 35.0524268
+    lng: -106.4926186
+    coords: "0101000000AF192A10879F5AC08BB7DFEBB5864140"
+    phone: "+15057094445"
+    email: info@prosportsnm.com
+    url: "https://prosportsnm.com"
+    reservation_url: "https://www.prosportsnm.com"
+    facility_type: club
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 11
+    total_courts: 11
+    has_pickleball: true
+    surface: [concrete, hard]
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms, water, lighted, training, youth, pro shop, wheelchair accessible]
+    description: "pro sports is the 1st private pickleball facility in NM. founded by world ranked pros, the oasis facility has top notch clinics, lessons, organized play, socials and more. more importantly, they are all a ton of fun! if you are in the area and would like to come out and play, contact info@prosportsnm.com | (505) 709-4445. ext.2 for more info on daily, weekly and monthly options. \nsee you on the courts 🤙"
+    access_details: Starting at $45/month with a FREE guest account
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/meJeS2LFRyisBga9P1jd"
+        source: user
+        attribution_url: ""
+        attribution_html: null
+        attribution_name: Oasis Facility @ Canyon Club
+      - url: "https://cdn.filestackcontent.com/UJBs565iTP2CgSNz1OyA"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: pro-sports-or-oasis-facility-canyon-club
+    path: /courts/us/new-mexico/albuquerque/pro-sports-or-oasis-facility-canyon-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-07-22T11:03:53.490Z"
+    updated_at: "2026-01-26T10:15:01.701Z"
+    schedule_sources_updated_at: null
+  - id: "5c927875-a2f8-482e-abb5-aa2833272959"
+    title: Raymond Sanchez Community Center
+    address: "9800 4th St NW, Albuquerque, NM, 87114, USA"
+    lat: 35.192985
+    lng: -106.616235
+    coords: "0101000000A3E9EC6470A75AC02DCF83BBB3984140"
+    phone: "+15054687800"
+    email: null
+    url: "https://www.bernco.gov/community-services/community-centers/raymond-g-sanchez/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 3
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/XYMXsTleSsWwNN0k79wK"
+        source: user
+        visible: true
+        attribution_url: "https://fastly.4sqi.net/img/general/600x600/OhUKwlcJOgXmuezMKqxl9a5C1haXd2VgaJXhPfzHlBc.jpg"
+        attribution_html: null
+        attribution_name: Foursquare
+      - url: "https://cdn.filestackcontent.com/IgNt2QtTRSSWgbOEfzsS"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/202823980_4178376345557455_7392852561022944633_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeF5CqV_H6Qnsndzyz2Ff4aHsfV6KnaydASx9XoqdrJ0BKu_S2eQAdFRs5r7Iaze9uHKpKMSKzqPXE7Z6szWLA2c&_nc_ohc=8NGbxspQ5ogAX__rYZ3&_nc_ht=scontent-lax3-1.xx&oh=00_AfBlYXP3TyXBtZL8VmSh8a9e_lwO52sD2WW7LCs_ISTW0g&oe=647AC271"
+        attribution_html: null
+        attribution_name: Raymond G. Sanchez Community Center
+      - url: "https://cdn.filestackcontent.com/vjMLDBSrmWIBl3b1ampA"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/103984944953926673372"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103984944953926673372\">LawrenceK.</a>"
+        attribution_name: LawrenceK.
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: raymond-sanchez-community-center
+    path: /courts/us/new-mexico/albuquerque/raymond-sanchez-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-01T23:11:50.020Z"
+    updated_at: "2024-03-25T06:49:20.129Z"
+    schedule_sources_updated_at: null
+  - id: "17c68f62-5150-4cc7-8d4b-349d727a4a11"
+    title: Rinconada Park
+    address: "3125 Painted Rock Dr NW, Albuquerque, NM 87120, USA"
+    lat: 35.119586
+    lng: -106.726035
+    coords: "01010000001630815B77AE5AC09C8713984E8F4140"
+    phone: "+15052246682"
+    email: null
+    url: "http://www.cabq.gov/parksandrecreation/parks/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/T9o1KfPHQbGOtcx3J22j"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: rinconada-park
+    path: /courts/us/new-mexico/albuquerque/rinconada-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-03-14T02:52:43.695Z"
+    updated_at: "2025-05-20T06:25:40.100Z"
+    schedule_sources_updated_at: null
+  - id: e19d69b7-1ced-48a4-b52d-6f4e657d324b
+    title: Rio Rancho Sports Complex
+    address: "3501 High Resort Blvd SE, Rio Rancho, NM, 87124, USA"
+    lat: 35.255777
+    lng: -106.660653
+    coords: "01010000004640852348AA5AC0D508FD4CBDA04140"
+    phone: "5058917810"
+    email: parksandrec@rrnm.gov
+    url: "https://www.rrnm.gov/4840/Pickleball"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/PAHqPRuUQH2cNwOIBCaQ"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: rio-rancho
+    city_id: 1840020387
+    slug: rio-rancho-sports-complex
+    path: /courts/us/new-mexico/rio-rancho/rio-rancho-sports-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T17:44:47.564Z"
+    updated_at: "2025-11-05T08:14:33.595Z"
+    schedule_sources_updated_at: null
+  - id: "2913c8d9-7cc2-45fb-85ff-e78d2e555845"
+    title: Riverwalk Recreation Center
+    address: "400 Riverwalk Dr, Carlsbad, NM, 88220, USA"
+    lat: 32.424028
+    lng: -104.219084
+    coords: "0101000000EBC4E578050E5AC04D4BAC8C46364040"
+    phone: "5758872702"
+    email: null
+    url: "https://cityofcarlsbadnm.com/municipal-services/riverwalk-recreation-center/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/UxcrSbRgQ3KZRf7T6XgX"
+        source: user
+        visible: true
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipMDY8cTPOmfdJ-WC6VJox6AedFTxz-VleRTvYXU=s680-w680-h510"
+        attribution_html: null
+        attribution_name: Aaron Jones
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: carlsbad
+    city_id: 1840019444
+    slug: riverwalk-recreation-center
+    path: /courts/us/new-mexico/carlsbad/riverwalk-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-20T09:32:46.352Z"
+    updated_at: "2022-12-21T09:54:03.086Z"
+    schedule_sources_updated_at: null
+  - id: "301b86f8-fef4-476c-bb6d-24b378684833"
+    title: Romero Park
+    address: "2100 Caja Del Oro Grant Rd, Santa Fe, NM 87501, USA"
+    lat: 35.6584954
+    lng: -106.0269272
+    coords: "0101000000DDD7DC2CB9815AC081C8C79349D44140"
+    phone: "+15059552106"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 5
+    total_courts: 5
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/cfDxRoIQOnio1aBNtlaw"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113862614934068909258"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113862614934068909258\">Ann Maes</a>"
+        attribution_name: Ann Maes
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: santa-fe
+    city_id: 1840021707
+    slug: romero-park
+    path: /courts/us/new-mexico/santa-fe/romero-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-03-15T09:25:16.600Z"
+    updated_at: "2025-06-12T08:19:43.217Z"
+    schedule_sources_updated_at: null
+  - id: "886948b2-63e2-4f04-be4b-d792df739b3e"
+    title: Roosevelt Middle School
+    address: "11719 NM-14, Tijeras, NM 87059, USA"
+    lat: 35.08768
+    lng: -106.3808788
+    coords: "0101000000586F795160985AC0B3412619398B4140"
+    phone: "5055073663"
+    email: null
+    url: "https://roosevelt.aps.edu/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/UEjBbX9rR7O8dQlomWsF"
+        source: user
+        visible: true
+        attribution_url: "https://cdn.schoolloop.com/uimgcdn/aHR0cHM6Ly9ybXMtYXBzLW5tLnNjaG9vbGxvb3AuY29tL3VpbWcvZmlsZS8xNTAwMTc4OTczODM2LzE2MDkyMzA3MzI1NzkvMzI1MTI5Mjg3ODY0NTY2MTUxOC5qcGVn"
+        attribution_html: null
+        attribution_name: School Loop
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: tijeras
+    city_id: 1840022796
+    slug: roosevelt-middle-school
+    path: /courts/us/new-mexico/tijeras/roosevelt-middle-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T04:58:01.700Z"
+    updated_at: "2023-08-04T06:26:13.059Z"
+    schedule_sources_updated_at: null
+  - id: "0bde0a6a-2831-4a56-8235-af0fc93bde10"
+    title: Roswell Adult Center
+    address: "807 North Missouri Avenue, Roswell, NM, USA"
+    lat: 33.4019959
+    lng: -104.5297978
+    coords: "0101000000891F0835E8215AC024D0059A74B34040"
+    phone: "575-624-6718"
+    email: null
+    url: "https://roswell-nm.gov/780/Roswell-Adult-Center"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, training, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/S4nDE5JbQwC4u8Radsp1"
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: roswell
+    city_id: 1840020549
+    slug: roswell-adult-center
+    path: /courts/us/new-mexico/roswell/roswell-adult-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-09-16T11:12:23.129Z"
+    updated_at: "2024-09-16T11:57:05.216Z"
+    schedule_sources_updated_at: null
+  - id: af9e1046-a657-4d4d-b128-38679e3776ca
+    title: Roswell First Church of the Nazarene
+    address: "501 N Sycamore Ave, Roswell, NM, 88201, USA"
+    lat: 33.398841
+    lng: -104.557863
+    coords: "010100000080290307B4235AC0E7A6CD380DB34040"
+    phone: "5759146050"
+    email: null
+    url: "http://ros1naz.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/V9MV0rTJRzOywCdL731V"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/100181631675846200180"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/100181631675846200180\">C C</a>"
+        attribution_name: C C
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: roswell
+    city_id: 1840020549
+    slug: roswell-first-church-of-the-nazarene
+    path: /courts/us/new-mexico/roswell/roswell-first-church-of-the-nazarene
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T17:28:49.379Z"
+    updated_at: "2024-12-02T07:13:08.841Z"
+    schedule_sources_updated_at: null
+  - id: "9a9b919d-3948-44b5-a984-99d4ca640491"
+    title: Roswell Recreation & Aquatic Center
+    address: "1402 West College Boulevard, Roswell, NM, USA"
+    lat: 33.404545
+    lng: -104.54517
+    coords: "0101000000A930B610E4225AC052616C21C8B34040"
+    phone: "+15756246719"
+    email: null
+    url: "https://roswell-nm.gov/1722/Roswell-Recreation-Aquatic-Center"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [wood]
+    lines: tape
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/GNEUOygZSWa1EGAB063Z"
+        source: user
+        visible: true
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipN7XcF84cqBa5uUERvooqCpkuVShpDJp-hm6Das=s680-w680-h510"
+        attribution_html: null
+        attribution_name: V E G. Bog
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: roswell
+    city_id: 1840020549
+    slug: roswell-recreation-and-aquatic-center
+    path: /courts/us/new-mexico/roswell/roswell-recreation-and-aquatic-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-02-12T09:08:34.799Z"
+    updated_at: "2024-02-12T09:10:25.996Z"
+    schedule_sources_updated_at: null
+  - id: "1e850330-2090-466f-8ff1-8210056a28b1"
+    title: Rover Park
+    address: "320 Rover Boulevard, White Rock NM 87547, USA"
+    lat: 35.816465
+    lng: -106.200417
+    coords: "0101000000FF23D3A1D38C5AC011AAD4EC81E84140"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/tPbu4fs0TgyOhED9vFhQ"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: white-rock
+    city_id: 1840019105
+    slug: rover-park
+    path: /courts/us/new-mexico/white-rock/rover-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-24T03:41:29.422Z"
+    updated_at: "2023-05-24T03:41:29.422Z"
+    schedule_sources_updated_at: null
+  - id: "148b4c46-f40b-459a-9a43-241c6e7eda80"
+    title: Roy Walker Rec Center
+    address: "316 W 2nd St, Clovis, NM, 88101, USA"
+    lat: 34.400063
+    lng: -103.210073
+    coords: "0101000000723106D671CD59C07AABAE4335334140"
+    phone: "5757697868"
+    email: null
+    url: "https://www.cityofclovis.org/solutions/gym/#page-content"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 2
+    total_courts: 5
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/081O5x8uTXKXLXyr0mvJ"
+        source: user
+        visible: true
+        attribution_url: "https://www.cityofclovis.org/wp-content/uploads/2021/05/IMG_1001-768x576.jpg"
+        attribution_html: null
+        attribution_name: Roy Walker Rec Center
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: clovis
+    city_id: 1840019195
+    slug: roy-walker-rec-center
+    path: /courts/us/new-mexico/clovis/roy-walker-rec-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-31T02:57:45.717Z"
+    updated_at: "2022-12-21T07:22:41.975Z"
+    schedule_sources_updated_at: null
+  - id: d7121bab-9bef-4f62-bb1a-e09f84d2e3cb
+    title: Salvador Perez Park
+    address: "601 Alta Vista St, Santa Fe, NM, 87505, USA"
+    lat: 35.67107
+    lng: -105.95189
+    coords: "0101000000EDD808C4EB7C5AC0D2A92B9FE5D54140"
+    phone: "5059552601"
+    email: null
+    url: "https://www.santafenm.gov/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/guhYJsTdQrKX6D2C6CAU"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: santa-fe
+    city_id: 1840021707
+    slug: salvador-perez-park
+    path: /courts/us/new-mexico/santa-fe/salvador-perez-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-21T09:43:11.440Z"
+    updated_at: "2023-05-24T03:07:55.293Z"
+    schedule_sources_updated_at: null
+  - id: "4abda3bc-9ba1-4a13-ad18-1a66f823715d"
+    title: San Juan College
+    address: "4601 College Blvd, Farmington, NM, 87402, USA"
+    lat: 36.77006
+    lng: -108.173649
+    coords: "0101000000EBFEB1101D0B5BC098FA795391624240"
+    phone: "5056864177"
+    email: null
+    url: "http://www.sanjuancollege.edu/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [food, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/yBmmvH2bS3WC5FaOGNKg"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/112550523814867889855"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112550523814867889855\">Laura</a>"
+        attribution_name: Laura
+      - url: "https://cdn.filestackcontent.com/DHcANbpQE6gQ1QKsuPDn"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/102157779433715356369"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/102157779433715356369\">Chris Rock</a>"
+        attribution_name: Chris Rock
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: farmington
+    city_id: 1840020349
+    slug: san-juan-college
+    path: /courts/us/new-mexico/farmington/san-juan-college
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-14T22:10:43.446Z"
+    updated_at: "2022-12-21T10:20:47.123Z"
+    schedule_sources_updated_at: null
+  - id: "7b8681bf-6f48-43ef-94cc-9caed009007c"
+    title: San Juan Country Club
+    address: "5775 Country Club Drive, Farmington, NM, USA"
+    lat: 36.7835127
+    lng: -108.1289701
+    coords: "01010000005C6ACE0B41085BC01640E7244A644240"
+    phone: "5053274451"
+    email: null
+    url: "https://sanjuancountryclub.org"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [food, locker rooms, restrooms, water, youth, pro shop, training]
+    description: Country Club Members and Guests of Members only.
+    access_details: null
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: farmington
+    city_id: 1840020349
+    slug: san-juan-country-club
+    path: /courts/us/new-mexico/farmington/san-juan-country-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-03-04T07:44:15.123Z"
+    updated_at: "2026-03-04T07:44:15.123Z"
+    schedule_sources_updated_at: null
+  - id: "50387159-a298-4008-a957-5b6dbbcbf91a"
+    title: Santa Barbara Martineztown Multigenerational Center
+    address: "1825 Edith Blvd NE, Albuquerque, NM 87102, USA"
+    lat: 35.1017402
+    lng: -106.6384204
+    coords: "01010000005AC63CE1DBA85AC021D8A7D2058D4140"
+    phone: "+15057675671"
+    email: null
+    url: "https://www.cabq.gov/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/A93dPiDSCi2urctbWyOy"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/114599655688176591535"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114599655688176591535\">Brian Eagan</a>"
+        attribution_name: Brian Eagan
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: santa-barbara-martineztown-multigenerational-center
+    path: /courts/us/new-mexico/albuquerque/santa-barbara-martineztown-multigenerational-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-10-23T07:06:33.767Z"
+    updated_at: "2024-10-23T07:06:33.767Z"
+    schedule_sources_updated_at: null
+  - id: "7c3fe7a4-d053-4d6f-a9bd-03212da07f40"
+    title: Santa Fe
+    address: "Santa Fe Ave, Moriarty, NM, 87035, USA"
+    lat: 34.986968
+    lng: -106.026029
+    coords: "0101000000D8EF8975AA815AC06919A9F7547E4140"
+    phone: "8027933456"
+    email: null
+    url: "http://santafepickleballclub.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/jLf2Tc9ROKqiGLfrfl4u"
+        source: user
+        visible: true
+        attribution_url: "https://i0.wp.com/santafepickleballclub.com/wp-content/uploads/2021/09/New-courts.jpg?resize=900%2C412"
+        attribution_html: null
+        attribution_name: Santa Fe Pickleball Club
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: moriarty
+    city_id: 1840020469
+    slug: santa-fe
+    path: /courts/us/new-mexico/moriarty/santa-fe
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T17:00:21.130Z"
+    updated_at: "2022-12-21T11:43:48.509Z"
+    schedule_sources_updated_at: null
+  - id: cb3e3ded-a3f3-4a7d-8065-a163a57c758f
+    title: Santa Fe Community College
+    address: "6401 Richards Avenue Santa Fe, New Mexico 87508, USA"
+    lat: 35.6019148
+    lng: -105.9998263
+    coords: "0101000000900B7327FD7F5AC03C7D4E8B0BCD4140"
+    phone: "+15054281000"
+    email: null
+    url: "https://www.sfcc.edu/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/jWZnEN9TOCMmRdBYwktM"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113259819766318519518"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113259819766318519518\">Gabriel Roybal</a>"
+        attribution_name: Gabriel Roybal
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: santa-fe
+    city_id: 1840021707
+    slug: santa-fe-community-college
+    path: /courts/us/new-mexico/santa-fe/santa-fe-community-college
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-04T02:28:51.390Z"
+    updated_at: "2023-08-04T02:28:51.390Z"
+    schedule_sources_updated_at: null
+  - id: a81f204e-1174-4826-8caf-e3067a0913fd
+    title: Santa Fe Tennis and Swim Club
+    address: "1755 Camino Corrales, Santa Fe, NM, 87505, USA"
+    lat: 35.66087
+    lng: -105.930092
+    coords: "01010000005C9198A0867B5AC02A745E6397D44140"
+    phone: "5059884100"
+    email: null
+    url: "https://santafetennis.net/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ball0wGGQjyOhUywwFr0"
+        source: user
+        visible: true
+        attribution_url: "https://santafetennis.net/pickleball/"
+        attribution_html: null
+        attribution_name: Santa Fe Tennis and Swim Club
+      - url: "https://cdn.filestackcontent.com/1n4GgzCSF29ki7MlBRdE"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: santa-fe
+    city_id: 1840021707
+    slug: santa-fe-tennis-and-swim-club
+    path: /courts/us/new-mexico/santa-fe/santa-fe-tennis-and-swim-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-13T19:06:27.739Z"
+    updated_at: "2023-05-24T03:09:49.165Z"
+    schedule_sources_updated_at: null
+  - id: "4e3d5631-321d-4ee1-86ad-32c51b44d569"
+    title: Silver City Recreation Center
+    address: "1016 N Silver St, Silver City, NM, 88061, USA"
+    lat: 32.775365
+    lng: -108.267311
+    coords: "01010000001CB7989F1B115BC045BB0A293F634040"
+    phone: (575) 388-3087
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 9
+    outdoor_courts: 0
+    total_courts: 9
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Vd1BWrtLS8SplKr1FnqA"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115386369152814806778"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115386369152814806778\">holly wilcox</a>"
+        attribution_name: holly wilcox
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: silver-city
+    city_id: 1840023009
+    slug: silver-city-recreation-center
+    path: /courts/us/new-mexico/silver-city/silver-city-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-29T05:27:21.346Z"
+    updated_at: "2025-10-10T08:08:32.566Z"
+    schedule_sources_updated_at: null
+  - id: "8a2bd7ec-23bb-4824-b70d-b194659250d2"
+    title: Silver City Tennis Courts
+    address: "2601 N Silver St, Silver City, NM, 88061, USA"
+    lat: 32.79089
+    lng: -108.267875
+    coords: "0101000000A01A2FDD24115BC0E15D2EE23B654040"
+    phone: "9792999373"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: byo
+    amenities: [wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/IGAOe0S4RHGqv4ejb8d3"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: silver-city
+    city_id: 1840023009
+    slug: silver-city-tennis-courts
+    path: /courts/us/new-mexico/silver-city/silver-city-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T07:07:47.789Z"
+    updated_at: "2024-08-16T09:49:31.459Z"
+    schedule_sources_updated_at: null
+  - id: ce0f83d7-0cb8-4576-a361-5867a59cfaca
+    title: Silver High School
+    address: "3200 N Silver St, Silver City, NM 88061, USA"
+    lat: 32.7967561
+    lng: -108.2664824
+    coords: "01010000006A3D320C0E115BC0BB31981AFC654040"
+    phone: "+15759562130"
+    email: null
+    url: "https://www.silverschools.org/"
+    reservation_url: null
+    facility_type: school
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/DDejeqjEQLGq9atOQqZg"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/297495794_1942011662667431_1480487363231867827_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=vcwb2vJW9ocAX9kBwFn&_nc_ht=scontent-sjc3-1.xx&_nc_e2o=c&oh=00_AfB4qd3KZfSdEHJFVhxShhlqA06u0f321Uh4yFgjeKEeeA&oe=64C6A145"
+        attribution_html: null
+        attribution_name: Mario Quintana
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: silver-city
+    city_id: 1840023009
+    slug: silver-high-school
+    path: /courts/us/new-mexico/silver-city/silver-high-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T19:21:22.182Z"
+    updated_at: "2023-07-27T03:47:06.053Z"
+    schedule_sources_updated_at: null
+  - id: "4c430bd8-6a16-4498-83c2-a84539777fab"
+    title: Sunny Acres RV Park
+    address: "595 N Valley Dr, Las Cruces, NM, 88005, USA"
+    lat: 32.310239
+    lng: -106.796214
+    coords: "010100000083A7902BF5B25AC0CD785BE9B5274040"
+    phone: "5756444191"
+    email: null
+    url: "http://lascrucesrvpark.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ziMdh3nxSCVNf0CWIEGA"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110675220747611306411"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110675220747611306411\">Emily Hanka</a>"
+        attribution_name: Emily Hanka
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: las-cruces
+    city_id: 1840020683
+    slug: sunny-acres-rv-park
+    path: /courts/us/new-mexico/las-cruces/sunny-acres-rv-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T23:41:15.861Z"
+    updated_at: "2022-12-21T10:28:50.593Z"
+    schedule_sources_updated_at: null
+  - id: c154bc57-01dc-4e55-ae78-36f35a2629b4
+    title: Swing-N-Pickle
+    address: "1700 Eubank Boulevard Northeast, Albuquerque, NM, USA"
+    lat: 35.1002005
+    lng: -106.5322591
+    coords: "0101000000E6DF788810A25AC07C45B75ED38C4140"
+    phone: "+15052189108"
+    email: christina.swingnpickle@gmail.com
+    url: "https://www.swingnpickle.com"
+    reservation_url: "https://www.swingnpickle.com"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [clay]
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms, water, wheelchair accessible]
+    description: "Our facility also has two golf simulators and four batting cages, along with a full bar and restaurant."
+    access_details: All attractions are $35 for 30 min and $55 for one hour.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/qjuKeQfoSMGu3xnlA5gE"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: swing-n-pickle
+    path: /courts/us/new-mexico/albuquerque/swing-n-pickle
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-03-03T06:54:37.283Z"
+    updated_at: "2026-03-05T08:00:28.302Z"
+    schedule_sources_updated_at: null
+  - id: dc22a04b-d006-4b4f-87b8-d2210e512723
+    title: TA Pickleball Club
+    address: "NM Hwy 531 off US Hwy 84, Tierra Amarilla, NM, 87575, USA"
+    lat: 36.713042
+    lng: -106.559954
+    coords: "0101000000EC504D49D6A35AC05456D3F5445B4240"
+    phone: "5755880340"
+    email: hockeybill49@hotmail.com
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: see Facebook page
+    access_details: no fees/donations welcome
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/t3J7zZk6T5u723ZR34AD"
+        source: user
+        visible: true
+        attribution_url: "https://i0.wp.com/santafepickleballclub.com/wp-content/uploads/2022/03/5438239662665645315.jpg?resize=900%2C459"
+        attribution_html: null
+        attribution_name: Santa Fe Pickleball
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: tierra-amarilla
+    city_id: 1840024843
+    slug: ta-pickleball-club
+    path: /courts/us/new-mexico/tierra-amarilla/ta-pickleball-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-22T05:02:15.076Z"
+    updated_at: "2025-04-14T09:34:18.035Z"
+    schedule_sources_updated_at: "2025-04-13T19:13:07.097Z"
+  - id: "47979426-598a-49a4-9be4-6921af9a360b"
+    title: Tanoan Country Club
+    address: "10801 Academy Rd NE, Albuquerque, NM, 87111, USA"
+    lat: 35.159514
+    lng: -106.53585
+    coords: "0101000000F163CC5D4BA25AC088A06AF46A944140"
+    phone: "5058220422"
+    email: null
+    url: "http://www.tanoancountryclub.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: No lights on PB courts
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/eLEq4S2iT62kwXwrUKwN"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: tanoan-country-club
+    path: /courts/us/new-mexico/albuquerque/tanoan-country-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-21T08:43:09.248Z"
+    updated_at: "2024-01-22T08:33:50.621Z"
+    schedule_sources_updated_at: null
+  - id: "4f378283-13a2-4d3b-a1b4-6b9b9ff8a3d8"
+    title: Taos Academy Gym
+    address: "110 Paseo Del Canon West, Taos, NM, USA"
+    lat: 36.38156
+    lng: -105.59494
+    coords: "010100000043C5387F13665AC01BBB44F5D6304240"
+    phone: "+12072298199"
+    email: ANDYGREIF60@GMAIL.COM
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [acrylic]
+    lines: tape
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: Limited to 36 members. Current fee based on $20/month plus $25 for balls and insurance expenses.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/kGgV0OxiTK6ygIGJoNXF"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: taos
+    city_id: 1840022638
+    slug: taos-academy-gym
+    path: /courts/us/new-mexico/taos/taos-academy-gym
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-05-07T16:01:54.668Z"
+    updated_at: "2025-05-12T08:11:45.164Z"
+    schedule_sources_updated_at: null
+  - id: d72766d9-2a7b-43d2-ad7a-b689ba744340
+    title: Taos Ski Valley
+    address: "13 Ernie Blake Road, Taos Ski Valley, NM, USA"
+    lat: 36.5950672
+    lng: -105.4486464
+    coords: "0101000000F6DD639FB65C5AC00E7679292B4C4240"
+    phone: "+15757765330"
+    email: info@skitaos.com
+    url: "https://www.skitaos.com/things-to-do-summer"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [wood, acrylic, hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, food, pro shop, training, lighted]
+    description: Enjoy one of the fastest-growing sports in the country against the breathtaking backdrop of the mountains at the highest Pickleball court in the US.
+    access_details: "Book online at https://www.skitaos.com/?keyword=Pickleball"
+    schedule_details: Play is by RESERVATION only.
+    images:
+      - url: "https://cdn.filestackcontent.com/GEbu7retQ2GEpGoXKw6k"
+        source: user
+        attribution_url: "https://tacky-rare-back.media.strapiapp.com/DSC_06187_9265745680.jpg"
+        attribution_html: null
+        attribution_name: Taos Ski Valley Pickleball Court
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: taos-ski-valley
+    city_id: 1840033551
+    slug: taos-ski-valley
+    path: /courts/us/new-mexico/taos-ski-valley/taos-ski-valley
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-07-16T10:21:27.826Z"
+    updated_at: "2024-08-05T07:16:11.967Z"
+    schedule_sources_updated_at: null
+  - id: fc50c878-ad59-4142-aabc-7e9b6dd4fd99
+    title: Taos Tennis at Quail Ridge
+    address: "88 State Rte 150, Taos, NM, 87571, USA"
+    lat: 36.527841
+    lng: -105.636219
+    coords: "01010000000186E5CFB7685AC0753E3C4B90434240"
+    phone: "5757763447"
+    email: null
+    url: "http://www.taostennis.com/"
+    reservation_url: null
+    facility_type: club
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: ""
+    access_details: $15 drop in up and monthly rates
+    schedule_details: Sign up Team Reach L1 Intermediate Mon and Thurs. L2 Intermediate Wed and Fri. Adv Tuesday and Saturday
+    images:
+      - url: "https://cdn.filestackcontent.com/tzhVxVsvQHiq5bpPRlA4"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/101841665706063367131"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101841665706063367131\">Taos Tennis at Quail Ridge Taos</a>"
+        attribution_name: Taos Tennis at Quail Ridge Taos
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: el-prado
+    city_id: 1840140587
+    slug: taos-tennis-at-quail-ridge
+    path: /courts/us/new-mexico/el-prado/taos-tennis-at-quail-ridge
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T15:56:09.157Z"
+    updated_at: "2024-05-30T09:19:28.486Z"
+    schedule_sources_updated_at: null
+  - id: e9e5679c-1a4a-4a4f-89e9-354362a75e61
+    title: Taos Youth and Family Center
+    address: "407 Paseo Del Cañon East, Taos, NM 87571, USA"
+    lat: 36.3905795
+    lng: -105.5672313
+    coords: "010100000020B182844D645AC0787E5182FE314240"
+    phone: "+15757584160"
+    email: null
+    url: "https://taos.org/places/taos-youth-family-center/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: tape
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: $2 drop in
+    schedule_details: "Sign up Team Reach: code PBYFC"
+    images:
+      - url: "https://cdn.filestackcontent.com/0ALwYtmmQ0aEhrDWyQJ3"
+        source: user
+        attribution_url: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/b7/25/4a/taos-youth-and-family.jpg?w=1200&h=1200&s=1"
+        attribution_html: null
+        attribution_name: Tripadadvisor
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: taos
+    city_id: 1840022638
+    slug: taos-youth-and-family-center
+    path: /courts/us/new-mexico/taos/taos-youth-and-family-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-30T10:53:56.484Z"
+    updated_at: "2024-05-30T10:56:16.999Z"
+    schedule_sources_updated_at: null
+  - id: "7f9ea124-b4d5-42c1-bbab-2f67621288cb"
+    title: Taylor Ranch Community Center
+    address: "4900 Kachina St NW, Albuquerque, NM 87120, USA"
+    lat: 35.1549
+    lng: -106.69521
+    coords: "01010000008A7615527EAC5AC0401361C3D3934140"
+    phone: "+15057686006"
+    email: null
+    url: "https://www.cabq.gov/family/crei/community-centers/don-newton-taylor-ranch-community-center"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard, wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/D9sBrNuFSa6UT9sn7qqn"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113933013459663677516"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113933013459663677516\">Mary Rachel Garcia</a>"
+        attribution_name: Mary Rachel Garcia
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: taylor-ranch-community-center
+    path: /courts/us/new-mexico/albuquerque/taylor-ranch-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-04T05:29:11.918Z"
+    updated_at: "2024-07-31T06:13:46.484Z"
+    schedule_sources_updated_at: null
+  - id: c61139e1-42e3-47fc-b0b6-77ec6f33cd20
+    title: The Club At Las Campanas
+    address: "132 Clubhouse Dr, Santa Fe, NM, 87506, USA"
+    lat: 35.71791
+    lng: -106.05683
+    coords: "0101000000A1DB4B1AA3835AC056BC9179E4DB4140"
+    phone: "5059953500"
+    email: null
+    url: "http://www.theclubatlascampanas.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [clay]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/VgMTzdCTRaWyTfkXIULB"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: santa-fe
+    city_id: 1840021707
+    slug: the-club-at-las-campanas
+    path: /courts/us/new-mexico/santa-fe/the-club-at-las-campanas
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T02:38:07.128Z"
+    updated_at: "2025-05-22T06:40:13.348Z"
+    schedule_sources_updated_at: null
+  - id: b2d88fc5-196e-4097-adcd-62315cabf052
+    title: The CORE
+    address: "4827 N Lovington Hwy, Hobbs, NM, 88240, USA"
+    lat: 32.754221
+    lng: -103.175526
+    coords: "0101000000416667D13BCB59C06C7A50508A604040"
+    phone: "5753916912"
+    email: null
+    url: "http://www.corehobbs.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [food, restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/l5lpKwPFRpi2sZXUKnfO"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/100882957007245912367"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/100882957007245912367\">Chad Chavez</a>"
+        attribution_name: Chad Chavez
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: hobbs
+    city_id: 1840020616
+    slug: the-core
+    path: /courts/us/new-mexico/hobbs/the-core
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T17:54:49.903Z"
+    updated_at: "2022-12-22T01:57:22.579Z"
+    schedule_sources_updated_at: null
+  - id: bdb64a76-8c9c-4620-bc2d-1cccbd98584b
+    title: The Family YMCA
+    address: "1450 Iris St, Los Alamos, NM 87544, USA"
+    lat: 35.8824696
+    lng: -106.2982797
+    coords: "0101000000E223BD0317935AC06BDB8BC3F4F04140"
+    phone: (505) 662-3100
+    email: null
+    url: "http://laymca.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: false
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, wheelchair accessible, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/tKWVzpUASuq53fhuTAXU"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110425173657003526470"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110425173657003526470\">Brendan Miller</a>"
+        attribution_name: Brendan Miller
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: los-alamos
+    city_id: 1840017779
+    slug: the-family-ymca
+    path: /courts/us/new-mexico/los-alamos/the-family-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-03-28T02:47:28.255Z"
+    updated_at: "2023-03-28T02:47:28.255Z"
+    schedule_sources_updated_at: null
+  - id: "96e9ee69-080e-4d1c-8986-9b5d39976d15"
+    title: "The HUB, Community Center"
+    address: "7845 Enchanted Hills Blvd NE, Rio Rancho, NM 87144, USA"
+    lat: 35.3210117
+    lng: -106.5761778
+    coords: "010100000099EBD918E0A45AC0129150E916A94140"
+    phone: "+15058915025"
+    email: parksandrec@rrnm.gov
+    url: "https://www.rrnm.gov/4840/Pickleball"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: Needs reservation.
+    images:
+      - url: "https://cdn.filestackcontent.com/SGlWTfVSi60BOYbsXgou"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: rio-rancho
+    city_id: 1840020387
+    slug: the-hub-community-center
+    path: /courts/us/new-mexico/rio-rancho/the-hub-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-06-19T06:14:25.800Z"
+    updated_at: "2024-03-21T05:20:08.640Z"
+    schedule_sources_updated_at: null
+  - id: "88141f5a-05e9-4610-8aa2-da0c49de1fdd"
+    title: The McDermott Athletic Center
+    address: "801 Loma Colorado Blvd NE, Rio Rancho, NM, 87124, USA"
+    lat: 35.271587
+    lng: -106.659874
+    coords: "0101000000C45E28603BAA5AC06682E15CC3A24140"
+    phone: "5058929222"
+    email: null
+    url: "https://www.themacsports.com/"
+    reservation_url: null
+    facility_type: public
+    access: membership
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/TWUNItUqS3udXbcjKDtB"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/103987749665246312414"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103987749665246312414\">Nicolas Peña</a>"
+        attribution_name: Nicolas Peña
+      - url: "https://cdn.filestackcontent.com/tjGNTSrZTzybCBBMabZp"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115575511017994864906"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115575511017994864906\">The McDermott Athletic Center</a>"
+        attribution_name: The McDermott Athletic Center
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: rio-rancho
+    city_id: 1840020387
+    slug: the-mcdermott-athletic-center
+    path: /courts/us/new-mexico/rio-rancho/the-mcdermott-athletic-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T18:08:02.968Z"
+    updated_at: "2022-12-21T11:55:49.503Z"
+    schedule_sources_updated_at: null
+  - id: "0dbec95a-147b-4bd5-9675-331195e2c188"
+    title: The Picklr - Albuquerque East
+    address: "45 Hotel Circle Northeast, Albuquerque, NM 87123, USA"
+    lat: 35.0829973
+    lng: -106.5299126
+    coords: "010100000041AF8916EAA15AC00294D0A79F8A4140"
+    phone: "+15059347709"
+    email: albuquerqueeast.nm@thepicklrfranchise.com
+    url: "https://thepicklr.com/location/albuquerque-east/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 12
+    outdoor_courts: 0
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, locker rooms, pro shop, training, water, youth, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/fLUK4gprQZG2LbgpTSXs"
+        source: user
+        attribution_url: "https://www.google.com/search?q=The+Picklr-Albuquerque+East&sourceid=chrome&ie=UTF-8#lpg=cid:CgIgAQ%3D%3D,ik:CAoSLEFGMVFpcFBNZU0xbktvelV5QWdzYkZXa1JpU2pGMUR3RFVqdUNrbzdXeVQ4"
+        attribution_html: null
+        attribution_name: The Picklr Albuquerque East
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: the-picklr-albuquerque-east
+    path: /courts/us/new-mexico/albuquerque/the-picklr-albuquerque-east
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-24T03:40:50.292Z"
+    updated_at: "2026-05-12T10:45:17.377Z"
+    schedule_sources_updated_at: null
+  - id: "0b118c32-1f38-4eb0-891e-23dc4410f57b"
+    title: The Picklr Albuquerque West
+    address: "10000 Coors Blvd NW suite d09, Albuquerque, NM 87114, USA"
+    lat: 35.1946666
+    lng: -106.6557911
+    coords: "010100000081E03B7BF8A95AC0CF4FCCD5EA984140"
+    phone: null
+    email: albuquerquewest.nm@thepicklrfranchise.com
+    url: "https://thepicklr.com/location/albuquerque-west-nm/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 12
+    outdoor_courts: 0
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [locker rooms, restrooms]
+    description: Soon to open!
+    access_details: null
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: the-picklr-albuquerque-west
+    path: /courts/us/new-mexico/albuquerque/the-picklr-albuquerque-west
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-24T03:47:49.461Z"
+    updated_at: "2025-06-24T03:47:49.461Z"
+    schedule_sources_updated_at: null
+  - id: "276438ea-1770-4202-964d-a891f659aeb5"
+    title: Thomas Bell Community Center
+    address: "3001 University Blvd SE, Albuquerque, NM, 87106, USA"
+    lat: 35.052858
+    lng: -106.631211
+    coords: "01010000000778D2C265A85AC07EAA0A0DC4864140"
+    phone: "5055073663"
+    email: null
+    url: "https://www.cabq.gov/family/crei/community-centers/thomas-bell-community-center"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/545Y1tGcRoS7xkYxyRR8"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/107132106401700480610"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/107132106401700480610\">Avram Gonzales</a>"
+        attribution_name: Avram Gonzales
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: thomas-bell-community-center
+    path: /courts/us/new-mexico/albuquerque/thomas-bell-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T16:53:42.249Z"
+    updated_at: "2022-12-21T09:51:09.620Z"
+    schedule_sources_updated_at: null
+  - id: "57aca281-a884-4c39-8674-816a382fd068"
+    title: Ventana Ranch Park
+    address: "10000 Universe Blvd NW, Albuquerque, NM, 87114, USA"
+    lat: 35.19514
+    lng: -106.72626
+    coords: "01010000002619390B7BAE5AC01B12F758FA984140"
+    phone: "5052611028"
+    email: null
+    url: "http://www.cabq.gov/gis/park.php?OBJECTID=3487&PARKNAME=VENTANA+RANCH&ZL=3&ANNO=true"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 12
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/MGDnZJ5RyiKJxp0aaGIA"
+        source: user
+        attribution_url: "https://www.google.com/search?sca_esv=e56197e8314a9ed3&sxsrf=AHTn8zpK_oJ70plhC1oUDT2cZoipr_wmtA:1745136669860&q=Ventana+Ranch+Park+10000+Universe+Blvd+NW,+Albuquerque,+NM,+87114,+USA+pickleball+courts&source=lnms&fbs=ABzOT_A1aq79iS84nP6J0j1icOz88GNjDl6BWK1su7DqRNdv8dpvILDneeX1I_d1DdtyqIDWgXX3iv01z9YXqY_2wDoH2MEcrsCpUo0ERhB5KcGvQ-YsfOvJZ7ZuoPN9xUskwd2OwhnC9rq-Ft0kCmc_j67ruB_Exqv8T8xa3qPKkN0Xf4_RMflVo_rVXJRg9mOpS77_c_jRnOyqkOgP9LdTyQiNiSEd4AnvQ-0rrV9dmIF1N_8WINQ&sa=X&ved=2ahUKEwjrpKralOaMAxU2XWwGHXOcI7kQ0pQJegQICBAB&biw=1517&bih=712&dpr=0.9#lpg=cid:CgIgAQ%3D%3D,ik:CAoSLEFGMVFpcE5FWXo3Y2xvY29OeERTR3NfTE4tbDhVa1FmSUUtaGVyRGNlZkF1"
+        attribution_html: null
+        attribution_name: Justin Garcia
+      - url: "https://cdn.filestackcontent.com/zhtuhqPCTN2fcz2MGSJG"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: ventana-ranch-park
+    path: /courts/us/new-mexico/albuquerque/ventana-ranch-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T18:17:35.199Z"
+    updated_at: "2025-11-05T08:16:33.158Z"
+    schedule_sources_updated_at: null
+  - id: "2406f18f-5cd9-4484-85e6-ceb5795d0b71"
+    title: Village of Los Ranchos de Albuquerque
+    address: "920 Green Valley Rd NW, Los Ranchos, NM, 87107, USA"
+    lat: 35.159414
+    lng: -106.646174
+    coords: "0101000000A26131EA5AA95AC024438EAD67944140"
+    phone: "5053446582"
+    email: null
+    url: "https://abqpickleball.com/places-to-play/albuquerque-east-side/#OUTDOOR"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: None
+    schedule_details: Be Kind. One game only when others waiting. Laces not faces. Bring broom.
+    images:
+      - url: "https://cdn.filestackcontent.com/4IGDUJHnSAm9iZiyDOeJ"
+        source: user
+        visible: true
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipOXgO8ZxY-w47i8kxUP5H6otbWVgZcvmwNdw9n-=s680-w680-h510"
+        attribution_html: null
+        attribution_name: D. Wright
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: north-valley
+    city_id: 1840033721
+    slug: village-of-los-ranchos-de-albuquerque
+    path: /courts/us/new-mexico/north-valley/village-of-los-ranchos-de-albuquerque
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-13T02:43:03.007Z"
+    updated_at: "2023-10-30T11:33:40.084Z"
+    schedule_sources_updated_at: null
+  - id: "128125ec-63e0-4b47-ba05-3bc204d733ee"
+    title: Villela Park
+    address: "4800 Cherokee Rd NE, Albuquerque, NM, 87110, USA"
+    lat: 35.121753
+    lng: -106.59068
+    coords: "0101000000AF997CB3CDA55AC04E98309A958F4140"
+    phone: "5055073663"
+    email: null
+    url: "http://www.cabq.gov/parksandrecreation/parks/city-parks/park-addresses"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: No lights at this location. Will need to play during daylight hours
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Muibjh2rQyCeIDxBkzDi"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: villela-park
+    path: /courts/us/new-mexico/albuquerque/villela-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-07T10:03:04.008Z"
+    updated_at: "2025-09-18T08:16:52.448Z"
+    schedule_sources_updated_at: null
+  - id: "81abe3b7-a4f9-4660-a264-52753f08454e"
+    title: Vista Grande Community Center
+    address: "15 La Madera Rd, Sandia Park, NM 87047, USA"
+    lat: 35.17442
+    lng: -106.34218
+    coords: "01010000001956F146E6955AC058E2016553964140"
+    phone: "+15054687502"
+    email: rdirw2@gmail.com
+    url: "https://www.bernco.gov/community-services/community-centers/vista-grande/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/oHzuxQBKTkmKFUEAB2A6"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/112901972869708285608"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112901972869708285608\">Jason Pearce</a>"
+        attribution_name: Jason Pearce
+      - url: "https://cdn.filestackcontent.com/to5PkfB3TQulo9H5sQeD"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113432433800803206526"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113432433800803206526\">Cory LaPlante</a>"
+        attribution_name: Cory LaPlante
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: sandia-park
+    city_id: 1840024974
+    slug: vista-grande-community-center
+    path: /courts/us/new-mexico/sandia-park/vista-grande-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-03-15T10:49:20.514Z"
+    updated_at: "2023-08-04T06:29:45.704Z"
+    schedule_sources_updated_at: null
+  - id: "478c3886-5aa0-4d5a-9cf1-63e2f1d1d73d"
+    title: Washington Park
+    address: "253 Dale Scott Avenue, Alamogordo, NM, USA"
+    lat: 32.8909133
+    lng: -105.9406746
+    coords: "010100000062CB3C03347C5AC025896F7209724040"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 9
+    total_courts: 9
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: byo
+    amenities: [lighted, wheelchair accessible, restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: alamogordo
+    city_id: 1840019403
+    slug: washington-park
+    path: /courts/us/new-mexico/alamogordo/washington-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-04-15T07:16:27.843Z"
+    updated_at: "2024-04-15T07:16:27.843Z"
+    schedule_sources_updated_at: null
+  - id: "222c9293-2d1f-4da0-949f-5da670a6dd4d"
+    title: Wells Park Outdoor Pickleball Courts
+    address: "500 Mountain Rd NW, Albuquerque, NM 87102, USA"
+    lat: 35.0957781
+    lng: -106.6514203
+    coords: "0101000000D51CC5DEB0A95AC02596EF74428C4140"
+    phone: "5058481390"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/WplzaZ12RPOyNa1cO3o0"
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: albuquerque
+    city_id: 1840019176
+    slug: wells-park-outdoor-pickleball-courts
+    path: /courts/us/new-mexico/albuquerque/wells-park-outdoor-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-02-26T10:03:32.075Z"
+    updated_at: "2026-02-26T10:21:24.669Z"
+    schedule_sources_updated_at: null
+  - id: "74b93fe7-8f8e-4dd7-988f-a26e4cf9e6b7"
+    title: Western New Mexico University Intramural Gym
+    address: "1000 W College Ave, Silver City, NM, 88061, USA"
+    lat: 32.77508
+    lng: -108.283687
+    coords: "010100000039D384ED27125BC050E449D235634040"
+    phone: "5755902350"
+    email: null
+    url: "http://crec.wnmu.edu/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 4
+    total_courts: 8
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/csuEzzY0QyGXZjfePuAU"
+        source: user
+        visible: true
+        attribution_url: "https://s3-media0.fl.yelpcdn.com/bphoto/R05mXJB3xYRIPXumc24VYQ/l.jpg"
+        attribution_html: null
+        attribution_name: Vigil & Associates
+      - url: "https://cdn.filestackcontent.com/uj4SQyMjTLGAGSegLjoe"
+        source: user
+        visible: true
+        attribution_url: "https://d1zyo2o8kyjaow.cloudfront.net/wp-content/uploads/2021/10/52F301FF-3881-4EEE-979D-B63E2909CF2B-scaled.jpeg"
+        attribution_html: null
+        attribution_name: Sul Ross
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: silver-city
+    city_id: 1840023009
+    slug: western-new-mexico-university-intramural-gym
+    path: /courts/us/new-mexico/silver-city/western-new-mexico-university-intramural-gym
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T18:26:38.612Z"
+    updated_at: "2022-12-21T11:20:06.693Z"
+    schedule_sources_updated_at: null
+  - id: "4911714a-bf1c-4b5f-a5bc-acd11add0a63"
+    title: White Mountain Recreation Complex
+    address: "687 Hull Rd, Ruidoso, NM, 88345, USA"
+    lat: 33.355786
+    lng: -105.655651
+    coords: "0101000000BEA59C2FF6695AC0F52F49658AAD4040"
+    phone: "5752575030"
+    email: null
+    url: "https://www.ruidosoparksandrec.com/white-mountain-sports-complex"
+    reservation_url: null
+    facility_type: public
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/IQR0HDHCSemKbmNwl3Jm"
+        source: user
+        visible: true
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipPHcv1cUQN3qDiy9vEkysYZ1WrOt0H_xn5_EPB0=s680-w680-h510"
+        attribution_html: null
+        attribution_name: AOP
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: ruidoso
+    city_id: 1840022873
+    slug: white-mountain-recreation-complex
+    path: /courts/us/new-mexico/ruidoso/white-mountain-recreation-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T02:03:28.438Z"
+    updated_at: "2023-07-24T03:56:54.830Z"
+    schedule_sources_updated_at: null
+  - id: "5c81ec05-80d9-427a-a008-eb5f0e8d644e"
+    title: William C. Witter Fitness Education Center
+    address: "6401 S Richards Ave, Santa Fe, NM, 87508, USA"
+    lat: 35.60549
+    lng: -105.99856
+    coords: "010100000000C63368E87F5AC00C0742B280CD4140"
+    phone: "+17165977582"
+    email: merrimN@hotmail.com
+    url: "http://santafepickleballclub.com/index.php/santa-fe-community-college/"
+    reservation_url: null
+    facility_type: school
+    access: one-time
+    has_reservations: true
+    indoor_courts: 8
+    outdoor_courts: 0
+    total_courts: 8
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/91dd2v1kQ0W2fFSOS9jT"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/100455052455351174146"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/100455052455351174146\">Alberto Bernabé</a>"
+        attribution_name: Alberto Bernabé
+      - url: "https://cdn.filestackcontent.com/0NJxO9MTjgXvvHqeDNfg"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113259819766318519518"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113259819766318519518\">Gabriel Roybal</a>"
+        attribution_name: Gabriel Roybal
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: santa-fe
+    city_id: 1840021707
+    slug: william-c-witter-fitness-education-center
+    path: /courts/us/new-mexico/santa-fe/william-c-witter-fitness-education-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T21:56:15.735Z"
+    updated_at: "2023-07-04T02:35:47.426Z"
+    schedule_sources_updated_at: null
+  - id: "0ec23010-2570-4b7d-8d6e-db38aa06278b"
+    title: Zenith Park
+    address: "US Hwy 82, Cloudcroft, NM, 88317, USA"
+    lat: 32.952743
+    lng: -105.7027
+    coords: "01010000008CB96B09F96C5AC0183F8D7BF3794040"
+    phone: "5208270834"
+    email: lockerguy@msn.com
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: Brand new permanent courts just finished. The courts are still locked.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/hxv2yaLQfeISO0JnJkL1"
+        source: user
+        attribution_url: ""
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: united-states
+    city_id: 1503930955
+    slug: zenith-park
+    path: /courts/us/united-states/united-states/zenith-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T09:59:06.554Z"
+    updated_at: "2025-03-13T09:13:04.042Z"
+    schedule_sources_updated_at: null
+  - id: "84993700-bd94-4809-b84d-b9c254b9b8a5"
+    title: Zozo PB Courts
+    address: "800 D Ave, Carrizozo, NM, 88301, USA"
+    lat: 33.644594
+    lng: -105.879382
+    coords: "01010000003BAC70CB47785AC05299620E82D24040"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: null
+    outdoor_courts: null
+    total_courts: 0
+    has_pickleball: true
+    surface: [asphalt]
+    lines: null
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images: []
+    country_slug: us
+    state_slug: new-mexico
+    city_slug: carrizozo
+    city_id: 1840022870
+    slug: zozo-pb-courts
+    path: /courts/us/new-mexico/carrizozo/zozo-pb-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T21:32:38.766Z"
+    updated_at: "2022-04-11T21:32:38.766Z"
+    schedule_sources_updated_at: null

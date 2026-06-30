@@ -1,0 +1,5100 @@
+state: Arkansas
+state_slug: arkansas
+country: us
+court_count: 118
+scraped_at: "2026-06-30T05:22:32.424Z"
+source: pickleheads.com misc.search API
+courts:
+  - id: baaf93cf-0502-482f-ac13-75c40d024249
+    title: Allen Park Community Center
+    address: "3609 Race St, Jonesboro, AR, 72401, USA"
+    lat: 35.813275
+    lng: -90.656502
+    coords: "01010000008DF0F62004AA56C0C3D32B6519E84140"
+    phone: "8709334683"
+    email: null
+    url: "http://www.jonesboro.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [lighted, restrooms, wheelchair accessible, food]
+    description: ""
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/CYNpDLNT3GW4UeSedBqu"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/102378085014663322029"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/102378085014663322029\">Gunadhish Khanal</a>"
+        attribution_name: Gunadhish Khanal
+    country_slug: us
+    state_slug: arkansas
+    city_slug: jonesboro
+    city_id: 1840014507
+    slug: allen-park-community-center
+    path: /courts/us/arkansas/jonesboro/allen-park-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T07:58:19.783Z"
+    updated_at: "2025-07-29T08:29:46.183Z"
+    schedule_sources_updated_at: "2025-07-29T04:39:53.958Z"
+  - id: "4ad09866-382b-4262-a25d-9db5eccf7205"
+    title: Alma Park Tennis Courts
+    address: "114 Collum Ln E, Alma, AR 72921, USA"
+    lat: 35.4929014
+    lng: -94.22349
+    coords: "0101000000EA3E00A94D8E57C08993A06417BF4140"
+    phone: "4796324100"
+    email: null
+    url: "http://www.almaarkansas.gov/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/endEQ50IS5CRXPDdT6de"
+        source: user
+        visible: true
+        attribution_url: "https://s3-media0.fl.yelpcdn.com/bphoto/Pc9I2iq9Tv_VJ6AAyqbvBQ/348s.jpg"
+        attribution_html: null
+        attribution_name: Yelp
+    country_slug: us
+    state_slug: arkansas
+    city_slug: alma
+    city_id: 1840013420
+    slug: alma-park-tennis-courts
+    path: /courts/us/arkansas/alma/alma-park-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T22:25:37.205Z"
+    updated_at: "2022-12-02T00:40:38.347Z"
+    schedule_sources_updated_at: null
+  - id: "733bd76f-99d2-4c62-b8f3-f15e2d1b792f"
+    title: Arkadelphia Parks and Recreation Center
+    address: "2555 Twin Rivers Dr, Arkadelphia, AR, 71923, USA"
+    lat: 34.126879
+    lng: -93.0783591
+    coords: "010100000004F6E2D5034557C04CC631923D104140"
+    phone: "+18702465499"
+    email: null
+    url: "https://recreation.arkadelphia.gov/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, wheelchair accessible]
+    description: null
+    access_details: $5.00 admission if not member
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/7tfD9zmQdesszP1qiZQF"
+        source: user
+        visible: true
+        attribution_url: "https://arkadelphia.gov/wp-content/uploads/2022/01/Basketball-Court-1.png"
+        attribution_html: null
+        attribution_name: City of Arkadelphia
+    country_slug: us
+    state_slug: arkansas
+    city_slug: arkadelphia
+    city_id: 1840013638
+    slug: arkadelphia-parks-and-recreation-center
+    path: /courts/us/arkansas/arkadelphia/arkadelphia-parks-and-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T11:23:09.465Z"
+    updated_at: "2023-07-14T03:25:01.518Z"
+    schedule_sources_updated_at: null
+  - id: cac0201c-b71c-4016-b80d-22846de05f98
+    title: Ashdown City Park
+    address: "1211 Gordon Drive, Ashdown, AR, USA"
+    lat: 33.6735169
+    lng: -94.14160780000002
+    coords: "0101000000F376291A108957C0D36641CD35D64040"
+    phone: "8708982907"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/LXLL70xSfSZ6SFXGE8Kw"
+      - url: "https://cdn.filestackcontent.com/oSbd2iTpT62gsI0W1xJv"
+    country_slug: us
+    state_slug: arkansas
+    city_slug: ashdown
+    city_id: 1840013711
+    slug: ashdown-city-park
+    path: /courts/us/arkansas/ashdown/ashdown-city-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-30T05:45:27.324Z"
+    updated_at: "2025-06-30T05:45:27.324Z"
+    schedule_sources_updated_at: null
+  - id: "78b948d9-4364-4dca-a5ed-398fd7055c31"
+    title: Batesville Community Center
+    address: "1420 20th St, Batesville, AR, 72501, USA"
+    lat: 35.76347
+    lng: -91.632438
+    coords: "0101000000D9AF3BDD79E856C012BD8C62B9E14140"
+    phone: "8706982427"
+    email: null
+    url: "http://www.batesvilleparks.com/community-center-and-aquatics/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: false
+    indoor_courts: 9
+    outdoor_courts: 4
+    total_courts: 13
+    has_pickleball: true
+    surface: [wood, concrete]
+    lines: permanent
+    nets: portable
+    amenities: [lighted, restrooms, water]
+    description: ""
+    access_details: Membership or daily fee. Free on outdoor court.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/mhzscOQDRKmlvQFWqaNm"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/107829004901058980772"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/107829004901058980772\">Brad Barfield</a>"
+        attribution_name: Brad Barfield
+      - url: "https://cdn.filestackcontent.com/aGZOgOdQ6SzYpAruaqvV"
+    country_slug: us
+    state_slug: arkansas
+    city_slug: batesville
+    city_id: 1840013398
+    slug: batesville-community-center
+    path: /courts/us/arkansas/batesville/batesville-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T22:50:52.356Z"
+    updated_at: "2024-04-22T09:30:52.394Z"
+    schedule_sources_updated_at: "2024-04-22T09:30:51.473Z"
+  - id: "3e92013c-2eb1-4d60-98bd-5e0d58c388af"
+    title: Beebe Athletic Club
+    address: "1121 West Dewitt Henry Drive, Beebe, AR, USA"
+    lat: 35.0761203
+    lng: -91.8964427
+    coords: "01010000003ACF33515FF956C0E6875B4FBE894140"
+    phone: "5012329525"
+    email: null
+    url: "http://www.beebeathleticclub.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [locker rooms, restrooms, water, wheelchair accessible, lighted]
+    description: ""
+    access_details: $5 day fee or membership required
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/YJn3Ju1SYK8p0jqJKOvQ"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/100896614139053470912"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/100896614139053470912\">Beebe Athletic Club</a>"
+        attribution_name: Beebe Athletic Club
+      - url: "https://cdn.filestackcontent.com/v0pXfCHLREq0X8RqJs39"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/113925868970847661798"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113925868970847661798\">Veronica D.</a>"
+        attribution_name: Veronica D.
+    country_slug: us
+    state_slug: arkansas
+    city_slug: beebe
+    city_id: 1840013439
+    slug: beebe-athletic-club
+    path: /courts/us/arkansas/beebe/beebe-athletic-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-15T08:52:43.497Z"
+    updated_at: "2024-05-15T08:55:46.874Z"
+    schedule_sources_updated_at: null
+  - id: "7d6fcfbb-19a3-4b87-a655-0c29ced88bfa"
+    title: Bell Park
+    address: "1050 Bell Park Rd, Greenwood, AR, 72936, USA"
+    lat: 35.227126
+    lng: -94.268706
+    coords: "01010000004B8FA67A329157C02009FB76129D4140"
+    phone: null
+    email: null
+    url: "https://greenwoodarparks.weebly.com/bell-park.html"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/BHfkussS8uaTbvZ7KfrC"
+        source: user
+        visible: true
+        attribution_url: "https://greenwoodarparks.weebly.com/uploads/2/8/7/1/28715319/edited/basketball2.jpg"
+        attribution_html: null
+        attribution_name: City of Greenwood Parks and Recreation
+    country_slug: us
+    state_slug: arkansas
+    city_slug: greenwood
+    city_id: 1840013457
+    slug: bell-park
+    path: /courts/us/arkansas/greenwood/bell-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T10:04:21.638Z"
+    updated_at: "2022-12-02T03:28:46.269Z"
+    schedule_sources_updated_at: null
+  - id: f929068a-d6a3-4451-af44-6a391a13e683
+    title: Bella Vista Metfield Pickleball
+    address: "2 Hilltop Dr, Bella Vista, AR, 72714, USA"
+    lat: 36.45411
+    lng: -94.198637
+    coords: "0101000000A3B1F677B68C57C0AE64C746203A4240"
+    phone: "3167068557"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: public
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: These are not public courts. They are for POA members and their guests(limited to two)
+    access_details: POA membership.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/8cljwf6QNS2GxGvETnBm"
+        source: user
+        visible: true
+        attribution_url: ""
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: arkansas
+    city_slug: bella-vista
+    city_id: 1840015287
+    slug: bella-vista-metfield-pickleball
+    path: /courts/us/arkansas/bella-vista/bella-vista-metfield-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T07:30:49.241Z"
+    updated_at: "2024-08-15T08:02:38.912Z"
+    schedule_sources_updated_at: null
+  - id: aaeee879-e304-403f-9f55-1742c83fc9de
+    title: Bella Vista Recreation Center
+    address: "3 Riordan Drive, Bella Vista, AR, USA"
+    lat: 36.4540324
+    lng: -94.2500791
+    coords: "010100000070FAC44B019057C086A9D2BB1D3A4240"
+    phone: "4798558170"
+    email: null
+    url: "http://bellavistapoa.com/pickleball"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 1
+    total_courts: 3
+    has_pickleball: true
+    surface: [acrylic, concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: "With POA Activity Card $0, POA Members $1, POA Guests $5"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/CsK2Wp9HQT2DAjBCKQg2"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/107376598300153553430"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/107376598300153553430\">Malcolm Baskerville</a>"
+        attribution_name: Malcolm Baskerville
+    country_slug: us
+    state_slug: arkansas
+    city_slug: bella-vista
+    city_id: 1840015287
+    slug: bella-vista-recreation-center
+    path: /courts/us/arkansas/bella-vista/bella-vista-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-04-01T07:00:30.215Z"
+    updated_at: "2026-04-03T05:52:26.803Z"
+    schedule_sources_updated_at: null
+  - id: d68fbeb2-bf52-48bb-bc9a-6777ff1be97d
+    title: Ben Geren Park
+    address: "7300 South Zero Street, Fort Smith, AR, USA"
+    lat: 35.3251099
+    lng: -94.351696
+    coords: "01010000009488F02F829657C08C0D82339DA94140"
+    phone: "4796482444"
+    email: null
+    url: "https://sebastiancountyar.gov/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/KLQQD4qSAeADdgYWy8DC"
+        source: user
+        attribution_url: "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/499710415_1214900756993798_5828316142794635773_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=aEs_zQFM2WYQ7kNvwF9qqkA&_nc_oc=AdlViTk1X3rehfPVVNYX5C2POMYvAMZzGt3HYAq0i3a4UIFlYozk9VMrQKo0oLslzTc&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=XxAR8w3u--4dRCIRSmX7Rg&oh=00_AfgbECDw-tTmJFOMldPbXXVm22U7p7j9k9uRg6kxecwb4w&oe=69176F2F"
+        attribution_html: null
+        attribution_name: Ben Geren Regional Park
+    country_slug: us
+    state_slug: arkansas
+    city_slug: fort-smith
+    city_id: 1840013456
+    slug: ben-geren-park
+    path: /courts/us/arkansas/fort-smith/ben-geren-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-11-10T09:13:56.658Z"
+    updated_at: "2025-11-10T09:18:55.839Z"
+    schedule_sources_updated_at: null
+  - id: cf1cca85-50af-46d2-b5fd-e4a1cb598198
+    title: Bentonville Community Center
+    address: "1101 SW Citizens Cir, Bentonville, AR, 72713, USA"
+    lat: 36.33084
+    lng: -94.225433
+    coords: "01010000001B9C887E6D8E57C0B51A12F7582A4240"
+    phone: "4793810492"
+    email: null
+    url: "http://www.bentonvillear.com/359/Community-Center"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood, hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water, wheelchair accessible, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ZZvaEFNTYyBNcp7od0Mr"
+        source: user
+        visible: true
+        attribution_url: "https://ir.4sqi.net/img/general/original/34079196_m1XIOmP2e6a569hawels8_2hWwyxpHQ9oE7vcQHE6h4.jpg"
+        attribution_html: null
+        attribution_name: MapQuest
+      - url: "https://cdn.filestackcontent.com/z8ubrgYJSBSadZh3ySpY"
+        source: user
+        visible: true
+        attribution_url: "https://www.ozarkpickleball.com/uploads/1/3/3/5/133547360/published/e191368b-0ede-43e9-955b-fc1f98be1129.jpeg?250"
+        attribution_html: null
+        attribution_name: Ozarkpickleball.com
+    country_slug: us
+    state_slug: arkansas
+    city_slug: bentonville
+    city_id: 1840013319
+    slug: bentonville-community-center
+    path: /courts/us/arkansas/bentonville/bentonville-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-22T11:07:40.002Z"
+    updated_at: "2025-08-18T06:23:21.263Z"
+    schedule_sources_updated_at: null
+  - id: "667bef06-0067-4546-b8bb-5e5f1967a6c1"
+    title: Berryhill Park
+    address: "Davis Dr, Searcy, AR, 72143, USA"
+    lat: 35.253585
+    lng: -91.713874
+    coords: "0101000000BEDD921CB0ED56C0CAE0287975A04140"
+    phone: "5013882928"
+    email: null
+    url: "http://www.searcy.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/WSOErc4BSFqFCNl1s2bb"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/117561604641796296619"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117561604641796296619\">Hershel Thompson</a>"
+        attribution_name: Hershel Thompson
+    country_slug: us
+    state_slug: arkansas
+    city_slug: searcy
+    city_id: 1840015429
+    slug: berryhill-park
+    path: /courts/us/arkansas/searcy/berryhill-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-10T21:13:46.740Z"
+    updated_at: "2023-11-20T07:23:47.193Z"
+    schedule_sources_updated_at: null
+  - id: "81e8004b-b980-4cee-a755-6d6af8945201"
+    title: Bob Henry Park
+    address: "500 West Benton Street, Siloam Springs, AR, USA"
+    lat: 36.1878
+    lng: -94.5475373
+    coords: "0101000000C535E3D90AA357C02B1895D409184240"
+    phone: "+14795245779"
+    email: null
+    url: "https://siloamsprings.com/Facilities/Facility/Details/Bob-Henry-Park-Pavilions-2"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/k8aDNAuaTlugTeU2LugK"
+    country_slug: us
+    state_slug: arkansas
+    city_slug: siloam-springs
+    city_id: 1840015288
+    slug: bob-henry-park
+    path: /courts/us/arkansas/siloam-springs/bob-henry-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-06-12T10:18:18.106Z"
+    updated_at: "2024-06-12T10:24:02.588Z"
+    schedule_sources_updated_at: "2024-06-12T10:24:01.859Z"
+  - id: "661fbb6e-1867-4476-be5c-c361368a9a27"
+    title: Brandon Burlsworth Youth Center
+    address: "202 Spring St S, Harrison, AR, 72601, USA"
+    lat: 36.228104
+    lng: -93.11057
+    coords: "0101000000CC7A3194134757C01C0B0A83321D4240"
+    phone: "8707412346"
+    email: null
+    url: "https://www.facebook.com/profile.php?id=123793917676823&paipv=0&eav=AfYImFRbsjcr_tOx46TrNCx85-HDXu6efCaMtihAwfQkcppCWK-StfyRMHLjUMkLPqE&_rdr"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 4
+    total_courts: 6
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: People with silver sneakers plan are free.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/bmAQBMkCQaCuMEFRsg6M"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/116847973157421946980"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/116847973157421946980\">Matthew Green</a>"
+        attribution_name: Matthew Green
+    country_slug: us
+    state_slug: arkansas
+    city_slug: harrison
+    city_id: 1840013327
+    slug: brandon-burlsworth-youth-center
+    path: /courts/us/arkansas/harrison/brandon-burlsworth-youth-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T21:50:51.074Z"
+    updated_at: "2025-10-27T07:34:30.001Z"
+    schedule_sources_updated_at: "2025-10-27T07:34:06.391Z"
+  - id: f669d98f-1649-48f1-a75d-846cb76fe3bd
+    title: Burns Park
+    address: "11 Funland Dr, North Little Rock, AR 72118, USA"
+    lat: 34.801207
+    lng: -92.303882
+    coords: "0101000000F5F57CCD721357C0C32973F38D664140"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 12
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: null
+    amenities: []
+    description: Scheduled to be completed on June 2023
+    access_details: null
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: arkansas
+    city_slug: north-little-rock
+    city_id: 1840014632
+    slug: burns-park
+    path: /courts/us/arkansas/north-little-rock/burns-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-02-20T09:23:31.391Z"
+    updated_at: "2024-02-16T10:18:24.612Z"
+    schedule_sources_updated_at: null
+  - id: "2ba1095e-59bd-4949-b7bf-372f670b85a7"
+    title: Central Baptist Church
+    address: "3333 Dave Ward Dr, Conway, AR 72034, United States"
+    lat: 35.0696283
+    lng: -92.48506900000001
+    coords: "01010000006CD3D85E0B1F57C023B08394E9884140"
+    phone: "+15013299283"
+    email: null
+    url: "https://conwaycentralchurch.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/nMe3Oo7QwqZ1yXMkLEw9"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/108118267194142773711"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108118267194142773711\">Central Baptist Church</a>"
+        attribution_name: Central Baptist Church
+    country_slug: us
+    state_slug: arkansas
+    city_slug: conway
+    city_id: 1840014598
+    slug: central-baptist-church
+    path: /courts/us/arkansas/conway/central-baptist-church
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-14T20:29:37.880Z"
+    updated_at: "2023-08-16T01:40:50.516Z"
+    schedule_sources_updated_at: null
+  - id: abedb2b7-3824-4348-8673-89f5cd36902e
+    title: Central Baptist Church
+    address: "207 W Union St, Magnolia, AR, 71753, USA"
+    lat: 33.268201
+    lng: -93.241356
+    coords: "010100000060AC6F60724F57C093E00D6954A24040"
+    phone: "8707610707"
+    email: null
+    url: "http://www.cbcmagnolia.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/nqeWEeNtST6CbxwRyM4b"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/39012471_10155752798177742_1230956842717282304_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=61H9MCeaKFgAX8hAc2f&_nc_ht=scontent-lax3-2.xx&oh=00_AfBjiwsHlusW7nyHzJp_hacKydQgJe4N3bnuYNUCT6E3nw&oe=63B23DDC"
+        attribution_html: null
+        attribution_name: "Central Baptist Church of Magnolia, Arkansas"
+    country_slug: us
+    state_slug: arkansas
+    city_slug: magnolia
+    city_id: 1840015726
+    slug: central-baptist-church
+    path: /courts/us/arkansas/magnolia/central-baptist-church
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T04:08:27.042Z"
+    updated_at: "2022-12-03T03:21:10.217Z"
+    schedule_sources_updated_at: null
+  - id: "544746b8-d127-44fc-b5ed-7471dc4f9d55"
+    title: Chaffee Crossing Pickleball Complex
+    address: "7220 Mahogany Ave, Fort Smith, AR, 72916, USA"
+    lat: 35.311888
+    lng: -94.290149
+    coords: "0101000000E57D1CCD919257C0E7012CF2EBA74140"
+    phone: "4792212285"
+    email: Ghammsr@yahoo.com
+    url: "https://fortsmith.org/chaffee-crossing-pickleball-complex"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/2q8bvBiBQAGkhp0D4LdS"
+        source: user
+        visible: true
+        attribution_url: "https://api.wifflesmack.com/images/sites/8204-1600377257-image.jpg"
+        attribution_html: null
+        attribution_name: Chaffee Crossing Pickleball
+      - url: "https://cdn.filestackcontent.com/GCxHk27sSKzZWdpfTmRt"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: arkansas
+    city_slug: fort-smith
+    city_id: 1840013456
+    slug: chaffee-crossing-pickleball-complex
+    path: /courts/us/arkansas/fort-smith/chaffee-crossing-pickleball-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-13T02:16:42.528Z"
+    updated_at: "2023-02-15T14:03:18.475Z"
+    schedule_sources_updated_at: null
+  - id: a09e16c9-442f-43e7-8e2a-9948b29f11cd
+    title: City Heights United Methodist Church
+    address: "1002 Fayetteville Rd, Van Buren, AR 72956, USA"
+    lat: 35.4483602
+    lng: -94.354952
+    coords: "010100000096E99788B79657C0FDE9F5DD63B94140"
+    phone: "4794610761"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/MH4r7qcHQzCavnbsw6PZ"
+        source: user
+        visible: true
+        attribution_url: "https://s3-media0.fl.yelpcdn.com/bphoto/qJ1KLF-EakOKxF_aC_D5qg/348s.jpg"
+        attribution_html: null
+        attribution_name: Yelp
+    country_slug: us
+    state_slug: arkansas
+    city_slug: van-buren
+    city_id: 1840015397
+    slug: city-heights-united-methodist-church
+    path: /courts/us/arkansas/van-buren/city-heights-united-methodist-church
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T17:53:04.237Z"
+    updated_at: "2023-09-21T08:52:08.119Z"
+    schedule_sources_updated_at: null
+  - id: "5b796aac-9bf5-4396-9caf-2548c3dea7ad"
+    title: City Park Van Buren
+    address: "1335 City Park Road, Van Buren, AR, USA"
+    lat: 35.4508813
+    lng: -94.34469209999999
+    coords: "0101000000212C746F0F9657C061F07A7AB6B94140"
+    phone: "+14794741541"
+    email: null
+    url: "https://www.vanburencity.org/202/Parks-and-Recreation"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/yX7OJW1QTdab80LhJHT5"
+        visible: true
+    country_slug: us
+    state_slug: arkansas
+    city_slug: van-buren
+    city_id: 1840015397
+    slug: city-park-van-buren
+    path: /courts/us/arkansas/van-buren/city-park-van-buren
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-03-04T11:03:44.508Z"
+    updated_at: "2024-03-04T11:04:42.451Z"
+    schedule_sources_updated_at: null
+  - id: ab77de44-79a7-4ef2-a537-3bc8af8ebe89
+    title: Clary Pickleball Courts
+    address: "Corley, 1811 N Boulder Ave, Russellville, AR 72801, USA"
+    lat: 35.2960764
+    lng: -93.1345692
+    coords: "0101000000214322C89C4857C0078FDBD4E5A54140"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/TV2jjDa4Sb2od0GfufLR"
+        source: user
+        attribution_url: "https://live.staticflickr.com/65535/54617930958_479620c0a6.jpg"
+        attribution_html: null
+        attribution_name: Arkansas Tech News
+    country_slug: us
+    state_slug: arkansas
+    city_slug: russellville
+    city_id: 1840014541
+    slug: clary-pickleball-courts
+    path: /courts/us/arkansas/russellville/clary-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-30T05:43:28.824Z"
+    updated_at: "2025-06-30T06:31:18.513Z"
+    schedule_sources_updated_at: null
+  - id: "219b2cf5-1b79-4958-915b-d9e2d544a462"
+    title: Creekside Park
+    address: "3104 SW Bright Rd, Bentonville, AR 72712, USA"
+    lat: 36.3403645
+    lng: -94.23744409999999
+    coords: "01010000003308BD48328F57C0151C5E10912B4240"
+    phone: "+14792713392"
+    email: wtomlinson@bentonvillear.com
+    url: "https://bentonvillear.com/1207/Creekside-Park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/rxH4Plc5QjObMyVdYjRG"
+        source: user
+        attribution_url: "https://www.google.com/maps/contrib/108492272916995629985/photos/@36.224113,-94.171161,43855m/data=!3m2!1e3!4b1!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI1MDQwMS4wIKXMDSoJLDEwMjExNjQwSAFQAw%3D%3D"
+        attribution_html: null
+        attribution_name: The Good Life NWA
+    country_slug: us
+    state_slug: arkansas
+    city_slug: bentonville
+    city_id: 1840013319
+    slug: creekside-park
+    path: /courts/us/arkansas/bentonville/creekside-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-02-16T03:34:58.204Z"
+    updated_at: "2025-04-04T05:38:04.812Z"
+    schedule_sources_updated_at: null
+  - id: bf74c09c-4534-496b-9171-b994b47e1da2
+    title: Creekside Park
+    address: "54 N Hunter St, Farmington, AR 72730, USA"
+    lat: 36.0438953
+    lng: -94.2394435
+    coords: "0101000000586FD40A538F57C05CF9765C9E054240"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/8Vo80x0GT1GajNGq4rwV"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/PNEw91VS7iMk0nzbYtEg"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: arkansas
+    city_slug: farmington
+    city_id: 1840013367
+    slug: creekside-park
+    path: /courts/us/arkansas/farmington/creekside-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-12-26T12:26:49.419Z"
+    updated_at: "2024-11-20T09:21:01.954Z"
+    schedule_sources_updated_at: null
+  - id: "24f858c4-01a3-46a9-a263-762d68b838b8"
+    title: Creekside Rotary
+    address: "515 S Pine St, Harrison, AR 72601, United States"
+    lat: 36.2244119
+    lng: -93.11062609999999
+    coords: "010100000060657E7F144757C0A7AA7587B91C4240"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/8TGtMJt2SxKgukM8ug2w"
+        source: user
+        attribution_url: "https://core-docs.s3.amazonaws.com/city_of_harrison_ar/article/image/29a6c243-8f20-4e48-bba3-bed27765c04d.jpeg"
+        attribution_html: null
+        attribution_name: City of Harrison
+    country_slug: us
+    state_slug: arkansas
+    city_slug: harrison
+    city_id: 1840013327
+    slug: creekside-rotary
+    path: /courts/us/arkansas/harrison/creekside-rotary
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-30T05:44:25.406Z"
+    updated_at: "2025-06-30T06:09:17.650Z"
+    schedule_sources_updated_at: null
+  - id: "19008add-a3bc-448b-b66c-9104fca07569"
+    title: Crystal Flats Pickleball Courts
+    address: "1403 NE Beta Ln, Bentonville, AR 72712, USA"
+    lat: 36.3789394
+    lng: -94.1929329
+    coords: "0101000000A3F43B03598C57C03B15151681304240"
+    phone: null
+    email: null
+    url: "https://www.facebook.com/livecrystalflats/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/KmlIaaxvQ0azE0SwLLwX"
+        source: user
+        attribution_url: "https://resource.rentcafe.com/image/upload/q_auto,f_auto,c_limit,w_576/s3/2/89537/p1207198_amenity_pickleball_court_01_web.jpg"
+        attribution_html: null
+        attribution_name: "Crystal Flats "
+    country_slug: us
+    state_slug: arkansas
+    city_slug: bentonville
+    city_id: 1840013319
+    slug: crystal-flats-pickleball-courts
+    path: /courts/us/arkansas/bentonville/crystal-flats-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-04-13T09:07:06.161Z"
+    updated_at: "2026-04-13T10:16:41.906Z"
+    schedule_sources_updated_at: null
+  - id: "8683679f-565c-4101-92c6-b6ae3fc0f34f"
+    title: D.R.B. Blues & Wellness Plaza
+    address: "221 S Main St, Pine Bluff, AR 71601, USA"
+    lat: 34.2276159
+    lng: -92.0030642
+    coords: "010100000075B22F34320057C05A468F84221D4140"
+    phone: "+18705431820"
+    email: ecdhomes@cityofpinebluff-ar.gov
+    url: "https://cityofpinebluff-ar.gov"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, youth, lighted, training, wheelchair accessible, adaptive]
+    description: ""
+    access_details: "870-543-1820"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/GXeK15d2TzGeuAld9EOj"
+        source: user
+        attribution_url: ""
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: arkansas
+    city_slug: pine-bluff
+    city_id: 1840014699
+    slug: drb-blues-and-wellness-plaza
+    path: /courts/us/arkansas/pine-bluff/drb-blues-and-wellness-plaza
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-07-03T05:49:33.653Z"
+    updated_at: "2025-07-03T05:54:18.365Z"
+    schedule_sources_updated_at: null
+  - id: "468e7440-6abb-43d6-a625-9d1c79b0a6fe"
+    title: Danville Pickleball
+    address: "805 Park Ave, Danville, AR, 72833, USA"
+    lat: 35.049817
+    lng: -93.385082
+    coords: "0101000000CF11F92EA55857C075E4486760864140"
+    phone: null
+    email: glenn@brokerglenn.com
+    url: "https://www.facebook.com/danvillepickleballers/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/xs86TjZlS6igUYe7f2Bb"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/ShogUrEkQHqQrssUOWwG"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/danvillepickleballers/photos/pb.100066921214913.-2207520000./383087840558606/?type=3"
+        attribution_html: null
+        attribution_name: Danville
+      - url: "https://cdn.filestackcontent.com/BOeGKmHSA2YOCBLdlPlw"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: arkansas
+    city_slug: danville
+    city_id: 1840014606
+    slug: danville-pickleball
+    path: /courts/us/arkansas/danville/danville-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T22:07:03.684Z"
+    updated_at: "2024-05-16T11:24:39.842Z"
+    schedule_sources_updated_at: null
+  - id: "92ee8aca-cff1-400c-b37c-8c40c26a702d"
+    title: Danville School Gym Fitness Center
+    address: "1009 Main St, Danville, AR 72833, USA"
+    lat: 35.0516721
+    lng: -93.3926773
+    coords: "01010000006C58F89F215957C0CDCEFD309D864140"
+    phone: null
+    email: null
+    url: "https://www.theyellcountyrecord.com/venue/ted-lyons-gymnasium/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/2qCySVjVQbavH1G3hyDJ"
+        source: user
+        visible: true
+        attribution_url: "https://www.thearcenter.com/wp-content/uploads/2017/11/ARC-Gym-2-380x304.png"
+        attribution_html: null
+        attribution_name: Alamo Fitness
+    country_slug: us
+    state_slug: arkansas
+    city_slug: danville
+    city_id: 1840014606
+    slug: danville-school-gym-fitness-center
+    path: /courts/us/arkansas/danville/danville-school-gym-fitness-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-20T02:42:56.006Z"
+    updated_at: "2022-12-02T05:59:16.789Z"
+    schedule_sources_updated_at: null
+  - id: "20bdcbe3-790c-4de6-bda0-4b5c3fc82f2e"
+    title: Dardanelle Community Center
+    address: "2011 State Highway 22, Dardanelle, AR, 72834, USA"
+    lat: 35.235782
+    lng: -93.174927
+    coords: "0101000000FE0B0401324B57C0247EC51A2E9E4140"
+    phone: null
+    email: null
+    url: "http://www.dardanelle.com/departments/parks-and-recreation.html"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/FIxi66uRxWFsoER0lCAa"
+        source: user
+        visible: true
+        attribution_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yell_County_Courthouse_002.jpg/440px-Yell_County_Courthouse_002.jpg"
+        attribution_html: null
+        attribution_name: Wikiwand
+    country_slug: us
+    state_slug: arkansas
+    city_slug: dardanelle
+    city_id: 1840014607
+    slug: dardanelle-community-center
+    path: /courts/us/arkansas/dardanelle/dardanelle-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T05:44:08.583Z"
+    updated_at: "2024-08-21T07:18:21.848Z"
+    schedule_sources_updated_at: null
+  - id: "3838a3fb-fd2e-4149-803c-ad10a24d9662"
+    title: Dardanelle First Baptist Church
+    address: "212 Market St, Dardanelle, AR 72834, USA"
+    lat: 35.2190118
+    lng: -93.1544765
+    coords: "010100000009E066F1E24957C013382394089C4140"
+    phone: "+14792164360"
+    email: carl.fair@yahoo.com
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [concrete]
+    lines: tape
+    nets: portable
+    amenities: [restrooms, water, lighted, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/BCIjNfQNR2OM1bH6eaWA"
+        source: user
+        attribution_url: "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/327431958_666783068572284_296153168446224036_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=m7ZHfqFfJ5gAb6oZ7tZ&_nc_ht=scontent-lax3-2.xx&oh=00_AfDIJhysefwAN_KEuEtZrNsy63POa1YuR2UjSD5M-4nN_A&oe=662D46ED"
+        attribution_html: null
+        attribution_name: "First Baptist Church Dardanelle, AR"
+    country_slug: us
+    state_slug: arkansas
+    city_slug: dardanelle
+    city_id: 1840014607
+    slug: dardanelle-first-baptist-church
+    path: /courts/us/arkansas/dardanelle/dardanelle-first-baptist-church
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-04-23T08:38:46.001Z"
+    updated_at: "2024-04-23T08:40:44.572Z"
+    schedule_sources_updated_at: "2024-04-23T08:40:43.534Z"
+  - id: "5ac9ac19-c0e9-4e4b-8281-cf64974a6046"
+    title: Don Owens Sports Center
+    address: "10 Lower Ridge Rd, Conway, AR, 72032, USA"
+    lat: 35.111592
+    lng: -92.424909
+    coords: "0101000000ABB184B5311B57C0643F8BA5488E4140"
+    phone: "5014506186"
+    email: null
+    url: "https://conwayarkansas.gov/parks/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/gPEr4OxfQIiT5PgBOMkx"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113195978396822473684"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113195978396822473684\">Brad Dickson</a>"
+        attribution_name: Brad Dickson
+    country_slug: us
+    state_slug: arkansas
+    city_slug: conway
+    city_id: 1840014598
+    slug: don-owens-sports-center
+    path: /courts/us/arkansas/conway/don-owens-sports-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T20:37:44.072Z"
+    updated_at: "2022-12-02T01:23:46.358Z"
+    schedule_sources_updated_at: null
+  - id: bbe20ba6-76a7-4588-aa8f-cc29c6457916
+    title: Donald W. Reynolds Boys and Girls Club
+    address: "560 North Rupple Road, Fayetteville, AR, USA"
+    lat: 36.0726377
+    lng: -94.2161967
+    coords: "01010000003300AF2AD68D57C074FA30314C094240"
+    phone: "tel:4794429242"
+    email: info@fayettevillekids.org
+    url: "https://fayettevillekids.org"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: $5/day
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/1zIDtg1dTiujMMONv60U"
+        visible: true
+      - url: "https://cdn.filestackcontent.com/cf8kVbtuRcCdNAIUGDp0"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113922611685416493829"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113922611685416493829\">DK Ellis</a>"
+        attribution_name: DK Ellis
+    country_slug: us
+    state_slug: arkansas
+    city_slug: fayetteville
+    city_id: 1840013368
+    slug: donald-w-reynolds-boys-and-girls-club
+    path: /courts/us/arkansas/fayetteville/donald-w-reynolds-boys-and-girls-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-12-26T12:27:10.275Z"
+    updated_at: "2024-01-02T08:01:29.598Z"
+    schedule_sources_updated_at: null
+  - id: ffdf0e91-d408-43a0-b290-6917ef5cf186
+    title: Dual Cities NWA
+    address: "403 South Rainbow Road, Rogers, AR, USA"
+    lat: 36.3327665
+    lng: -94.2056156
+    coords: "0101000000096355CE288D57C0295AB917982A4240"
+    phone: "+14793492909"
+    email: help@dualcitiesnwa.com
+    url: "https://www.dcnwa.com"
+    reservation_url: "https://app.courtreserve.com/Online/Portal/Index/14190"
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, training, food, wheelchair accessible]
+    description: ""
+    access_details: free membership required for play
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/cY1fSQPvRDiVQXxEgbtG"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/WWnyOVZQzOE4sapYeIyU"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: arkansas
+    city_slug: rogers
+    city_id: 1840014444
+    slug: dual-cities-nwa
+    path: /courts/us/arkansas/rogers/dual-cities-nwa
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-04-28T07:13:11.444Z"
+    updated_at: "2025-07-09T08:09:26.547Z"
+    schedule_sources_updated_at: null
+  - id: efb99563-a476-40c1-be26-15809e33ba97
+    title: Eureka Springs Community Center
+    address: "44 Kingshighway, Eureka Springs, AR, 72632, USA"
+    lat: 36.399724
+    lng: -93.745745
+    coords: "0101000000F4893C49BA6F57C091B6F1272A334240"
+    phone: "4792390029"
+    email: null
+    url: "https://www.escommunity.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [food, restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/iT77MdSITOWi2KaKP2Rj"
+        source: user
+        visible: true
+        attribution_url: "https://www.escommunity.org/wp-content/uploads/2021/05/IMG_9067-1024x768.jpg"
+        attribution_html: null
+        attribution_name: ES Community
+    country_slug: us
+    state_slug: arkansas
+    city_slug: eureka-springs
+    city_id: 1840013321
+    slug: eureka-springs-community-center
+    path: /courts/us/arkansas/eureka-springs/eureka-springs-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T18:55:16.303Z"
+    updated_at: "2023-08-25T08:23:48.354Z"
+    schedule_sources_updated_at: null
+  - id: "8d9bb512-c44a-4e78-8159-d429ff433195"
+    title: Fairfield Bay Recreation
+    address: "157 Chelsea Drive, Fairfield Bay, AR, USA"
+    lat: 35.6010802
+    lng: -92.271772
+    coords: "0101000000FCFD62B6641157C0F6A22C32F0CC4140"
+    phone: "+15018846008"
+    email: dewyn.avey@ffbresort.com
+    url: "https://visitfairfieldbay.com/parks-rec/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 12
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [lighted, restrooms, water]
+    description: ""
+    access_details: $2 per person for 2 hours play
+    schedule_details: Tuesdays & Thursdays 6pm and Saturday 9am
+    images:
+      - url: "https://cdn.filestackcontent.com/QAxEEEnJTyt4qIaLbioU"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: arkansas
+    city_slug: fairfield-bay
+    city_id: 1840013414
+    slug: fairfield-bay-recreation
+    path: /courts/us/arkansas/fairfield-bay/fairfield-bay-recreation
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-04-25T10:28:28.879Z"
+    updated_at: "2024-04-25T10:28:55.311Z"
+    schedule_sources_updated_at: null
+  - id: "93318fc4-8a49-46f5-9e91-bac5a80e496c"
+    title: Feaster Park
+    address: "92 Pinnacle Dr, Arkadelphia, AR 71923, USA"
+    lat: 34.1302392
+    lng: -93.0789556
+    coords: "010100000082F5C99B0D4557C01F5498ADAB104140"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/6Ack677OR3KLE9CtBQzN"
+        source: user
+        attribution_url: "https://arkadelphia.gov/outdoor-pickleball-court-project/"
+        attribution_html: null
+        attribution_name: Arkadelphia Arkansas Gov
+    country_slug: us
+    state_slug: arkansas
+    city_slug: arkadelphia
+    city_id: 1840013638
+    slug: feaster-park
+    path: /courts/us/arkansas/arkadelphia/feaster-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-12-16T07:21:38.506Z"
+    updated_at: "2025-12-16T07:21:38.506Z"
+    schedule_sources_updated_at: null
+  - id: "79f24e22-10a9-4570-90c2-ab2c01aa19f4"
+    title: Greenbrier City Event Center
+    address: "5 Lois Ln, Greenbrier, AR 72058, USA"
+    lat: 35.2238031
+    lng: -92.3854503
+    coords: "0101000000F02EBC37AB1857C0289F7994A59C4140"
+    phone: "5016796362"
+    email: null
+    url: "https://www.gogreenbrier.com/cityeventcenter"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: Closed on Sunday
+    images:
+      - url: "https://cdn.filestackcontent.com/vOvgdcZwQbKuRcPifsnp"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/108062083477512218988"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108062083477512218988\">Dillon Stearns</a>"
+        attribution_name: Dillon Stearns
+    country_slug: us
+    state_slug: arkansas
+    city_slug: greenbrier
+    city_id: 1840013477
+    slug: greenbrier-city-event-center
+    path: /courts/us/arkansas/greenbrier/greenbrier-city-event-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T11:10:16.557Z"
+    updated_at: "2024-04-17T13:20:25.862Z"
+    schedule_sources_updated_at: null
+  - id: "268e2cc7-3a84-43e7-928b-83d319c2b02d"
+    title: Harmon Park
+    address: "309 West Northend Avenue, Paragould, AR, USA"
+    lat: 36.0652048
+    lng: -90.49005
+    coords: "0101000000E8D9ACFA5C9F56C067C581A158084240"
+    phone: "+18702397530"
+    email: null
+    url: "https://www.cityofparagould.com/310/Harmon-Park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/GstSs28SIWcq6vn2Hwwd"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/101882551377324400694"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101882551377324400694\">Justin Brandon</a>"
+        attribution_name: Justin Brandon
+    country_slug: us
+    state_slug: arkansas
+    city_slug: paragould
+    city_id: 1840014474
+    slug: harmon-park
+    path: /courts/us/arkansas/paragould/harmon-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-10-31T07:14:17.524Z"
+    updated_at: "2024-10-31T07:30:08.338Z"
+    schedule_sources_updated_at: null
+  - id: "03a64ed7-0fa7-4246-9da1-27325ab51ed4"
+    title: Harry Sbanotto Park
+    address: "235 E Henri De Tonti Blvd, Tontitown, AR, 72762, USA"
+    lat: 36.176077
+    lng: -94.233143
+    coords: "0101000000A5129ED0EB8E57C0F549EEB089164240"
+    phone: null
+    email: null
+    url: "https://www.tontitown.com/tontitown/city-park/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/XSRcfFdPS3KxPC2SHJ1R"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/103309928098888980415"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103309928098888980415\">Tomas Severo</a>"
+        attribution_name: Tomas Severo
+      - url: "https://cdn.filestackcontent.com/SapVjWFzTbaZXmUevVf3"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: arkansas
+    city_slug: tontitown
+    city_id: 1840015337
+    slug: harry-sbanotto-park
+    path: /courts/us/arkansas/tontitown/harry-sbanotto-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-23T12:02:33.049Z"
+    updated_at: "2022-12-01T16:19:50.233Z"
+    schedule_sources_updated_at: null
+  - id: "4c881f36-f01e-458f-8fc9-e429d214d7b9"
+    title: Hays Senior Center
+    address: "401 W Pershing Blvd, North Little Rock, AR, 72114, USA"
+    lat: 34.780159
+    lng: -92.272062
+    coords: "0101000000001FBC76691157C00C570740DC634140"
+    phone: null
+    email: null
+    url: "http://nlr.ar.gov/cms/one.aspx?pageId=97693"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/K2zEftVXRUSWw9jXfOWV"
+        source: user
+        visible: true
+        attribution_url: "https://i0.wp.com/northlittlerock.org/wp-content/uploads/2019/05/Hays-Senior-Center-June-07-173.jpg?fit=3872%2C2592&ssl=1"
+        attribution_html: null
+        attribution_name: North Little Rock
+    country_slug: us
+    state_slug: arkansas
+    city_slug: north-little-rock
+    city_id: 1840014632
+    slug: hays-senior-center
+    path: /courts/us/arkansas/north-little-rock/hays-senior-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-05T07:58:20.365Z"
+    updated_at: "2022-12-02T00:46:19.507Z"
+    schedule_sources_updated_at: null
+  - id: b2b1b9f9-2635-480e-bb6c-6baac4109446
+    title: Heber Springs Community Center
+    address: "201 Bobbie Jean Ln, Heber Springs, AR 72543, USA"
+    lat: 35.5135165
+    lng: -92.0266302
+    coords: "01010000008085274FB40157C06BBA9EE8BAC14140"
+    phone: "9012583029"
+    email: null
+    url: "https://www.cityofhebersprings.com/community-aquatic-center/pages/community-center"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 8
+    outdoor_courts: 0
+    total_courts: 8
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/QD0CefU7QIOMkbUutPd5"
+        source: user
+        attribution_url: "https://www.google.com/maps/contrib/107302043730161204721/photos/@28.4400868,-69.9544719,6118613m/data=!3m2!1e3!4b1!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI0MDkwMi4xIKXMDSoASAFQAw%3D%3D"
+        attribution_html: null
+        attribution_name: JULIO AGUILLON
+    country_slug: us
+    state_slug: arkansas
+    city_slug: heber-springs
+    city_id: 1840014543
+    slug: heber-springs-community-center
+    path: /courts/us/arkansas/heber-springs/heber-springs-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T10:26:16.564Z"
+    updated_at: "2024-09-05T01:08:56.336Z"
+    schedule_sources_updated_at: null
+  - id: "987414b4-e2a1-40fa-9d18-4d3034d1dfe3"
+    title: Henson Park Pickleball and Tennis Courts
+    address: "407 North Beverly Avenue, Sherwood, AR, USA"
+    lat: 34.8228354
+    lng: -92.2199485
+    coords: "01010000007993DFA2130E57C0DC7E9EAB52694140"
+    phone: null
+    email: null
+    url: "https://www.cityofsherwood.net/Facilities/Facility/Details/Henson-Park-Pickleball-and-Tennis-Courts-34"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/465wCTRTOP6SxnviFTjg"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/Tbl2Dh8sQDyBPzBfKgFC"
+      - url: "https://cdn.filestackcontent.com/wNCoTqewT9Kv9NMlzJLX"
+    country_slug: us
+    state_slug: arkansas
+    city_slug: sherwood
+    city_id: 1840015511
+    slug: henson-park-pickleball-and-tennis-courts
+    path: /courts/us/arkansas/sherwood/henson-park-pickleball-and-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-09-06T09:17:02.805Z"
+    updated_at: "2025-07-04T01:53:23.652Z"
+    schedule_sources_updated_at: null
+  - id: ce56b27b-89ee-4db3-a83c-ada6e422af3d
+    title: Hilltop Pickleball
+    address: "2154 Bypass Road, Heber Springs, AR, USA"
+    lat: 35.514145
+    lng: -92.00245609999999
+    coords: "01010000003E4BA13D280057C07233DC80CFC14140"
+    phone: "5012706153"
+    email: Hilltoppickle@gmail.com
+    url: "https://www.facebook.com/profile.php?id=61581341793952"
+    reservation_url: "https://app.courtreserve.com/online/publicbookings/13669"
+    facility_type: null
+    access: needs-audit
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 4
+    total_courts: 7
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [food, lighted, pro shop, training, wheelchair accessible, restrooms, water]
+    description: ""
+    access_details: Memberships Available but not required.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/4F2GOdmQR7uBLxe1JjJe"
+        source: user
+        attribution_url: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEkgzokFYG39j0z56bX6OrpQkKAJ-hB_PtpnRU0hpxNWA6vvCkHHItFc1t7HXLlWfYiS6PtGsNNaLGzb9xkcde7wqqjCwTfHzjWVhixtjdVHzD0JgjqbbNsciuQg_UetV1KDliSIFMyIaaB=s680-w680-h510-rw"
+        attribution_html: null
+        attribution_name: Scott Valentine
+      - url: "https://cdn.filestackcontent.com/aHpvNiYR5WbVUbrs4lCf"
+        source: user
+        attribution_url: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEAr5MoONAR4bd2Wj-ApntEjDNwuPc0pFAuwV8pRqehjia_LnxxOtnfey2C2PEEn096mSTLOXEHCDvhe-kXJ0Sj3JLbiBLMGN4T2x8fBP0a59MVVj3NBdUHwOsnNFey3LUy6SsqEntm-ZH-=s680-w680-h510-rw"
+        attribution_html: null
+        attribution_name: Scott Valentine
+      - url: "https://cdn.filestackcontent.com/87xlceECRxq6gSnesEds"
+    country_slug: us
+    state_slug: arkansas
+    city_slug: heber-springs
+    city_id: 1840014543
+    slug: hilltop-pickleball
+    path: /courts/us/arkansas/heber-springs/hilltop-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-05-22T07:56:23.341Z"
+    updated_at: "2026-05-25T06:03:57.214Z"
+    schedule_sources_updated_at: null
+  - id: bd452322-9fdd-4943-b657-fbfe84b7dbc4
+    title: Hot Springs Health and Fitness
+    address: "281 Lake Hamilton Dr, Hot Springs National Park, AR, 71913, USA"
+    lat: 34.446247
+    lng: -93.082604
+    coords: "010100000034A14962494557C01478279F1E394140"
+    phone: "5015254900"
+    email: null
+    url: "https://www.hshealthandfitness.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 6
+    total_courts: 9
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/BDTU9hDbSeb5FmgtG0T4"
+        source: user
+        visible: true
+        attribution_url: "https://www.globalpickleball.network/pickleball-courts/courts/pickleball-court-page/court/179-desoto-family-recreation-center"
+        attribution_html: null
+        attribution_name: Hot Springs Village
+      - url: "https://cdn.filestackcontent.com/E0crehDMRQcQ1rHMNpDF"
+        source: user
+        visible: true
+        attribution_url: "https://hotsprings.org/site/assets/files/2511/pickle.jpg"
+        attribution_html: null
+        attribution_name: Hot Springs Health and Fitness
+    country_slug: us
+    state_slug: arkansas
+    city_slug: hot-springs
+    city_id: 1840014670
+    slug: hot-springs-health-and-fitness
+    path: /courts/us/arkansas/hot-springs/hot-springs-health-and-fitness
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-13T01:42:00.487Z"
+    updated_at: "2024-06-17T09:54:38.149Z"
+    schedule_sources_updated_at: "2024-05-01T08:13:54.945Z"
+  - id: "47963b27-d775-4371-9aa1-9171a2222d53"
+    title: Hot Springs Village Pickleball Courts
+    address: "209 Desoto Blvd, Hot Springs Village, AR, 71909, USA"
+    lat: 34.66426
+    lng: -92.93802
+    coords: "01010000009CBF0985083C57C03E05C07806554140"
+    phone: "5012269699"
+    email: null
+    url: "https://hsvpickleball.com/"
+    reservation_url: null
+    facility_type: public
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 14
+    total_courts: 14
+    has_pickleball: true
+    surface: [acrylic, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms, water, lighted]
+    description: The Desoto courts are located in Hot Springs Village
+    access_details: null
+    schedule_details: "Open all day, mornings seam to be most popular"
+    images:
+      - url: "https://cdn.filestackcontent.com/ZwSWmqSkG1Esb2QChniw"
+        source: user
+        visible: true
+        attribution_url: "https://zaubee.com/biz/hot-springs-village-pickleball-courts-6n81byh3"
+        attribution_html: null
+        attribution_name: Hot Springs Village
+      - url: "https://cdn.filestackcontent.com/F1LXEgXWSU2IvxvaWLT6"
+        source: user
+        visible: true
+        attribution_url: "http://img1.wsimg.com/isteam/ip/ac45a9ab-1975-4dac-b863-384140ea3c36/HSVPC_WebHeader%2012422%2012.jpg"
+        attribution_html: null
+        attribution_name: Hot Springs Village
+      - url: "https://cdn.filestackcontent.com/70Doi78kSJSG7eolcENS"
+        source: user
+        visible: true
+        attribution_url: "https://img1.wsimg.com/isteam/ip/ac45a9ab-1975-4dac-b863-384140ea3c36/HSVPC_WebHeader%2012422%2012.jpg"
+        attribution_html: null
+        attribution_name: HSV Pickleball Club
+    country_slug: us
+    state_slug: arkansas
+    city_slug: hot-springs-village
+    city_id: 1840013587
+    slug: hot-springs-village-pickleball-courts
+    path: /courts/us/arkansas/hot-springs-village/hot-springs-village-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-23T19:49:31.937Z"
+    updated_at: "2025-11-19T07:01:10.091Z"
+    schedule_sources_updated_at: null
+  - id: "68eea7b2-8382-44e6-9911-a6b5e63a60e9"
+    title: Hot Springs YMCA
+    address: "130 Werner St, Hot Springs National Park, AR, 71913, USA"
+    lat: 34.467063
+    lng: -93.062286
+    coords: "0101000000EA3F6B7EFC4357C0F9156BB8C83B4140"
+    phone: "5013188754"
+    email: null
+    url: "https://www.hsymca.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard, wood]
+    lines: permanent
+    nets: portable
+    amenities: [locker rooms, restrooms, water, lighted]
+    description: "All open play, no reservations allowed, balls and nets provided, bring your paddle."
+    access_details: Daily fee option
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/nxKmaWDSSOq43dvdc2oz"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/316956498_10158569953511046_2438977902019010280_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=nf9QegmcqmoAX-mbzjS&_nc_ht=scontent-lax3-1.xx&oh=00_AfBnik-Ujb35JurJ3vSYTVqrDHEquPNNmUHc4b8oE6BWqA&oe=638E385B"
+        attribution_html: null
+        attribution_name: The Hot Springs Family YMCA
+    country_slug: us
+    state_slug: arkansas
+    city_slug: hot-springs
+    city_id: 1840014670
+    slug: hot-springs-ymca
+    path: /courts/us/arkansas/hot-springs/hot-springs-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-26T06:48:17.872Z"
+    updated_at: "2024-08-09T09:06:44.203Z"
+    schedule_sources_updated_at: "2024-08-09T09:06:43.482Z"
+  - id: "3f544e70-298c-4d01-8d6d-3b50a8c273bf"
+    title: Hughes Community Center
+    address: "1000 E Parkway Dr, Russellville, AR 72801, USA"
+    lat: 35.2806624
+    lng: -93.1211639
+    coords: "01010000002CFD3A26C14757C0C29BDABEECA34140"
+    phone: "+14799681272"
+    email: null
+    url: "https://russellvillearkansas.org/Facilities/Facility/Details/Hughes-Community-Center-7"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: "Facility is open 7AM-8PM, but 0700-NOON for Pickleball."
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/HA1Xxsn9Tmembg2F2v6o"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/111526648065108801056"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/111526648065108801056\">Joy Murphy</a>"
+        attribution_name: Joy Murphy
+      - url: "https://cdn.filestackcontent.com/PUp6kBgcRaeNV2q6rVjF"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: arkansas
+    city_slug: russellville
+    city_id: 1840014541
+    slug: hughes-community-center
+    path: /courts/us/arkansas/russellville/hughes-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-07T11:10:55.283Z"
+    updated_at: "2025-02-20T08:08:10.731Z"
+    schedule_sources_updated_at: "2025-02-19T17:51:13.287Z"
+  - id: "8fea2fad-8678-41a1-a8d8-070e0429968d"
+    title: Indianhead Park Pickleball Courts
+    address: "33 Deerfield Drive, Sherwood, AR, USA"
+    lat: 34.8394514
+    lng: -92.1750943
+    coords: "0101000000D30DB9BE340B57C06CCABA24736B4140"
+    phone: null
+    email: null
+    url: "https://www.cityofsherwood.net/Facilities/Facility/Details/Indianhead-Park-9"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: free
+    schedule_details: First come first served
+    images:
+      - url: "https://cdn.filestackcontent.com/uKqVRFJFQUm50Y8BotJM"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/117707428125651845007"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117707428125651845007\">Ashley McCandless</a>"
+        attribution_name: Ashley McCandless
+    country_slug: us
+    state_slug: arkansas
+    city_slug: sherwood
+    city_id: 1840015511
+    slug: indianhead-park-pickleball-courts
+    path: /courts/us/arkansas/sherwood/indianhead-park-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-09-07T11:23:35.935Z"
+    updated_at: "2023-09-07T11:26:17.465Z"
+    schedule_sources_updated_at: null
+  - id: "8b4cd7b1-159d-4fcb-9c9b-27b841f3b14a"
+    title: Jess Odom Community Center
+    address: "1100 Edgewood Dr, Maumelle, AR, 72113, USA"
+    lat: 34.867077
+    lng: -92.403577
+    coords: "0101000000BD1AA034D41957C0910E0F61FC6E4140"
+    phone: ""
+    email: null
+    url: "http://www.maumelleparksandrec.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 7
+    total_courts: 10
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: null
+    access_details: $10 key fee for a year for residents of Maumelle; non-residents is $120/year + $10 key fee per year
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/FzG05NaBRIef2M12PM0Y"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113899739983295149816"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113899739983295149816\">Fre Hickman</a>"
+        attribution_name: Fre Hickman
+    country_slug: us
+    state_slug: arkansas
+    city_slug: maumelle
+    city_id: 1840015510
+    slug: jess-odom-community-center
+    path: /courts/us/arkansas/maumelle/jess-odom-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-26T06:28:58.004Z"
+    updated_at: "2026-05-29T06:09:49.140Z"
+    schedule_sources_updated_at: null
+  - id: ccb3acaf-f646-4455-959e-50b82d6fbf27
+    title: Jim Dailey Fitness and Aquatic Center
+    address: "300 S Monroe St, Little Rock, AR, 72205, USA"
+    lat: 34.748007
+    lng: -92.329037
+    coords: "0101000000228B34F10E1557C0EC1681B1BE5F4140"
+    phone: "5016646976"
+    email: null
+    url: "https://www.littlerock.gov/for-residents/parks-and-recreation/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/uv6iWuCbQbiElWSBgaft"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/101582915653491202247"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101582915653491202247\">Matt Smyly</a>"
+        attribution_name: Matt Smyly
+    country_slug: us
+    state_slug: arkansas
+    city_slug: little-rock
+    city_id: 1840015509
+    slug: jim-dailey-fitness-and-aquatic-center
+    path: /courts/us/arkansas/little-rock/jim-dailey-fitness-and-aquatic-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-31T08:46:50.372Z"
+    updated_at: "2023-07-20T01:44:43.179Z"
+    schedule_sources_updated_at: null
+  - id: "0f04b92f-5a90-4964-957e-a122598c8c80"
+    title: Joe Mack Campbell Park
+    address: "3021 Dan Ave, Jonesboro, AR 72401, USA"
+    lat: 35.8484333
+    lng: -90.7635054
+    coords: "010100000071D4C045DDB056C02F2B5E7699EC4140"
+    phone: "8709334604"
+    email: null
+    url: "https://www.jonesboro.org/Facilities/Facility/Details/Joe-Mack-Campbell-Sports-Complex-17"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: Courts are located on tennis courts in the park.
+    access_details: No Fee
+    schedule_details: First come first serve
+    images:
+      - url: "https://cdn.filestackcontent.com/9Y2aKmjSUmidO7TQFBYQ"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/108593984060807545704"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108593984060807545704\">Paige Davis</a>"
+        attribution_name: Paige Davis
+    country_slug: us
+    state_slug: arkansas
+    city_slug: jonesboro
+    city_id: 1840014507
+    slug: joe-mack-campbell-park
+    path: /courts/us/arkansas/jonesboro/joe-mack-campbell-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-03-17T08:54:16.151Z"
+    updated_at: "2025-03-17T10:36:02.983Z"
+    schedule_sources_updated_at: null
+  - id: aad48cb3-365e-4e4d-9eb1-559b2331f12c
+    title: "John Brown University, Walton Gym"
+    address: "2000 W University St, Siloam Springs, AR, 72761, USA"
+    lat: 36.187995
+    lng: -94.559615
+    coords: "010100000077D66EBBD0A357C0E0675C3810184240"
+    phone: "2094837745"
+    email: null
+    url: "http://www.jbu.edu/wlhc/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, wheelchair accessible, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/YswhN5LORHe9ejaBlMU8"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/272491439_4651419834907166_8391006434448038529_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=ejwe0NsRnjAAX-M2ZY_&_nc_ht=scontent-lax3-1.xx&oh=00_AfCkINq6EBAKGfmop95Q8k4skUTD2m8hNUVdXQvaaQ9t0w&oe=638F3FC0"
+        attribution_html: null
+        attribution_name: Walton Lifetime Health Complex
+    country_slug: us
+    state_slug: arkansas
+    city_slug: siloam-springs
+    city_id: 1840015288
+    slug: john-brown-university-walton-gym
+    path: /courts/us/arkansas/siloam-springs/john-brown-university-walton-gym
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-30T02:45:12.301Z"
+    updated_at: "2022-12-03T03:14:07.359Z"
+    schedule_sources_updated_at: null
+  - id: bc2791b4-94f8-4b70-85f7-7017936ef64d
+    title: Kanis Park
+    address: "820 S Rodney Parham Rd, Little Rock, AR, 72205, USA"
+    lat: 34.744548
+    lng: -92.36088
+    coords: "0101000000F3716DA8181757C0AF264F594D5F4140"
+    phone: ""
+    email: null
+    url: "https://www.littlerock.gov/for-residents/parks-and-recreation/city-parks-and-maps/details/?park=Kanis"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/pgfzkxoQQqiGZGaOP0QB"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: arkansas
+    city_slug: little-rock
+    city_id: 1840015509
+    slug: kanis-park
+    path: /courts/us/arkansas/little-rock/kanis-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-30T21:50:35.377Z"
+    updated_at: "2024-05-20T21:10:44.884Z"
+    schedule_sources_updated_at: null
+  - id: "094df0d6-031b-4cca-934c-63855e932e08"
+    title: Kingsdale Tennis Complex
+    address: "4 Riordan Dr, Bella Vista, AR 72714, USA"
+    lat: 36.45532233081198
+    lng: -94.24947453554725
+    coords: "01010000000ED70A64F78F57C0ECFC8B00483A4240"
+    phone: (479) 855-8000
+    email: null
+    url: "https://bellavistapoa.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: The court is available for a two hour period. Make a reservation
+    access_details: ​  $3.00/POA Member with activity card   $4.00/POA Member   $6.00/POA guest
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/0NrALH4nSIqJ8DM73dZx"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: arkansas
+    city_slug: bella-vista
+    city_id: 1840015287
+    slug: kingsdale-tennis-complex
+    path: /courts/us/arkansas/bella-vista/kingsdale-tennis-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-02-16T02:27:58.296Z"
+    updated_at: "2024-07-29T10:07:37.492Z"
+    schedule_sources_updated_at: null
+  - id: "7f6fa107-813e-4eb6-8f02-6fb4f55b5582"
+    title: Legacy Racquet and Fitness
+    address: "514 Coley Drive, Mountain Home, AR, USA"
+    lat: 36.3501103
+    lng: -92.38402769999999
+    coords: "01010000008410EBE8931857C0123F106AD02C4240"
+    phone: "+18704254342"
+    email: null
+    url: "https://www.legacyracquetandfitness.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 3
+    total_courts: 7
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [lighted, training, water, restrooms, locker rooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/tqKHMrCOQgmqP5pmcD8I"
+        source: user
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipPWrVBR90Zh_5wokE2HmKnLUEVLNrSndAURGYRb=s680-w680-h510-rw"
+        attribution_html: null
+        attribution_name: Legacy Racquet and Fitness
+      - url: "https://cdn.filestackcontent.com/5YCmxTMLSDyKT79h30Yf"
+        source: user
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipMuRwAX5NyEnV2bx3AQV3NEys-A6-4IPZfhLid1=s680-w680-h510-rw"
+        attribution_html: null
+        attribution_name: Legacy Racquet and Fitness
+    country_slug: us
+    state_slug: arkansas
+    city_slug: mountain-home
+    city_id: 1840014452
+    slug: legacy-racquet-and-fitness
+    path: /courts/us/arkansas/mountain-home/legacy-racquet-and-fitness
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-02-05T05:57:30.468Z"
+    updated_at: "2026-02-05T06:13:51.011Z"
+    schedule_sources_updated_at: "2026-02-05T06:13:50.210Z"
+  - id: "3a8444f7-2cfb-4d96-b578-c2689611627c"
+    title: Little Rock Racquet Club
+    address: "1 Huntington Rd, Little Rock, AR, 72227, USA"
+    lat: 34.779482
+    lng: -92.364438
+    coords: "0101000000DCDAC2F3521757C00CE9F010C6634140"
+    phone: "5012255711"
+    email: null
+    url: "http://www.lrac.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [clay, hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/HhmRapE6Rd2l3zCT88Ei"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: arkansas
+    city_slug: little-rock
+    city_id: 1840015509
+    slug: little-rock-racquet-club
+    path: /courts/us/arkansas/little-rock/little-rock-racquet-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T13:43:20.877Z"
+    updated_at: "2023-07-20T02:10:38.147Z"
+    schedule_sources_updated_at: null
+  - id: a24790da-004a-40ec-8dd0-2d54e64de2b4
+    title: Marvin L Vinson - Multi Purpose Building
+    address: "1611 W Oakland St, Clarksville, AR, 72830, USA"
+    lat: 35.468497
+    lng: -93.481848
+    coords: "01010000002769FE98D65E57C016A3AEB5F7BB4140"
+    phone: "4797741475"
+    email: null
+    url: "https://www.clarksvillear.gov/marvin-vinson-center.html"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/8cQOtzqSwqvMK7UYSfIy"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/101453450482049741728"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101453450482049741728\">Ira Wimer</a>"
+        attribution_name: Ira Wimer
+      - url: "https://cdn.filestackcontent.com/PiXIt5zQQwy9u4N1QMN4"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/101453450482049741728"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101453450482049741728\">Ira Wimer</a>"
+        attribution_name: Ira Wimer
+    country_slug: us
+    state_slug: arkansas
+    city_slug: clarksville
+    city_id: 1840014533
+    slug: marvin-l-vinson-multi-purpose-building
+    path: /courts/us/arkansas/clarksville/marvin-l-vinson-multi-purpose-building
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-26T06:59:15.607Z"
+    updated_at: "2025-03-07T06:32:03.403Z"
+    schedule_sources_updated_at: null
+  - id: f6039a84-a2f1-4da4-8e42-724223846981
+    title: Matrix Tennis & Racquet Club
+    address: "1219 Mills Ln, Lowell, AR 72745, USA"
+    lat: 36.26366895929477
+    lng: -94.16332436395415
+    coords: "0101000000AD7408E8738A57C019928AE7BF214240"
+    phone: (479) 278-7427
+    email: null
+    url: "http://www.matrixclub.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 12
+    outdoor_courts: 4
+    total_courts: 16
+    has_pickleball: true
+    surface: [hard, concrete]
+    lines: permanent
+    nets: portable
+    amenities: [food, restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/N1mx8u8DTOyxGb9gfS1H"
+        source: user
+        visible: true
+        attribution_url: "https://www.matrixclub.com/pickleball?pgid=l0shaf1o-f8918314-e0b3-45fb-80a7-efd3ebe8b46f"
+        attribution_html: null
+        attribution_name: Matrix Tennis & Racquet Club
+      - url: "https://cdn.filestackcontent.com/Vs5IE7sbRFO3Fka0tXBv"
+        source: user
+        visible: true
+        attribution_url: "https://www.matrixclub.com/pickleball?pgid=l0shaf1o-42ede344-7ada-4ef4-ad6c-d37066f38286"
+        attribution_html: null
+        attribution_name: Matrix Tennis & Racquet Club
+      - url: "https://cdn.filestackcontent.com/Bx5U03XJRnSUdXkiExCL"
+        source: user
+        visible: true
+        attribution_url: "https://static.wixstatic.com/media/6144c9_875f7ccb67874803a486868fc640f789~mv2.jpeg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6144c9_875f7ccb67874803a486868fc640f789~mv2.jpeg"
+        attribution_html: null
+        attribution_name: Matrix Racquet Club
+    country_slug: us
+    state_slug: arkansas
+    city_slug: lowell
+    city_id: 1840015285
+    slug: matrix-tennis-and-racquet-club
+    path: /courts/us/arkansas/lowell/matrix-tennis-and-racquet-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T09:35:06.555Z"
+    updated_at: "2025-09-05T05:21:20.044Z"
+    schedule_sources_updated_at: null
+  - id: "8969d54f-8f48-425e-9f11-82dfc4998a56"
+    title: Matthews Park
+    address: "25 Ivy St, Greenbrier, AR 72058, United States"
+    lat: 35.229973
+    lng: -92.3874833
+    coords: "0101000000C14FC186CC1857C044FB58C16F9D4140"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/T1ncFKE2SHGr8LayPDDB"
+        source: user
+        visible: true
+        attribution_url: "https://storymaps.arcgis.com/stories/05c7428780154bfbb71d0f0ad5635b3f"
+        attribution_html: null
+        attribution_name: Matthews Park
+    country_slug: us
+    state_slug: arkansas
+    city_slug: greenbrier
+    city_id: 1840013477
+    slug: matthews-park
+    path: /courts/us/arkansas/greenbrier/matthews-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-14T20:49:02.559Z"
+    updated_at: "2023-08-16T02:00:35.702Z"
+    schedule_sources_updated_at: null
+  - id: "3b07c1e9-655b-41fe-91d3-22496c7d2620"
+    title: Mellor Park
+    address: "1300 N Euclid Ave, El Dorado, AR 71730, United States"
+    lat: 33.2239422
+    lng: -92.65840089999999
+    coords: "01010000000B4A873D232A57C0DF985423AA9C4040"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 10
+    total_courts: 10
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/l41UOHc2SiWAKkDPx7Bc"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: arkansas
+    city_slug: el-dorado
+    city_id: 1840013773
+    slug: mellor-park
+    path: /courts/us/arkansas/el-dorado/mellor-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-09-19T02:34:58.089Z"
+    updated_at: "2025-09-19T02:34:58.089Z"
+    schedule_sources_updated_at: null
+  - id: b9919d5b-c864-40a6-b645-ccc503ce3086
+    title: Meriwether Park
+    address: "1400 Florida Ave, Little Rock, AR, 72207, USA"
+    lat: 34.764607
+    lng: -92.35395
+    coords: "0101000000D49AE61DA71657C076A565A4DE614140"
+    phone: "+15013714770"
+    email: cityparks@littlerock.gov
+    url: "http://www.littlerock.org/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/vWGMF9aQsKMVG6A6de6Q"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: arkansas
+    city_slug: little-rock
+    city_id: 1840015509
+    slug: meriwether-park
+    path: /courts/us/arkansas/little-rock/meriwether-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-22T20:48:28.213Z"
+    updated_at: "2023-07-20T01:48:24.410Z"
+    schedule_sources_updated_at: null
+  - id: "11079224-b62b-4643-91aa-6e8b4733d4d6"
+    title: Mills Park
+    address: "1003 Mills Park Rd, Bryant, AR 72022, USA"
+    lat: 34.6065399
+    lng: -92.4839094
+    coords: "010100000087CE215FF81E57C00C1C7519A34D4140"
+    phone: "15019430444"
+    email: null
+    url: "https://www.cityofbryant.com/pages/departments/parks/facilities.php"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: ""
+    access_details: ""
+    schedule_details: Open
+    images:
+      - url: "https://cdn.filestackcontent.com/i6SwFrIjQoKVsvzLKxWN"
+        source: user
+        attribution_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn4hTszo8flBYQ_ixJIB4mRqpKsYYJL8R5HA&s"
+        attribution_html: null
+        attribution_name: "Central Arkansas Pickleball  "
+    country_slug: us
+    state_slug: arkansas
+    city_slug: bryant
+    city_id: 1840013573
+    slug: mills-park
+    path: /courts/us/arkansas/bryant/mills-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-08-05T07:21:47.414Z"
+    updated_at: "2025-08-05T07:42:13.099Z"
+    schedule_sources_updated_at: null
+  - id: "57548a45-ff98-4561-a8d1-ce4760c02a06"
+    title: Morrilton City Park
+    address: "100 City Park Dr, Morrilton, AR, 72110, USA"
+    lat: 35.151673
+    lng: -92.735154
+    coords: "010100000082E15CC30C2F57C0D65757056A934140"
+    phone: null
+    email: null
+    url: "http://www.cityofmorrilton.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/F2vr6LgSS22AvETPzm3q"
+        source: user
+        attribution_url: "https://www.facebook.com/photo?fbid=10227895736086119&set=g.1412073972954963"
+        attribution_html: null
+        attribution_name: Austin Foshee
+    country_slug: us
+    state_slug: arkansas
+    city_slug: morrilton
+    city_id: 1840014564
+    slug: morrilton-city-park
+    path: /courts/us/arkansas/morrilton/morrilton-city-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T11:55:56.658Z"
+    updated_at: "2025-03-24T03:23:09.471Z"
+    schedule_sources_updated_at: null
+  - id: cae865a4-060e-4d2b-8cf1-e0994c5c7383
+    title: "Mt Hebron Park, Rogers AR"
+    address: "6048 Mount Hebron Rd, Rogers, AR 72758, USA"
+    lat: 36.2762459
+    lng: -94.19572169999999
+    coords: "010100000085274FB4868C57C0B91391065C234240"
+    phone: null
+    email: null
+    url: "https://www.rogersar.gov/1234/Garrett-Road-ExtensionMt-Hebron-Park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: Free public courts
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/D0voOdBzTN2Y4SWbOJTQ"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113025897541212591583"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113025897541212591583\">Melita</a>"
+        attribution_name: Melita
+    country_slug: us
+    state_slug: arkansas
+    city_slug: rogers
+    city_id: 1840014444
+    slug: mt-hebron-park-rogers-ar
+    path: /courts/us/arkansas/rogers/mt-hebron-park-rogers-ar
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-29T09:21:26.849Z"
+    updated_at: "2023-05-29T09:28:07.080Z"
+    schedule_sources_updated_at: null
+  - id: "7e9851f0-5fc7-43b9-970a-78e6ec1072c2"
+    title: Mulberry City Park
+    address: "453 Mulberry Hwy 64 W, Mulberry, AR, USA"
+    lat: 35.5068986
+    lng: -94.05986999999999
+    coords: "0101000000BC00FBE8D48357C0B0B1A60DE2C04140"
+    phone: null
+    email: null
+    url: "https://mulberryar.gov/mulberry-city-park/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/umt1N9SiTESObYzlhPOQ"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/101126098552935718810"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101126098552935718810\">Brad Molder</a>"
+        attribution_name: Brad Molder
+      - url: "https://cdn.filestackcontent.com/CfD4VAO7TqqwgoRXURkm"
+      - url: "https://cdn.filestackcontent.com/pes4tUzTgCqkjDC9lRxl"
+    country_slug: us
+    state_slug: arkansas
+    city_slug: mulberry
+    city_id: 1840014538
+    slug: mulberry-city-park
+    path: /courts/us/arkansas/mulberry/mulberry-city-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-27T12:10:04.913Z"
+    updated_at: "2024-05-28T10:13:27.710Z"
+    schedule_sources_updated_at: null
+  - id: "748fc38f-0dbe-4e29-bbaa-65ca1a378e0f"
+    title: Newark Ar City Park
+    address: "100 Long Street, Newark, AR, USA"
+    lat: 35.7067791
+    lng: -91.4487101
+    coords: "0101000000A23891AAB7DC56C087FFCFBC77DA4140"
+    phone: "8707992663"
+    email: null
+    url: "https://www.newarkar.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: ""
+    access_details: Free
+    schedule_details: Open play whenever you want.
+    images:
+      - url: "https://cdn.filestackcontent.com/Ez3paTM9QiuyfTgKdTjQ"
+    country_slug: us
+    state_slug: arkansas
+    city_slug: newark
+    city_id: 1840014511
+    slug: newark-ar-city-park
+    path: /courts/us/arkansas/newark/newark-ar-city-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-04-26T07:59:30.628Z"
+    updated_at: "2024-04-26T08:00:08.321Z"
+    schedule_sources_updated_at: null
+  - id: "07a5425e-7c32-40e2-aec6-ec2b07b3140b"
+    title: North Arkansas Youth Center
+    address: "412 Powell Ave, Cotter, AR, 72626, USA"
+    lat: 36.270678
+    lng: -92.535983
+    coords: "0101000000910DA48B4D2257C093DFA293A5224240"
+    phone: "8704214309"
+    email: null
+    url: "https://northarkansasyouthcenter.com/"
+    reservation_url: null
+    facility_type: public
+    access: one-time
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard, wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/OYaVgFhtReS0icL0raOC"
+        source: user
+        visible: true
+        attribution_url: "https://northarkansasyouthcenter.com/wp-content/uploads/2019/05/NAYC-front.jpg"
+        attribution_html: null
+        attribution_name: North Arkansas Youth Center
+    country_slug: us
+    state_slug: arkansas
+    city_slug: cotter
+    city_id: 1840014451
+    slug: north-arkansas-youth-center
+    path: /courts/us/arkansas/cotter/north-arkansas-youth-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-20T05:27:50.845Z"
+    updated_at: "2022-12-01T16:25:20.046Z"
+    schedule_sources_updated_at: null
+  - id: f6368c9c-3080-4db9-ab4d-ce7539867658
+    title: Northshore Pickleball Courts
+    address: "5401 Northshore Cove, North Little Rock, AR, USA"
+    lat: 34.796429
+    lng: -92.343098
+    coords: "0101000000AC545051F51557C0024BAE62F1654140"
+    phone: "5017714747"
+    email: ""
+    url: "https://northshoregolfrange.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: "45min - $12\n60min - $15\n90min - $20"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/kgPmzCmQuqrE1a8Kd9ig"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/117364067740494523098"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117364067740494523098\">TC Squires</a>"
+        attribution_name: TC Squires
+    country_slug: us
+    state_slug: arkansas
+    city_slug: north-little-rock
+    city_id: 1840014632
+    slug: northshore-pickleball-courts
+    path: /courts/us/arkansas/north-little-rock/northshore-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-11-04T12:07:10.479Z"
+    updated_at: "2024-11-04T12:45:55.208Z"
+    schedule_sources_updated_at: null
+  - id: "21ebdb32-60b5-4a0b-a940-b2767ad36c04"
+    title: Omaha Health & Fitness Club
+    address: "20 Omaha Circle, Cherokee Village, AR 72529, USA"
+    lat: 36.2997359
+    lng: -91.6020177
+    coords: "01010000003E473F7587E656C0F4F7F7BE5D264240"
+    phone: "+18702573555"
+    email: null
+    url: "https://cvsid.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/PSIINuHQJCcB38JhyfwW"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo.php?fbid=752611929572448&set=pb.100044709446443.-2207520000&type=3&locale=pt_BR"
+        attribution_html: null
+        attribution_name: Omaha Health & Fitness Club
+    country_slug: us
+    state_slug: arkansas
+    city_slug: cherokee-village
+    city_id: 1840014446
+    slug: omaha-health-and-fitness-club
+    path: /courts/us/arkansas/cherokee-village/omaha-health-and-fitness-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-09-09T09:18:28.737Z"
+    updated_at: "2023-09-09T09:18:28.737Z"
+    schedule_sources_updated_at: null
+  - id: "106dff31-b208-4c54-b15c-6f0574b0b24e"
+    title: Osage Park
+    address: "700 Southwest 16th Street, Bentonville, AR, USA"
+    lat: 36.354762
+    lng: -94.2188989
+    coords: "010100000058288870028E57C089EE59D7682D4240"
+    phone: (479) 254-3870
+    email: info@peelcompton.org
+    url: "https://www.peelcompton.org/spaces/visit-osage-park/"
+    reservation_url: "https://www.peelcompton.org/visit-osage-park/book-event/"
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms, water]
+    description: null
+    access_details: "No"
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/wLPvuTlBQAqrEEmzkFRs"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/52C3QulRQx2GlQBdncue"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/LYNlAR6XSleFMrENEaxo"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/vqnBUlsTcybGC7JoCRgD"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/bnWCwyE1RFKRwubfmWXU"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/m0I3x1YeQv6L5FMkIogv"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: arkansas
+    city_slug: bentonville
+    city_id: 1840013319
+    slug: osage-park
+    path: /courts/us/arkansas/bentonville/osage-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-02-16T02:47:39.886Z"
+    updated_at: "2025-04-04T05:57:56.491Z"
+    schedule_sources_updated_at: null
+  - id: "3d8f4707-ab09-4467-9204-126519b95f8e"
+    title: Ouachita Baptist University
+    address: "Arkadelphia's Feaster Trail, Arkadelphia, AR 71923, USA"
+    lat: 34.1301081
+    lng: -93.0697534
+    coords: "01010000003AF2F6D6764457C0EC38D961A7104140"
+    phone: (870) 245-5000
+    email: null
+    url: "https://www.imleagues.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: temporary
+    nets: tennis
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Hyu4wXlTSbe5lR8YSG4A"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110563548940788009064"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110563548940788009064\">Ouachita Baptist University</a>"
+        attribution_name: Ouachita Baptist University
+      - url: "https://cdn.filestackcontent.com/ViECVrMzQLeSWxBAOtO9"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: arkansas
+    city_slug: arkadelphia
+    city_id: 1840013638
+    slug: ouachita-baptist-university
+    path: /courts/us/arkansas/arkadelphia/ouachita-baptist-university
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-02-20T08:08:38.227Z"
+    updated_at: "2023-07-03T03:07:49.079Z"
+    schedule_sources_updated_at: null
+  - id: f551fbd4-be47-461a-9100-e346ac720901
+    title: Ozark Community Center
+    address: "609 N 29th St, Ozark, AR, 72949, USA"
+    lat: 35.493325
+    lng: -93.857489
+    coords: "010100000081EB8A19E17657C04CA60A4625BF4140"
+    phone: "4796670864"
+    email: null
+    url: "http://www.facebook.com/ozarkarcommunitycenter"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/mNenAPUQNCTnYcn4I26W"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/111707592462074601305"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/111707592462074601305\">Ozark Community Center</a>"
+        attribution_name: Ozark Community Center
+      - url: "https://cdn.filestackcontent.com/tguKNpzRFq7zDxLtzeEw"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/111707592462074601305"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/111707592462074601305\">Ozark Community Center</a>"
+        attribution_name: Ozark Community Center
+    country_slug: us
+    state_slug: arkansas
+    city_slug: ozark
+    city_id: 1840014531
+    slug: ozark-community-center
+    path: /courts/us/arkansas/ozark/ozark-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T17:42:14.973Z"
+    updated_at: "2022-12-03T05:33:57.334Z"
+    schedule_sources_updated_at: null
+  - id: "38174298-5bfe-4f8f-8158-5b4ef9822311"
+    title: Ozarks RV Resort On Table Rock Lake
+    address: "1229 County Road 663, Oak Grove, AR, USA"
+    lat: 36.48493819999999
+    lng: -93.3041552
+    coords: "0101000000223A5F47775357C060CA7674123E4240"
+    phone: "+18707492700"
+    email: ozarksrvresort.reservations@gmail.com
+    url: "https://www.ozarksrvresortontablerocklake.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/v9qTxLBQSbm3lRbwVwt0"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/t4gLAiPQxSBZkk5EnaLw"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Nathaniel Young
+    country_slug: us
+    state_slug: arkansas
+    city_slug: oak-grove
+    city_id: 1840027765
+    slug: ozarks-rv-resort-on-table-rock-lake
+    path: /courts/us/arkansas/oak-grove/ozarks-rv-resort-on-table-rock-lake
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-25T08:09:52.197Z"
+    updated_at: "2023-05-25T08:09:52.197Z"
+    schedule_sources_updated_at: null
+  - id: "571a10e3-f4bb-490d-8063-886a62e7246e"
+    title: Paragould Community Center-
+    address: "3404 Linwood Dr, Paragould, AR, 72450, USA"
+    lat: 36.02069
+    lng: -90.527291
+    coords: "0101000000691EC022BFA156C058AD4CF8A5024240"
+    phone: "8704760799"
+    email: null
+    url: "http://www.cityofparagould.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/fExNVKygQHpSYuPAus1d"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/108572571508993804829"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108572571508993804829\">Genny Saddler</a>"
+        attribution_name: Genny Saddler
+    country_slug: us
+    state_slug: arkansas
+    city_slug: paragould
+    city_id: 1840014474
+    slug: paragould-community-center
+    path: /courts/us/arkansas/paragould/paragould-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-07T03:14:50.839Z"
+    updated_at: "2025-05-05T08:00:28.809Z"
+    schedule_sources_updated_at: "2025-05-05T07:59:23.725Z"
+  - id: "205df0b5-5511-4454-91cf-7abfc54c834e"
+    title: PB&JJ’s
+    address: "3615 North Steele Boulevard, Fayetteville, AR 72703, USA"
+    lat: 36.1172665
+    lng: -94.15720379999999
+    coords: "0101000000A4F386A00F8A57C04C35B396020F4240"
+    phone: (479) 435-6502
+    email: null
+    url: "http://www.pbjjs.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/d6yj8FISNaTShXRhUj3M"
+        source: user
+        visible: true
+        attribution_url: "https://www.nwahomepage.com/wp-content/uploads/sites/90/2022/02/PBJJs-01.png?resize=876,584"
+        attribution_html: null
+        attribution_name: C.C. McCandless
+      - url: "https://cdn.filestackcontent.com/2ASvRcvxQCWjZufkrG9w"
+        source: user
+        visible: true
+        attribution_url: "http://www.pbjjs.com/wp-content/uploads/2022/03/BS4A2094-1536x1024.jpg"
+        attribution_html: null
+        attribution_name: PB&JJ’s
+    country_slug: us
+    state_slug: arkansas
+    city_slug: fayetteville
+    city_id: 1840013368
+    slug: pbandjjs
+    path: /courts/us/arkansas/fayetteville/pbandjjs
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-02-16T03:45:20.925Z"
+    updated_at: "2023-02-16T03:45:20.925Z"
+    schedule_sources_updated_at: null
+  - id: d2fd742c-d0c8-4ea3-bb98-7fb744371166
+    title: Perryville City Park
+    address: "801 AR-10, Perryville, AR 72126, USA"
+    lat: 34.9975219
+    lng: -92.79574129999999
+    coords: "0101000000E5E4EA6CED3257C09BC530CCAE7F4140"
+    phone: null
+    email: null
+    url: "https://www.cityofperryville.com/641/PickleballTennis"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ZA1ruX5T2bmnljqNt4tw"
+        source: user
+        attribution_url: "https://www.cityofperryville.com/641/PickleballTennis"
+        attribution_html: null
+        attribution_name: City of Perryville
+    country_slug: us
+    state_slug: arkansas
+    city_slug: perryville
+    city_id: 1840014622
+    slug: perryville-city-park
+    path: /courts/us/arkansas/perryville/perryville-city-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-09-24T08:48:26.368Z"
+    updated_at: "2025-09-24T08:48:26.368Z"
+    schedule_sources_updated_at: null
+  - id: "65f261f8-f07e-4fd6-a9dc-b7cc142cbf08"
+    title: Pickleball Kingdom Little Rock
+    address: "Arkansas City, AR, USA"
+    lat: 33.6080483
+    lng: -91.2062203
+    coords: "01010000005D11A1B632CD56C0B771D586D4CD4040"
+    phone: "+15012488120"
+    email: info@pickleballkingdomlittlerock.com
+    url: "https://pickleballkingdom.com/little-rock-ar/"
+    reservation_url: "https://pickleballkingdom.podplay.app/book/"
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 11
+    outdoor_courts: 0
+    total_courts: 11
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, locker rooms, food, lighted, training, wheelchair accessible, water, youth, pro shop]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/A0h7uCkVSGWWWYA9g4XI"
+        source: user
+        attribution_url: "https://mma.prnewswire.com/media/2539600/Pickleball_Kingdom__Plano_TX.jpg?p=facebook"
+        attribution_html: null
+        attribution_name: PR Newswire
+    country_slug: us
+    state_slug: arkansas
+    city_slug: arkansas-city
+    city_id: 1840013682
+    slug: pickleball-kingdom-little-rock
+    path: /courts/us/arkansas/arkansas-city/pickleball-kingdom-little-rock
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-02-11T03:57:44.818Z"
+    updated_at: "2025-12-16T07:13:17.993Z"
+    schedule_sources_updated_at: null
+  - id: d8d403a1-d586-49b6-81a9-30f089a1f2f0
+    title: Plainview Jesus Name Church
+    address: "209 S Spring Ave, Plainview, AR, 72857, USA"
+    lat: 34.988696
+    lng: -93.29462
+    coords: "0101000000D72FD80DDB5257C0CFD72C978D7E4140"
+    phone: null
+    email: null
+    url: "https://www.jesusnamechurch.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/q6iYB5CAQTmztdnO7mXZ"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/112560090880168026261"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112560090880168026261\">Billy Briley</a>"
+        attribution_name: Billy Briley
+    country_slug: us
+    state_slug: arkansas
+    city_slug: plainview
+    city_id: 1840014609
+    slug: plainview-jesus-name-church
+    path: /courts/us/arkansas/plainview/plainview-jesus-name-church
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-10T16:24:32.885Z"
+    updated_at: "2022-12-03T05:08:13.820Z"
+    schedule_sources_updated_at: null
+  - id: e1395103-98b5-4839-841b-87559f573911
+    title: Pocahontas Community Center
+    address: "298 Geneva Drive, Pocahontas, AR, USA"
+    lat: 36.2674387
+    lng: -90.96365569999999
+    coords: "0101000000A706F588ACBD56C0A6176B6E3B224240"
+    phone: null
+    email: null
+    url: "https://pocahontassportsandrecreation.sportngin.com/page/show/4812868-community-center"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/9B8G1seMRvaP3eBqd3HZ"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/103008110388154763320"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103008110388154763320\">Shannon Powell</a>"
+        attribution_name: Shannon Powell
+    country_slug: us
+    state_slug: arkansas
+    city_slug: pocahontas
+    city_id: 1840014448
+    slug: pocahontas-community-center
+    path: /courts/us/arkansas/pocahontas/pocahontas-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-11-21T10:19:20.166Z"
+    updated_at: "2024-11-21T10:21:36.324Z"
+    schedule_sources_updated_at: "2024-11-21T10:21:35.669Z"
+  - id: "262e5edb-771d-4951-a89b-545bed7777d3"
+    title: Randall Tyson Recreational Complex
+    address: "4303 Co Rd 889, Springdale, AR 72762, USA"
+    lat: 36.1607358
+    lng: -94.17903489999999
+    coords: "0101000000ED15CC4E758B57C0F0259EFD92144240"
+    phone: "4797508114"
+    email: null
+    url: "https://www.rogersar.gov/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/91xjlQ4BTrC2ewwm2G1x"
+        source: user
+        visible: true
+        attribution_url: "https://www.ozarkpickleball.com/uploads/1/3/3/5/133547360/published/8374dc95-30b6-4f47-82d5-7462cc312558.jpeg?1684534814"
+        attribution_html: null
+        attribution_name: Ozark Pickleball
+    country_slug: us
+    state_slug: arkansas
+    city_slug: springdale
+    city_id: 1840015336
+    slug: randall-tyson-recreational-complex
+    path: /courts/us/arkansas/springdale/randall-tyson-recreational-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T07:04:05.837Z"
+    updated_at: "2024-06-06T10:30:14.540Z"
+    schedule_sources_updated_at: null
+  - id: "352e6244-63d4-4421-9ae9-78c077bb519c"
+    title: Rebsamen Tennis Center
+    address: "1501 Leisure Pl, Little Rock, AR 72204, USA"
+    lat: 34.7387826
+    lng: -92.34712780000001
+    coords: "010100000014228557371657C04BEDA06D905E4140"
+    phone: "5016640736"
+    email: null
+    url: "https://www.littlerock.gov/residents/parks-and-recreation/park-facility-trail-information/rebsamen-tennis-center/"
+    reservation_url: null
+    facility_type: school
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images: []
+    country_slug: us
+    state_slug: arkansas
+    city_slug: little-rock
+    city_id: 1840015509
+    slug: rebsamen-tennis-center
+    path: /courts/us/arkansas/little-rock/rebsamen-tennis-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T02:29:07.943Z"
+    updated_at: "2023-07-20T02:19:03.437Z"
+    schedule_sources_updated_at: null
+  - id: d1c9c806-7271-4993-a7c2-ff4caa5d0b5f
+    title: Red Wolf Center
+    address: "2463 Aggie Road, Jonesboro, AR, USA"
+    lat: 35.8422404
+    lng: -90.6755956
+    coords: "010100000093D453F53CAB56C05BAF8E88CEEB4140"
+    phone: "8709723800"
+    email: ""
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [water, restrooms, lighted]
+    description: ""
+    access_details: $6 entry fee
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/clmF1iOTPKwcfhPDpUwa"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/111473375784091089224"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/111473375784091089224\">Jackie Dotson</a>"
+        attribution_name: Jackie Dotson
+    country_slug: us
+    state_slug: arkansas
+    city_slug: jonesboro
+    city_id: 1840014507
+    slug: red-wolf-center
+    path: /courts/us/arkansas/jonesboro/red-wolf-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-10-14T09:42:03.855Z"
+    updated_at: "2025-08-11T06:39:51.557Z"
+    schedule_sources_updated_at: null
+  - id: "1600d0f2-36ae-423c-9eee-7b63b953e5c8"
+    title: River Valley Fitness
+    address: "5111 Rogers Ave suite 75, Fort Smith, AR, USA"
+    lat: 35.3653394
+    lng: -94.37380970000001
+    coords: "01010000005E1B857FEC9757C05B780371C3AE4140"
+    phone: "4796489400"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: false
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: tape
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: One day fee $10 for all day pass.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/d43uUQHhQhmNNCcr8RFX"
+        visible: true
+    country_slug: us
+    state_slug: arkansas
+    city_slug: fort-smith
+    city_id: 1840013456
+    slug: river-valley-fitness
+    path: /courts/us/arkansas/fort-smith/river-valley-fitness
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-02-22T09:01:19.668Z"
+    updated_at: "2025-04-24T08:01:45.934Z"
+    schedule_sources_updated_at: "2025-04-24T02:35:16.356Z"
+  - id: "53b04ac0-728c-4c1e-b87f-0335e4e9e89f"
+    title: Rogers Activity Center
+    address: "315 W Olive St, Rogers, AR, 72756, USA"
+    lat: 36.341389
+    lng: -94.118882
+    coords: "010100000051853FC39B8757C0691B7FA2B22B4240"
+    phone: (479) 631-0336
+    email: null
+    url: "http://www.rogersrecreation.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, wheelchair accessible, lighted]
+    description: null
+    access_details: "Yearly membership, $60   $5 drop in."
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/rB5kQD5PRF64oVAMD70U"
+        source: user
+        visible: true
+        attribution_url: "https://www.rogersrecreation.org/pickleball"
+        attribution_html: null
+        attribution_name: Rogers Activity
+    country_slug: us
+    state_slug: arkansas
+    city_slug: rogers
+    city_id: 1840014444
+    slug: rogers-activity-center
+    path: /courts/us/arkansas/rogers/rogers-activity-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T16:48:08.544Z"
+    updated_at: "2023-02-16T03:21:36.847Z"
+    schedule_sources_updated_at: null
+  - id: "2d5065f3-de52-4122-b3e0-879cf476c25e"
+    title: Rogers Adult Wellness Center
+    address: "2001 W Persimmon St, Rogers, AR, 72756, USA"
+    lat: 36.337592
+    lng: -94.147022
+    coords: "0101000000B972F6CE688957C014B2F336362B4240"
+    phone: (479) 631-3333
+    email: null
+    url: "https://rogersar.gov/131/Adult-Wellness-Center"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [food, restrooms, water, wheelchair accessible, lighted]
+    description: null
+    access_details: "Yearly membership, must be 50+ age. Drop in fee: $5"
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/i1KHBCbXTHCKJxjllcDZ"
+        source: user
+        visible: true
+        attribution_url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2019/07/21/192384838_AN-OT-pickleball-004_ORIG_t1000.jpg?cc6fa094ad523b984325c7879220d3883a443e7f"
+        attribution_html: null
+        attribution_name: The Arkansas Democrat-Gazette
+    country_slug: us
+    state_slug: arkansas
+    city_slug: rogers
+    city_id: 1840014444
+    slug: rogers-adult-wellness-center
+    path: /courts/us/arkansas/rogers/rogers-adult-wellness-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T13:01:46.379Z"
+    updated_at: "2023-02-16T03:25:04.088Z"
+    schedule_sources_updated_at: null
+  - id: "94357879-1c51-4279-8cbb-5281d86310bc"
+    title: Rogers First Church of the Nazarene
+    address: "4911 W Pleasant Grove Rd, Rogers, AR, 72758, USA"
+    lat: 36.289145
+    lng: -94.186241
+    coords: "0101000000280B5F5FEB8B57C0A5660FB402254240"
+    phone: "+19137527198"
+    email: null
+    url: "http://www.rogersfirst.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/X8tNs6W9QFeaaUOxl3uI"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115748281257436168032"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115748281257436168032\">Rogers First Church of the Nazarene</a>"
+        attribution_name: Rogers First Church of the Nazarene
+    country_slug: us
+    state_slug: arkansas
+    city_slug: rogers
+    city_id: 1840014444
+    slug: rogers-first-church-of-the-nazarene
+    path: /courts/us/arkansas/rogers/rogers-first-church-of-the-nazarene
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T01:14:52.944Z"
+    updated_at: "2025-02-13T07:49:16.384Z"
+    schedule_sources_updated_at: "2024-05-01T08:05:19.338Z"
+  - id: "39374398-bb83-4105-baff-f2db662dce36"
+    title: Ron Pawley Jr. Sports Complex
+    address: "808 W Main St, Lavaca, Arkansas, USA"
+    lat: 35.3366148
+    lng: -94.1783008
+    coords: "01010000007136C247698B57C0BFAC9A3116AB4140"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/rOA8UeRwOMUrFUX9aQ8g"
+        source: user
+        attribution_url: "https://www.facebook.com/ResidentNewsNetwork/photos/the-city-of-lavaca-arkansas-will-embrace-the-pickleball-sport-craze-with-a-ribbo/1719178058899084/"
+        attribution_html: null
+        attribution_name: Resident News Network
+    country_slug: us
+    state_slug: arkansas
+    city_slug: lavaca
+    city_id: 1840014577
+    slug: ron-pawley-jr-sports-complex
+    path: /courts/us/arkansas/lavaca/ron-pawley-jr-sports-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-03-10T10:54:35.177Z"
+    updated_at: "2026-03-10T10:54:35.177Z"
+    schedule_sources_updated_at: null
+  - id: a378e344-0fc8-4167-a72e-a5df7a3c66e1
+    title: Rover School Gymnasium
+    address: "504 W Main St, Plainview, AR, 72857, USA"
+    lat: 34.988651
+    lng: -93.299616
+    coords: "0101000000EF5696E82C5357C02F14B01D8C7E4140"
+    phone: "4792994537"
+    email: null
+    url: "https://www.greatschools.org/arkansas/plainview/1588-Plainview-Rover-High-School/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/lHqkrZ0USCi2bm0JjlRc"
+        source: user
+        visible: true
+        attribution_url: "http://www.takahik.com/Class%20of%201966/Photograph%20(41)_small.jpg"
+        attribution_html: null
+        attribution_name: Takahik
+    country_slug: us
+    state_slug: arkansas
+    city_slug: plainview
+    city_id: 1840014609
+    slug: rover-school-gymnasium
+    path: /courts/us/arkansas/plainview/rover-school-gymnasium
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T00:43:15.281Z"
+    updated_at: "2022-12-02T06:18:58.981Z"
+    schedule_sources_updated_at: null
+  - id: "36b4d5ed-96d8-48e7-980c-8e5e7d3a443a"
+    title: Rowdy Hog Pickleball
+    address: "Outlets of Little Rock, Bass Pro Parkway, Little Rock, AR, USA"
+    lat: 34.6602619
+    lng: -92.4069774
+    coords: "010100000083CDEFEA0B1A57C0BDA5417683544140"
+    phone: "+15016158286"
+    email: info@rowdyhogpickleball.com
+    url: "https://www.rowdyhogpickleball.com"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms, water, youth, lighted, pro shop, training, wheelchair accessible]
+    description: "Located in the Outlets of Little Rock next to Bass Pro, Rowdy Hog Pickleball: Experience the best in indoor pickleball at Rowdy Hog Pickleball! Our facility boasts four climate-controlled hard surface courts, perfect for year-round play. Enjoy a snack at our bar or shop for the latest paddles and accessories in our retail store, catering to beginners and pros alike. Come play, relax, and gear up with us! Please note: this is a cashless facility."
+    access_details: "Membership is free, pay to play.  Check out website for more details"
+    schedule_details: "https://app.courtreserve.com/Online/Calendar/Events/11415/Month"
+    images:
+      - url: "https://cdn.filestackcontent.com/rcV8Of3oSxGETuChApB3"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/YilGHtCwTGKL5B6bkMTf"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/iO7xs5XSx2hGz7rx4kPN"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/txKEO6fuSCsjSBEMEUhJ"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: arkansas
+    city_slug: little-rock
+    city_id: 1840015509
+    slug: rowdy-hog-pickleball
+    path: /courts/us/arkansas/little-rock/rowdy-hog-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-29T11:49:21.210Z"
+    updated_at: "2024-06-10T10:24:29.906Z"
+    schedule_sources_updated_at: "2024-06-27T19:53:46.146Z"
+  - id: "1d4d6bdc-6114-422d-af93-09968251e200"
+    title: Russellville City Park
+    address: "915 E B St, Russellville, AR, 72801, USA"
+    lat: 35.279511
+    lng: -93.123093
+    coords: "0101000000755776C1E04757C0A6EF3504C7A34140"
+    phone: "4799700378"
+    email: null
+    url: "https://www.facebook.com/River-Valley-Pickleball-113628721998452"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/efFWLe57Q5eW0fsbAof8"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: arkansas
+    city_slug: russellville
+    city_id: 1840014541
+    slug: russellville-city-park
+    path: /courts/us/arkansas/russellville/russellville-city-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T01:44:41.831Z"
+    updated_at: "2022-12-01T16:33:55.757Z"
+    schedule_sources_updated_at: null
+  - id: e4762ecc-0735-4014-a331-f464d1bb70af
+    title: Russellville Soccer Complex
+    address: "901 Lock and Dam Rd, Russellville, AR 72802, United States"
+    lat: 35.2483591
+    lng: -93.1545447
+    coords: "01010000004A11740FE44957C0FE14223BCA9F4140"
+    phone: "4799681272"
+    email: kenealy@rsvlar.org
+    url: "https://russellvillearkansas.org"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: ""
+    access_details: No fees
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/oxVIByqSJymPXsFAUivs"
+        source: user
+        attribution_url: "https://www.facebook.com/photo?fbid=1084117953878743&set=pcb.1084118703878668"
+        attribution_html: null
+        attribution_name: City of Russellville - Recreation and Parks
+      - url: "https://cdn.filestackcontent.com/UbGxGPXoQ8SPahaFTaxt"
+        source: user
+        attribution_url: "https://www.facebook.com/photo?fbid=1084118163878722&set=pcb.1084118703878668"
+        attribution_html: null
+        attribution_name: City of Russellville - Recreation and Parks
+    country_slug: us
+    state_slug: arkansas
+    city_slug: russellville
+    city_id: 1840014541
+    slug: russellville-soccer-complex
+    path: /courts/us/arkansas/russellville/russellville-soccer-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-10-20T06:46:53.761Z"
+    updated_at: "2025-10-20T06:48:53.422Z"
+    schedule_sources_updated_at: null
+  - id: f406bfe4-b4bd-49c3-9194-48743320eb9e
+    title: Searcy County Arkansas Civic Center
+    address: "515 Zack Rd, Marshall, AR, USA"
+    lat: 35.9148255
+    lng: -92.6575041
+    coords: "0101000000199F138C142A57C0FF05820019F54140"
+    phone: null
+    email: null
+    url: "https://searcycountyarkansas.org/attractions/searcy-county-civic-center/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 1
+    total_courts: 3
+    has_pickleball: true
+    surface: [concrete, hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms, water]
+    description: "As of February 2025 the facility has 1 outdoor dedicated pickleball court with permanent net and painted lines, 2 indoor courts with taped lines and portable nets, and two outdoor tennis courts (currently dedicated to tennis).  There are paddles and balls available for free usage from the facility during daytime hours. We plan to add another dedicated outdoor pickleball court in the spring/summer of 2025. This facility also has an outdoor community pool, indoor and outdoor basketball courts, a paved walking/jogging track, playground equipment, a covered pavilion with picnic tables, softball fields, and an area for soccer with permanent goals."
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/LmtL8YYwQe6srIBSE4pD"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/111429066608481827447"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/111429066608481827447\">Wayne Judd</a>"
+        attribution_name: Wayne Judd
+    country_slug: us
+    state_slug: arkansas
+    city_slug: marshall
+    city_id: 1840015352
+    slug: searcy-county-arkansas-civic-center
+    path: /courts/us/arkansas/marshall/searcy-county-arkansas-civic-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-09-12T10:51:42.081Z"
+    updated_at: "2025-02-07T03:39:50.972Z"
+    schedule_sources_updated_at: null
+  - id: "773b88f5-04d5-41f2-9931-c79da67b936b"
+    title: Sheridan Pickleball Court
+    address: "1511 South Rose Street, Sheridan, AR, USA"
+    lat: 34.2941958
+    lng: -92.4187055
+    coords: "0101000000F1492712CC1A57C06ECF3D35A8254140"
+    phone: "8709427000"
+    email: ""
+    url: "https://sheridanark.com"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [acrylic, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/RJNX76MeSH2JwwkzpXx9"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/108178711129166343354"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108178711129166343354\">Mike Langley</a>"
+        attribution_name: Mike Langley
+    country_slug: us
+    state_slug: arkansas
+    city_slug: sheridan
+    city_id: 1840015565
+    slug: sheridan-pickleball-court
+    path: /courts/us/arkansas/sheridan/sheridan-pickleball-court
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-23T13:37:06.296Z"
+    updated_at: "2025-06-23T14:52:04.786Z"
+    schedule_sources_updated_at: null
+  - id: "455655e0-9aa6-4fa7-8037-fa7fa1850851"
+    title: Silver Springs Country Club
+    address: "6301 Trace Creek Rd, Benton, AR, 72015, USA"
+    lat: 34.53038
+    lng: -92.656851
+    coords: "010100000013D6C6D8092A57C0EB39E97DE3434140"
+    phone: "5013151843"
+    email: null
+    url: "https://silverspringscountryclubar.weebly.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: $5 per day open play.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/pzuTvDYfQdSV0vwIDhLF"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113823145517744641561"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113823145517744641561\">Gavagai Run</a>"
+        attribution_name: Gavagai Run
+    country_slug: us
+    state_slug: arkansas
+    city_slug: benton
+    city_id: 1840013572
+    slug: silver-springs-country-club
+    path: /courts/us/arkansas/benton/silver-springs-country-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-21T19:13:19.598Z"
+    updated_at: "2025-08-05T06:45:24.545Z"
+    schedule_sources_updated_at: null
+  - id: d1e659db-4a8d-4015-ab17-f012a440df49
+    title: Springdale Recreation Center
+    address: "1906 Cambridge St, Springdale, AR, 72764, USA"
+    lat: 36.167855
+    lng: -94.151988
+    coords: "01010000009B58E02BBA8957C02CBCCB457C154240"
+    phone: (479) 750-8185
+    email: null
+    url: "https://springdale.recdesk.com/Community/Home"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [lighted, restrooms, training]
+    description: Beginner and Intermediate level classes can be found at this location. Must be scheduled  in advance.
+    access_details: Day pass and memberships available.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/B6ggvACZRvyQWX2GSKuP"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/114111019614559461691"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114111019614559461691\">Vernon Tarver</a>"
+        attribution_name: Vernon Tarver
+    country_slug: us
+    state_slug: arkansas
+    city_slug: springdale
+    city_id: 1840015336
+    slug: springdale-recreation-center
+    path: /courts/us/arkansas/springdale/springdale-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T12:01:44.493Z"
+    updated_at: "2023-10-02T12:12:12.364Z"
+    schedule_sources_updated_at: "2025-01-05T14:13:08.756Z"
+  - id: "8ed61104-6eb6-4baf-a552-81fad43aa76e"
+    title: Stewart Park
+    address: "1102 NE 2nd St, Walnut Ridge, AR 72476, USA"
+    lat: 36.073253
+    lng: -90.9460107
+    coords: "0101000000A18A76708BBC56C0BDAAB35A60094240"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/KLuA32UMRD2wuH2WnK8G"
+        source: user
+        attribution_url: "https://www.facebook.com/photo/?fbid=1282022327295624&set=pcb.1282027633961760"
+        attribution_html: null
+        attribution_name: City of Walnut Ridge Arkansas
+    country_slug: us
+    state_slug: arkansas
+    city_slug: walnut-ridge
+    city_id: 1840015327
+    slug: stewart-park
+    path: /courts/us/arkansas/walnut-ridge/stewart-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-12-16T07:29:24.385Z"
+    updated_at: "2025-12-16T07:29:24.385Z"
+    schedule_sources_updated_at: null
+  - id: ff12c3cf-04c0-4ed2-8321-aa02b663fedd
+    title: Summerhill Racquet and Athletic Club
+    address: "3480 N Summerhill Dr, Fayetteville, AR, 72703, USA"
+    lat: 36.114107
+    lng: -94.139564
+    coords: "0101000000BBECD79DEE8857C0519FE40E9B0E4240"
+    phone: "4795218241"
+    email: null
+    url: "https://www.summerhillrac.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/4OrSz80QGiRShd6nZ5xX"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/104255340251117223012"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/104255340251117223012\">Mike Fesler</a>"
+        attribution_name: Mike Fesler
+    country_slug: us
+    state_slug: arkansas
+    city_slug: fayetteville
+    city_id: 1840013368
+    slug: summerhill-racquet-and-athletic-club
+    path: /courts/us/arkansas/fayetteville/summerhill-racquet-and-athletic-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-23T02:01:06.582Z"
+    updated_at: "2022-12-03T05:47:42.439Z"
+    schedule_sources_updated_at: null
+  - id: efe3e7c5-7b96-48f8-a588-e732ea4b9369
+    title: The Athletic Clubs
+    address: "4610 SAM PECK RD. , LITTLE ROCK, AR 72223, USA"
+    lat: 34.7945745
+    lng: -92.4157446
+    coords: "0101000000451F3D8F9B1A57C027DE019EB4654140"
+    phone: "+15012253600"
+    email: null
+    url: "https://lrac.com/pickleball/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 8
+    outdoor_courts: 4
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, lighted, pro shop, food, water, wheelchair accessible, training, locker rooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/W2vTPNSRUMNsNmq1CJtg"
+        source: user
+        visible: true
+        attribution_url: "https://lrac.com/site/assets/files/7345/pickleball_league_little_rock.jpg"
+        attribution_html: null
+        attribution_name: The Athletic Clubs
+      - url: "https://cdn.filestackcontent.com/Ai0PER0SlGcc3sETazAE"
+        source: user
+        visible: true
+        attribution_url: "https://lrac.com/site/assets/files/10669/21_lrrc_pickleballsocial_2.jpg"
+        attribution_html: null
+        attribution_name: The Athletic Clubs
+    country_slug: us
+    state_slug: arkansas
+    city_slug: little-rock
+    city_id: 1840015509
+    slug: the-athletic-clubs
+    path: /courts/us/arkansas/little-rock/the-athletic-clubs
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-07-20T01:54:33.881Z"
+    updated_at: "2024-03-12T03:12:33.977Z"
+    schedule_sources_updated_at: null
+  - id: d8581f1d-fd9f-44a1-803c-92de33a07fce
+    title: The Center At Bishop Park
+    address: "6401 Boone Rd, Bryant, AR, 72022, USA"
+    lat: 34.5918
+    lng: -92.514125
+    coords: "010100000096438B6CE72057C0EBE2361AC04B4140"
+    phone: ""
+    email: null
+    url: "https://www.cityofbryant.com/pages/departments/parks/facilities.php"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 5
+    outdoor_courts: 0
+    total_courts: 5
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/C73DhaGR4ufrO1ef3fjr"
+        source: user
+        visible: true
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipM2mea0dXa1LR8KWo505QCON5Qxr0ZwKR-3ufG8=s680-w680-h510"
+        attribution_html: null
+        attribution_name: Keri Klontz
+    country_slug: us
+    state_slug: arkansas
+    city_slug: bryant
+    city_id: 1840013573
+    slug: the-center-at-bishop-park
+    path: /courts/us/arkansas/bryant/the-center-at-bishop-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T07:04:39.296Z"
+    updated_at: "2024-05-20T21:11:26.837Z"
+    schedule_sources_updated_at: null
+  - id: "38577865-67c4-4fcd-861d-814224dd0398"
+    title: The Court House
+    address: "111 County Road 27, Mountain Home, AR, USA"
+    lat: 36.3523209
+    lng: -92.400688
+    coords: "010100000094F947DFA41957C04199EBD9182D4240"
+    phone: "+18702704270"
+    email: thetennisclubmh@gmail.com
+    url: "https://mobileapp.courtreserve.com/Online/Portal/Index/17312"
+    reservation_url: "https://mobileapp.courtreserve.com/Online/Portal/Index/17312"
+    facility_type: null
+    access: needs-audit
+    has_reservations: true
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: tape
+    nets: portable
+    amenities: [restrooms, water, youth, lighted, training]
+    description: ""
+    access_details: "$5 for Drop Ins, or Free With $25/mo Pickleball Membership. Members and Non-Members may book courts!"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/cN4UVczNQrWPu7cRwUsv"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: arkansas
+    city_slug: mountain-home
+    city_id: 1840014452
+    slug: the-court-house
+    path: /courts/us/arkansas/mountain-home/the-court-house
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-01-19T10:42:47.422Z"
+    updated_at: "2026-04-21T08:44:52.330Z"
+    schedule_sources_updated_at: "2026-03-17T17:30:33.365Z"
+  - id: d396d86e-a84e-420f-b898-3dbb359cad53
+    title: The Grove Entertainment Complex
+    address: "808 S Bloomington St, Lowell, AR, 72745, USA"
+    lat: 36.240713
+    lng: -94.137534
+    coords: "0101000000A305685BCD8857C06C5CFFAECF1E4240"
+    phone: (479) 347-4966
+    email: null
+    url: "http://www.thegrovecomedy.com/"
+    reservation_url: null
+    facility_type: private
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: [food, restrooms]
+    description: ""
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/JLeMmC9T8ujsoeD38ZKm"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/0bGvJ0fuQCmuoEI6Og3v"
+        source: user
+        visible: true
+        attribution_url: "https://www.ozarkpickleball.com/uploads/1/3/3/5/133547360/published/e47d02d9-a6d6-4276-b631-7b2619cccf1c.jpeg?250"
+        attribution_html: null
+        attribution_name: Ozark Pickleball
+    country_slug: us
+    state_slug: arkansas
+    city_slug: lowell
+    city_id: 1840015285
+    slug: the-grove-entertainment-complex
+    path: /courts/us/arkansas/lowell/the-grove-entertainment-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-23T13:15:45.109Z"
+    updated_at: "2025-07-07T06:06:08.261Z"
+    schedule_sources_updated_at: null
+  - id: "9ef94cda-0be4-478e-8abc-4b96e50b5960"
+    title: The Hangout Fitness and Sports
+    address: "5400 Gary St, Fort Smith, AR, 72903, USA"
+    lat: 35.34865
+    lng: -94.372697
+    coords: "01010000004F948444DA9757C00DE02D90A0AC4140"
+    phone: "4794524031"
+    email: null
+    url: "https://www.thehangoutfs.com"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: true
+    indoor_courts: 10
+    outdoor_courts: 2
+    total_courts: 12
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms, water]
+    description: ""
+    access_details: "$12/1.5 hr court fee for indoor\nNo fee for outdoor court"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Hbuposy5QwmfuvJ5hXgE"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/114471228382716436131"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114471228382716436131\">Fort Smith Athletic Club</a>"
+        attribution_name: Fort Smith Athletic Club
+      - url: "https://cdn.filestackcontent.com/BL3KtPljRJenl460lgvA"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: arkansas
+    city_slug: fort-smith
+    city_id: 1840013456
+    slug: the-hangout-fitness-and-sports
+    path: /courts/us/arkansas/fort-smith/the-hangout-fitness-and-sports
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T17:44:17.163Z"
+    updated_at: "2024-03-04T08:38:23.977Z"
+    schedule_sources_updated_at: null
+  - id: "08d295ee-0989-4198-9eb0-2acc9feb6279"
+    title: The Jones Center
+    address: "922 E Emma Ave, Springdale, AR 72764, USA"
+    lat: 36.1868343
+    lng: -94.1195458
+    coords: "0101000000F2576DA3A68757C0B222B42FEA174240"
+    phone: "+14797568090"
+    email: null
+    url: "https://www.thejonescenter.net/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [lighted, restrooms, water, training]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Laq9aSrLSyejY4Y6zai3"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113441551705098623018"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113441551705098623018\">Ethan Shoe</a>"
+        attribution_name: Ethan Shoe
+    country_slug: us
+    state_slug: arkansas
+    city_slug: springdale
+    city_id: 1840015336
+    slug: the-jones-center
+    path: /courts/us/arkansas/springdale/the-jones-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-23T11:41:08.440Z"
+    updated_at: "2025-06-04T08:52:56.868Z"
+    schedule_sources_updated_at: null
+  - id: "4057b8d5-8198-40c0-8b3b-079506d93c4c"
+    title: The River Center at Riverside Park
+    address: "1800 Citizens Dr, Benton, AR, 72015, USA"
+    lat: 34.557409
+    lng: -92.606778
+    coords: "0101000000AB7B6473D52657C07FBF982D59474140"
+    phone: "5016074038"
+    email: null
+    url: "https://www.bentonar.org/departments/parksrec"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/AuL5mls0S2LUu7lPxg2g"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/109326964548161363462"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/109326964548161363462\">Brenda George</a>"
+        attribution_name: Brenda George
+    country_slug: us
+    state_slug: arkansas
+    city_slug: benton
+    city_id: 1840013572
+    slug: the-river-center-at-riverside-park
+    path: /courts/us/arkansas/benton/the-river-center-at-riverside-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T23:20:54.017Z"
+    updated_at: "2022-12-02T00:21:55.278Z"
+    schedule_sources_updated_at: null
+  - id: a071f69a-f817-4ff6-bcbc-b4abdb6bdd4b
+    title: The Trim Gym Pickleball
+    address: "1916 Race St, Jonesboro, AR 72401, USA"
+    lat: 35.8147246
+    lng: -90.6837626
+    coords: "0101000000964E35C4C2AB56C0931F4CE548E84140"
+    phone: "+18709320140"
+    email: null
+    url: "https://thetrimgym.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, locker rooms, restrooms, water, training, food]
+    description: ""
+    access_details: $15 - Guest Day Pass
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/INnhauY0Qpa7e6V2iG4P"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: arkansas
+    city_slug: jonesboro
+    city_id: 1840014507
+    slug: the-trim-gym-pickleball
+    path: /courts/us/arkansas/jonesboro/the-trim-gym-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-04-10T15:36:57.617Z"
+    updated_at: "2024-11-19T08:42:57.131Z"
+    schedule_sources_updated_at: "2024-11-19T08:42:56.489Z"
+  - id: "190e2c6c-fac2-4353-a158-3386c74e7d70"
+    title: Thornhill
+    address: "2199 E Kiehl Ave, Sherwood, AR 72120, USA"
+    lat: 34.8332078
+    lng: -92.20932429999999
+    coords: "010100000084B0BF91650D57C0D4E29D8DA66A4140"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/63J6i1uvScSDyICSAJXx"
+    country_slug: us
+    state_slug: arkansas
+    city_slug: sherwood
+    city_id: 1840015511
+    slug: thornhill
+    path: /courts/us/arkansas/sherwood/thornhill
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-10-03T09:44:36.122Z"
+    updated_at: "2024-10-03T09:45:19.843Z"
+    schedule_sources_updated_at: null
+  - id: "070d5dec-1995-4bec-97ac-d5f1af129313"
+    title: Twin Oaks Pickleball
+    address: "4015 Hwy 7, Bismarck, AR 71929"
+    lat: 34.280405
+    lng: -93.159821
+    coords: "0101000000B20DDC813A4A57C04451A04FE4234140"
+    phone: "+18702465776"
+    email: twinoakspickleball@gmail.com
+    url: "https://twinoakspickleball.com"
+    reservation_url: "http://www.twinoakspickleball.com"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 1
+    outdoor_courts: 4
+    total_courts: 5
+    has_pickleball: true
+    surface: [asphalt, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, training, restrooms, youth]
+    description: ""
+    access_details: Indoor is a 2 hour rental at $40.  Outdoor is currently free but will be $5 drop in fee in the future.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/IsbgEqwFTr6PfmxLjvSS"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Doug Turner
+      - url: "https://cdn.filestackcontent.com/Hn62jnySuewG7m841b8b"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Doug Turner
+      - url: "https://cdn.filestackcontent.com/nkz916zYSOG4il9wLhx7"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Doug Turner
+      - url: "https://cdn.filestackcontent.com/lXNhgYVxR2ypAtv4lZ9d"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/108183340338934190786"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108183340338934190786\">Heath Watson</a>"
+        attribution_name: Heath Watson
+    country_slug: us
+    state_slug: arkansas
+    city_slug: bismarck
+    city_id: 1840027707
+    slug: twin-oaks-pickleball
+    path: /courts/us/arkansas/bismarck/twin-oaks-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-10-01T08:57:06.804Z"
+    updated_at: "2025-10-02T12:44:29.819Z"
+    schedule_sources_updated_at: null
+  - id: "59437d0a-162e-41c4-b34a-112984f4f297"
+    title: UA Rich Mountain Community College
+    address: "1100 College Drive, Morrow Street Entrance, Mena, AR 71953, USA"
+    lat: 34.5910476
+    lng: -94.22028069999999
+    coords: "0101000000289C3814198E57C08D30A072A74B4140"
+    phone: "+14793947622"
+    email: null
+    url: "https://www.uarichmountain.edu/index.html"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: Courts under construction. Will be open on November 2023.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/c7B1J6tR9WbTMjydAQqw"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/104670714921715420860"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/104670714921715420860\">Michael Handy</a>"
+        attribution_name: Michael Handy
+    country_slug: us
+    state_slug: arkansas
+    city_slug: mena
+    city_id: 1840015549
+    slug: ua-rich-mountain-community-college
+    path: /courts/us/arkansas/mena/ua-rich-mountain-community-college
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-22T07:24:51.586Z"
+    updated_at: "2023-08-22T07:24:51.586Z"
+    schedule_sources_updated_at: null
+  - id: "5ab35f3a-e721-4624-891a-d8bc3d4f7de3"
+    title: UARK UREC Tennis Center
+    address: "1357 Indian Trail, Fayetteville, AR 72701, United States"
+    lat: 36.0555999
+    lng: -94.1789153
+    coords: "010100000042902859738B57C09714C4E51D074240"
+    phone: null
+    email: null
+    url: "https://urec.uark.edu/facilities/urec-tennis-center/"
+    reservation_url: "https://urecmembers.uark.edu/"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 12
+    total_courts: 12
+    has_pickleball: true
+    surface: [asphalt]
+    lines: temporary
+    nets: tennis
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: Can pay a one time cost
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/U0SwihDMTXuQ1H0G5jmJ"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: UREC Tennis Center
+    country_slug: us
+    state_slug: arkansas
+    city_slug: fayetteville
+    city_id: 1840013368
+    slug: uark-urec-tennis-center
+    path: /courts/us/arkansas/fayetteville/uark-urec-tennis-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-10-15T06:03:31.651Z"
+    updated_at: "2025-10-15T06:04:49.456Z"
+    schedule_sources_updated_at: null
+  - id: "91fe46a6-1668-4de8-9754-d4c643ee8fd4"
+    title: Upward Fitness
+    address: "20894 Oak Ridge Road, Siloam Springs, AR, USA"
+    lat: 36.1439588
+    lng: -94.49985629999999
+    coords: "0101000000C54C47A5FD9F57C057FCF03D6D124240"
+    phone: "+14795497654"
+    email: erikleetch@myupwardfitness.com
+    url: "https://www.myupwardfitness.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: tape
+    nets: portable
+    amenities: [lighted, restrooms, water, training, food]
+    description: ""
+    access_details: $35/month or drop in with member $12
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/spxqkJvPR7y0fh5lGtGv"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/k1ggNUNCSLO7JK5Jm9Fq"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/lATH6rTtShG6m2zCPNIF"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: arkansas
+    city_slug: siloam-springs
+    city_id: 1840015288
+    slug: upward
+    path: /courts/us/arkansas/siloam-springs/upward
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-11-13T09:57:32.251Z"
+    updated_at: "2023-11-13T09:58:57.518Z"
+    schedule_sources_updated_at: null
+  - id: eace5da4-ed1a-4c6e-b3c3-c826afe29e75
+    title: Van Zandt Park
+    address: "22 Crape Myrtle Road, Van Buren, AR, USA"
+    lat: 35.4493199
+    lng: -94.32639520000001
+    coords: "01010000009264B1A8E39457C093F8815083B94140"
+    phone: "+14794715006"
+    email: null
+    url: "https://www.vanburencity.org/223/Van-Zandt-Park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/KqZELUe3Skektw79Gxwi"
+        visible: true
+    country_slug: us
+    state_slug: arkansas
+    city_slug: van-buren
+    city_id: 1840015397
+    slug: van-zandt-park
+    path: /courts/us/arkansas/van-buren/van-zandt-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-02-26T10:50:13.289Z"
+    updated_at: "2024-02-26T10:51:13.536Z"
+    schedule_sources_updated_at: null
+  - id: "44c743f7-4c9f-4ba4-b762-1d770f9de47d"
+    title: Veterans Park
+    address: "500 East Veterans Parkway, Rogers, AR 72756, USA"
+    lat: 36.3181808
+    lng: -94.11054840000001
+    coords: "010100000003A89839138757C0891B0126BA284240"
+    phone: null
+    email: null
+    url: "https://rogersar.gov/Facilities/Facility/Details/Veterans-Memorial-Park-25"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/VZ2EgU09TGiFLiPbdiP5"
+    country_slug: us
+    state_slug: arkansas
+    city_slug: rogers
+    city_id: 1840014444
+    slug: veterans-park
+    path: /courts/us/arkansas/rogers/veterans-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-06-23T07:01:06.930Z"
+    updated_at: "2026-06-23T07:05:56.424Z"
+    schedule_sources_updated_at: null
+  - id: "3de18487-b6c3-40d5-b961-a8581f0e6849"
+    title: Veterans Park Community Center
+    address: "508 N Lincoln St, Cabot, AR 72023, USA"
+    lat: 34.9757445
+    lng: -92.00930249999999
+    coords: "010100000058518369980057C03D601E32E57C4140"
+    phone: "5016051506"
+    email: null
+    url: "https://cabotparks.com/213/Rates"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: $5 per person daily pass
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/1rHGGkJrRzyMWUQQN4oV"
+        source: user
+        visible: true
+        attribution_url: "https://www.cabotparks.com/ImageRepository/Document?documentId=363"
+        attribution_html: null
+        attribution_name: Cabot Parks
+    country_slug: us
+    state_slug: arkansas
+    city_slug: cabot
+    city_id: 1840013530
+    slug: veterans-park-community-center
+    path: /courts/us/arkansas/cabot/veterans-park-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T15:37:04.671Z"
+    updated_at: "2025-06-10T08:04:42.577Z"
+    schedule_sources_updated_at: null
+  - id: c9bd2978-0e9c-430e-bdd5-1d83a1840405
+    title: Vulcan Pickleball Park
+    address: "736 Mid America Blvd, Hot Springs National Park, AR, 71913, USA"
+    lat: 34.52036
+    lng: -93.122709
+    coords: "0101000000317BD976DA4757C0C2120F289B424140"
+    phone: "5017606888"
+    email: null
+    url: "https://vulcansportinggoods.com/pages/vulcan-pickleball-park"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: Closed currently
+    images:
+      - url: "https://cdn.filestackcontent.com/ZqJH7SwBQWi5GhzxjphP"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/111955762438702469682"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/111955762438702469682\">NC Craven</a>"
+        attribution_name: NC Craven
+      - url: "https://cdn.filestackcontent.com/lJSBLMevTQSRm0aL9pJo"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/111955762438702469682"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/111955762438702469682\">NC Craven</a>"
+        attribution_name: NC Craven
+      - url: "https://cdn.filestackcontent.com/CMXAyRVAQoSHKcH4uzWo"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: arkansas
+    city_slug: hot-springs
+    city_id: 1840014670
+    slug: vulcan-pickleball-park
+    path: /courts/us/arkansas/hot-springs/vulcan-pickleball-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-29T11:42:05.766Z"
+    updated_at: "2026-03-23T06:45:48.355Z"
+    schedule_sources_updated_at: null
+  - id: cb848896-fc04-4bd3-90b7-d02a9fff0bf1
+    title: Walnut Ridge High School
+    address: "508 E Free St, Walnut Ridge, AR, 72476, USA"
+    lat: 36.06296
+    lng: -90.956601
+    coords: "01010000008A9466F338BD56C0637AC2120F084240"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: null
+    outdoor_courts: null
+    total_courts: 0
+    has_pickleball: true
+    surface: [wood]
+    lines: null
+    nets: byo
+    amenities: [restrooms, water, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images: []
+    country_slug: us
+    state_slug: arkansas
+    city_slug: walnut-ridge
+    city_id: 1840015327
+    slug: walnut-ridge-high-school
+    path: /courts/us/arkansas/walnut-ridge/walnut-ridge-high-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-10T20:16:41.263Z"
+    updated_at: "2022-04-10T20:16:41.263Z"
+    schedule_sources_updated_at: null
+  - id: d566cea9-c9fd-4e55-846c-b84025c5754e
+    title: Walton Family Whole Health & Fitness
+    address: "1400 SE 5th Street, Bentonville, AR, United States, AR, USA"
+    lat: 36.3668651
+    lng: -94.19334119999999
+    coords: "01010000000ABEC4B35F8C57C09A45836FF52E4240"
+    phone: null
+    email: wholehealth@walmart.com
+    url: "https://www.facebook.com/waltonfamilywholehealthandfitness/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 8
+    outdoor_courts: 4
+    total_courts: 12
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [food, locker rooms, restrooms, water, lighted, training, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/HRRYtNCfR6GDp72wtnNu"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/108973478638473430229"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108973478638473430229\">Bryson Shepherd</a>"
+        attribution_name: Bryson Shepherd
+    country_slug: us
+    state_slug: arkansas
+    city_slug: bentonville
+    city_id: 1840013319
+    slug: walton-family-whole-health-and-fitness
+    path: /courts/us/arkansas/bentonville/walton-family-whole-health-and-fitness
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-01-25T09:56:26.608Z"
+    updated_at: "2025-08-20T06:41:50.187Z"
+    schedule_sources_updated_at: null
+  - id: "62e79bd8-5e50-4410-a940-03680c75f060"
+    title: Warehouse Pickleball
+    address: "1601 Wilbur D Mills Avenue, Kensett, AR, USA"
+    lat: 35.2451142
+    lng: -91.67768819999999
+    coords: "0101000000A5F8533E5FEB56C08264F0E65F9F4140"
+    phone: "+16152435410"
+    email: warehousepickleballar@gmail.com
+    url: "https://www.warehousepickleballar.com"
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [pro shop, water, restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/e26XzVkRQhidJkb82Z1x"
+    country_slug: us
+    state_slug: arkansas
+    city_slug: kensett
+    city_id: 1840014555
+    slug: warehouse-pickleball
+    path: /courts/us/arkansas/kensett/warehouse-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-03-04T04:56:50.206Z"
+    updated_at: "2025-03-04T05:06:30.285Z"
+    schedule_sources_updated_at: null
+  - id: "74fc8f2f-f43b-4335-bf61-e603b22166b7"
+    title: Youth Center Cooper Park
+    address: "1101 Spring St, Mountain Home, AR, 72653, USA"
+    lat: 36.34354
+    lng: -92.365782
+    coords: "0101000000CADDE7F8681757C0156F641EF92B4240"
+    phone: "8704249311"
+    email: null
+    url: "https://www.facebook.com/groups/518233698300843/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 1
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/UdjMJjUSdCjoeqUezxd7"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/arZDe3CQQnOkuBTyRYmv"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/101089005385487923427"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101089005385487923427\">foxalbiazul</a>"
+        attribution_name: foxalbiazul
+    country_slug: us
+    state_slug: arkansas
+    city_slug: mountain-home
+    city_id: 1840014452
+    slug: youth-center-cooper-park
+    path: /courts/us/arkansas/mountain-home/youth-center-cooper-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T13:27:19.113Z"
+    updated_at: "2022-12-02T03:01:14.705Z"
+    schedule_sources_updated_at: null

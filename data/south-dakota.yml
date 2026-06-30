@@ -1,0 +1,2400 @@
+state: South Dakota
+state_slug: south-dakota
+country: us
+court_count: 55
+scraped_at: "2026-06-30T05:22:32.424Z"
+source: pickleheads.com misc.search API
+courts:
+  - id: "5eb94ec1-e373-49f8-b320-f9855b2f859e"
+    title: Aberdeen YMCA
+    address: "5 State St S, Aberdeen, SD, 57401, USA"
+    lat: 45.464698
+    lng: -98.478023
+    coords: "010100000017EFC7ED979E58C020425C397BBB4640"
+    phone: "6052254910"
+    email: null
+    url: "http://www.aberdeenymca.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/WSGJNbuxR66fkkoyTZW3"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo.php?fbid=464548029040909&set=pb.100064571474457.-2207520000.&type=3"
+        attribution_html: null
+        attribution_name: Aberdeen Family YMCA
+      - url: "https://cdn.filestackcontent.com/MMPKMrkZRGSGR24ViEN3"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115384023622666250875"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115384023622666250875\">Gary St</a>"
+        attribution_name: Gary St
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: aberdeen
+    city_id: 1840002032
+    slug: aberdeen-ymca
+    path: /courts/us/south-dakota/aberdeen/aberdeen-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-31T21:20:17.374Z"
+    updated_at: "2023-01-04T06:44:45.569Z"
+    schedule_sources_updated_at: null
+  - id: e6e6d9ee-6d34-4543-9e6d-7600879a2cd2
+    title: Archery Center
+    address: "800 Archery Ln, Yankton, SD, 57078, USA"
+    lat: 42.875809
+    lng: -97.363854
+    coords: "010100000034A14962495758C06F4562821A704540"
+    phone: "6052609282"
+    email: info@neyac.org
+    url: "https://www.neyac.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/KyoDjXOzR8WSJuf6AJFk"
+        source: user
+        visible: true
+        attribution_url: "https://www.neyac.org/copy-of-pickleball"
+        attribution_html: null
+        attribution_name: Archery Center
+      - url: "https://cdn.filestackcontent.com/KQuZXheMSDevSMJo1NZ4"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/112138204400612452377"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112138204400612452377\">Zeke Hanson</a>"
+        attribution_name: Zeke Hanson
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: yankton
+    city_id: 1840003058
+    slug: archery-center
+    path: /courts/us/south-dakota/yankton/archery-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T05:50:22.076Z"
+    updated_at: "2023-10-18T00:15:57.818Z"
+    schedule_sources_updated_at: null
+  - id: "8fda226a-8728-42a3-b97a-5fffa76dd9d0"
+    title: Avera Human Performance Center
+    address: "6800 S Louise Ave, Sioux Falls, SD, 57108, USA"
+    lat: 43.483755
+    lng: -96.76606
+    coords: "010100000085B18520073158C0642310AFEBBD4540"
+    phone: null
+    email: null
+    url: "https://www.avera.org/news-media/news/2023/pickleball-complex-opens/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 12
+    total_courts: 18
+    has_pickleball: true
+    surface: [hard, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms, wheelchair accessible]
+    description: ""
+    access_details: Indoor court is $30 a month to play.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/SrtNdNf8T8eT5s3y47N9"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115387193201136875675"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115387193201136875675\">Joshua R</a>"
+        attribution_name: Joshua R
+      - url: "https://cdn.filestackcontent.com/tLScRje0TZ6ONExNN5tH"
+        source: user
+        visible: true
+        attribution_url: "https://www.experiencesiouxfalls.com/general-uploads/_1200x630_crop_center-center_82_none/Linda-Erickson-Pickleball-Complex.jpg?mtime=1684964411"
+        attribution_html: null
+        attribution_name: Experience Sioux Fall
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: sioux-falls
+    city_id: 1840002648
+    slug: avera-human-performance-center
+    path: /courts/us/south-dakota/sioux-falls/avera-human-performance-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T22:41:00.924Z"
+    updated_at: "2024-04-29T07:11:40.160Z"
+    schedule_sources_updated_at: null
+  - id: "5d9c4735-b78b-4a20-85b3-b88d5937e4df"
+    title: Boys & Girls Club of the Capital Area
+    address: "110 South Ree Street, Pierre, SD, USA"
+    lat: 44.3632876
+    lng: -100.3441319
+    coords: "0101000000A900CE41061659C06B854435802E4640"
+    phone: null
+    email: ""
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: pierre
+    city_id: 1840000313
+    slug: boys-and-girls-club-of-the-capital-area
+    path: /courts/us/south-dakota/pierre/boys-and-girls-club-of-the-capital-area
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-06T13:54:22.086Z"
+    updated_at: "2024-05-06T13:54:22.086Z"
+    schedule_sources_updated_at: null
+  - id: "0781336f-d817-4751-bcca-53d3bbc50721"
+    title: Butler Park
+    address: "1212 Canton Ave, Hot Springs, SD 57747, USA"
+    lat: 43.4267427
+    lng: -103.4763091
+    coords: "010100000061D229D97BDE59C043273A819FB64540"
+    phone: ""
+    email: hsapickleball@gmail.com
+    url: "https://www.facebook.com/groups/hsapickleball"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: "Recently resurfaced in May 2024 to include 3- permanent Pickleball Courts, and 1 -Tennis court with Pickleball lines and painted kitchen.  Courts are surfaced with Picklemaster by Sportmaster Acrylic over top of Asphalt.  Court resurfacing brought to you by partnership of the local Pickleball Club and the City of Hot Springs.   No official scheduled play times."
+    access_details: Free
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/MJ7qACAaR8an2SpvNvbg"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: "Hot Springs Area Pickleball Club "
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: hot-springs
+    city_id: 1840002868
+    slug: butler-park
+    path: /courts/us/south-dakota/hot-springs/butler-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-05T09:14:44.096Z"
+    updated_at: "2024-06-17T09:50:59.805Z"
+    schedule_sources_updated_at: null
+  - id: "2103b9a2-e4d8-4cdd-a826-2e45fd9ab20c"
+    title: Canyon Lake Activity Center
+    address: "2900 Canyon Lake Dr, Rapid City, SD, 57702, USA"
+    lat: 44.07739
+    lng: -103.268201
+    coords: "01010000004AF086342AD159C0CB845FEAE7094640"
+    phone: ""
+    email: null
+    url: "http://www.canyonlakecenter.com/"
+    reservation_url: null
+    facility_type: private
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 6
+    total_courts: 9
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Kf8QRuveQf6KhvHyoHsm"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/108394184137721567417"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108394184137721567417\">Canyon Lake Activity Center</a>"
+        attribution_name: Canyon Lake Activity Center
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: rapid-city
+    city_id: 1840002180
+    slug: canyon-lake-activity-center
+    path: /courts/us/south-dakota/rapid-city/canyon-lake-activity-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-05T05:56:21.347Z"
+    updated_at: "2025-04-24T11:11:55.763Z"
+    schedule_sources_updated_at: null
+  - id: "1fbc3302-df7f-4d0c-971b-7150c4b45b95"
+    title: Center For Active Generations
+    address: "2300 W 46th St, Sioux Falls, SD, 57105, USA"
+    lat: 43.511051
+    lng: -96.754765
+    coords: "010100000097CADB114E3058C047CB811E6AC14540"
+    phone: "6053366722"
+    email: null
+    url: "http://www.activegenerations.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/p01tnmxRT2W0g1y1UqIw"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/117070453778907652174"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117070453778907652174\">George Larson II</a>"
+        attribution_name: George Larson II
+      - url: "https://cdn.filestackcontent.com/F4Q8BIbWRLKUIgzYib5g"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115662352307254073575"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115662352307254073575\">Active Generations</a>"
+        attribution_name: Active Generations
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: sioux-falls
+    city_id: 1840002648
+    slug: center-for-active-generations
+    path: /courts/us/south-dakota/sioux-falls/center-for-active-generations
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-30T16:31:25.517Z"
+    updated_at: "2023-01-04T04:14:29.858Z"
+    schedule_sources_updated_at: null
+  - id: "77a811c2-866d-43e2-bdbf-944a56168767"
+    title: City Armory
+    address: "612 N Main St, Mitchell, SD, 57301, USA"
+    lat: 43.714644
+    lng: -98.025515
+    coords: "0101000000ADA3AA09A28158C02D24607479DB4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/WEkFaWQURbo3SBazV78p"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: City Hall
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: mitchell
+    city_id: 1840002642
+    slug: city-armory
+    path: /courts/us/south-dakota/mitchell/city-armory
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T00:10:00.449Z"
+    updated_at: "2023-07-27T08:04:59.902Z"
+    schedule_sources_updated_at: null
+  - id: "33e4f675-91ec-43f6-9481-e6c218ea2381"
+    title: Crooks City Park
+    address: "410 Park Dr, Crooks, SD, 57020, USA"
+    lat: 43.65733
+    lng: -96.806952
+    coords: "0101000000465C001AA53358C00057B26323D44540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [concrete, asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/dT2zwESKSgqjU95wiCms"
+        source: user
+        visible: true
+        attribution_url: "https://m.facebook.com/photo.php?fbid=2467541230002084&id=990526034370285&set=a.1041493902606831&source=48&eav=AfZw7ZLG4i1c4oaHbpGzM-r0NpkKSv1mED2H2ZgABN7hmqFX8JicBWaIB4CjG32E1vA&paipv=0"
+        attribution_html: null
+        attribution_name: "City of Crooks, SD"
+      - url: "https://cdn.filestackcontent.com/AmVkAdGEQPu9oqKMhP4l"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/71051079_2467541236668750_7263447428827709440_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFhdV7H80qy9_2RSGmWi4PAecNbiMOvA2B5w1uIw68DYOIUmCXCzx9dhcu7i-Pg8GVT21Ow_080a5HspvHsRcFL&_nc_ohc=NP82Nip_8NQAX9hOPQH&_nc_ht=scontent-lax3-2.xx&oh=00_AfASN7FJZhvNgpiz0qsCh683mVclBsvkt-cYOn8HFLFTXg&oe=64781DDB"
+        attribution_html: null
+        attribution_name: "City of Crooks, SD"
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: crooks
+    city_id: 1840000340
+    slug: crooks-city-park
+    path: /courts/us/south-dakota/crooks/crooks-city-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-14T21:54:04.083Z"
+    updated_at: "2024-03-25T07:12:34.928Z"
+    schedule_sources_updated_at: null
+  - id: "5e71888e-81ce-4bce-a936-9d0f10637aa2"
+    title: Custer YMCA
+    address: "644 Crook St, Custer, SD 57730, USA"
+    lat: 43.7677136
+    lng: -103.5980928
+    coords: "010100000047FE052747E659C0E358727044E24540"
+    phone: "+16056735134"
+    email: connie@rcymca.org
+    url: "https://rcymca.org/locations/custer-ymca/custer-ymca/"
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: true
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [lighted, water, restrooms, locker rooms]
+    description: ""
+    access_details: Drop in fee for $10
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/N9bBxz0Q9aeOtuuSB4RM"
+        source: user
+        visible: true
+        attribution_url: "https://rcymca.org/locations/custer-ymca/custer-ymca/"
+        attribution_html: null
+        attribution_name: Custer YMCA
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: custer
+    city_id: 1840000337
+    slug: custer-ymca
+    path: /courts/us/south-dakota/custer/custer-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T03:28:26.672Z"
+    updated_at: "2024-09-11T10:28:40.324Z"
+    schedule_sources_updated_at: "2024-09-10T19:46:57.186Z"
+  - id: "340bd797-2bae-4700-b4a0-b5044a1d276d"
+    title: Deadwood Recreation Center
+    address: "105 Sherman St, Deadwood, SD, 57732, USA"
+    lat: 44.373847
+    lng: -103.72816
+    coords: "01010000005890662C9AEE59C0965AEF37DA2F4640"
+    phone: "6055783729"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/gbY7NFS5SL2yRS9YgnEc"
+        source: user
+        visible: true
+        attribution_url: "https://m.facebook.com/347327789934/photos/pb.100057324683924.-2207520000./428511829934/?type=3&source=42&paipv=0&eav=AfZ0OlvK0fGZN6zgMaoQwilCy2IZiA-eGZ07NKPzhp-kXRFDwGkQ4DNx6jHtbGzp4wU"
+        attribution_html: null
+        attribution_name: Deadwood Recreation Center
+      - url: "https://cdn.filestackcontent.com/kkwRKl39SJYSNQ6phmYK"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/112223631984941128300"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112223631984941128300\">Scott Crisman Sworts</a>"
+        attribution_name: Scott Crisman Sworts
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: deadwood
+    city_id: 1840000312
+    slug: deadwood-recreation-center
+    path: /courts/us/south-dakota/deadwood/deadwood-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-26T00:51:07.063Z"
+    updated_at: "2023-01-04T05:23:39.918Z"
+    schedule_sources_updated_at: null
+  - id: ed902f3d-a7a2-45b6-be88-7070484a6424
+    title: Flynn Park
+    address: "999-947 E Virgil Ave, Milbank, SD 57252, USA"
+    lat: 45.22175619999999
+    lng: -96.6245247
+    coords: "0101000000D4827236F82758C0B457D581629C4640"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: ""
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/9D1Dgm8fQFpRA6pk0GWA"
+        source: user
+        visible: true
+        attribution_url: "https://www.milbanksd.com/wp-content/uploads/2021/10/Pickleball.jpg"
+        attribution_html: null
+        attribution_name: City of Milbank
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: milbank
+    city_id: 1840002099
+    slug: flynn-park
+    path: /courts/us/south-dakota/milbank/flynn-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-16T08:34:34.276Z"
+    updated_at: "2023-08-16T08:38:32.426Z"
+    schedule_sources_updated_at: null
+  - id: "014f7638-1c0c-45e1-b838-15e867125c7a"
+    title: Greatlife Golf And Fitness At Woodlake
+    address: "4800 S Tennis Ln, Sioux Falls, SD, 57106, USA"
+    lat: 43.501888
+    lng: -96.76802
+    coords: "010100000022AB5B3D273158C09F20B1DD3DC04540"
+    phone: "+16053610445"
+    email: null
+    url: "http://joingreatlife.com/woodlake-athletic-club/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: false
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [food, locker rooms, restrooms, water, youth, lighted]
+    description: ""
+    access_details: null
+    schedule_details: Up to 6 courts of play on MWF 0800-1100.  Play varies T/TH/Sat/Sun
+    images:
+      - url: "https://cdn.filestackcontent.com/VWTQVK6CTmGTtWlvbRyl"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/108487635117840637855"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108487635117840637855\">The Harberts</a>"
+        attribution_name: The Harberts
+      - url: "https://cdn.filestackcontent.com/YucB5lcXSo12soIImqVx"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/108487635117840637855"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108487635117840637855\">The Harberts</a>"
+        attribution_name: The Harberts
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: sioux-falls
+    city_id: 1840002648
+    slug: greatlife-golf-and-fitness-at-woodlake
+    path: /courts/us/south-dakota/sioux-falls/greatlife-golf-and-fitness-at-woodlake
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T03:26:04.515Z"
+    updated_at: "2025-04-28T07:14:23.349Z"
+    schedule_sources_updated_at: "2024-07-31T21:58:23.343Z"
+  - id: fab4c28d-fc7e-43a9-887f-f5204b23de7b
+    title: Gregory SD Pickleball Courts
+    address: "215 E 12th St, Gregory, SD, USA"
+    lat: 43.2390544
+    lng: -99.4311867
+    coords: "010100000017BE199098DB58C082FBA655999E4540"
+    phone: "+16058358790"
+    email: laura@cityofgregory.com
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [acrylic, hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/EhbS4tIFQaifKAhyidtD"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/bOtyYhESkCKTMXAbl6rD"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: gregory
+    city_id: 1840002865
+    slug: gregory-sd-pickleball-courts
+    path: /courts/us/south-dakota/gregory/gregory-sd-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-09-19T08:50:41.367Z"
+    updated_at: "2025-09-19T09:25:02.213Z"
+    schedule_sources_updated_at: null
+  - id: "2ef4d7d4-d509-4718-9d1a-f3b4eb884a90"
+    title: Griffin Park
+    address: "702 S Washington Ave, Pierre, SD, 57501, USA"
+    lat: 44.35824
+    lng: -100.341495
+    coords: "0101000000D72FD80DDB1559C03D0FEECEDA2D4640"
+    phone: "6057737341"
+    email: null
+    url: "https://www.cityofpierre.org/611/Griffin-Park"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, youth, restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/9FEtAgYQu62SCt36NDOA"
+        source: user
+        attribution_url: "https://www.google.com/search?q=Griffin+Park+702+S+Washington+Ave%2C+Pierre%2C+SD%2C+57501%2C+USA+pickleball+courts&sca_esv=f1ea2f922214231a&sxsrf=AE3TifMfD6_85qB5_7zLGTS4lvCfbyIocg%3A1749608404142&ei=1OdIaOzECLe9kPIPo9TdqQ0&ved=0ahUKEwjs_rKbp-iNAxW3HkQIHSNqN9UQ4dUDCBA&uact=5&oq=Griffin+Park+702+S+Washington+Ave%2C+Pierre%2C+SD%2C+57501%2C+USA+pickleball+courts&gs_lp=Egxnd3Mtd2l6LXNlcnAiS0dyaWZmaW4gUGFyayA3MDIgUyBXYXNoaW5ndG9uIEF2ZSwgUGllcnJlLCBTRCwgNTc1MDEsIFVTQSBwaWNrbGViYWxsIGNvdXJ0c0ioIVDIA1iFH3ABeAGQAQCYAbYHoAGuI6oBCzItMi41LjIuMS4xuAEDyAEA-AEBmAIEoAKDDcICBxAjGLADGCfCAgoQABiwAxjWBBhHwgIEECMYJ8ICCBAAGIAEGKIEwgIFEAAY7wXCAgUQIRirApgDAIgGAZAGBJIHCTEuMy0yLjYtMaAHjBKyBwczLTIuNi0xuAftDMIHBTItMS4zyAct&sclient=gws-wiz-serp#lpg=cid:CgIgAQ%3D%3D,ik:CAoSFkNJSE0wb2dLRUlDQWdJQ1R6ZldGTVE%3D"
+        attribution_html: null
+        attribution_name: Escapees Balloon Crew RVers
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: pierre
+    city_id: 1840000313
+    slug: griffin-park
+    path: /courts/us/south-dakota/pierre/griffin-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T14:58:03.261Z"
+    updated_at: "2026-06-04T08:38:40.146Z"
+    schedule_sources_updated_at: null
+  - id: bcf44d57-90f3-4afb-8d97-06606d93be6c
+    title: Hart Ranch Resort
+    address: "23756 Arena Dr, Rapid City, SD, 57702, USA"
+    lat: 43.961796
+    lng: -103.216909
+    coords: "0101000000514D49D6E1CD59C039B69E211CFB4540"
+    phone: null
+    email: null
+    url: "https://www.hartranchresort.com"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/qMRU1ZQfSPOoggeUbfPV"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: rapid-city
+    city_id: 1840002180
+    slug: hart-ranch-resort
+    path: /courts/us/south-dakota/rapid-city/hart-ranch-resort
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T03:19:39.854Z"
+    updated_at: "2023-01-04T07:21:16.021Z"
+    schedule_sources_updated_at: null
+  - id: "3bd45cc9-92b3-4cee-b1d4-1fc0d516f6eb"
+    title: Hartford Central Park
+    address: "351 North Vandemark Avenue, Hartford, SD, USA"
+    lat: 43.625038
+    lng: -96.9405051
+    coords: "0101000000288E4D3C313C58C0EE60C43E01D04540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/OO3yLoDUTaS0K44zIQ9L"
+        source: user
+        attribution_url: "https://scontent-fml20-1.xx.fbcdn.net/v/t39.30808-6/489909982_1125849049579397_8151840617866953919_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeELRP5jQMk42Tk_9yYypSg9QwHYPD-sRadDAdg8P6xFp_hSGJvWGvluyvsmf6q_XtSmOdqmKPFvF-Vu3u_JSz0R&_nc_ohc=rOnvubdq1mMQ7kNvwGpRLG6&_nc_oc=AdlK0YRjCttOSCQzybioUu9OfjvPK8jIwz0VfeGDKZdvbK9Ye8qnRX4F7TUUPIvdypU&_nc_zt=23&_nc_ht=scontent-fml20-1.xx&_nc_gid=UGMqyv9TCvA9QhO-jAZ9jQ&oh=00_AfHD5Ekjy9ihdes-Eqhc0tmiNlPwjm3hj4mh1tiOtglp9w&oe=680D17F2"
+        attribution_html: null
+        attribution_name: "City of Hartford, SD"
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: hartford
+    city_id: 1840002653
+    slug: hartford-central-park
+    path: /courts/us/south-dakota/hartford/hartford-central-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-04-22T08:39:16.284Z"
+    updated_at: "2025-04-22T08:42:23.507Z"
+    schedule_sources_updated_at: null
+  - id: "2306ef59-60bc-4588-9d2c-0bb51efc86ac"
+    title: Highland Park
+    address: "1010 North Broadway, Watertown, South Dakota 57201, USA"
+    lat: 44.9126125
+    lng: -97.1123604
+    coords: "010100000064D7ACE9304758C0DDB5847CD0744640"
+    phone: "+16055200949"
+    email: cotten6565@gmail.com
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard, asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: Must be a Watertown Pickleball Association member to access portable nets and balls   See their facebook page Watertown SD Pickleball Association
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/XL4P7OjQw65eXIokNlws"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: watertown
+    city_id: 1840002156
+    slug: highland-park
+    path: /courts/us/south-dakota/watertown/highland-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-06-29T07:13:11.381Z"
+    updated_at: "2024-05-27T11:24:39.363Z"
+    schedule_sources_updated_at: null
+  - id: "541bbacc-15e1-4fc9-98c8-1bf5e9fc815f"
+    title: Hitchcock Park Tennis Courts
+    address: "1201 E Hanson Ave, Mitchell, SD, 57301, USA"
+    lat: 43.708344
+    lng: -98.008236
+    coords: "010100000097A949F0868058C0AE282504ABDA4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/U2CFh0knQFGkZ6MNvU7n"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: mitchell
+    city_id: 1840002642
+    slug: hitchcock-park-tennis-courts
+    path: /courts/us/south-dakota/mitchell/hitchcock-park-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T06:53:55.644Z"
+    updated_at: "2023-01-04T05:39:01.398Z"
+    schedule_sources_updated_at: null
+  - id: fac0e1f0-fa10-4e1e-8c3f-45804279a860
+    title: Huether Family Match Pointe
+    address: "4210 N Bobhalla Ave, Sioux Falls, SD, 57107, USA"
+    lat: 43.593055
+    lng: -96.754125
+    coords: "010100000025068195433058C059DDEA39E9CB4540"
+    phone: "6053384036"
+    email: null
+    url: "http://www.playthepointe.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 8
+    outdoor_courts: 0
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/A2EI2kk2TYaat7oaki6l"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/SFCITC/photos/pb.100063773461029.-2207520000./5197108427005382/?type=3"
+        attribution_html: null
+        attribution_name: Huether Family Match Pointe
+      - url: "https://cdn.filestackcontent.com/8JTqJLFOROyeR0TJNOkA"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/100008988291608716878"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/100008988291608716878\">Kevin Nilson</a>"
+        attribution_name: Kevin Nilson
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: sioux-falls
+    city_id: 1840002648
+    slug: huether-family-match-pointe
+    path: /courts/us/south-dakota/sioux-falls/huether-family-match-pointe
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T01:01:34.938Z"
+    updated_at: "2023-04-05T04:40:47.791Z"
+    schedule_sources_updated_at: null
+  - id: "7e2ce6ac-7fd9-4dd9-851d-261bb97c3444"
+    title: Laurel Oak Park
+    address: "3401 E 49th St, Sioux Falls, SD, 57106, USA"
+    lat: 43.506895
+    lng: -96.686906
+    coords: "0101000000465B9544F62B58C0C2C073EFE1C04540"
+    phone: "6053678222"
+    email: null
+    url: "http://www.siouxfalls.org/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 5
+    total_courts: 5
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/0NqLxt54Twq5O3SxSerw"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: sioux-falls
+    city_id: 1840002648
+    slug: laurel-oak-park
+    path: /courts/us/south-dakota/sioux-falls/laurel-oak-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T20:56:08.307Z"
+    updated_at: "2023-10-17T23:49:31.655Z"
+    schedule_sources_updated_at: null
+  - id: d94a57b4-ea46-4a2a-b83a-fb25379f07b9
+    title: Lead SD Pickleball
+    address: "Manuel Brothers Park, Lead, SD, USA"
+    lat: 44.3520559
+    lng: -103.7621955
+    coords: "0101000000236AA2CFC7F059C0936EF02A102D4640"
+    phone: "+16053592177"
+    email: kekemeyer@sio.midco.net
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [water, restrooms, lighted, wheelchair accessible]
+    description: "4 brand new pickleball courts with a great view of nature! Located in the quaint and historical town of Lead SD.  A neighbor to the infamous town of Deadwood SD. Nestled in the northern part of the Black Hills National Forest. Home to Mount Rushmore and Crazy Horse Memorial Monument."
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/vREt6BnOQeytd7rf4vtu"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Karen Meyer
+      - url: "https://cdn.filestackcontent.com/7OjWiUK7RxmVIwYVTjtB"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Karen Meyer
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: lead
+    city_id: 1840002376
+    slug: lead-sd-pickleball
+    path: /courts/us/south-dakota/lead/lead-sd-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-09-05T09:52:04.131Z"
+    updated_at: "2024-09-05T10:05:20.017Z"
+    schedule_sources_updated_at: "2024-09-05T10:05:19.240Z"
+  - id: "7c64c7c9-8852-4546-8337-56a61157f181"
+    title: Legion Memorial Park
+    address: "1100 4th Ave E, Mobridge, SD 57601, USA"
+    lat: 45.543862
+    lng: -100.4274927
+    coords: "0101000000D771570A5C1B59C0C1C41F459DC54640"
+    phone: "+16058453555"
+    email: null
+    url: "https://mobridge.org/Parks"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/1StRo8oeRCZPPprM1HPA"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/311519716_629227888893981_4457714275279305495_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHheIecVMFKWYubA896V6ElaFm0mhiceUFoWbSaGJx5QbgTO0sEAc00Cs-I-MDii4Jo3zGkS16y5RqE5cIxjHAj&_nc_ohc=D0RB43RW8GkAX_MoW3z&_nc_ht=scontent-lax3-2.xx&oh=00_AfCiuIlEXMP_tdcRbml_WWFZ9uKKrcvYPZLP99LmDLR6qA&oe=64A94962"
+        attribution_html: null
+        attribution_name: Spearfish Pickleball Club
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: mobridge
+    city_id: 1840002090
+    slug: legion-memorial-park
+    path: /courts/us/south-dakota/mobridge/legion-memorial-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-07-04T04:41:34.446Z"
+    updated_at: "2023-07-04T04:41:34.446Z"
+    schedule_sources_updated_at: null
+  - id: b540009c-9d43-4959-a33f-8fe22f370181
+    title: Manor Park
+    address: "1115 N Jay St, Aberdeen, SD 57401, USA"
+    lat: 45.477305
+    lng: -98.484095
+    coords: "01010000000E4A9869FB9E58C0D09B8A5418BD4640"
+    phone: "+16056267015"
+    email: null
+    url: "https://aberdeen.sd.us/23/Parks-Recreation-Forestry"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/4cRYmQXaRBW9HrG4yfay"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/100411081250855275592"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/100411081250855275592\">Jon</a>"
+        attribution_name: Jon
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: aberdeen
+    city_id: 1840002032
+    slug: manor-park
+    path: /courts/us/south-dakota/aberdeen/manor-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-02T06:04:00.807Z"
+    updated_at: "2025-08-05T06:38:44.300Z"
+    schedule_sources_updated_at: null
+  - id: eed97bbf-8155-4ee2-b57b-88a86cacc536
+    title: Martha Bullock Park
+    address: "97 Charles St, Deadwood, SD, 57732, USA"
+    lat: 44.369139
+    lng: -103.730383
+    coords: "01010000007BA35698BEEE59C0CD565EF23F2F4640"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/HIBG0UV6SEqytPsiPbu6"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: deadwood
+    city_id: 1840000312
+    slug: martha-bullock-park
+    path: /courts/us/south-dakota/deadwood/martha-bullock-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T02:28:24.362Z"
+    updated_at: "2023-01-05T00:35:54.880Z"
+    schedule_sources_updated_at: null
+  - id: e30c799c-51ce-4df1-8260-eeeb33bae5c1
+    title: Menlo Park
+    address: "1248 S Menlo Ave, Sioux Falls, SD, 57105, USA"
+    lat: 43.531582
+    lng: -96.73805
+    coords: "0101000000053411363C2F58C0369204E10AC44540"
+    phone: "6053678222"
+    email: null
+    url: "http://www.siouxfalls.org/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/r09B889IRe2dkbmPeUGh"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: sioux-falls
+    city_id: 1840002648
+    slug: menlo-park
+    path: /courts/us/south-dakota/sioux-falls/menlo-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T03:28:50.427Z"
+    updated_at: "2023-10-17T23:55:24.160Z"
+    schedule_sources_updated_at: null
+  - id: "0f04e016-7017-4098-869c-d389dff0c5fa"
+    title: Miller Wellness Center
+    address: "1440 N Campus Dr, Brookings, SD 57006, USA"
+    lat: 44.3186727
+    lng: -96.780553
+    coords: "0101000000DCF29194F43158C063505C44CA284640"
+    phone: "+16056979355"
+    email: null
+    url: "https://www.sdstate.edu/miller-wellness-center"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: Or day pass
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Afxt1qGdRomC3ugmzkcY"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/100523194187086528986"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/100523194187086528986\">Vicente Castro</a>"
+        attribution_name: Vicente Castro
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: brookings
+    city_id: 1840002506
+    slug: miller-wellness-center
+    path: /courts/us/south-dakota/brookings/miller-wellness-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-07-27T08:11:13.451Z"
+    updated_at: "2024-01-24T02:35:27.313Z"
+    schedule_sources_updated_at: null
+  - id: "7f20c345-a161-43b0-953a-450babf2db6e"
+    title: Mobridge pickleball
+    address: "4th Ave and 10th street, Mobridge, SD 57601, USA"
+    lat: 45.5424474
+    lng: -100.4418638
+    coords: "010100000052921A7F471C59C06E6699EA6EC54640"
+    phone: "6058456165"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/qwKZbqvgRXmkh1eAsFpr"
+        source: user
+        visible: true
+        attribution_url: "https://www.mobridgetribune.com/wp-content/uploads/2023/06/becky-pickleball.jpg"
+        attribution_html: null
+        attribution_name: Mobridge Tribune
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: mobridge
+    city_id: 1840002090
+    slug: mobridge-pickleball
+    path: /courts/us/south-dakota/mobridge/mobridge-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-07-04T03:49:20.834Z"
+    updated_at: "2023-07-04T03:49:20.834Z"
+    schedule_sources_updated_at: null
+  - id: fe1e0134-abf2-4bff-9046-369da65ee891
+    title: Mueller Center
+    address: "801 S 6th St, Hot Springs, SD, 57747, USA"
+    lat: 43.423165
+    lng: -103.468188
+    coords: "01010000004C18CDCAF6DD59C0EAE74D452AB64540"
+    phone: ""
+    email: hsapickleball@gmail.com
+    url: "https://www.facebook.com/groups/hsapickleball"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, locker rooms]
+    description: Tiled hard floor is lined for Pickleball where nets are set up on the day of play.  Access the local Pickleball Clubs facebook page for weekly announcements for Mueller Center Open Gym.
+    access_details: Free
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/dGxSIFjRguQ9w1k2VBH7"
+        source: user
+        visible: true
+        attribution_url: "https://hs-sd.org/mcc"
+        attribution_html: null
+        attribution_name: Mueller Civic Center
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: hot-springs
+    city_id: 1840002868
+    slug: mueller-center
+    path: /courts/us/south-dakota/hot-springs/mueller-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-30T06:37:34.265Z"
+    updated_at: "2024-06-17T09:53:18.341Z"
+    schedule_sources_updated_at: null
+  - id: "5b2c362d-b7a7-4680-91e0-e8f18887735c"
+    title: Nelson Park
+    address: "520 1st St SW, Watertown, SD, 57201, USA"
+    lat: 44.89482
+    lng: -97.118443
+    coords: "01010000002BDCF291944758C043E7357689724640"
+    phone: "6055200949"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Kd4EH9LHQIGpivd8jdAB"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: watertown
+    city_id: 1840002156
+    slug: nelson-park
+    path: /courts/us/south-dakota/watertown/nelson-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T10:45:11.026Z"
+    updated_at: "2025-07-26T01:14:28.364Z"
+    schedule_sources_updated_at: null
+  - id: "4f9ed032-a3dc-4bd5-bcd3-cfc7eb8a3c29"
+    title: Oahe YMCA
+    address: "900 E Church St, Pierre, SD, 57501, USA"
+    lat: 44.370488
+    lng: -100.339357
+    coords: "0101000000CC2A6C06B81559C0BDC799266C2F4640"
+    phone: "6052241683"
+    email: null
+    url: "http://www.oaheymca.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/qsPMOI4RS7qnQbn8yKGl"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/103321445827270774863"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103321445827270774863\">YMCA</a>"
+        attribution_name: YMCA
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: pierre
+    city_id: 1840000313
+    slug: oahe-ymca
+    path: /courts/us/south-dakota/pierre/oahe-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T12:19:59.226Z"
+    updated_at: "2023-01-04T05:31:48.711Z"
+    schedule_sources_updated_at: null
+  - id: "491b5d0a-2d1d-4147-9112-17ba50a352ca"
+    title: Pad 71
+    address: "SD-46, Wagner, SD, U.S."
+    lat: 43.0817352
+    lng: -98.3077015
+    coords: "010100000087DBA161B19358C04C778D4C768A4540"
+    phone: "6054811741"
+    email: Hiddengem70@gmail.com
+    url: "https://www.hiddengem-campground.com/services-1"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: false
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [concrete]
+    lines: tape
+    nets: portable
+    amenities: [water, restrooms, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/uSRF1GSSUW1k5YoKcyGl"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/116165237222459084713"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/116165237222459084713\">Hidden Gem Campground &amp; Pad 71</a>"
+        attribution_name: Hidden Gem Campground &amp; Pad 71
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: united-states
+    city_id: 1520612316
+    slug: pad-71
+    path: /courts/us/south-dakota/united-states/pad-71
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-01-03T08:59:02.739Z"
+    updated_at: "2025-01-03T09:17:34.218Z"
+    schedule_sources_updated_at: null
+  - id: b13c666f-701b-4287-943a-74198b7362a4
+    title: Peace Lutheran Church ELCA
+    address: "5509 West 41st Street, Sioux Falls, SD, USA"
+    lat: 43.5142396
+    lng: -96.79435149999999
+    coords: "0101000000D381ACA7D63258C071276C9AD2C14540"
+    phone: "+16053613683"
+    email: null
+    url: "https://www.peacelutheran.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted, wheelchair accessible]
+    description: This court is for members of the church only!  Donations are appreciated!
+    access_details: Donations appreciated!
+    schedule_details: Members only
+    images:
+      - url: "https://cdn.filestackcontent.com/4E8G4zlT5uTeGnBq3zzh"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/101966593094837267423"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101966593094837267423\">Peace Lutheran Church ELCA</a>"
+        attribution_name: Peace Lutheran Church ELCA
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: sioux-falls
+    city_id: 1840002648
+    slug: peace-lutheran-church-elca
+    path: /courts/us/south-dakota/sioux-falls/peace-lutheran-church-elca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-11-11T10:59:01.194Z"
+    updated_at: "2024-12-18T08:49:34.320Z"
+    schedule_sources_updated_at: "2024-11-11T12:04:36.479Z"
+  - id: "760a6476-d7ec-47a8-a282-13c21cec44f9"
+    title: Pickleball Park
+    address: "350 Oak Street, Canistota, SD 57012, USA"
+    lat: 43.5959521
+    lng: -97.29344019999999
+    coords: "01010000003A9567B9C75258C0C3BD8D2848CC4540"
+    phone: ""
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Rslxus7FQOOT7S7AHdGS"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: canistota
+    city_id: 1840002658
+    slug: pickleball-park
+    path: /courts/us/south-dakota/canistota/pickleball-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-09-01T10:43:14.227Z"
+    updated_at: "2023-09-01T10:43:14.227Z"
+    schedule_sources_updated_at: null
+  - id: "2ed349a1-8e4a-4e10-8519-c3a687187f90"
+    title: Pierson Ranch
+    address: "31144 Toe Rd, Yankton, SD, 57078, USA"
+    lat: 42.872826
+    lng: -97.481358
+    coords: "0101000000C0EAC891CE5E58C09C8C2AC3B86F4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/hpPen3wxRHS2MTNlHQUQ"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: yankton
+    city_id: 1840003058
+    slug: pierson-ranch
+    path: /courts/us/south-dakota/yankton/pierson-ranch
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T03:47:56.705Z"
+    updated_at: "2023-03-10T06:00:26.297Z"
+    schedule_sources_updated_at: null
+  - id: "293ba4c3-2990-4c33-8c61-3d7400f3f98c"
+    title: Prairie Lakes Wellness Center
+    address: "1515 15th St NE, Watertown, SD, 57201, USA"
+    lat: 44.921209
+    lng: -97.093116
+    coords: "0101000000FFAECF9CF54558C0F3E32F2DEA754640"
+    phone: "6058826250"
+    email: null
+    url: "http://www.plwc.life/"
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: true
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [locker rooms, restrooms, water, food]
+    description: Some courts available for reservations
+    access_details: $10 DAILY
+    schedule_details: Some courts are first come first served others can be reserved
+    images:
+      - url: "https://cdn.filestackcontent.com/cuEjRG0sSpWUFmXi3A4B"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/103835734361358672400"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103835734361358672400\">Pete B</a>"
+        attribution_name: Pete B
+      - url: "https://cdn.filestackcontent.com/EYgzn243Tm613N2UQha0"
+        source: user
+        visible: true
+        attribution_url: "https://www.plwc.life/182/Gyms-Courts"
+        attribution_html: null
+        attribution_name: Prairie Lakes Wellness Center
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: watertown
+    city_id: 1840002156
+    slug: prairie-lakes-wellness-center
+    path: /courts/us/south-dakota/watertown/prairie-lakes-wellness-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T15:03:48.729Z"
+    updated_at: "2024-05-28T10:09:11.923Z"
+    schedule_sources_updated_at: "2024-05-28T10:08:33.652Z"
+  - id: f393f807-8d45-484c-bad4-80f385455959
+    title: Quarry Park
+    address: "Jake Rd, Rapid City, SD, 57702, USA"
+    lat: 44.096401
+    lng: -103.303737
+    coords: "01010000007365506D70D359C09E2633DE560C4640"
+    phone: "6054849423"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: tennis
+    amenities: [wheelchair accessible, food]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/sEsFyU8fSxGyk0d58E4R"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: rapid-city
+    city_id: 1840002180
+    slug: quarry-park
+    path: /courts/us/south-dakota/rapid-city/quarry-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T20:44:40.155Z"
+    updated_at: "2023-10-17T23:47:28.352Z"
+    schedule_sources_updated_at: null
+  - id: "8ff23b2d-8d54-4820-8ca3-0b2a8d2b6576"
+    title: Rapid City YMCA
+    address: "815 Kansas City St, Rapid City, SD, 57701, USA"
+    lat: 44.079571
+    lng: -103.232678
+    coords: "0101000000EB1F4432E4CE59C0E25AED612F0A4640"
+    phone: null
+    email: null
+    url: "http://www.rcymca.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/9t5XoI4THGwv7RMhUYey"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/107769374816017798320"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/107769374816017798320\">YMCA of Rapid City</a>"
+        attribution_name: YMCA of Rapid City
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: rapid-city
+    city_id: 1840002180
+    slug: rapid-city-ymca
+    path: /courts/us/south-dakota/rapid-city/rapid-city-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T12:42:09.654Z"
+    updated_at: "2023-01-04T07:02:25.320Z"
+    schedule_sources_updated_at: null
+  - id: "8a8f1661-1fc6-43a4-bd5e-5da2f8998596"
+    title: Remedy Pickleball Pub
+    address: "407 E 8th St, Sioux Falls, SD 57103, USA"
+    lat: 43.5473505
+    lng: -96.7217374
+    coords: "0101000000345310F2302E58C08179C8940FC64540"
+    phone: "+16052715958"
+    email: pickleball@remedybrewco.com
+    url: "https://app.courtreserve.com/Online/Portal/Index/10349"
+    reservation_url: "https://app.courtreserve.com/Online/Portal/Index/10349"
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms, water, wheelchair accessible, training]
+    description: ""
+    access_details: "No membership fee required! If you are not a registered member, a $5 drop in fee applies."
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/nR3R8uyRSfOp2oHLq0VZ"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Cornichon & Gherkin
+      - url: "https://cdn.filestackcontent.com/YILWfuyFQVeskg5f6RzK"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Bread & Butter
+      - url: "https://cdn.filestackcontent.com/KqcCsVtARNWU89fUG6Nq"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Dill
+      - url: "https://cdn.filestackcontent.com/inl1uJBTTDCJCXZ2cigY"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Front desk
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: sioux-falls
+    city_id: 1840002648
+    slug: remedy-pickleball-pub
+    path: /courts/us/south-dakota/sioux-falls/remedy-pickleball-pub
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-01-23T11:57:53.099Z"
+    updated_at: "2025-11-26T08:09:20.904Z"
+    schedule_sources_updated_at: "2025-11-25T23:43:28.679Z"
+  - id: b175b1fa-2b90-4b69-945a-a56a8e258e80
+    title: Riverdale Park
+    address: "2000 E 24th St, Sioux Falls, SD, 57105, USA"
+    lat: 43.532995
+    lng: -96.700287
+    coords: "010100000018B49080D12C58C03CF71E2E39C44540"
+    phone: "6059293689"
+    email: null
+    url: "http://siouxfalls.org/parks/parks/locations/riverdale"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/JoBCDyDIRe7ZoVWEBKwA"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: sioux-falls
+    city_id: 1840002648
+    slug: riverdale-park
+    path: /courts/us/south-dakota/sioux-falls/riverdale-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-13T17:24:24.457Z"
+    updated_at: "2023-09-20T09:23:55.313Z"
+    schedule_sources_updated_at: null
+  - id: "0018eb96-a12c-443d-8409-3c1e764c4cc5"
+    title: Rushmore Shadows Resort
+    address: "23680 Busted Ct 5, Rapid City, SD, 57702, USA"
+    lat: 43.973659
+    lng: -103.327355
+    coords: "0101000000A7CB6262F3D459C0603AADDBA0FC4540"
+    phone: null
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/G1nHlWQERF6kD5dAgKrB"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: rapid-city
+    city_id: 1840002180
+    slug: rushmore-shadows-resort
+    path: /courts/us/south-dakota/rapid-city/rushmore-shadows-resort
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-10T14:28:48.076Z"
+    updated_at: "2023-01-04T03:45:45.317Z"
+    schedule_sources_updated_at: null
+  - id: "16b16211-b78c-4e61-89b9-5a49b7cbeb98"
+    title: Sanford Pentagon
+    address: "2210 W Pentagon Pl, Sioux Falls, SD, 57107, USA"
+    lat: 43.591645
+    lng: -96.754828
+    coords: "0101000000BA86191A4F3058C0C4EBFA05BBCB4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/JSSTgKmRR7W857lB3Qe7"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/112600383134937625890"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112600383134937625890\">Sanford Pentagon</a>"
+        attribution_name: Sanford Pentagon
+      - url: "https://cdn.filestackcontent.com/mg3E776rTlu6dooi2dUQ"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/111340888350046994652"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/111340888350046994652\">Voon Wong</a>"
+        attribution_name: Voon Wong
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: sioux-falls
+    city_id: 1840002648
+    slug: sanford-pentagon
+    path: /courts/us/south-dakota/sioux-falls/sanford-pentagon
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T12:17:27.783Z"
+    updated_at: "2023-01-04T04:09:44.840Z"
+    schedule_sources_updated_at: null
+  - id: "7fccd13a-ff67-4dcf-8e70-3d109a3cdbcc"
+    title: Sanford Wellness Center on Oxbow
+    address: "4201 S Oxbow Ave, Sioux Falls, SD 57106, USA"
+    lat: 43.5066792
+    lng: -96.7666505
+    coords: "0101000000923D42CD103158C01FC830DDDAC04540"
+    phone: "+16053281600"
+    email: null
+    url: "https://www.sanfordhealth.org/wellness-center/locations/49th-and-oxbow?yxt_info=sanford-location-a5ba2a19-3496-49d1-86aa-29377f9cae17&y_source=1_MTA2MTkxODAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [water, restrooms, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/uxMjeDTRe6PsNFgoE8le"
+        source: user
+        visible: true
+        attribution_url: "https://www.sanfordsports.com/-/media/sports/images/sports/pickleball/20191020de-1306.jpg?h=706&w=1220&la=en&hash=6C684E84552BA6931AAF0C1F87F608CD"
+        attribution_html: null
+        attribution_name: Sanford Sports
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: sioux-falls
+    city_id: 1840002648
+    slug: sanford-wellness-center-on-oxbow
+    path: /courts/us/south-dakota/sioux-falls/sanford-wellness-center-on-oxbow
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-09-04T02:04:26.932Z"
+    updated_at: "2023-09-04T02:04:26.932Z"
+    schedule_sources_updated_at: null
+  - id: f6dc3ed3-56d1-46c6-bc70-ca32448e7ae2
+    title: Spearfish Aquatic & Recreation Center
+    address: "122 Recreation Ln, Spearfish, SD, 57783, USA"
+    lat: 44.505709
+    lng: -103.860717
+    coords: "01010000001E87C1FC15F759C07D259012BB404640"
+    phone: "6057221430"
+    email: null
+    url: "https://www.cityofspearfish.com/378/Rec-Aquatics-Center"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/RN9OjL8SQ1a4A3aEIz7o"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113788959492540493177"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113788959492540493177\">Dulce Mendez calvillo</a>"
+        attribution_name: Dulce Mendez calvillo
+      - url: "https://cdn.filestackcontent.com/TJv7musZTOL8ZZbICg3D"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/107025266660281261556"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/107025266660281261556\">Misty Hodgs</a>"
+        attribution_name: Misty Hodgs
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: spearfish
+    city_id: 1840002374
+    slug: spearfish-aquatic-and-recreation-center
+    path: /courts/us/south-dakota/spearfish/spearfish-aquatic-and-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-22T06:55:13.692Z"
+    updated_at: "2023-10-18T00:03:16.200Z"
+    schedule_sources_updated_at: null
+  - id: "098177b3-c01b-467b-827c-7580bf212a9c"
+    title: Spearfish City Park
+    address: "119 S Canyon St, Spearfish, SD 57783, USA"
+    lat: 44.4826632
+    lng: -103.8604328
+    coords: "0101000000F719BC5411F759C0C97D61E8C73D4640"
+    phone: null
+    email: null
+    url: "http://www.cityofspearfish.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [wheelchair accessible]
+    description: Beautiful courts with wind screens and benches court side
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/PIgpCcKTreBHfXAMHt7B"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/spearfishpickleball/photos/pb.100054203273656.-2207520000./782198299200834/?type=3"
+        attribution_html: null
+        attribution_name: Spearfish Pickleball Club
+      - url: "https://cdn.filestackcontent.com/Ck1txa5vR9OzFfJMJjpr"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo.php?fbid=470651811418257&set=pb.100054203273656.-2207520000.&type=3"
+        attribution_html: null
+        attribution_name: Spearfish Pickleball Club
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: spearfish
+    city_id: 1840002374
+    slug: spearfish-city-park
+    path: /courts/us/south-dakota/spearfish/spearfish-city-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-07T20:08:07.850Z"
+    updated_at: "2023-07-19T04:22:18.221Z"
+    schedule_sources_updated_at: null
+  - id: "467795b2-3784-45c1-a952-70633f1a23ca"
+    title: Tennis Center of the Black Hills
+    address: "7802 Albertta Dr, Rapid City, SD, 57702, USA"
+    lat: 44.010122
+    lng: -103.304324
+    coords: "0101000000D3D85E0B7AD359C02D7C7DAD4B014640"
+    phone: "6053900022"
+    email: Darylpaluch@gmail.com
+    url: "http://www.thetenniscenter.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 16
+    outdoor_courts: 0
+    total_courts: 16
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [locker rooms, restrooms, water, lighted, pro shop, training, wheelchair accessible]
+    description: Pickleball courts can be reserved and paid online with the app CourtReserve.com.   There are also fitness equipment.  Table tennis is also available while waiting
+    access_details: Currently court fees are $12 per hour per person.  Or $20 for 2 hours per person
+    schedule_details: Courts are available 24-7 daily.  Please call and leave message for court availability.   Leagues and lessons are also available.
+    images:
+      - url: "https://cdn.filestackcontent.com/qaYCizsTkKPP3yUHUNUm"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo.php?fbid=933649777582583&set=pb.100028127097169.-2207520000.&type=3"
+        attribution_html: null
+        attribution_name: Tennis Center of the Black Hills
+      - url: "https://cdn.filestackcontent.com/xu8jKrF5RrWDxZ6Gvlpa"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Krista Thomas
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: rapid-city
+    city_id: 1840002180
+    slug: tennis-center-of-the-black-hills
+    path: /courts/us/south-dakota/rapid-city/tennis-center-of-the-black-hills
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T20:27:34.474Z"
+    updated_at: "2024-05-14T05:44:26.486Z"
+    schedule_sources_updated_at: null
+  - id: "230f145b-fc7f-4c8b-bea8-f4c002ee6927"
+    title: Terry Redlin Elementary School
+    address: "1721 E Austin St, Sioux Falls, SD, 57103, USA"
+    lat: 43.548955
+    lng: -96.70488
+    coords: "0101000000B0E600C11C2D58C0E3FC4D2844C64540"
+    phone: "6059293689"
+    email: null
+    url: "https://www.sf.k12.sd.us/o/tres"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/eUzF8ArcQzeTwWi3rAjF"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/100574627785518687167"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/100574627785518687167\">Megan M Daly</a>"
+        attribution_name: Megan M Daly
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: sioux-falls
+    city_id: 1840002648
+    slug: terry-redlin-elementary-school
+    path: /courts/us/south-dakota/sioux-falls/terry-redlin-elementary-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-23T08:52:11.091Z"
+    updated_at: "2023-01-04T04:23:48.733Z"
+    schedule_sources_updated_at: null
+  - id: "39f57ac1-28ad-4f7f-a521-31a8769a5d85"
+    title: The Country Club of Sioux Falls
+    address: "1509 S Westward Ho Pl, Sioux Falls, SD 57105, USA"
+    lat: 43.5325687
+    lng: -96.76712719999999
+    coords: "0101000000CFF7AE9C183158C0C6AF0E362BC44540"
+    phone: "+16053363737"
+    email: null
+    url: "https://www.ccsf.club/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [food, locker rooms, restrooms, water, youth, lighted, pro shop, training]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ZeJhbVPgQzCVP7yAYeqV"
+        source: user
+        attribution_url: "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepmMwOi42lZ5qCVQf4HNY7Y9gyjMAxQ7IL2B5e1g9P2BkEl2bXof6G1OjrJn9tm7ZS_VA_c4XdPNutTEltKka6OjZ9hpxhQQOxt_00GsWH-jhPT9fmnsZvOfWC7AmkO0qcOwe8=s680-w680-h510-rw"
+        attribution_html: null
+        attribution_name: Scott Dougherty
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: sioux-falls
+    city_id: 1840002648
+    slug: the-country-club-of-sioux-falls
+    path: /courts/us/south-dakota/sioux-falls/the-country-club-of-sioux-falls
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-02-24T08:06:39.540Z"
+    updated_at: "2026-02-24T08:28:27.245Z"
+    schedule_sources_updated_at: null
+  - id: b46ec709-14df-4db5-9d4c-36f08f1d6433
+    title: The Courts at Cotton Park
+    address: "501 South Dakota Street, Vermillion, South Dakota, USA"
+    lat: 42.774231
+    lng: -96.9312968
+    coords: "0101000000A5B7E45D9A3B58C052465C001A634540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/apMsYwlFStykUzXEnFLT"
+        source: user
+        attribution_url: "https://www.plaintalk.net/local_news/article_d748c360-e4c7-11ef-846c-877bfd286c3f.html"
+        attribution_html: null
+        attribution_name: City of Vermillion
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: vermillion
+    city_id: 1840003082
+    slug: the-courts-at-cotton-park
+    path: /courts/us/south-dakota/vermillion/the-courts-at-cotton-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-06-16T11:30:37.808Z"
+    updated_at: "2026-06-16T11:30:37.808Z"
+    schedule_sources_updated_at: null
+  - id: "088baebb-766c-45f4-8f28-3da8a18f0027"
+    title: The Jar Pickleball Club
+    address: "3701 S Western Ave, Sioux Falls, SD 57105, USA"
+    lat: 43.5109873
+    lng: -96.752427
+    coords: "0101000000276893C3273058C0EE15270868C14540"
+    phone: "+16055019793"
+    email: frontdesk@thepbjar.com
+    url: "https://www.thepbjar.com"
+    reservation_url: "https://book.thepbjar.com/Online/Reservations/Index/13403"
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 8
+    outdoor_courts: 0
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, youth, lighted, pro shop, training, food]
+    description: "We are the state’s first and largest dedicated indoor pickleball club!  From your very first swing to chasing that perfect dink, The Jar is your place to play.  Our welcoming community and top-tier facility make it easy to improve your skills, meet new friends, and find your next challenge. From open play to leagues and clinics, we’ve built the ultimate pickleball destination."
+    access_details: All Players are welcome to come play!
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/HogEpRzmTN6Bca7mYA8n"
+        source: user
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipObFGSJU903pxkIiocdipAw_C3JmLxMYF0xkfLi=s680-w680-h510-rw"
+        attribution_html: null
+        attribution_name: The Jar Pickleball Club
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: sioux-falls
+    city_id: 1840002648
+    slug: the-jar-pickleball-club
+    path: /courts/us/south-dakota/sioux-falls/the-jar-pickleball-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-02-24T08:06:53.791Z"
+    updated_at: "2026-02-24T08:20:47.979Z"
+    schedule_sources_updated_at: null
+  - id: "08545317-20ac-484a-93f8-73b0fd6b8f95"
+    title: Vermillion High School
+    address: "1001 E Main St, Vermillion, SD, USA"
+    lat: 42.7791423
+    lng: -96.9153493
+    coords: "0101000000A8FA3A15953A58C011B754EFBA634540"
+    phone: "+16056777035"
+    email: null
+    url: "https://vermillion.k12.sd.us/vermillion-high-school/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/cWUw4HT5y8aOxNSaeNYw"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/106501993587245148845"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106501993587245148845\">Sam Kirsch</a>"
+        attribution_name: Sam Kirsch
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: vermillion
+    city_id: 1840003082
+    slug: vermillion-high-school-tennis-courts
+    path: /courts/us/south-dakota/vermillion/vermillion-high-school-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-28T10:48:13.151Z"
+    updated_at: "2024-05-28T10:49:19.063Z"
+    schedule_sources_updated_at: null
+  - id: cc749485-5979-4138-bda3-13b83fb6fc81
+    title: Vermillion SD Armory
+    address: "Armory, Princeton Street, Vermillion, SD, USA"
+    lat: 42.7855987
+    lng: -96.9383316
+    coords: "01010000006AB3FB9F0D3C58C0DB238A7F8E644540"
+    phone: "+16056777064"
+    email: tylert@cityofvermillion.com
+    url: "https://www.vermillion.us/330/Armory-Rental-and-Event-Calendar"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [locker rooms, restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ocaGlDHKQJuhAt5rz5sU"
+        source: user
+        visible: true
+        attribution_url: "https://www.vermillion.us/ImageRepository/Document?documentID=1961"
+        attribution_html: null
+        attribution_name: Vermillion SD
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: vermillion
+    city_id: 1840003082
+    slug: vermillion-sd-armory
+    path: /courts/us/south-dakota/vermillion/vermillion-sd-armory
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-10-11T10:07:59.854Z"
+    updated_at: "2025-01-13T10:58:35.340Z"
+    schedule_sources_updated_at: null
+  - id: "0ff47999-e7d0-4685-abe2-23ae6f51adbb"
+    title: Wall Public Park
+    address: "201 Glenn St, Wall, SD 57790,USA"
+    lat: 43.99636659999999
+    lng: -102.2391682
+    coords: "0101000000904F23884E8F59C0D0E9D4F088FF4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ASUe9XbvQqW4bzMfYL3t"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/108052248933159783390"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108052248933159783390\">Val Klump</a>"
+        attribution_name: Val Klump
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: wall
+    city_id: 1840002181
+    slug: wall-public-park
+    path: /courts/us/south-dakota/wall/wall-public-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-29T15:33:57.363Z"
+    updated_at: "2023-10-18T00:07:58.792Z"
+    schedule_sources_updated_at: null
+  - id: "5ff50b65-9df9-43c5-b76e-a51e4724ca71"
+    title: "Westside Park, Yankton"
+    address: "Summit St, Yankton, SD, 57078, USA"
+    lat: 42.872549
+    lng: -97.407013
+    coords: "0101000000000341800C5A58C0299485AFAF6F4540"
+    phone: "4023752674"
+    email: mawilso4@hotmail.com
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/0lT7XMu0QC2dZOsl9oz0"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: yankton
+    city_id: 1840003058
+    slug: westside-park-yankton
+    path: /courts/us/south-dakota/yankton/westside-park-yankton
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-29T20:29:26.506Z"
+    updated_at: "2023-01-04T06:51:15.909Z"
+    schedule_sources_updated_at: null
+  - id: d6fee245-d1f5-45b2-9fc4-56733dd32a73
+    title: Wilson Park
+    address: "913 St Charles St, Rapid City, SD, 57701, USA"
+    lat: 44.069338
+    lng: -103.234999
+    coords: "0101000000EFE53E390ACF59C05E2F4D11E0084640"
+    phone: "6054849423"
+    email: null
+    url: "http://www.rcgov.org/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: "First come, first serve."
+    images:
+      - url: "https://cdn.filestackcontent.com/vssPpZNvSTKN3YjjRGvD"
+        source: user
+        attribution_url: "https://www.facebook.com/photo/?fbid=795088592653176&set=pcb.795089372653098"
+        attribution_html: null
+        attribution_name: Rapid City Municipal Government
+    country_slug: us
+    state_slug: south-dakota
+    city_slug: rapid-city
+    city_id: 1840002180
+    slug: wilson-park
+    path: /courts/us/south-dakota/rapid-city/wilson-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T17:13:46.888Z"
+    updated_at: "2025-06-03T10:38:57.445Z"
+    schedule_sources_updated_at: null

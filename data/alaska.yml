@@ -1,0 +1,2196 @@
+state: Alaska
+state_slug: alaska
+country: us
+court_count: 51
+scraped_at: "2026-06-30T05:22:32.424Z"
+source: pickleheads.com misc.search API
+courts:
+  - id: "9a2bcba3-bd1d-4864-9bd0-c4d6e914e46d"
+    title: Alaska Club Eagle River
+    address: "12001 Business Blvd, Eagle River, AK, 99577, USA"
+    lat: 61.328978
+    lng: -149.570712
+    coords: "0101000000E9EDCF4543B262C03F8D7BF31BAA4E40"
+    phone: "9076946677"
+    email: null
+    url: "https://www.thealaskaclub.com/eagle-river-gym/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: Nets & balls provided. You set them up.
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/EbDRME6nR06ZXXbWLrNF"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/111805908679637096536"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/111805908679637096536\">Glenn Aronwits</a>"
+        attribution_name: Glenn Aronwits
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: alaska-club-eagle-river
+    path: /courts/us/alaska/anchorage/alaska-club-eagle-river
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T16:02:38.337Z"
+    updated_at: "2024-06-24T08:40:20.810Z"
+    schedule_sources_updated_at: null
+  - id: d393caa3-ff53-4b21-b7cb-c8ba666529c6
+    title: Arctic Recreation Center
+    address: "4855 Arctic Blvd, Anchorage, AK 99503, USA"
+    lat: 61.1765735
+    lng: -149.8971739
+    coords: "010100000065EA09A6B5BC62C08EEBDFF599964E40"
+    phone: "+19078683270"
+    email: null
+    url: "https://www.centerak.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: $10-13
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/TjYqrZy9QZmphhg3CQyh"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Jimmy Heustis
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: arctic-recreation-center
+    path: /courts/us/alaska/anchorage/arctic-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-10T11:27:08.335Z"
+    updated_at: "2026-02-26T10:02:32.732Z"
+    schedule_sources_updated_at: null
+  - id: "01970d68-3def-483a-a7b3-1955cff78f87"
+    title: Bill Hermann Tennis Courts
+    address: "700-720 S Gulkana St, Palmer, AK 99645, USA"
+    lat: 61.59903769999999
+    lng: -149.1030817
+    coords: "01010000001D4AFE714CA362C017497144ADCC4E40"
+    phone: "907-745-3709"
+    email: null
+    url: "https://www.palmerak.org/community-development/page/bill-hermann-tennis-courts"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard]
+    lines: chalk
+    nets: byo
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/c2AFz5GISpaD3fbSjL76"
+      - url: "https://cdn.filestackcontent.com/MReJgcTcTp8GPcL69Gwj"
+    country_slug: us
+    state_slug: alaska
+    city_slug: palmer
+    city_id: 1840023379
+    slug: bill-hermann-tennis-courts
+    path: /courts/us/alaska/palmer/bill-hermann-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-23T13:49:24.000Z"
+    updated_at: "2025-06-23T14:07:41.729Z"
+    schedule_sources_updated_at: null
+  - id: f9602242-591f-44a5-b36a-193d474214f8
+    title: Bogus Fields
+    address: "Skagway, AK, USA"
+    lat: 59.45717800000001
+    lng: -135.3145346
+    coords: "0101000000BC8EDDAA10EA60C0B23907CF84BA4D40"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 0
+    total_courts: 0
+    has_pickleball: true
+    surface: []
+    lines: null
+    nets: null
+    amenities: []
+    description: This court does not exist and is exists only for testing. It's not a pickleball court. Please do not come here expecting to play pickleball.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/XlQDBpcqSqHgkkOikd3A"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Ian L.
+    country_slug: us
+    state_slug: alaska
+    city_slug: skagway
+    city_id: 1840023311
+    slug: bogus-fields
+    path: /courts/us/alaska/skagway/bogus-fields
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-02-20T03:49:29.460Z"
+    updated_at: "2024-02-20T03:49:29.460Z"
+    schedule_sources_updated_at: null
+  - id: "8b29f47a-aa88-41a0-a4ae-4a2a79d96dcd"
+    title: Bonnie Cusack Memorial Outdoor Hockey Rinks
+    address: "540 E 16th Ave, Anchorage, AK, 99501, USA"
+    lat: 61.20598
+    lng: -149.874292
+    coords: "0101000000F1643733FABB62C0A6D0798D5D9A4E40"
+    phone: "6023399914"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 12
+    total_courts: 12
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/K3o4vBfSTCCReiTGQam9"
+        source: user
+        visible: true
+        attribution_url: "https://s3-media0.fl.yelpcdn.com/bphoto/CFP88wJeDS4ghNvD2GpBOg/l.jpg"
+        attribution_html: null
+        attribution_name: MapQuest
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: bonnie-cusack-memorial-outdoor-hockey-rinks
+    path: /courts/us/alaska/anchorage/bonnie-cusack-memorial-outdoor-hockey-rinks
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T17:33:59.960Z"
+    updated_at: "2023-07-19T03:01:03.028Z"
+    schedule_sources_updated_at: null
+  - id: "8f205f41-e55d-47cc-a256-769715982814"
+    title: Cescent Harbor Park
+    address: "810 Lincoln St, Sitka, AK 99835, USA"
+    lat: 57.05070689999999
+    lng: -135.3237977
+    coords: "0101000000A480FE8C5CEA60C03B974E907D864C40"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/QyjwKz1pROColfrapFtK"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113830111160449561108"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113830111160449561108\">Fronty Parker</a>"
+        attribution_name: Fronty Parker
+    country_slug: us
+    state_slug: alaska
+    city_slug: sitka
+    city_id: 1840023319
+    slug: cescent-harbor-park
+    path: /courts/us/alaska/sitka/cescent-harbor-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-07-27T04:43:01.027Z"
+    updated_at: "2023-07-27T04:43:01.027Z"
+    schedule_sources_updated_at: null
+  - id: "1f7efab8-6ca7-4c55-bd92-bf63dc9030d7"
+    title: Chester Creek Sports Complex
+    address: "1860 A St, Anchorage, AK 99503, USA"
+    lat: 61.20416119999999
+    lng: -149.8789664
+    coords: "01010000000DC9247E20BC62C0588E46F4219A4E40"
+    phone: "+19073434355"
+    email: null
+    url: "https://www.muni.org/departments/parks/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 12
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/iZg7faaSRjWxsy2mWxCd"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo/?fbid=10158990938943580&set=pcb.10158990939693580"
+        attribution_html: null
+        attribution_name: Anchorage Parks and Recreation
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: chester-creek-sports-complex
+    path: /courts/us/alaska/anchorage/chester-creek-sports-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-10T10:53:27.645Z"
+    updated_at: "2023-08-11T01:37:51.408Z"
+    schedule_sources_updated_at: null
+  - id: "4cd3072e-be67-4528-a4b9-58833500ac26"
+    title: Cope Park
+    address: "Cope Park Rd, Juneau, AK 99801, USA"
+    lat: 58.3048212
+    lng: -134.4159418
+    coords: "010100000043812D654FCD60C051908E6104274D40"
+    phone: "+19495824500"
+    email: null
+    url: "https://www.saddleback.edu/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/V3xiJwtT8mXkljkEOhkV"
+    country_slug: us
+    state_slug: alaska
+    city_slug: juneau
+    city_id: 1840023306
+    slug: cope-park
+    path: /courts/us/alaska/juneau/cope-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-09-29T05:38:43.867Z"
+    updated_at: "2025-09-29T05:58:18.985Z"
+    schedule_sources_updated_at: null
+  - id: "3a56cc45-9b83-4696-b542-89462eff31b7"
+    title: Craig City Gym
+    address: "3rd St, Craig, AK, 99921, USA"
+    lat: 55.476185
+    lng: -133.151464
+    coords: "0101000000AFD007CBD8A460C042EC4CA1F3BC4B40"
+    phone: "5033144420"
+    email: null
+    url: "https://www.craigak.com/rec"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/rhu6xGzgR4yTIKJ1rJao"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/111967073117671932979"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/111967073117671932979\">Johnny Rice</a>"
+        attribution_name: Johnny Rice
+    country_slug: us
+    state_slug: alaska
+    city_slug: craig
+    city_id: 1840023520
+    slug: craig-city-gym
+    path: /courts/us/alaska/craig/craig-city-gym
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-01T09:31:46.108Z"
+    updated_at: "2023-01-09T02:19:39.071Z"
+    schedule_sources_updated_at: null
+  - id: "19ea2d43-8953-4fab-a00d-6672587e2ff0"
+    title: EasyPark Rooftop Courts
+    address: "Anchorage 5th Avenue Mall, West 5th Avenue, Downtown, Anchorage, AK, USA"
+    lat: 61.2169618
+    lng: -149.888269
+    coords: "01010000009F211CB36CBC62C09BBD7D67C59B4E40"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, food]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/if3WsbcfTLBmtVIrLW9u"
+        source: user
+        attribution_url: "https://www.facebook.com/EasyParkAlaska/posts/-pickleball-with-a-view-now-open-in-downtown-anchorage-%EF%B8%8Feasypark-is-proud-to-inv/1139715578185497/"
+        attribution_html: null
+        attribution_name: EasyPark
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: easypark-rooftop-courts
+    path: /courts/us/alaska/anchorage/easypark-rooftop-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-09-18T07:54:56.734Z"
+    updated_at: "2025-09-18T07:54:56.734Z"
+    schedule_sources_updated_at: null
+  - id: cbfe07b2-9264-4bf5-af06-e57f8f89d270
+    title: Fairbanks North Star Borough Big Dipper
+    address: "1920 Lathrop St, Fairbanks, AK, 99701, USA"
+    lat: 64.829946
+    lng: -147.745444
+    coords: "0101000000FB1F60ADDA7762C08CDCD3D51D355040"
+    phone: "9074591076"
+    email: fairbankspickleball@gmail.com
+    url: "https://www.farthestnorthpickleballclub.org/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 10
+    total_courts: 10
+    has_pickleball: true
+    surface: [concrete, asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/7tSKcSX5S1KvNbg3X31F"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/rOcTAdo3Rt6NAaPl7xob"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Afternoon play
+      - url: "https://cdn.filestackcontent.com/We3ftjj7TCSeIzgokr6z"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: alaska
+    city_slug: fairbanks
+    city_id: 1840023463
+    slug: fairbanks-north-star-borough-big-dipper
+    path: /courts/us/alaska/fairbanks/fairbanks-north-star-borough-big-dipper
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T17:10:08.523Z"
+    updated_at: "2025-04-17T08:20:11.419Z"
+    schedule_sources_updated_at: "2024-07-17T05:14:38.173Z"
+  - id: "457556d2-ed20-45ff-98af-71c353218b7d"
+    title: Fairview Recreation Center
+    address: "1121 E 10th Ave, Anchorage, AK, 99501, USA"
+    lat: 61.212782
+    lng: -149.862646
+    coords: "0101000000CFC0C8CB9ABB62C0B796C9703C9B4E40"
+    phone: "9073434130"
+    email: null
+    url: "https://www.muni.org/Departments/parks/Pages/Fairview.aspx"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/yIYd0XciS4uPs74MlBnR"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo.php?fbid=515975433903357&set=pb.100064727136451.-2207520000.&type=3"
+        attribution_html: null
+        attribution_name: Anchorage Parks and Recreation
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: fairview-recreation-center
+    path: /courts/us/alaska/anchorage/fairview-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T07:29:01.322Z"
+    updated_at: "2023-07-19T03:03:06.592Z"
+    schedule_sources_updated_at: null
+  - id: f60ed25c-dc00-4bb0-a899-6d5e5cae299d
+    title: Fish Creek Park
+    address: "3907 Turnagain Blvd East Anchorage , AK 99517, USA"
+    lat: 61.185254
+    lng: -149.934361
+    coords: "01010000000D350A49E6BD62C002BA2F67B6974E40"
+    phone: "9072741003"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/aUULqJmYQqKiLNYbrTBx"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/BF3qAOuQiypoJIljYyBC"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/107990501694097905335"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/107990501694097905335\">Master Decker</a>"
+        attribution_name: Master Decker
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: fish-creek-park
+    path: /courts/us/alaska/anchorage/fish-creek-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-20T20:36:21.035Z"
+    updated_at: "2023-07-19T03:06:40.134Z"
+    schedule_sources_updated_at: null
+  - id: "4ff2a57c-6f48-4764-8d95-a663ec0a0cdb"
+    title: Gateway Recreation Center
+    address: "601 Schoenbar Rd, Ketchikan, AK 99901, USA"
+    lat: 55.347008
+    lng: -131.641343
+    coords: "01010000009850C1E1857460C0A6B915C26AAC4B40"
+    phone: "907) 228-6650"
+    email: null
+    url: "https://ak-ketchikangatewayborough.civicplus.com/207/Gateway-Recreation-Center"
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [locker rooms, restrooms, water, lighted, food]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/gDEmzD3pRmmB7h91Jd2f"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: " Charles Oyedeji"
+      - url: "https://cdn.filestackcontent.com/NwjtCXkDQamxrjZmJ0Kw"
+    country_slug: us
+    state_slug: alaska
+    city_slug: ketchikan
+    city_id: 1840023270
+    slug: gateway-recreation-center
+    path: /courts/us/alaska/ketchikan/gateway-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T19:17:36.407Z"
+    updated_at: "2025-08-22T09:32:33.823Z"
+    schedule_sources_updated_at: null
+  - id: "210092f0-bc50-4d1a-bd14-132f18406015"
+    title: George H Gilson Middle School
+    address: "357 Robe River Dr, Valdez, AK 99686, USA"
+    lat: 61.1380215
+    lng: -146.3601062
+    coords: "0101000000C70270FD854B62C08B5242B0AA914E40"
+    phone: "+19078352244"
+    email: null
+    url: "https://www.valdezcityschools.org/Domain/9"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: "Monday and Wednesday nights.\n6 to 8 pm and longer\nCheck Valdez Civic Center website for updated schedule."
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/KD0ZLyZkTku2JOyX6O0P"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/107484708462049365361"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/107484708462049365361\">Dean Shannon</a>"
+        attribution_name: Dean Shannon
+    country_slug: us
+    state_slug: alaska
+    city_slug: valdez
+    city_id: 1840023396
+    slug: george-h-gilson-middle-school
+    path: /courts/us/alaska/valdez/george-h-gilson-middle-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-06-09T03:15:13.717Z"
+    updated_at: "2023-06-09T03:17:16.143Z"
+    schedule_sources_updated_at: null
+  - id: "99480b4a-7b16-47ec-b9a7-192746fd4bec"
+    title: Grizzly Family Fitness Sports Center
+    address: "1507 N Double B St, Palmer, AK, 99645, USA"
+    lat: 61.596268
+    lng: -149.268421
+    coords: "0101000000E811A3E796A862C05FD3838252CC4E40"
+    phone: null
+    email: null
+    url: "http://www.grizzlyfamilyfitness.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 8
+    outdoor_courts: 0
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [food, restrooms, water]
+    description: $24 day pass for non-members. Use caution while playing pickleball inside and with temporary nets.
+    access_details: $24 day pass
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Xu0jv87Q0m5WKcWHoVJQ"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/105045062450735355599"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/105045062450735355599\">Grizzly Family Fitness</a>"
+        attribution_name: Grizzly Family Fitness
+    country_slug: us
+    state_slug: alaska
+    city_slug: palmer
+    city_id: 1840023379
+    slug: grizzly-family-fitness-sports-center
+    path: /courts/us/alaska/palmer/grizzly-family-fitness-sports-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T15:28:25.147Z"
+    updated_at: "2026-05-18T03:36:16.099Z"
+    schedule_sources_updated_at: null
+  - id: c7744287-c60a-4062-b646-d5055835b9c6
+    title: Harvard Park
+    address: "432 Harvard St , On Government Hill Anchorage, AK 99501, USA"
+    lat: 61.22878480000001
+    lng: -149.876866
+    coords: "01010000002E1F49490FBC62C035E900D2489D4E40"
+    phone: "+19073434355"
+    email: null
+    url: "https://www.alaska.org/detail/harvard-park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ShJPr1LRRnmvNCISq0HM"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: harvard-park
+    path: /courts/us/alaska/anchorage/harvard-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-07-19T03:12:18.963Z"
+    updated_at: "2023-07-19T03:12:18.963Z"
+    schedule_sources_updated_at: null
+  - id: "142e67a1-1524-4a5d-af55-98e61af54feb"
+    title: Harvard Park Tennis Courts
+    address: "E Loop Rd, Anchorage, AK, 99501, USA"
+    lat: 61.230364
+    lng: -149.874385
+    coords: "01010000009D6340F6FABB62C07F164B917C9D4E40"
+    phone: "2542907790"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Y0Syh7PKSxm2Cw188RM3"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: harvard-park-tennis-courts
+    path: /courts/us/alaska/anchorage/harvard-park-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T10:49:45.105Z"
+    updated_at: "2024-05-30T09:02:38.173Z"
+    schedule_sources_updated_at: null
+  - id: "4760b3f4-15fd-40e8-85c2-72b1e397e699"
+    title: Homer High School
+    address: "600 E Fairview Ave, Homer, AK, 99603, USA"
+    lat: 59.651794
+    lng: -151.527828
+    coords: "010100000038BD8BF7E3F062C051DD5CFC6DD34D40"
+    phone: "9072354623"
+    email: null
+    url: "https://kpbsd.org/schools/homer-high/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/W5wEh3SkTHukUQlF11hI"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/103897071726501025538"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103897071726501025538\">Michael Venning</a>"
+        attribution_name: Michael Venning
+    country_slug: us
+    state_slug: alaska
+    city_slug: homer
+    city_id: 1840023419
+    slug: homer-high-school
+    path: /courts/us/alaska/homer/homer-high-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-01T23:59:05.323Z"
+    updated_at: "2023-01-09T02:35:16.735Z"
+    schedule_sources_updated_at: null
+  - id: e30cb31a-660e-4100-8c22-ef99c8a6fb09
+    title: Homer Pickleball at the HERC
+    address: "450 Sterling Hwy, Homer, AK, 99603, USA"
+    lat: 59.642545
+    lng: -151.552871
+    coords: "010100000005FD851EB1F162C0AA9A20EA3ED24D40"
+    phone: "9072356090"
+    email: communityrecreation@cityofhomer-ak.gov
+    url: "https://www.cityofhomer-ak.gov/recreation/pickleball"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/YeuDwrDbTNCt0ix7FiUC"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo/?fbid=10224681197270053&set=g.497415980452054"
+        attribution_html: null
+        attribution_name: Sheryl Saturnino
+    country_slug: us
+    state_slug: alaska
+    city_slug: homer
+    city_id: 1840023419
+    slug: homer-pickleball-at-the-herc
+    path: /courts/us/alaska/homer/homer-pickleball-at-the-herc
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-29T09:18:27.845Z"
+    updated_at: "2023-01-09T04:23:05.413Z"
+    schedule_sources_updated_at: null
+  - id: "404f233c-72f1-479d-8eac-e10d1ec52759"
+    title: Ice Rink & Baranof Park
+    address: "1222 Chichenof St, Kodiak, AK, 99615, USA"
+    lat: 57.796264
+    lng: -152.388211
+    coords: "0101000000529E79396C0C63C0B77D8FFAEBE54C40"
+    phone: "9075391508"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/n63zTgKZQQm94KxLz5oS"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/103700439651987804494"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103700439651987804494\">John Anderson</a>"
+        attribution_name: John Anderson
+      - url: "https://cdn.filestackcontent.com/vqAqvtRCRV2Z2vyHHd1R"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: alaska
+    city_slug: kodiak
+    city_id: 1840023301
+    slug: ice-rink-and-baranof-park
+    path: /courts/us/alaska/kodiak/ice-rink-and-baranof-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T15:56:37.661Z"
+    updated_at: "2023-08-21T05:52:01.026Z"
+    schedule_sources_updated_at: null
+  - id: "1a698643-1d15-460b-95de-5cedd7b4173e"
+    title: Iditapark
+    address: "594 West Nelson Avenue, Wasilla, Alaska, USA"
+    lat: 61.584254
+    lng: -149.4627605
+    coords: "01010000002EAC1BEFCEAE62C05247C7D5C8CA4E40"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: Free
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/fQOPbFwBS5evpQExfyvs"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/114516375338518322854"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114516375338518322854\">Ryan Domstead</a>"
+        attribution_name: Ryan Domstead
+    country_slug: us
+    state_slug: alaska
+    city_slug: wasilla
+    city_id: 1840023371
+    slug: iditapark
+    path: /courts/us/alaska/wasilla/iditapark
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-05-19T09:29:47.086Z"
+    updated_at: "2025-05-19T10:01:57.564Z"
+    schedule_sources_updated_at: null
+  - id: a4e0e912-a4ae-4704-8008-e2de031f3f42
+    title: Kachemak City Clerk
+    address: "59906 Bear Creek Dr, Homer, AK 99603, USA"
+    lat: 59.66745
+    lng: -151.45235
+    coords: "01010000000F0BB5A679EE62C08CDB68006FD54D40"
+    phone: "+19072358897"
+    email: null
+    url: "https://www.kachemak.city/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/BEfOJToOR76F1MiKphwy"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/342218376_953958502285630_6819208857599921689_n.jpg?stp=cp6_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=5cd70e&_nc_eui2=AeFg-9EtQ48szeVL7hcXroD0y8QmCQWPSmHLxCYJBY9KYag-Z-MhWIg71FVkLb8vMBg7tiS8G7eNrpp4ZZo28EDb&_nc_ohc=1b6-UfD-tgIAX_zdOHD&_nc_ht=scontent-lax3-2.xx&oh=00_AfCaawQjHevMqAd-vsDGReE-_KDdXHeXAk2mAaMHRDwYaw&oe=645499A9"
+        attribution_html: null
+        attribution_name: Janie Leask
+    country_slug: us
+    state_slug: alaska
+    city_slug: homer
+    city_id: 1840023419
+    slug: kachemak-city-clerk
+    path: /courts/us/alaska/homer/kachemak-city-clerk
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-01T11:38:33.133Z"
+    updated_at: "2023-05-01T11:38:33.133Z"
+    schedule_sources_updated_at: null
+  - id: "51385926-9b9e-42a2-a76b-5a26ace62b05"
+    title: Kenai Recreation Center
+    address: "227 Caviar St, Kenai, AK 99611, USA"
+    lat: 60.55657489999999
+    lng: -151.2482803
+    coords: "0101000000B71787E9F1E762C020A3A8D83D474E40"
+    phone: "+19072838265"
+    email: Parks@kenai.city
+    url: "https://www.kenai.city/parksrec/page/kenai-recreation-center-0"
+    reservation_url: "https://www.kenai.city/parksrec/page/kenai-recreation-center-0"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, wheelchair accessible, locker rooms, lighted]
+    description: Floors were recently redone. Staff will ask that you carry in clean court shoes and that you change into them before entering the court.
+    access_details: "$5 adult drop-in, $40 Gym Punch Card (10 drop-ins), $50 Gym Month Pass (30 Days)"
+    schedule_details: "Schedule posted every monday on website, pickleball times static and rarely change."
+    images:
+      - url: "https://cdn.filestackcontent.com/69uzrKrfTTW0UNjxGKHk"
+        source: user
+        visible: true
+        attribution_url: "https://www.yelp.com/biz_photos/kenai-recreation-center-kenai?select=FEha0ahNp_puEDRqPBiXZw"
+        attribution_html: null
+        attribution_name: Elizabeth F.
+      - url: "https://cdn.filestackcontent.com/S4JYJzJvQCmc9i770HsQ"
+        source: user
+        attribution_url: "https://www.kenai.city/parksrec/page/kenai-recreation-center-0"
+        attribution_html: null
+        attribution_name: Kenai Recreation Center
+      - url: "https://cdn.filestackcontent.com/AeONgJenQdGKZ3PTDMx8"
+        source: user
+        attribution_url: "https://www.kenai.city/parksrec/page/kenai-recreation-center-0"
+        attribution_html: null
+        attribution_name: Kenai Recreation Center
+    country_slug: us
+    state_slug: alaska
+    city_slug: kenai
+    city_id: 1840023421
+    slug: kenai-recreation-center
+    path: /courts/us/alaska/kenai/kenai-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T22:13:47.683Z"
+    updated_at: "2024-07-09T09:10:02.447Z"
+    schedule_sources_updated_at: "2024-06-15T18:19:00.879Z"
+  - id: d8625e3c-a3cd-48dd-8fbc-f939d95566f9
+    title: Ketchikan High School
+    address: "2610 4th Ave, Ketchikan, AK, USA"
+    lat: 55.3535718
+    lng: -131.6779814
+    coords: "01010000007B890C06B27560C0D8E43AD741AD4B40"
+    phone: null
+    email: null
+    url: "https://khs.kgbsd.org/en-US"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/sk9WO3CzRMmx6LYPgVds"
+      - url: "https://cdn.filestackcontent.com/mGBD8hNQ3SAUURnvjvOg"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/117107210654497353147"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117107210654497353147\">Joshua Ryan</a>"
+        attribution_name: Joshua Ryan
+    country_slug: us
+    state_slug: alaska
+    city_slug: ketchikan
+    city_id: 1840023270
+    slug: ketchikan-high-school
+    path: /courts/us/alaska/ketchikan/ketchikan-high-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-12T08:28:22.950Z"
+    updated_at: "2025-08-22T10:14:54.605Z"
+    schedule_sources_updated_at: null
+  - id: "82db953c-a259-4767-9c67-f464008f4ff8"
+    title: Lions Club Eagle River
+    address: "18344 Eagle River Rd, Eagle River, AK, USA"
+    lat: 61.3089702
+    lng: -149.5439959
+    coords: "01010000000FF5166A68B162C02338E4558CA74E40"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [asphalt, hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: TeamReach code 99577
+    images:
+      - url: "https://cdn.filestackcontent.com/yEplyMCgRC6CF3ehZgN9"
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: lions-club-eagle-river
+    path: /courts/us/alaska/anchorage/lions-club-eagle-river
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-10-03T08:23:15.329Z"
+    updated_at: "2025-10-03T08:26:10.888Z"
+    schedule_sources_updated_at: null
+  - id: "0d17ed94-00e2-4265-b2b4-7ce3ddfaa023"
+    title: Meadow Lakes
+    address: "1898 A St, Anchorage, AK 99503, USA"
+    lat: 61.20338059999999
+    lng: -149.8832121
+    coords: "0101000000CF9D054643BC62C006D22060089A4E40"
+    phone: "9073434355"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 12
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/0nxccqwrTFT1ayCJGvQi"
+        source: user
+        visible: true
+        attribution_url: "https://alaskapublic.org/2021/06/21/new-outdoor-pickleball-courts-open-in-anchorage/"
+        attribution_html: null
+        attribution_name: Matt Faubion/AKPM
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: meadow-lakes
+    path: /courts/us/alaska/anchorage/meadow-lakes
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-14T01:39:33.947Z"
+    updated_at: "2024-08-05T08:06:55.469Z"
+    schedule_sources_updated_at: null
+  - id: "422fc8f6-0a98-4ba6-8dd7-bdb9649b3448"
+    title: Meadow Lakes  Park
+    address: "1205 N Kim Dr, Wasilla, AK, 99654, USA"
+    lat: 61.591819
+    lng: -149.590481
+    coords: "01010000001AFD6838E5B262C0621399B9C0CB4E40"
+    phone: "9073105749"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/PRgHQaoPQV6t6EifacIQ"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/MeadowLakesPark/photos/pb.100065105336538.-2207520000./124544871441731/?type=3"
+        attribution_html: null
+        attribution_name: "Meadow Lakes Park, Playground, Pavilion, & Sports Fields"
+    country_slug: us
+    state_slug: alaska
+    city_slug: wasilla
+    city_id: 1840023371
+    slug: meadow-lakes-park
+    path: /courts/us/alaska/wasilla/meadow-lakes-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-21T17:07:57.509Z"
+    updated_at: "2023-01-09T02:28:57.622Z"
+    schedule_sources_updated_at: null
+  - id: e73e519c-3142-4ea3-a728-f58eaa0aa3c0
+    title: Moseley Sports Center
+    address: "4400 University Dr, Anchorage, AK 99508, United States"
+    lat: 61.1899313
+    lng: -149.8006281
+    coords: "01010000004738D2BE9EB962C04EFE38AB4F984E40"
+    phone: "+19075648314"
+    email: Moseley@alaskapacific.edu
+    url: "https://www.alaskapacific.edu/campus-life/moseley/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/0nJywPeNRdezBRf8GBa0"
+        source: user
+        visible: true
+        attribution_url: "https://midnightsunpickleball.com/about-us/#jp-carousel-57"
+        attribution_html: null
+        attribution_name: Midnight Sun Pickleball
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: moseley-sports-center
+    path: /courts/us/alaska/anchorage/moseley-sports-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-22T07:03:50.209Z"
+    updated_at: "2023-08-24T02:15:19.691Z"
+    schedule_sources_updated_at: null
+  - id: "1ff2533e-5737-431e-a57c-1670b7a2a232"
+    title: MTA Event Center
+    address: "MTA Events Center, S Kerry Weiland Ct, Palmer, AK, USA"
+    lat: 61.59137130000001
+    lng: -149.1066693
+    coords: "0101000000975FBCD569A362C083A5040EB2CB4E40"
+    phone: "+19077464231"
+    email: Matsupickleballclub@gmail.com
+    url: "https://www.palmerak.org/community-development/page/mta-events-center"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [concrete]
+    lines: tape
+    nets: portable
+    amenities: [lighted, restrooms]
+    description: "Check https://www.facebook.com/profile.php?id=100090578364512 for scheduling info"
+    access_details: $8 per drop in
+    schedule_details: "https://www.facebook.com/profile.php?id=100090578364512\nhttps://playtimepb.com/s/1833221"
+    images:
+      - url: "https://cdn.filestackcontent.com/DZjUOtX1SKew6ZHvpvDM"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/116507355590209476514"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/116507355590209476514\">Lily</a>"
+        attribution_name: Lily
+      - url: "https://cdn.filestackcontent.com/lO5qOH7zRsevuTdi0lgc"
+    country_slug: us
+    state_slug: alaska
+    city_slug: palmer
+    city_id: 1840023379
+    slug: mta-event-center
+    path: /courts/us/alaska/palmer/mta-event-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-05T08:09:20.020Z"
+    updated_at: "2025-06-09T07:16:10.713Z"
+    schedule_sources_updated_at: "2025-06-05T08:11:44.165Z"
+  - id: f6d8f648-f365-4d13-9f2a-978cb0c6280e
+    title: North Star School
+    address: "961 Mallard Way, Kodiak, AK, 99615, USA"
+    lat: 57.821429
+    lng: -152.365177
+    coords: "01010000000B08AD87AF0B63C0357EE19524E94C40"
+    phone: "9075391508"
+    email: null
+    url: "https://www.kibsd.org/northstar/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/JfZKndKlRLuqidLAJfLz"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/groups/OfficialNorthStarSchoolGroup/"
+        attribution_html: null
+        attribution_name: North Star Elementary
+    country_slug: us
+    state_slug: alaska
+    city_slug: kodiak
+    city_id: 1840023301
+    slug: north-star-school
+    path: /courts/us/alaska/kodiak/north-star-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-23T10:36:19.081Z"
+    updated_at: "2023-01-09T05:11:23.309Z"
+    schedule_sources_updated_at: null
+  - id: d6e5dc53-a634-4817-987e-b766cd1c9df5
+    title: O'Malley Sports Center
+    address: "11001 South Center Drive, Anchorage, AK, USA"
+    lat: 61.1211322
+    lng: -149.860388
+    coords: "0101000000DE3B6A4C88BB62C00BBF8A42818F4E40"
+    phone: "9078684304"
+    email: null
+    url: "https://www.omalleysports.com/"
+    reservation_url: null
+    facility_type: public
+    access: one-time
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [food, restrooms, water, lighted]
+    description: null
+    access_details: $8
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ZEGXz3YQH6QkfXmFTqYg"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo.php?fbid=504716488325306&set=pb.100063608770356.-2207520000.&type=3"
+        attribution_html: null
+        attribution_name: O’Malley Sports Center
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: omalley-sports-center
+    path: /courts/us/alaska/anchorage/omalley-sports-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-14T02:49:07.934Z"
+    updated_at: "2025-07-10T08:41:54.753Z"
+    schedule_sources_updated_at: null
+  - id: d366bb18-57de-4091-b5bd-f92edd8b87b3
+    title: Pop Carr Memorial Park
+    address: "4608 Kent St, Anchorage, AK, 99503, USA"
+    lat: 61.179016
+    lng: -149.899389
+    coords: "01010000003BAC70CBC7BC62C0F9BA0CFFE9964E40"
+    phone: "9073067412"
+    email: null
+    url: "https://www.muni.org/Departments/parks/Pages/PopCarrParkFixIt.aspx"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/pOU4pEVCSZu9wWiuboEf"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/dZhGQ6EhSqyGk5wnElKe"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/114191189658826312058"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114191189658826312058\">Maria Osokina</a>"
+        attribution_name: Maria Osokina
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: pop-carr-memorial-park
+    path: /courts/us/alaska/anchorage/pop-carr-memorial-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T13:46:22.905Z"
+    updated_at: "2023-07-19T03:15:13.951Z"
+    schedule_sources_updated_at: null
+  - id: "162823b4-1357-4906-bd1a-4ca527b0cec6"
+    title: RJ Elementary School
+    address: "Milton St, Metlakatla, AK, 99926, USA"
+    lat: 55.125451
+    lng: -131.572428
+    coords: "0101000000126A8654517260C0102043C70E904B40"
+    phone: "9078863786"
+    email: null
+    url: "https://www.aisdk12.org/o/rjes"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 1
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/FtKiVZ1eTS6Ia4V7MNl3"
+        source: user
+        visible: true
+        attribution_url: "https://www.aisdk12.org/o/rjes"
+        attribution_html: null
+        attribution_name: Richard Johnson Elementary School
+    country_slug: us
+    state_slug: alaska
+    city_slug: metlakatla
+    city_id: 1840023513
+    slug: rj-elementary-school
+    path: /courts/us/alaska/metlakatla/rj-elementary-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T00:57:56.788Z"
+    updated_at: "2023-09-22T10:05:00.526Z"
+    schedule_sources_updated_at: null
+  - id: a79cca15-29be-4b84-9bbf-98c40d585554
+    title: Romig Middle School
+    address: "2500 Minnesota Drive, Anchorage, AK 99503, USA"
+    lat: 61.1976781
+    lng: -149.9148262
+    coords: "0101000000C450984146BD62C0555117844D994E40"
+    phone: "+19077425200"
+    email: null
+    url: "https://www.asdk12.org/romig"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/vN8ROI0TXaaYbNtnb4xK"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110437508314853272994"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110437508314853272994\">Sophia Wilcox</a>"
+        attribution_name: Sophia Wilcox
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: romig-middle-school
+    path: /courts/us/alaska/anchorage/romig-middle-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-07-19T03:19:45.851Z"
+    updated_at: "2023-07-19T03:19:45.851Z"
+    schedule_sources_updated_at: null
+  - id: "29774376-f62d-4405-a7f0-9eee0b129746"
+    title: Scenic Park
+    address: "7305 Hennings Way, Anchorage, AK, USA"
+    lat: 61.18743629999999
+    lng: -149.745187
+    coords: "0101000000F04C6892D8B762C0A64AA5E9FD974E40"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/q9ptzdtOQsOwXfCph5un"
+        source: user
+        attribution_url: "https://www.google.com/maps/contrib/109604333220788049580"
+        attribution_html: null
+        attribution_name: Rob Spangenberg
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: scenic-park
+    path: /courts/us/alaska/anchorage/scenic-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-02-25T08:46:56.240Z"
+    updated_at: "2025-02-25T08:46:56.240Z"
+    schedule_sources_updated_at: null
+  - id: e367a59f-db91-4782-acf7-7109546f5467
+    title: Soldotna Field House
+    address: "538 Arena Ave, Soldotna, AK, 99669, USA"
+    lat: 60.476058
+    lng: -151.102722
+    coords: "01010000008DD2A57F49E362C0E57FF277EF3C4E40"
+    phone: "9072623151"
+    email: null
+    url: "https://soldotna.org/departments/parks-and-recreation/regional-sports-complex"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 10
+    outdoor_courts: 0
+    total_courts: 10
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/zV6wJgF4QPiRImgYFys4"
+        source: user
+        attribution_url: "https://www.facebook.com/AnchoragePickleballClub/posts/a-new-facility-is-opening-in-soldotna-soldotna-field-house-which-has-9-picklebal/1643269799920615/"
+        attribution_html: null
+        attribution_name: Anchorage Pickleball Club
+    country_slug: us
+    state_slug: alaska
+    city_slug: soldotna
+    city_id: 1840023415
+    slug: soldotna-field-house
+    path: /courts/us/alaska/soldotna/soldotna-field-house
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T09:31:42.047Z"
+    updated_at: "2026-03-11T18:30:48.129Z"
+    schedule_sources_updated_at: null
+  - id: "4167f655-1d71-4323-8196-1637f3faadad"
+    title: SPARC Homer
+    address: "600 Sterling Highway, Homer, AK, USA"
+    lat: 59.64259120000001
+    lng: -151.5587267
+    coords: "0101000000DDFCD016E1F162C04659AE6D40D24D40"
+    phone: "9072995115"
+    email: sparchomer@gmail.com
+    url: "https://sparchomer.org/"
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/VKFhmaezSY2mcimqxKyw"
+      - url: "https://cdn.filestackcontent.com/SLOQ2UYQUCRhTpEdeCFW"
+      - url: "https://cdn.filestackcontent.com/yA01aklqQJefmDomkyfO"
+    country_slug: us
+    state_slug: alaska
+    city_slug: homer
+    city_id: 1840023419
+    slug: sparc-homer
+    path: /courts/us/alaska/homer/sparc-homer
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-03-14T08:34:38.123Z"
+    updated_at: "2025-03-17T08:11:57.400Z"
+    schedule_sources_updated_at: null
+  - id: d3b058a3-c40d-416f-9558-1ab0f966985f
+    title: Spenard Community Recreation Center
+    address: "2020 W 48th Ave, Anchorage, AK, 99517, USA"
+    lat: 61.177084
+    lng: -149.919627
+    coords: "010100000098309A956DBD62C08B5242B0AA964E40"
+    phone: "9073434160"
+    email: null
+    url: "https://www.muni.org/Departments/parks/Pages/GymSchedule_Spenard.aspx"
+    reservation_url: null
+    facility_type: public
+    access: one-time
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted, locker rooms]
+    description: null
+    access_details: $5 per session
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/pOUASlLS8mUTHIu9tcPv"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/106443967107244519980"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106443967107244519980\">Gabriel Broida</a>"
+        attribution_name: Gabriel Broida
+      - url: "https://cdn.filestackcontent.com/twVWTE5UQDCvnvL7smSN"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115358793828322689701"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115358793828322689701\">Jia Huis</a>"
+        attribution_name: Jia Huis
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: spenard-community-recreation-center
+    path: /courts/us/alaska/anchorage/spenard-community-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-23T00:44:57.119Z"
+    updated_at: "2024-07-19T09:31:46.923Z"
+    schedule_sources_updated_at: "2024-07-19T09:31:46.232Z"
+  - id: "0759b828-3314-4e36-82c5-5f5fc4045d4b"
+    title: Sterling Community Center
+    address: "35085 Sterling Hwy, Sterling, AK, 99672, USA"
+    lat: 60.53582
+    lng: -150.797506
+    coords: "0101000000A48B4D2B85D962C07845F0BF95444E40"
+    phone: "9072627224"
+    email: null
+    url: "https://sterlingcommunitycenter.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [food, restrooms, water, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ztIjD85RlSIL4ICmHjaw"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/SterlingVACommunityCenter/photos/pb.100064241366896.-2207520000./5132753536734869/?type=3"
+        attribution_html: null
+        attribution_name: Sterling Community Center
+    country_slug: us
+    state_slug: alaska
+    city_slug: sterling
+    city_id: 1840023417
+    slug: sterling-community-center
+    path: /courts/us/alaska/sterling/sterling-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T16:37:27.765Z"
+    updated_at: "2023-09-22T10:14:29.459Z"
+    schedule_sources_updated_at: null
+  - id: "95714822-9e02-4451-919b-5f72ec8453f5"
+    title: Taku Park South
+    address: "8210 Stormy Pl, Anchorage, AK 99518, USA"
+    lat: 61.14642589999999
+    lng: -149.8858308
+    coords: "01010000004479D5B958BC62C0C7E47915BE924E40"
+    phone: "6023399914"
+    email: null
+    url: "https://www.muni.org/Departments/parks/Pages/TakuLakeSkatePark.aspx"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: Summer only
+    images:
+      - url: "https://cdn.filestackcontent.com/44W9YPmmQeGHqlQKOj68"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: taku-park-south
+    path: /courts/us/alaska/anchorage/taku-park-south
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-29T06:19:50.889Z"
+    updated_at: "2023-07-19T03:27:29.011Z"
+    schedule_sources_updated_at: null
+  - id: "7e58c01a-688a-4d83-87c7-fe52211f0d2f"
+    title: The Alaska Club East
+    address: "5201 E Tudor Rd, Anchorage, AK, 99507, USA"
+    lat: 61.180982
+    lng: -149.784027
+    coords: "0101000000CB85CABF16B962C014950D6B2A974E40"
+    phone: "9073379550"
+    email: null
+    url: "https://www.thealaskaclub.com/east-anchorage-gym"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: true
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, pro shop, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/iHlLrfRya8otRIVdhAI8"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/106413622401424673168"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106413622401424673168\">Ryan Cropper</a>"
+        attribution_name: Ryan Cropper
+      - url: "https://cdn.filestackcontent.com/tOYLFGhURcGqJZ4HTruS"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/106670507536817288058"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106670507536817288058\">The Alaska Club East</a>"
+        attribution_name: The Alaska Club East
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: the-alaska-club-east
+    path: /courts/us/alaska/anchorage/the-alaska-club-east
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-21T03:20:24.970Z"
+    updated_at: "2025-05-21T09:25:14.999Z"
+    schedule_sources_updated_at: null
+  - id: "62b5b1c5-716c-49dc-ba10-b46ea5ef3187"
+    title: The Alaska Club South
+    address: "10931 O'Malley Centre Dr, Anchorage, AK 99515, USA"
+    lat: 61.12158419999999
+    lng: -149.8597676
+    coords: "01010000002285573783BB62C0EA5A3112908F4E40"
+    phone: "+19073446567"
+    email: null
+    url: "https://www.thealaskaclub.com/south-anchorage-gym"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 3
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard, wood]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/cl8mrgaRTSsES6i3iX16"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/114368785042043912457"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114368785042043912457\">The Alaska Club South</a>"
+        attribution_name: The Alaska Club South
+      - url: "https://cdn.filestackcontent.com/KOVPmgknTiuCbgtmfNUh"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/114368785042043912457"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114368785042043912457\">The Alaska Club South</a>"
+        attribution_name: The Alaska Club South
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: the-alaska-club-south
+    path: /courts/us/alaska/anchorage/the-alaska-club-south
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-07-19T02:50:32.184Z"
+    updated_at: "2023-07-19T02:50:32.184Z"
+    schedule_sources_updated_at: null
+  - id: e447fcd7-fc4a-49af-82a9-d17155470c98
+    title: The Alaska Club Wasilla
+    address: "1720 E Parks Hwy, Wasilla, AK 99654, USA"
+    lat: 61.57431419999999
+    lng: -149.4080519
+    coords: "010100000043B2DBC20EAD62C06E50B12083C94E40"
+    phone: "+19073763300"
+    email: null
+    url: "https://www.thealaskaclub.com/wasilla-gym"
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/gWgF8eKAT12mCcqHhxxS"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115812850882650076431"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115812850882650076431\">The Alaska Club Wasilla</a>"
+        attribution_name: The Alaska Club Wasilla
+    country_slug: us
+    state_slug: alaska
+    city_slug: wasilla
+    city_id: 1840023371
+    slug: the-alaska-club-wasilla
+    path: /courts/us/alaska/wasilla/the-alaska-club-wasilla
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-02-08T08:44:13.148Z"
+    updated_at: "2024-02-08T08:44:13.148Z"
+    schedule_sources_updated_at: null
+  - id: f04583d9-34b3-42a4-8b70-fc75891973d6
+    title: The Alaska Club West
+    address: "1400 W Northern Lights Blvd, Anchorage, AK 99503, USA"
+    lat: 61.19484620000001
+    lng: -149.9103755
+    coords: "01010000008CF2CCCB21BD62C0FD5F64B8F0984E40"
+    phone: "+19072642720"
+    email: null
+    url: "https://www.thealaskaclub.com/west-anchorage-gym"
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/63K2sEVeR8usApISFz0K"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/105521265752427638891"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/105521265752427638891\">The Alaska Club West</a>"
+        attribution_name: The Alaska Club West
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: the-alaska-club-west
+    path: /courts/us/alaska/anchorage/the-alaska-club-west
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-11T01:40:06.144Z"
+    updated_at: "2023-08-12T04:59:34.780Z"
+    schedule_sources_updated_at: null
+  - id: cc6c63c0-d56c-4c2c-858a-103f3035941d
+    title: The Alaska Dome
+    address: "6501 Changepoint Dr, Anchorage, AK, 99518, USA"
+    lat: 61.161453
+    lng: -149.90196
+    coords: "01010000009BC937DBDCBC62C0A96BED7DAA944E40"
+    phone: "2542907790"
+    email: null
+    url: "https://thedome.us/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: $12 per session
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/wdwUFo3Q3OpWEDwF5UpR"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Ben Nove
+      - url: "https://cdn.filestackcontent.com/kb5y3NtHQuKXl0bx3NU0"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/109267159199260432580"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/109267159199260432580\">The Dome</a>"
+        attribution_name: The Dome
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: the-alaska-dome
+    path: /courts/us/alaska/anchorage/the-alaska-dome
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-20T17:23:47.945Z"
+    updated_at: "2025-02-17T09:00:50.151Z"
+    schedule_sources_updated_at: null
+  - id: "37d96447-8d3d-4226-bd56-68aa98f24c4a"
+    title: The Hames Center
+    address: "121 John Brady Dr, Sitka, AK 99835, USA"
+    lat: 57.05272739999999
+    lng: -135.3221632
+    coords: "010100000031FF32294FEA60C0314D7DC5BF864C40"
+    phone: "9077387529"
+    email: null
+    url: "http://www.hamescenter.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/jtnqgvsKSVpQME6xo6KG"
+        source: user
+        visible: true
+        attribution_url: "https://www.yelp.com/biz_photos/hames-center-sitka?select=51d_RZpCkkmoR9uUh1a6HA"
+        attribution_html: null
+        attribution_name: " Lindsay G."
+    country_slug: us
+    state_slug: alaska
+    city_slug: sitka
+    city_id: 1840023319
+    slug: the-hames-center
+    path: /courts/us/alaska/sitka/the-hames-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-07T04:19:01.733Z"
+    updated_at: "2023-01-09T02:17:13.888Z"
+    schedule_sources_updated_at: null
+  - id: f7e5218d-c86f-424b-bae5-4b895fad0fd5
+    title: The Northeast Muldoon Boys & Girls Club
+    address: "1251 Muldoon Rd, Anchorage, AK, 99504, USA"
+    lat: 61.210666
+    lng: -149.731015
+    coords: "010100000056BC917964B762C088307E1AF79A4E40"
+    phone: "+19073332582"
+    email: null
+    url: "https://www.facebook.com/NortheastCommunityCenterMuldoon/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/oLrOJqP4SuOTBUjLFTVJ"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/294060756_5233437456738029_5271088591884135971_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a26aad&_nc_eui2=AeH_8zU1ZLCuWwf24dVW8pjuBZcyC2b9QPMFlzILZv1A89sd6xq56gRacZ_grpVKpzCf3XuMn2L8LsFnUqbll0Z0&_nc_ohc=9vO1XoLFwA0AX9p1hPH&_nc_ht=scontent-lax3-1.xx&_nc_e2o=c&oh=00_AfCZLPn0b9seY-B6ArV3wyAOj_Lx673Ga3Xb7OyvEk_J9w&oe=64BC7497"
+        attribution_html: null
+        attribution_name: Boys & Girls Club Northeast Community Center
+    country_slug: us
+    state_slug: alaska
+    city_slug: anchorage
+    city_id: 1840023385
+    slug: the-northeast-muldoon-boys-and-girls-club
+    path: /courts/us/alaska/anchorage/the-northeast-muldoon-boys-and-girls-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T17:04:12.517Z"
+    updated_at: "2023-07-19T03:38:29.666Z"
+    schedule_sources_updated_at: null
+  - id: "11b546d7-04eb-4d27-87cb-4240c6edd886"
+    title: UAF Nanook Recreation
+    address: "1910 Tanana Loop, Fairbanks, Alaska 99775, United States"
+    lat: 64.85647
+    lng: -147.83381
+    coords: "01010000007D224F92AE7A62C054008C67D0365040"
+    phone: "+19074745886"
+    email: ""
+    url: "https://www.uaf.edu/recreation/src/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, locker rooms, water]
+    description: Courts are shared with other sports. Have to call to find current times
+    access_details: Must have membership or pay daily fee. $12 per day
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/DntgZKfMRONra2wTAFbw"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/nanookrec/photos/pb.100041521071951.-2207520000./10157455090192590/?type=3"
+        attribution_html: null
+        attribution_name: UAF Nanook Recreation
+    country_slug: us
+    state_slug: alaska
+    city_slug: fairbanks
+    city_id: 1840023463
+    slug: uaf-nanook-recreation
+    path: /courts/us/alaska/fairbanks/uaf-nanook-recreation
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-24T05:40:54.018Z"
+    updated_at: "2025-04-17T08:19:58.906Z"
+    schedule_sources_updated_at: null
+  - id: "7075bf2c-dcea-4a84-868c-359cdb7b6c29"
+    title: Willow Elementary School Hockey Rink
+    address: "31706 George Parks Highway, Willow, AK, USA"
+    lat: 61.7422097
+    lng: -150.0461842
+    coords: "0101000000F19249577AC162C011233ABA00DF4E40"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 6
+    total_courts: 8
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: [lighted]
+    description: The courts are covered with lights
+    access_details: $5 Drop in fee
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/IPxpZEIAQZKRsDu3l1C2"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: alaska
+    city_slug: willow
+    city_id: 1840023377
+    slug: willow-elementary-school-hockey-rink
+    path: /courts/us/alaska/willow/willow-elementary-school-hockey-rink
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-07-25T10:31:21.702Z"
+    updated_at: "2024-07-26T10:19:25.987Z"
+    schedule_sources_updated_at: "2024-07-25T10:32:55.171Z"
+  - id: d9dd93b9-8708-453e-aac1-286513e55c26
+    title: Wood Center
+    address: "505 S Chandalar, Fairbanks, AK 99775, USA"
+    lat: 64.85575659999999
+    lng: -147.8335418
+    coords: "01010000002B5BDA5FAC7A62C0839554B7C4365040"
+    phone: "9074574068"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: Winter play
+    images:
+      - url: "https://cdn.filestackcontent.com/hju64ZlmQst8SxVjCYM4"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/106716111035221666208"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106716111035221666208\">Dale Fahrion</a>"
+        attribution_name: Dale Fahrion
+      - url: "https://cdn.filestackcontent.com/4cOzPmhvRNGIBNZ93AMv"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/116073047761992664031"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/116073047761992664031\">Daniel Nova Brower</a>"
+        attribution_name: Daniel Nova Brower
+    country_slug: us
+    state_slug: alaska
+    city_slug: fairbanks
+    city_id: 1840023463
+    slug: wood-center
+    path: /courts/us/alaska/fairbanks/wood-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-31T02:09:33.087Z"
+    updated_at: "2023-01-09T03:36:01.557Z"
+    schedule_sources_updated_at: null

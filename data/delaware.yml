@@ -1,0 +1,2343 @@
+state: Delaware
+state_slug: delaware
+country: us
+court_count: 53
+scraped_at: "2026-06-30T05:22:32.424Z"
+source: pickleheads.com misc.search API
+courts:
+  - id: c128f98d-fbf9-4981-a99d-c28dd94ac3bf
+    title: Ace Pickleball Club - Wilmington
+    address: "5500 Brandywine Pkwy, Wilmington, DE 19803, USA"
+    lat: 39.8330572
+    lng: -75.5393185
+    coords: "01010000002DE8BD3184E252C042D94A9EA1EA4340"
+    phone: null
+    email: wilmingtonde@acepickleballclub.com
+    url: "https://www.acepickleballclub.com/wilmington-de"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 11
+    outdoor_courts: 0
+    total_courts: 11
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, locker rooms, food, training, lighted, water]
+    description: ""
+    access_details: "$39, $59, $79, and $109 memberships available."
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/FjuYNIWESBGg2ZnzGDL0"
+        source: user
+        attribution_url: "https://www.google.com/search?q=ACE+PICKLEBALL+CLUB+wilmington+delaware&sca_esv=30be4ccf2ba70406&sxsrf=ANbL-n6-s1xunZnQqtENKCtJM0L80nWphA%3A1770203560600&ei=qCmDaaOxJO-U0PEP7-SCoAo&biw=1280&bih=585&aic=0&ved=0ahUKEwijpaOT2r-SAxVvCjQIHW-yAKQQ4dUDCBM&uact=5&oq=ACE+PICKLEBALL+CLUB+wilmington+delaware&gs_lp=Egxnd3Mtd2l6LXNlcnAiJ0FDRSBQSUNLTEVCQUxMIENMVUIgd2lsbWluZ3RvbiBkZWxhd2FyZTIGEAAYFhgeMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FMgUQABjvBTIFEAAY7wVIyUpQnANY9kZwAngBkAEAmAH3AqAB2i2qAQYyLTE3LjS4AQPIAQD4AQGYAhegAoMvwgIKEAAYsAMY1gQYR8ICDRAAGIAEGLADGEMYigXCAg4QABiwAxjkAhjWBNgBAcICGRAuGIAEGLADGEMYxwEYyAMYigUYrwHYAQHCAgoQABiABBhDGIoFwgIFEAAYgATCAhAQLhiABBhDGMcBGIoFGK8BwgIQEC4YgAQYFBiHAhjHARivAcICCxAuGIAEGMcBGK8BwgILEAAYgAQYhgMYigXCAhoQLhiABBjHARivARiXBRjcBBjeBBjgBNgBAcICBxAAGIAEGA3CAgUQIRigAZgDAIgGAZAGE7oGBggBEAEYCZIHCDIuMC4xNy40oAfLfbIHBjItMTcuNLgH7C7CBwgwLjQuMTUuNMgHeoAIAA&sclient=gws-wiz-serp#lpg=cid:CgIgAQ%3D%3D,ik:CAoSLEFGMVFpcE1IdlJNSnVoVU85bnUzUFdQQmh3QnlMdUJSWTVNSzJObkVrM2o2"
+        attribution_html: null
+        attribution_name: Ace Pickleball Club
+    country_slug: us
+    state_slug: delaware
+    city_slug: wilmington
+    city_id: 1840005579
+    slug: ace-pickleball-club-wilmington
+    path: /courts/us/delaware/wilmington/ace-pickleball-club-wilmington
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-02-13T05:15:55.883Z"
+    updated_at: "2026-06-15T08:07:22.326Z"
+    schedule_sources_updated_at: null
+  - id: "8c234765-b18e-49ac-90c0-873f9a8f9555"
+    title: Appoquinimink High School
+    address: "1080 Bunker Hill Rd, Middletown, DE, USA"
+    lat: 39.4537305
+    lng: -75.7488085
+    coords: "0101000000E09D7C7AECEF52C04F594DD713BA4340"
+    phone: null
+    email: null
+    url: "https://www.appohigh.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: Can only be used during non school hours
+    access_details: null
+    schedule_details: Can only be used on non school hours
+    images:
+      - url: "https://cdn.filestackcontent.com/HLOQbX5xSOGjHnYja7cJ"
+        source: user
+        attribution_url: "https://www.apposchooldistrict.com/pics/school_profiles/appo_bldgs24.jpg"
+        attribution_html: null
+        attribution_name: "Appoquinimink High School "
+    country_slug: us
+    state_slug: delaware
+    city_slug: middletown
+    city_id: 1840005581
+    slug: appoquinimink-high-school
+    path: /courts/us/delaware/middletown/appoquinimink-high-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-11-04T08:17:30.191Z"
+    updated_at: "2025-11-04T08:37:42.581Z"
+    schedule_sources_updated_at: null
+  - id: b5cab155-2f42-48ea-b4da-63d680597ce5
+    title: Bayside Resort Golf Club
+    address: "31381 Forsythia Dr, Selbyville, DE, 19975, USA"
+    lat: 38.460608
+    lng: -75.11744
+    coords: "010100000081CF0F2384C752C05323F433F53A4340"
+    phone: "3024363550"
+    email: null
+    url: "http://www.golfbayside.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: null
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/TRJ8HklVTwGQDFXsyX3F"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: delaware
+    city_slug: selbyville
+    city_id: 1840006083
+    slug: bayside-resort-golf-club
+    path: /courts/us/delaware/selbyville/bayside-resort-golf-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T04:32:34.845Z"
+    updated_at: "2022-11-30T18:40:02.754Z"
+    schedule_sources_updated_at: null
+  - id: a1d43466-c110-4450-87bc-bdfb55623ae6
+    title: Bear-Glasgow Family YMCA
+    address: "351 George Williams Way, Newark, DE 19702, USA"
+    lat: 39.6055466
+    lng: -75.73260619999999
+    coords: "010100000032761D05E3EE52C01C9A0D8D82CD4340"
+    phone: "+13028369622"
+    email: null
+    url: "https://www.ymcade.org/locations/bear-glasgow-ymca/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/1G5GAKatQlubJoq0pHPb"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/102655814815480258184"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/102655814815480258184\">Bear-Glasgow Family YMCA</a>"
+        attribution_name: Bear-Glasgow Family YMCA
+    country_slug: us
+    state_slug: delaware
+    city_slug: newark
+    city_id: 1840005578
+    slug: bear-glasgow-family-ymca
+    path: /courts/us/delaware/newark/bear-glasgow-family-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-15T10:48:56.619Z"
+    updated_at: "2023-08-16T02:31:08.298Z"
+    schedule_sources_updated_at: null
+  - id: "9dd4e3e7-8930-47e2-9da4-2ff28aef61b2"
+    title: Bechtel Park
+    address: "1201 Naamans Rd, Wilmington, DE, 19810, USA"
+    lat: 39.82252597592857
+    lng: -75.47571887119865
+    coords: "0101000000D978902D72DE52C0A25CFB8748E94340"
+    phone: (302) 395-5700
+    email: www.parksrequest@nccde.org
+    url: "https://www.newcastlede.gov/facilities/facility/details/Bechtel-Park-58"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: The is an incline if you are bringing a wheeled items or a transport chair. There’s also a small playground next to the courts.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/WrixECjnQjmSYq7mjQp2"
+        source: user
+        visible: true
+        attribution_url: "https://lh5.googleusercontent.com/p/AF1QipP1VtdIj-4aOBX_ygGJ9Ni3uze4uECVl5G3LskN"
+        attribution_html: null
+        attribution_name: amusements-parks.com
+    country_slug: us
+    state_slug: delaware
+    city_slug: wilmington
+    city_id: 1840005579
+    slug: bechtel-park
+    path: /courts/us/delaware/wilmington/bechtel-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-22T17:34:18.303Z"
+    updated_at: "2024-06-12T09:57:26.274Z"
+    schedule_sources_updated_at: null
+  - id: "81eb3fde-364b-45ef-a875-3dfaf1e7f833"
+    title: Bellevue Tennis Center
+    address: "800 Carr Road, Wilmington, Delaware, United States"
+    lat: 39.7812146
+    lng: -75.5024135
+    coords: "010100000069E4F38A27E052C030140BD7FEE34340"
+    phone: "+13022297845"
+    email: info@bellevuetc.net
+    url: "https://playtennis.usta.com/bellevuetenniscenter"
+    reservation_url: "https://courtreserve.com/court-reservations/"
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 0
+    total_courts: 0
+    has_pickleball: true
+    surface: [clay]
+    lines: null
+    nets: null
+    amenities: []
+    description: CLOSED for Season! Re-open in April 2026.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/BNWbqp2BS52INcE2olwW"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/113933932510362555962"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113933932510362555962\">Taya Dianna</a>"
+        attribution_name: Taya Dianna
+    country_slug: us
+    state_slug: delaware
+    city_slug: wilmington
+    city_id: 1840005579
+    slug: bellevue-tennis-center
+    path: /courts/us/delaware/wilmington/bellevue-tennis-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-11-18T08:11:44.453Z"
+    updated_at: "2025-11-18T08:11:44.453Z"
+    schedule_sources_updated_at: null
+  - id: "6972ea3b-d46f-47ae-8d7f-d9127e4af087"
+    title: Bounce Pickleball - Wilmington
+    address: "510 Justison Street, Wilmington, DE, USA"
+    lat: 39.7351089
+    lng: -75.5604579
+    coords: "01010000003BD2CF8ADEE352C0D03F660C18DE4340"
+    phone: "+14843683074"
+    email: null
+    url: "https://www.bouncepb.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 8
+    outdoor_courts: 0
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [locker rooms, restrooms, water, youth, pro shop, lighted, training]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/pdNWOcjcTG2Yq7DQ3Ltn"
+        source: user
+        attribution_url: "https://www.delawareonline.com/gcdn/authoring/authoring-images/2024/08/01/PWIL/74637321007-bounce-1-1.jpg?crop=5327,3997,x0,y1"
+        attribution_html: null
+        attribution_name: The News Journal
+    country_slug: us
+    state_slug: delaware
+    city_slug: wilmington
+    city_id: 1840005579
+    slug: bounce-pickleball-wilmington
+    path: /courts/us/delaware/wilmington/bounce-pickleball-wilmington
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-02-28T08:54:11.122Z"
+    updated_at: "2025-02-28T08:56:58.763Z"
+    schedule_sources_updated_at: null
+  - id: "9b5cc8dc-50f1-40a9-8fdf-e73b1d5fadd7"
+    title: Brandywine YMCA
+    address: "3 Mount Lebanon Road, Wilmington, Delaware 19803, United States"
+    lat: 39.80737
+    lng: -75.55152
+    coords: "0101000000C1C58A1A4CE352C0C1E270E657E74340"
+    phone: "+13024789622"
+    email: null
+    url: "https://www.ymcade.org/locations/brandywine-ymca/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/kd38CF3FSmhvIzcF1gTw"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/bwineymca/photos/pb.100063598239754.-2207520000./10160186048644973/?type=3"
+        attribution_html: null
+        attribution_name: Brandywine YMCA
+      - url: "https://cdn.filestackcontent.com/YlOCJU9iQ7G3vUjOXnYr"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/117087032188831435636"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117087032188831435636\">Brandywine YMCA</a>"
+        attribution_name: Brandywine YMCA
+    country_slug: us
+    state_slug: delaware
+    city_slug: wilmington
+    city_id: 1840005579
+    slug: brandywine-ymca
+    path: /courts/us/delaware/wilmington/brandywine-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-28T01:59:34.738Z"
+    updated_at: "2023-04-28T01:59:34.738Z"
+    schedule_sources_updated_at: null
+  - id: "2389b214-95d0-48a8-b707-c544164caad0"
+    title: Courtside Pickleball & Tennis Club
+    address: "2117 Kenton Rd, Dover, DE, 19904, USA"
+    lat: 39.174267
+    lng: -75.580435
+    coords: "01010000000A9DD7D825E552C0D2E28C614E964340"
+    phone: "+13024700478"
+    email: courtsidepaddleandracket@gmail.com
+    url: "http://www.courtsidepickleballandtennis.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 12
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted, training, youth]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/2AsbRuY0T3WEeWopCUCM"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/"
+        attribution_html: null
+        attribution_name: Courtside Pickleball and Tennis Club
+    country_slug: us
+    state_slug: delaware
+    city_slug: dover
+    city_id: 1840005810
+    slug: courtside-pickleball-and-tennis-club
+    path: /courts/us/delaware/dover/courtside-pickleball-and-tennis-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-07T11:31:04.715Z"
+    updated_at: "2025-06-23T13:32:22.617Z"
+    schedule_sources_updated_at: null
+  - id: "57c8b21a-d5a8-4ec2-a8ac-5790131661ab"
+    title: D-FIT
+    address: "4905 Mermaid Blvd, Wilmington, DE, 19808, USA"
+    lat: 39.737912
+    lng: -75.703389
+    coords: "01010000006FD74B5304ED52C0B9A981E673DE4340"
+    phone: "3022348500"
+    email: null
+    url: "http://www.delswimfit.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: false
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: tape
+    nets: portable
+    amenities: [food, locker rooms, restrooms, water]
+    description: ""
+    access_details: Guest fee required for non members
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/W5LaJs52Sk6d1vNJh4TE"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115749845620999722959"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115749845620999722959\">D-Fit, formerly Delaware Swim &amp; Fitness Center</a>"
+        attribution_name: "D-Fit, formerly Delaware Swim &amp; Fitness Center"
+    country_slug: us
+    state_slug: delaware
+    city_slug: wilmington
+    city_id: 1840005579
+    slug: d-fit
+    path: /courts/us/delaware/wilmington/d-fit
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T12:58:20.798Z"
+    updated_at: "2024-06-26T09:19:22.864Z"
+    schedule_sources_updated_at: null
+  - id: "527bfba6-dba7-4562-a9c7-91d8e6723274"
+    title: Dave Marshall Tennis & pickleball Center
+    address: "18466 The Plantations Blvd, Lewes, DE 19958, USA"
+    lat: 38.7338863
+    lng: -75.1638181
+    coords: "01010000008B7FE9FE7BCA52C0C1BD7CFCEF5D4340"
+    phone: "3023817617"
+    email: Dave@davemarshalltennis.com
+    url: "http://www.davemarshalltennis.com/"
+    reservation_url: "https://app.courtreserve.com/Online/Portal/Index/12550"
+    facility_type: club
+    access: one-time
+    has_reservations: true
+    indoor_courts: 12
+    outdoor_courts: 2
+    total_courts: 14
+    has_pickleball: true
+    surface: [clay, hard, grass, acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [pro shop, restrooms, water, training, wheelchair accessible, locker rooms, youth]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/BQUkxBlPS7eYcEag4Pdg"
+        source: user
+        attribution_url: "https://www.google.com/maps/contrib/103386629229035557466/photos/@38.7338863,-75.1638181,663m/data=!3m2!1e3!4b1!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI1MDMwMy4wIKXMDSoASAFQAw%3D%3D"
+        attribution_html: null
+        attribution_name: Dave Marshall Pickleball & Tennis
+      - url: "https://cdn.filestackcontent.com/c3Z2XLgShWhxLFAq07yX"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/103386629229035557466"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103386629229035557466\">Dave Marshall Tennis &amp; Fitness</a>"
+        attribution_name: Dave Marshall Tennis &amp; Fitness
+      - url: "https://cdn.filestackcontent.com/z5Rbm01mR8usUB8YX5OW"
+      - url: "https://cdn.filestackcontent.com/PuFGmtFSeiPX8vgCnisZ"
+      - url: "https://cdn.filestackcontent.com/8Ddv07szSRm6iRG3xg9P"
+    country_slug: us
+    state_slug: delaware
+    city_slug: lewes
+    city_id: 1840006068
+    slug: dave-marshall-tennis-and-pickleball-center
+    path: /courts/us/delaware/lewes/dave-marshall-tennis-and-pickleball-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T06:39:28.395Z"
+    updated_at: "2025-11-19T07:28:35.957Z"
+    schedule_sources_updated_at: null
+  - id: "754de718-e429-436c-ab8b-982553a5c076"
+    title: Deacons Walk Park
+    address: "45 Ware Road, Newark, DE 19711, USA"
+    lat: 39.7246276
+    lng: -75.70716949999999
+    coords: "0101000000A2CEDC4342ED52C0B5E3E198C0DC4340"
+    phone: "3025986123"
+    email: Hdholeman@aol.com
+    url: null
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: Free
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/eRWZgZ0LQMG3WOSCnTcY"
+    country_slug: us
+    state_slug: delaware
+    city_slug: newark
+    city_id: 1840005578
+    slug: deacons-walk-park
+    path: /courts/us/delaware/newark/deacons-walk-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-22T02:31:20.897Z"
+    updated_at: "2024-05-15T08:06:21.421Z"
+    schedule_sources_updated_at: "2023-10-09T17:07:25.131Z"
+  - id: "4a5906a4-f8d0-48a2-9d78-14a08b99eb35"
+    title: Delaware Technical Community College - Charles L. Terry Jr. Campus - Dover
+    address: "100 Campus Drive, Dover, DE, USA"
+    lat: 39.1970983
+    lng: -75.55875069999999
+    coords: "01010000007EC74B92C2E352C0714C60843A994340"
+    phone: "+13028571000"
+    email: null
+    url: "https://www.dtcc.edu/our-campuses/dover"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/HJpRUc2MS26CyYZDraLF"
+        source: user
+        attribution_url: "https://www.dtcc.edu/media/dtcc-website/content-assets/images/hero-images/georgetown-campus-hero.jpeg"
+        attribution_html: null
+        attribution_name: Delaware Technical Community College
+    country_slug: us
+    state_slug: delaware
+    city_slug: dover
+    city_id: 1840005810
+    slug: delaware-technical-community-college-charles-l-terry-jr-campus-dover
+    path: /courts/us/delaware/dover/delaware-technical-community-college-charles-l-terry-jr-campus-dover
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-09-11T10:33:13.418Z"
+    updated_at: "2024-09-11T10:45:50.696Z"
+    schedule_sources_updated_at: null
+  - id: a22cb85f-9bf0-412a-80c3-9d7a5f153fa0
+    title: Delcastle Tennis Center
+    address: "710 McKennans Church Rd, Wilmington, DE, 19808, USA"
+    lat: 39.748096
+    lng: -75.65775
+    coords: "01010000006ABC749318EA52C05B22179CC1DF4340"
+    phone: "3026830333"
+    email: hdholeman@aol.com
+    url: "https://delcastletenniscenter.com/"
+    reservation_url: null
+    facility_type: public
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: $10/ court hr maximum reservation 2hrs
+    schedule_details: "Team Reach Group Code: Delcastleplayers."
+    images:
+      - url: "https://cdn.filestackcontent.com/VI2fwjHLSHSZItteRcAZ"
+    country_slug: us
+    state_slug: delaware
+    city_slug: wilmington
+    city_id: 1840005579
+    slug: delcastle-tennis-center
+    path: /courts/us/delaware/wilmington/delcastle-tennis-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-22T02:47:53.955Z"
+    updated_at: "2025-07-09T08:06:34.564Z"
+    schedule_sources_updated_at: null
+  - id: "5ed0d6b3-da93-4218-9996-069f1c4d5453"
+    title: Dill Dinkers Pickleball Newport DE
+    address: "500 Water Street, Newport, DE, USA"
+    lat: 39.7133797
+    lng: -75.59780239999999
+    coords: "0101000000195EFF6442E652C0AD90A80650DB4340"
+    phone: "+13025913465"
+    email: club1025@dilldinkers.com
+    url: "https://locations.dilldinkers.com/us/de/newport/water-street"
+    reservation_url: "https://widgets.courtreserve.com/Online/Public/EmbedCode/13843/42868"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 10
+    outdoor_courts: 0
+    total_courts: 10
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [training, restrooms, pro shop, water, youth, wheelchair accessible, lighted, food, locker rooms]
+    description: ""
+    access_details: Membership is not required. Visitors are welcome. Please register for your court time in advance.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/eKlut6BQTO90MPavLWXH"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Courts
+      - url: "https://cdn.filestackcontent.com/TPo4DefgSqOOzP8ZAQOA"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Courts
+      - url: "https://cdn.filestackcontent.com/oNaUvHKT6qpchWfMUNML"
+        source: user
+        attribution_url: "https://locations.dilldinkers.com/us/de/newport/water-street"
+        attribution_html: null
+        attribution_name: Front
+    country_slug: us
+    state_slug: delaware
+    city_slug: newport
+    city_id: 1840005582
+    slug: dill-dinkers-pickleball-newport-de
+    path: /courts/us/delaware/newport/dill-dinkers-pickleball-newport-de
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-02-12T06:50:56.348Z"
+    updated_at: "2025-07-30T09:16:44.016Z"
+    schedule_sources_updated_at: null
+  - id: "45c53797-4509-4461-bf62-39b688f85253"
+    title: Evans Park at Millville
+    address: "32517 Dukes Dr, Millville, DE, 19967, USA"
+    lat: 38.544487
+    lng: -75.113569
+    coords: "0101000000B935E9B644C752C06F0C01C0B1454340"
+    phone: null
+    email: rjbender55@gmail.com
+    url: "https://millville.delaware.gov/community/town-park/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: null
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/zbQnSYcUSjO2Usi9wn3M"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: delaware
+    city_slug: millville
+    city_id: 1840006080
+    slug: evans-park-at-millville
+    path: /courts/us/delaware/millville/evans-park-at-millville
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-21T22:17:02.650Z"
+    updated_at: "2022-11-30T16:19:47.645Z"
+    schedule_sources_updated_at: null
+  - id: "7052794f-ec61-4643-9562-41155ddee6c1"
+    title: Factory Sports Inc.
+    address: "34545 Dupont Boulevard unit 6, Frankford, DE, USA"
+    lat: 38.5088275
+    lng: -75.23783019999999
+    coords: "010100000012C0289C38CF52C019E76F4221414340"
+    phone: null
+    email: nicole@factorysportsde.com
+    url: "https://www.factorysportsde.com"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted, training]
+    description: ""
+    access_details: $10
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/1Y7Bp9S2SWC8mPAEk7ML"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/G9wKrUCRSie15wkrjLCX"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: delaware
+    city_slug: frankford
+    city_id: 1840006064
+    slug: factory-sports-inc
+    path: /courts/us/delaware/frankford/factory-sports-inc
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-17T09:20:08.003Z"
+    updated_at: "2024-09-09T09:42:15.838Z"
+    schedule_sources_updated_at: "2024-09-06T13:41:20.754Z"
+  - id: "7062c48a-c479-4ea8-b4dd-416f7c437305"
+    title: Fly High Cheer and Tumble
+    address: "140 Sarah Circle, Camden , DE 19934, USA"
+    lat: 39.11139
+    lng: -75.56233
+    coords: "0101000000D2E3F736FDE352C0FC8C0B07428E4340"
+    phone: "585-615-1122"
+    email: FlyHighPickleball@gmail.com
+    url: "http://flyhighcheerandtumble.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/zFQTxvLFSAaiL8DkZnrW"
+        source: user
+        visible: true
+        attribution_url: "https://visibook.com/fhpickleball"
+        attribution_html: null
+        attribution_name: Fly High Pickleball
+      - url: "https://cdn.filestackcontent.com/jygGKNeSR1mRcQhXaZmP"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/102635196645368370738"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/102635196645368370738\">Fly High Cheer and Tumble, LLC</a>"
+        attribution_name: "Fly High Cheer and Tumble, LLC"
+    country_slug: us
+    state_slug: delaware
+    city_slug: camden
+    city_id: 1840005813
+    slug: fly-high-cheer-and-tumble
+    path: /courts/us/delaware/camden/fly-high-cheer-and-tumble
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-08T12:41:24.309Z"
+    updated_at: "2023-06-15T04:12:08.733Z"
+    schedule_sources_updated_at: null
+  - id: ca87b2b3-b7b4-4100-bd03-ff096acb7155
+    title: Folk Memorial Park
+    address: "98 Welsh Tract Rd, Newark, DE, 19713, USA"
+    lat: 39.648278
+    lng: -75.758134
+    coords: "010100000015FF774485F052C0AF5B04C6FAD24340"
+    phone: "3023667000"
+    email: null
+    url: "http://www.cityofnewarkde.us/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard]
+    lines: temporary
+    nets: byo
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/HEoUAM4rQ8alty5Sfi5O"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: delaware
+    city_slug: newark
+    city_id: 1840005578
+    slug: folk-memorial-park
+    path: /courts/us/delaware/newark/folk-memorial-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T07:16:43.563Z"
+    updated_at: "2022-11-30T22:06:27.200Z"
+    schedule_sources_updated_at: null
+  - id: ddda4758-3d9c-4458-870e-e5c1dfaa808b
+    title: Fraim Center
+    address: "669 S Union St, Wilmington, DE, 19805, USA"
+    lat: 39.743174
+    lng: -75.581785
+    coords: "01010000006A1327F73BE552C0679E5C5320DF4340"
+    phone: "3023793349"
+    email: Chusfelt@fraimcenter.org
+    url: "http://www.fraimcenter.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/wYQdakiTKK7bdewrx6OF"
+        source: user
+        visible: true
+        attribution_url: "https://static.wixstatic.com/media/a99bc0_03dc93369a284f12a6677db09202cf91~mv2.jpg/v1/fill/w_321,h_192,q_90/a99bc0_03dc93369a284f12a6677db09202cf91~mv2.jpg"
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: delaware
+    city_slug: wilmington
+    city_id: 1840005579
+    slug: fraim-center
+    path: /courts/us/delaware/wilmington/fraim-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-21T03:34:18.035Z"
+    updated_at: "2024-05-15T08:04:54.020Z"
+    schedule_sources_updated_at: null
+  - id: aa8ceb7b-cb4d-439b-913e-08afa679881a
+    title: Frog Hollow Golf Club
+    address: "1 E Whittington Way, Middletown, DE, 19709, USA"
+    lat: 39.466689
+    lng: -75.710398
+    coords: "010100000034492C2977ED52C094331477BCBB4340"
+    phone: "3023766505"
+    email: null
+    url: "http://www.froghollowgolfclub.com/"
+    reservation_url: null
+    facility_type: club
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/CeYVteLtRqzgf8bSib0V"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: delaware
+    city_slug: middletown
+    city_id: 1840005581
+    slug: frog-hollow-golf-club
+    path: /courts/us/delaware/middletown/frog-hollow-golf-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T02:09:18.781Z"
+    updated_at: "2022-11-30T17:08:56.848Z"
+    schedule_sources_updated_at: null
+  - id: af379671-c462-422e-bb74-57b5a230109b
+    title: George Wilson Community Center
+    address: "303 New London Rd, Newark, DE, 19711, USA"
+    lat: 39.689621
+    lng: -75.761063
+    coords: "010100000085CC9541B5F052C042D13C8045D84340"
+    phone: "3023667069"
+    email: null
+    url: "https://newarkde.gov/153/George-Wilson-Center"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/wjqnnGBoQPq2UaKRRI6a"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: delaware
+    city_slug: newark
+    city_id: 1840005578
+    slug: george-wilson-community-center
+    path: /courts/us/delaware/newark/george-wilson-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T01:19:37.258Z"
+    updated_at: "2023-12-07T09:29:10.228Z"
+    schedule_sources_updated_at: null
+  - id: "3a534a30-4e10-4107-ab66-7596301f4f92"
+    title: Glasgow Park
+    address: "2199 Pulaski Hwy, Newark, DE, 19702, USA"
+    lat: 39.606764
+    lng: -75.737349
+    coords: "0101000000402FDCB930EF52C0F0315871AACD4340"
+    phone: "3025714006"
+    email: null
+    url: "http://www.cityofnewarkde.us/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/pQvF53qGSRa8cDxi2mxx"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: delaware
+    city_slug: newark
+    city_id: 1840005578
+    slug: glasgow-park
+    path: /courts/us/delaware/newark/glasgow-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T21:26:30.465Z"
+    updated_at: "2025-09-22T03:49:43.304Z"
+    schedule_sources_updated_at: null
+  - id: f7d1e857-f2a1-4c48-8b79-2d71663ac9f6
+    title: Greenbank Park
+    address: "244 Greenbank Rd, Wilmington, DE, 19808, USA"
+    lat: 39.737916
+    lng: -75.630818
+    coords: "01010000009AEE75525FE852C0FA980F0874DE4340"
+    phone: null
+    email: null
+    url: "http://www.ci.wilmington.de.us/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/bVrpOXIT7WEEPDNNBHR8"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: delaware
+    city_slug: wilmington
+    city_id: 1840005579
+    slug: greenbank-park
+    path: /courts/us/delaware/wilmington/greenbank-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T04:34:28.461Z"
+    updated_at: "2024-05-15T08:04:43.698Z"
+    schedule_sources_updated_at: null
+  - id: "906a49fa-564d-4bb7-8eeb-8d687e4540f6"
+    title: Greenville Country Club
+    address: "201 Owls Nest Rd, Wilmington, DE 19807, USA"
+    lat: 39.8153548
+    lng: -75.62355029999999
+    coords: "01010000004D7A843FE8E752C07D51CC8B5DE84340"
+    phone: "+13026523255"
+    email: null
+    url: "https://greenvillecc.com/PIckleball"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/NDTASrMwTlmSXi7sthWq"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: delaware
+    city_slug: wilmington
+    city_id: 1840005579
+    slug: greenville-country-club
+    path: /courts/us/delaware/wilmington/greenville-country-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-11-24T03:44:19.305Z"
+    updated_at: "2025-11-24T03:44:19.305Z"
+    schedule_sources_updated_at: null
+  - id: f39c79e6-5010-44d5-ae36-1061159faeb3
+    title: Harrington Parks and Rec
+    address: "114 E Liberty St, Harrington, DE, USA"
+    lat: 38.9256115
+    lng: -75.573348
+    coords: "0101000000874ECFBBB1E452C098A608707A764340"
+    phone: "+13023987975"
+    email: null
+    url: "https://harrington.delaware.gov/parks-recreation/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 3
+    total_courts: 7
+    has_pickleball: true
+    surface: [concrete, wood]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/kauOGbKURyCIKMV6SduZ"
+        source: user
+        attribution_url: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGLWPvn41CP4Ikw6t4pVoi9tIpyoBKXjqseOnwMwc0XC9-aNy-vRuHowK0OfbN7QaHJ9Fw-rxunvO0gZhqkcYpkHcmOCmKvTa0v7Yu1JfdRQ9pl0aUZrRe6fi6l7G2HVucZbpxL=s680-w680-h510-rw"
+        attribution_html: null
+        attribution_name: Lynzi Cohen
+    country_slug: us
+    state_slug: delaware
+    city_slug: harrington
+    city_id: 1840005811
+    slug: harrington-parks-and-rec
+    path: /courts/us/delaware/harrington/harrington-parks-and-rec
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-04-16T05:16:16.230Z"
+    updated_at: "2026-04-16T06:30:06.456Z"
+    schedule_sources_updated_at: null
+  - id: d328b2e1-22cb-465b-91f2-05e84f59eb3e
+    title: Hidden Valley Park
+    address: "120 West Mill Station Drive, Newark, DE, USA"
+    lat: 39.6955822
+    lng: -75.7776805
+    coords: "01010000002A8F6E84C5F152C0015768D608D94340"
+    phone: ""
+    email: asbaer74@gmail.com
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: []
+    lines: temporary
+    nets: byo
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: delaware
+    city_slug: newark
+    city_id: 1840005578
+    slug: hidden-valley-park
+    path: /courts/us/delaware/newark/hidden-valley-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-27T11:58:46.258Z"
+    updated_at: "2024-05-28T11:53:04.193Z"
+    schedule_sources_updated_at: null
+  - id: d8275652-5cf0-445a-9a73-bc3f514000bc
+    title: Hockessin Community Recreation Center
+    address: "7259 Lancaster Pike, Hockessin, DE, 19707, USA"
+    lat: 39.78711
+    lng: -75.68864
+    coords: "0101000000EBAD81AD12EC52C0622D3E05C0E44340"
+    phone: "3022398861"
+    email: ""
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 9
+    total_courts: 9
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [lighted, locker rooms, restrooms, water, training]
+    description: ""
+    access_details: $5 session fee with discount payment cards available for frequent users
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/lcZlYRzSRu29jkWpTlX7"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115873075500912823545"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115873075500912823545\">Frank Guidry</a>"
+        attribution_name: Frank Guidry
+      - url: "https://cdn.filestackcontent.com/9x6sXpuGSqW2L3YijOCn"
+    country_slug: us
+    state_slug: delaware
+    city_slug: hockessin
+    city_id: 1840005573
+    slug: hockessin-community-recreation-center
+    path: /courts/us/delaware/hockessin/hockessin-community-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-13T16:12:49.640Z"
+    updated_at: "2025-01-20T11:01:28.786Z"
+    schedule_sources_updated_at: null
+  - id: "526cafcb-7755-4eb5-9110-29c793eefb0d"
+    title: John M. Clayton Elementary School
+    address: "252 Clayton Ave, Frankford, DE, 19945, USA"
+    lat: 38.536095
+    lng: -75.236714
+    coords: "010100000058207A5226CF52C04A46CEC29E444340"
+    phone: "3027321500"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 10
+    total_courts: 10
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/kV9z0Ic5QLK3R7wQC04X"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/106670036581938792706"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106670036581938792706\">Christopher Congleton</a>"
+        attribution_name: Christopher Congleton
+      - url: "https://cdn.filestackcontent.com/dB9gmWDSYu2hrrY1Fecg"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/106670036581938792706"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106670036581938792706\">Christopher Congleton</a>"
+        attribution_name: Christopher Congleton
+    country_slug: us
+    state_slug: delaware
+    city_slug: frankford
+    city_id: 1840006064
+    slug: john-m-clayton-elementary-school
+    path: /courts/us/delaware/frankford/john-m-clayton-elementary-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T06:40:59.863Z"
+    updated_at: "2023-07-11T04:28:53.963Z"
+    schedule_sources_updated_at: null
+  - id: bf088279-ee40-4621-a83a-afe986667a95
+    title: Kent County Recreation Center
+    address: "1683 New Burton Rd, Dover, DE, 19904, USA"
+    lat: 39.128174
+    lng: -75.54792
+    coords: "0101000000C2340C1F11E352C04819710168904340"
+    phone: "3027442495"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 9
+    outdoor_courts: 0
+    total_courts: 9
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, locker rooms, water]
+    description: ""
+    access_details: purchase a pass to play
+    schedule_details: Schedule changes weekly check Kent county recreation center on Facebook for up to date schedules
+    images:
+      - url: "https://cdn.filestackcontent.com/vAY8RONdTIWhYnMDG0XS"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/108256179272330706049"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108256179272330706049\">Robert Njoku</a>"
+        attribution_name: Robert Njoku
+    country_slug: us
+    state_slug: delaware
+    city_slug: dover
+    city_id: 1840005810
+    slug: kent-county-recreation-center
+    path: /courts/us/delaware/dover/kent-county-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T07:08:24.667Z"
+    updated_at: "2024-06-24T10:22:02.719Z"
+    schedule_sources_updated_at: "2024-06-24T08:57:40.497Z"
+  - id: a0f9de29-7ce8-4793-807e-383a9b8d1ebf
+    title: King's Creek Country Club
+    address: "1 Kings Creek Cir, Rehoboth Beach, DE, 19971, USA"
+    lat: 38.710575
+    lng: -75.117514
+    coords: "01010000009EB4705985C752C0772D211FF45A4340"
+    phone: "3022277172"
+    email: Robert.patlan@icloud.com
+    url: "http://www.kingscreekcountryclub.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/xJCmqgAXRXwyGLpu7o89"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/114525027981658569903"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114525027981658569903\">Kings Creek Country Club</a>"
+        attribution_name: Kings Creek Country Club
+    country_slug: us
+    state_slug: delaware
+    city_slug: rehoboth-beach
+    city_id: 1840006070
+    slug: kings-creek-country-club
+    path: /courts/us/delaware/rehoboth-beach/kings-creek-country-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-31T17:49:15.875Z"
+    updated_at: "2022-11-30T17:04:47.628Z"
+    schedule_sources_updated_at: null
+  - id: "7415de76-a4be-4219-911a-fd7a09dc421a"
+    title: Lewes CanalFront Park Pickleball Courts
+    address: "211 Front St, Lewes, DE 19958, USA"
+    lat: 38.7766205
+    lng: -75.14115799999999
+    coords: "0101000000666490BB08C952C09B73F04C68634340"
+    phone: "+13026452795"
+    email: null
+    url: "http://lewescanalfrontpark.org/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/x07TNymGQVCu6LdQlfwH"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: delaware
+    city_slug: lewes
+    city_id: 1840006068
+    slug: lewes-canalfront-park-pickleball-courts
+    path: /courts/us/delaware/lewes/lewes-canalfront-park-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T23:41:34.471Z"
+    updated_at: "2024-05-14T07:27:26.614Z"
+    schedule_sources_updated_at: null
+  - id: "720301f5-f0ef-4ce8-a341-fdd2d7baa254"
+    title: Lovering Ave Park
+    address: "1101 Lovering Avenue, Wilmington, DE, USA"
+    lat: 39.7552563
+    lng: -75.5536499
+    coords: "0101000000C17BFDFF6EE352C08A4C0A3DACE04340"
+    phone: "3025777020"
+    email: null
+    url: "http://www.ci.wilmington.de.us/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: Players use Playtime scheduler to make up matches.
+    images:
+      - url: "https://cdn.filestackcontent.com/Je1z5UTcqzwvfyk2BZAk"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: delaware
+    city_slug: wilmington
+    city_id: 1840005579
+    slug: brandywine-park
+    path: /courts/us/delaware/wilmington/brandywine-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-14T13:29:28.650Z"
+    updated_at: "2025-03-31T07:29:33.254Z"
+    schedule_sources_updated_at: null
+  - id: "7cb2e482-e946-4c5e-a55d-8fe602676080"
+    title: Mid-County Senior Center
+    address: "1 1st Regiment Rd, Wilmington, DE 19808, USA"
+    lat: 39.7335802
+    lng: -75.66834
+    coords: "0101000000F4A62215C6EA52C01FFFBBF4E5DD4340"
+    phone: (302) 995-6728
+    email: info@midcountyseniorcenter.org
+    url: "https://midcountyseniorcenter.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, wheelchair accessible, lighted, food, training]
+    description: "You need to be a member and over 50 to play pickleball at Mid-County. Membership is free!\n\nSession time and days subject to change. Please visit Mid-County's website to learn more: https://midcountyseniorcenter.org/programs-services/#Schedule\n\nAdvance sign up for pickleball sessions is required. Please visit Mid-County's scheduling website and click the green \"login\" button to learn more:\nhttps://schedulesplus.com/midco/kiosk/dspschedules.do?"
+    access_details: "$2.50 for 1-hour sessions, $5.00 for 2-hour sessions"
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/NWlsPPzeQNeZijj7sIFB"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pickleball Court 1
+      - url: "https://cdn.filestackcontent.com/OVynsVgSZynevkmlCkYw"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pickleball Court 2
+      - url: "https://cdn.filestackcontent.com/KdEH9NEXR9CqYpRfknwn"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/MidCountyCenter/photos/2037291883076332"
+        attribution_html: null
+        attribution_name: MCSC on Facebook
+    country_slug: us
+    state_slug: delaware
+    city_slug: wilmington
+    city_id: 1840005579
+    slug: mid-county-senior-center
+    path: /courts/us/delaware/wilmington/mid-county-senior-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T11:48:52.597Z"
+    updated_at: "2024-03-25T07:14:26.234Z"
+    schedule_sources_updated_at: null
+  - id: a285ed4a-44e7-492d-8adc-2b1738dfb3ed
+    title: Milford Memorial Park
+    address: "5 S Washington St, Milford, DE 19963, USA"
+    lat: 38.9130067
+    lng: -75.4265064
+    coords: "010100000038E27FE14BDB52C0B2C34E67DD744340"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 5
+    total_courts: 5
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ipSOoifGRXu0vOR7gqtZ"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Konnie
+    country_slug: us
+    state_slug: delaware
+    city_slug: milford
+    city_id: 1840006069
+    slug: milford-memorial-park
+    path: /courts/us/delaware/milford/milford-memorial-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-12-06T09:07:28.767Z"
+    updated_at: "2025-05-19T09:09:01.393Z"
+    schedule_sources_updated_at: null
+  - id: d5ed97df-fb75-459a-b4fa-112214d0d173
+    title: New Castle County Southern Park
+    address: "1275 Shallcross Lake Road, Middletown, DE, USA"
+    lat: 39.483619
+    lng: -75.688154
+    coords: "0101000000242713B70AEC52C0B35C363AE7BD4340"
+    phone: "3023955606"
+    email: Asbero@nccde.org
+    url: "https://www.newcastlede.gov/1972/Southern-Park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/UCurF1eRhqQFYj1m6jUm"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/105598416631550917180"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/105598416631550917180\">Jay</a>"
+        attribution_name: Jay
+    country_slug: us
+    state_slug: delaware
+    city_slug: middletown
+    city_id: 1840005581
+    slug: new-castle-county-southern-park
+    path: /courts/us/delaware/middletown/new-castle-county-southern-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-20T10:48:19.292Z"
+    updated_at: "2024-05-20T10:49:38.719Z"
+    schedule_sources_updated_at: null
+  - id: eae8e793-9960-4a1c-84e0-e5ccd99e7e72
+    title: Old Paper Mill Road Park
+    address: "240 Old Paper Mill Road, Newark, DE, USA"
+    lat: 39.69065
+    lng: -75.74696089999999
+    coords: "010100000001391735CEEF52C0BF7D1D3867D84340"
+    phone: null
+    email: null
+    url: "https://newarkde.gov/462/Old-Paper-Mill-Road-Park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/pjkyfpGuRsCpnmTzoICa"
+        source: user
+        attribution_url: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGE1W1PNOGQolk6CgcaGtVOVq7C-GXWYyCdRYLp3MF-bKI3YnQCh5uV6krKK7ejYC1eeHnON1-dXfZRdPUp0drREOZBfhEoOlHR6P8lfCeybJ810dd9H1cT4gLw8kcBgH0D_LuAoWO114t8=s680-w680-h510-rw"
+        attribution_html: null
+        attribution_name: Hamdi Ceylan
+    country_slug: us
+    state_slug: delaware
+    city_slug: newark
+    city_id: 1840005578
+    slug: old-paper-mill-road-park
+    path: /courts/us/delaware/newark/old-paper-mill-road-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-05-04T08:44:58.319Z"
+    updated_at: "2026-05-04T09:19:02.082Z"
+    schedule_sources_updated_at: null
+  - id: abc7d21f-cab2-47bb-983d-7ed8c331df79
+    title: Rehoboth Beach Elementary
+    address: "500 Stockley St Ext, Rehoboth Beach, DE, USA"
+    lat: 38.7091575
+    lng: -75.0883514
+    coords: "01010000009263A18CA7C552C0481B47ACC55A4340"
+    phone: "+13022272571"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: "Courts must not be used before 7 am.  Courts can not be used between 8 am and 4:30 pm"
+    images:
+      - url: "https://cdn.filestackcontent.com/tVVDgQoGTqz6wTj1QpOA"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: delaware
+    city_slug: rehoboth-beach
+    city_id: 1840006070
+    slug: rehoboth-beach-elementary
+    path: /courts/us/delaware/rehoboth-beach/rehoboth-beach-elementary
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-14T07:49:18.394Z"
+    updated_at: "2025-04-20T06:47:59.496Z"
+    schedule_sources_updated_at: null
+  - id: "4c1bae2b-d246-4b1b-8fc2-8f501c30dc32"
+    title: Sandhill Fields
+    address: "20330 Sand Hill Road, Georgetown, DE, USA"
+    lat: 38.70668149999999
+    lng: -75.3699602
+    coords: "010100000095F48B6DADD752C01698158A745A4340"
+    phone: null
+    email: null
+    url: "https://www.sandhillfields.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: "Pavilions. Even though it says courts cannot be reserved, there is league play Tuesday mornings on 4 of the courts. There are only two courts available for social play."
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ylheZTxSSfy01a6EOhpW"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/108711361271391100768"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108711361271391100768\">Sandhill Fields</a>"
+        attribution_name: Sandhill Fields
+      - url: "https://cdn.filestackcontent.com/3J4FzbPSa6sWOSJWNqiM"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/106509990577861510655"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106509990577861510655\">James Hynes</a>"
+        attribution_name: James Hynes
+      - url: "https://cdn.filestackcontent.com/FIF3u4tNTXamrlJDb7EX"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/108711361271391100768"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108711361271391100768\">Sandhill Fields</a>"
+        attribution_name: Sandhill Fields
+    country_slug: us
+    state_slug: delaware
+    city_slug: georgetown
+    city_id: 1840006065
+    slug: sandhill-fields
+    path: /courts/us/delaware/georgetown/sandhill-fields
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-14T19:32:39.411Z"
+    updated_at: "2024-09-11T10:18:52.029Z"
+    schedule_sources_updated_at: null
+  - id: "9c4b6d28-30df-47fc-b701-847aff068d20"
+    title: Sea Colony
+    address: "39359 Racquet Lane, Bethany Beach, Delaware 19930, USA"
+    lat: 38.5279714
+    lng: -75.0643087
+    coords: "01010000004AD63CA21DC452C0961C1C9194434340"
+    phone: "+13025393736"
+    email: krista.wisserman@vacasa.com
+    url: "https://www.seacolony.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 4
+    outdoor_courts: 16
+    total_courts: 20
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [pro shop, restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/0f5hr5aSOmVvxtLGN7Ww"
+        source: user
+        visible: true
+        attribution_url: "https://static.wixstatic.com/media/a80ce3_8b410a2fd12948d98a6126362ac66a49~mv2.jpg/v1/fill/w_320,h_240,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/a80ce3_8b410a2fd12948d98a6126362ac66a49~mv2.jpg"
+        attribution_html: null
+        attribution_name: Sea Colony
+    country_slug: us
+    state_slug: delaware
+    city_slug: bethany-beach
+    city_id: 1840006072
+    slug: sea-colony
+    path: /courts/us/delaware/bethany-beach/sea-colony
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-09-25T10:32:36.976Z"
+    updated_at: "2023-09-25T10:36:08.984Z"
+    schedule_sources_updated_at: null
+  - id: e4ccde65-482e-4a4d-8569-07b92a542ba6
+    title: Seaford Senior High School
+    address: "399 N Market Street Ext, Seaford, DE, 19973, USA"
+    lat: 38.651907
+    lng: -75.613829
+    coords: "010100000087156EF948E752C0498446B071534340"
+    phone: "4107144410"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: school
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/clXAGLVcRuunt3ZTiQKS"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: delaware
+    city_slug: seaford
+    city_id: 1840006071
+    slug: seaford-senior-high-school
+    path: /courts/us/delaware/seaford/seaford-senior-high-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T22:37:20.298Z"
+    updated_at: "2023-07-13T04:20:21.458Z"
+    schedule_sources_updated_at: null
+  - id: "55e6cfb3-fd43-46a3-9213-21181c087934"
+    title: Selbyville Town Park
+    address: "8 Park St, Selbyville, DE 19975, USA"
+    lat: 38.4625112
+    lng: -75.22372730000001
+    coords: "01010000003C2E4F8C51CE52C051042791333B4340"
+    phone: "+13024368314"
+    email: null
+    url: "https://selbyville.delaware.gov/town-park/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, wheelchair accessible]
+    description: Hours of operation are dusk to dawn.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/YkNWJgmBRXCL8BepHZhT"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/6pYiUT4S1SZLVBVelX4Z"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: delaware
+    city_slug: selbyville
+    city_id: 1840006083
+    slug: selbyville-town-park
+    path: /courts/us/delaware/selbyville/selbyville-town-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-19T11:12:15.547Z"
+    updated_at: "2024-08-19T12:16:28.639Z"
+    schedule_sources_updated_at: null
+  - id: bbb894b7-afd4-4f02-a739-d4ce284cd264
+    title: Siegel JCC
+    address: "101 Garden of Eden Rd, Wilmington, DE, 19803, USA"
+    lat: 39.81156645091594
+    lng: -75.55338349437334
+    coords: "0101000000B39E9AA26AE352C07D9BD268E1E74340"
+    phone: (302) 478-5660
+    email: pickleball@siegeljcc.org
+    url: "http://www.siegeljcc.org/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: false
+    indoor_courts: 2
+    outdoor_courts: 10
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard, wood]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, wheelchair accessible, locker rooms, lighted, training]
+    description: null
+    access_details: guest fee when playing with a member
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Gcz9PTyQQ6Q7cKjv0AWk"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/kcvLKDyrROyjCsGqwPvV"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: delaware
+    city_slug: wilmington
+    city_id: 1840005579
+    slug: siegel-jcc
+    path: /courts/us/delaware/wilmington/siegel-jcc
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-30T17:48:47.103Z"
+    updated_at: "2024-11-13T09:18:59.442Z"
+    schedule_sources_updated_at: null
+  - id: "78e348e1-27ac-433f-ba33-3f3c98606410"
+    title: Silver Lake Park
+    address: "200 E Cochran St, Middletown, DE 19709, USA"
+    lat: 39.4473321
+    lng: -75.7091853
+    coords: "01010000007493BD4A63ED52C0BAF9A12D42B94340"
+    phone: "+13023782711"
+    email: null
+    url: "http://www.middletownde.org/Parks-and-Rec/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/XyCUQeNhT6eAgkNSkvIN"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/117583722558622439764"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117583722558622439764\">Jason Kwiatkowski</a>"
+        attribution_name: Jason Kwiatkowski
+    country_slug: us
+    state_slug: delaware
+    city_slug: middletown
+    city_id: 1840005581
+    slug: silver-lake-park
+    path: /courts/us/delaware/middletown/silver-lake-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-01T10:37:58.981Z"
+    updated_at: "2025-05-28T07:22:05.285Z"
+    schedule_sources_updated_at: null
+  - id: d0d31806-542f-4beb-b0c8-55ba778e3e8b
+    title: Sports at the Beach Indoor Academy
+    address: "22518 Lewes Georgetown Hwy, Georgetown, DE, 19947, USA"
+    lat: 38.702151
+    lng: -75.359273
+    coords: "01010000007E552E54FED652C046ED7E15E0594340"
+    phone: "3028567400"
+    email: null
+    url: "https://www.sportsatthebeach.com/events"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, training]
+    description: ""
+    access_details: $9 per social play 2 1/2 hrs.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/6Q63A85ARH2vuQShLOTY"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/112958933086704656420"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112958933086704656420\">The Indoor Academy @Sports at the Beach</a>"
+        attribution_name: The Indoor Academy @Sports at the Beach
+      - url: "https://cdn.filestackcontent.com/dvLYYSqiRuad3hUo32y6"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/112958933086704656420"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112958933086704656420\">The Indoor Academy @Sports at the Beach</a>"
+        attribution_name: The Indoor Academy @Sports at the Beach
+    country_slug: us
+    state_slug: delaware
+    city_slug: georgetown
+    city_id: 1840006065
+    slug: sports-at-the-beach-indoor-academy
+    path: /courts/us/delaware/georgetown/sports-at-the-beach-indoor-academy
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-14T18:40:53.958Z"
+    updated_at: "2023-12-19T04:14:24.201Z"
+    schedule_sources_updated_at: null
+  - id: "72b42b4e-ff79-465b-9c09-e28def452628"
+    title: The Factory Sports Complex
+    address: "17543 Nassau Commons Blvd, Lewes, DE, 19958, USA"
+    lat: 38.746527
+    lng: -75.18554
+    coords: "010100000064062AE3DFCB52C05E4A5D328E5F4340"
+    phone: "3027036964"
+    email: nicole@factorysportsde.com
+    url: "http://www.factorysportsde.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [lighted, restrooms, training]
+    description: ""
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/DB2kU3iMTGS9p4VmTFfj"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/117840451650996732003"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117840451650996732003\">Factory Sports</a>"
+        attribution_name: Factory Sports
+      - url: "https://cdn.filestackcontent.com/oy3640WhQs7F57OcLngU"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: delaware
+    city_slug: lewes
+    city_id: 1840006068
+    slug: the-factory-sports-complex
+    path: /courts/us/delaware/lewes/the-factory-sports-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-10T14:27:55.893Z"
+    updated_at: "2024-05-01T08:09:14.360Z"
+    schedule_sources_updated_at: null
+  - id: "3beb78d5-f8c7-48bb-9852-3557e32aa79a"
+    title: The Peninsula on the Indian River Bay
+    address: "26937 Bay Farm Rd, Millsboro, DE, 19966, USA"
+    lat: 38.618759
+    lng: -75.178979
+    coords: "0101000000EEEA556474CB52C0868DB27E334F4340"
+    phone: "3014677342"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, locker rooms, restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/OFWtggGpTGSKrSMaNxRE"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/112081310720229686271"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112081310720229686271\">Ms B</a>"
+        attribution_name: Ms B
+    country_slug: us
+    state_slug: delaware
+    city_slug: millsboro
+    city_id: 1840006079
+    slug: the-peninsula-on-the-indian-river-bay
+    path: /courts/us/delaware/millsboro/the-peninsula-on-the-indian-river-bay
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T00:33:35.392Z"
+    updated_at: "2025-04-29T07:39:53.992Z"
+    schedule_sources_updated_at: null
+  - id: "1cb280b6-0223-48cc-aaa5-cd88a2582973"
+    title: The Picklr Newark
+    address: "301 College Sq, Newark, DE 19711, USA"
+    lat: 39.6796719
+    lng: -75.7336965
+    coords: "0101000000232C2AE2F4EE52C04E41237DFFD64340"
+    phone: "+13022028839"
+    email: newark.de@thepicklrfranchise.com
+    url: "https://thepicklr.com/location/newark/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 12
+    outdoor_courts: 0
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard, acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted, pro shop, training, locker rooms, youth, wheelchair accessible]
+    description: "Picklr Newark is a place to play pickleball in Newark, DE. There will be 12 indoor premier acrylic courts. These are dedicated courts with permanent lines and nets. A membership is recommened for the best playing experience. You can reserve the courts as a member or non-member. Players have access to drinks, locker rooms, restrooms, water, youth programming, wheelchair accessibility, coaches, clinics, and lessons, and a world-class pro shop. With over 40,000 square feet of luxury pickleball you will not be disappointed. The club offers sound baffles over each court to reduce noise, a warm up and cool down area along with a dinking wall, a well-designed event space for parties, events, and corporate outings, beautiful lockers,  showers, and restrooms. The club offers a world-class pro-shop with the best paddles and pickleball equipment on the market. Demo paddles of the top 25 paddles are available as well. The club will be open 6am – 11am Mon – Sun. The membership will provide nation-wide club access, member court reservations 7 Days in advance, 4 guest passes a month, 4 clinics a month, unlimited access to Picklr leagues, tournaments, and open play. The Picklr offers the propietary Wingfield AI Trainer and the Erne ball machine as well for player training development."
+    access_details: See website for details
+    schedule_details: Coming soon
+    images:
+      - url: "https://cdn.filestackcontent.com/1XwIo5DrR1eU36sdWe48"
+        source: user
+        attribution_url: "https://www.witn22.org/wp-content/uploads/2024/09/Pickleball-courts.jpg"
+        attribution_html: null
+        attribution_name: WITN Channel 22
+      - url: "https://cdn.filestackcontent.com/MPRNhj1WQWWWwvHAbAWv"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Front desk
+      - url: "https://cdn.filestackcontent.com/RCITPXkfR5OdsYA6qpaj"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: "Courts "
+      - url: "https://cdn.filestackcontent.com/N0F6d49RQKFMZlpjUvJn"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: "Courts "
+      - url: "https://cdn.filestackcontent.com/kqkAzAPPRZatUA85qmcr"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: "Courts "
+      - url: "https://cdn.filestackcontent.com/yb09XuUTPOFvbl9DyvCg"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: "Courts "
+      - url: "https://cdn.filestackcontent.com/RsSADjzISZezdD6k4Oic"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pro-shop
+      - url: "https://cdn.filestackcontent.com/OSzHMNDTteHUGbx4ZpQf"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pro-shop
+      - url: "https://cdn.filestackcontent.com/nxDGIbleSsSRAFiqlloI"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: "demo paddles "
+      - url: "https://cdn.filestackcontent.com/UpETTBeFRBuMJqOGlohM"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: "pro-shop "
+      - url: "https://cdn.filestackcontent.com/tRtweef4RKOHTVXhxTNy"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: "bathrooms "
+      - url: "https://cdn.filestackcontent.com/nRrHn5KRY247reGgQsbD"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: "locker rooms "
+      - url: "https://cdn.filestackcontent.com/Bp5l0jYgQEepuvIVPAxv"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: "Winfield trainer "
+      - url: "https://cdn.filestackcontent.com/VTY9Ng0SZ22I6ieRsgrc"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: "Event space "
+    country_slug: us
+    state_slug: delaware
+    city_slug: newark
+    city_id: 1840005578
+    slug: the-picklr-newark
+    path: /courts/us/delaware/newark/the-picklr-newark
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-02-11T06:28:47.084Z"
+    updated_at: "2025-05-26T06:47:59.314Z"
+    schedule_sources_updated_at: null
+  - id: da639a47-1564-4b86-b0f0-3a638667d4b5
+    title: Wild Quail Golf & Country Club
+    address: "1 Clubhouse Dr, Camden Wyoming, DE, USA"
+    lat: 39.1167747
+    lng: -75.61910619999999
+    coords: "01010000000D709C6F9FE752C007C02E79F28E4340"
+    phone: "+13026974660"
+    email: null
+    url: "https://www.wildquailcc.com/social/pickleball"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/66mS1ejSUeraDkYuXdC4"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/106633523795778977712"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106633523795778977712\">Balloon Artist</a>"
+        attribution_name: Balloon Artist
+    country_slug: us
+    state_slug: delaware
+    city_slug: united-states
+    city_id: 135899045
+    slug: wild-quail-golf-and-country-club
+    path: /courts/us/delaware/united-states/wild-quail-golf-and-country-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-07-22T01:39:53.883Z"
+    updated_at: "2025-07-22T01:39:53.883Z"
+    schedule_sources_updated_at: null
+  - id: "1d1eaab3-c2dc-4c2d-8377-b594aa2b90b5"
+    title: Wilmington Country Club
+    address: "4825 Kennett Pike, Wilmington, DE, 19807, USA"
+    lat: 39.795541
+    lng: -75.599342
+    coords: "0101000000A1478C9E5BE652C046D09849D4E54340"
+    phone: "3026556513"
+    email: null
+    url: "http://www.wilmingtoncc.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 4
+    total_courts: 7
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Ehe3uVCBTnugWV1y5MTX"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: delaware
+    city_slug: wilmington
+    city_id: 1840005579
+    slug: wilmington-country-club
+    path: /courts/us/delaware/wilmington/wilmington-country-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T12:51:49.999Z"
+    updated_at: "2025-03-18T07:18:24.536Z"
+    schedule_sources_updated_at: null
+  - id: "7eb008cc-a278-4142-939e-a5eb373d96b2"
+    title: Wyoming Town Hall
+    address: "120 West Camden Wyoming Avenue, Wyoming, DE, USA"
+    lat: 39.1175465
+    lng: -75.5579162
+    coords: "0101000000263A26E6B4E352C030A182C30B8F4340"
+    phone: "+13026972966"
+    email: null
+    url: "https://wyoming.delaware.gov/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: ""
+    schedule_details: "This is a multi-purpose court that runs a week of pickle then a week of basketball transitioning of Wednesdays.\n\nSee the Wyoming Town Hall Facebook page for the most recent schedule."
+    images:
+      - url: "https://cdn.filestackcontent.com/yhcYitMSlauFqnYOBeog"
+    country_slug: us
+    state_slug: delaware
+    city_slug: wyoming
+    city_id: 1840005822
+    slug: wyoming-town-hall
+    path: /courts/us/delaware/wyoming/wyoming-town-hall
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-06-04T09:56:32.919Z"
+    updated_at: "2025-02-14T07:36:10.462Z"
+    schedule_sources_updated_at: null
+  - id: "232e83ab-d39d-4143-b1ba-09957d671670"
+    title: YMCA of DE - Central Branch
+    address: "501 West 11th Street, Wilmington, DE, USA"
+    lat: 39.74874579999999
+    lng: -75.5517789
+    coords: "0101000000DD87725850E352C0370202E7D6DF4340"
+    phone: null
+    email: null
+    url: "https://www.ymca.org/locations/central-branch-ymca-1"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [wood]
+    lines: tape
+    nets: portable
+    amenities: [locker rooms, restrooms, water, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/OCQYmsExQqemRLY98Fxg"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/113909009788756152133"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113909009788756152133\">Central YMCA</a>"
+        attribution_name: Central YMCA
+    country_slug: us
+    state_slug: delaware
+    city_slug: wilmington
+    city_id: 1840005579
+    slug: ymca-of-de-central-branch
+    path: /courts/us/delaware/wilmington/ymca-of-de-central-branch
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-12-04T08:32:46.869Z"
+    updated_at: "2024-12-04T08:42:30.859Z"
+    schedule_sources_updated_at: null
+  - id: "76395758-6ca9-4d69-85bd-4220166278dd"
+    title: YMCA of Delaware - Western Family YMCA
+    address: "2600 Kirkwood Hwy, Wilmington, DE, 19805, USA"
+    lat: 39.705188
+    lng: -75.686674
+    coords: "0101000000DD408177F2EB52C00DC4B29943DA4340"
+    phone: "3027099622"
+    email: ariley@ymcade.org
+    url: "https://www.ymcade.org/locations/western-ymca/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: null
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: [food, restrooms, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/sdZQIg1iRpWLIjjgaKPu"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/117843946998220969730"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117843946998220969730\">Western Family YMCA</a>"
+        attribution_name: Western Family YMCA
+    country_slug: us
+    state_slug: delaware
+    city_slug: wilmington
+    city_id: 1840005579
+    slug: ymca-of-delaware-western-family-ymca
+    path: /courts/us/delaware/wilmington/ymca-of-delaware-western-family-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-31T22:48:11.018Z"
+    updated_at: "2022-11-30T16:48:50.388Z"
+    schedule_sources_updated_at: null

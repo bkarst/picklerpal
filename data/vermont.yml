@@ -1,0 +1,3653 @@
+state: Vermont
+state_slug: vermont
+country: us
+court_count: 85
+scraped_at: "2026-06-30T05:22:32.424Z"
+source: pickleheads.com misc.search API
+courts:
+  - id: "35f8b2bc-2f53-484b-903d-f101a7ab0402"
+    title: Airport Park
+    address: "500 Colchester Point Rd, Colchester, VT 05446, United States"
+    lat: 44.5443524
+    lng: -73.2784953
+    coords: "0101000000BE65F3DDD25152C0E3BFE556AD454640"
+    phone: "8023550983"
+    email: null
+    url: "http://colchestervt.gov/Facilities/Facility/Details/Airport-Park-1"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/w7Vn5l3CQBSckozNZrHH"
+        source: user
+        visible: true
+        attribution_url: "https://www.samessenger.com/colchester/sports/photos-from-the-opening-of-airport-parks-new-pickleball-courts/article_e37f6498-e73a-11ea-97bd-cf08b2046b52.html"
+        attribution_html: null
+        attribution_name: Bridget Higdon
+    country_slug: us
+    state_slug: vermont
+    city_slug: colchester
+    city_id: 1840070411
+    slug: airport-park
+    path: /courts/us/vermont/colchester/airport-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T18:27:09.404Z"
+    updated_at: "2023-01-05T03:14:52.877Z"
+    schedule_sources_updated_at: null
+  - id: "117da52c-eb22-4d71-9f50-fac59852d72f"
+    title: Alburgh
+    address: "C St, Alburg, VT 05440, USA"
+    lat: 44.9647746
+    lng: -73.2439853
+    coords: "01010000001B0D85749D4F52C07881EDBB7D7B4640"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/YGIoji2ZSHeze8eaLes5"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: alburgh
+    city_id: 1840115302
+    slug: alburgh
+    path: /courts/us/vermont/alburgh/alburgh
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T03:09:23.846Z"
+    updated_at: "2023-01-05T01:32:45.780Z"
+    schedule_sources_updated_at: null
+  - id: "99a91e9a-9841-4474-a71a-1d68538b71d7"
+    title: Anderson Field
+    address: "27 Butler St, Waterbury, VT, 05676, USA"
+    lat: 44.342576
+    lng: -72.757248
+    coords: "010100000088BD50C0763052C07F32C687D92B4640"
+    phone: "8027772998"
+    email: null
+    url: "https://waterburyvt.myrec.com/info/facilities/details.aspx?FacilityID=14717"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ssQRWp7RRWG99jIc80AX"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: waterbury
+    city_id: 1840004103
+    slug: anderson-field
+    path: /courts/us/vermont/waterbury/anderson-field
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T14:07:28.824Z"
+    updated_at: "2023-07-19T04:29:07.263Z"
+    schedule_sources_updated_at: null
+  - id: "8610cf94-0af8-4b97-80fc-2f7452f443e3"
+    title: Appletree Park
+    address: "1 Edinborough Drive, Burlington, VT 05408, USA"
+    lat: 44.5067669
+    lng: -73.2676432
+    coords: "0101000000CBBFF110215152C00019DFBCDD404640"
+    phone: null
+    email: null
+    url: "https://enjoyburlington.com/place/appletree-park/"
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/QII49ND5S4u4ZvcBfyfB"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/105312505182295057229"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/105312505182295057229\">Jeffrey R</a>"
+        attribution_name: Jeffrey R
+    country_slug: us
+    state_slug: vermont
+    city_slug: burlington
+    city_id: 1840002310
+    slug: appletree-park
+    path: /courts/us/vermont/burlington/appletree-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-10-19T02:44:05.807Z"
+    updated_at: "2023-10-19T02:44:05.807Z"
+    schedule_sources_updated_at: null
+  - id: "1b211062-2169-43ee-b978-6176ae5412a5"
+    title: Bayside Park Playground
+    address: "34 Blakely Rd, Colchester, VT, 05446, USA"
+    lat: 44.5443799
+    lng: -73.2160061
+    coords: "010100000023CF3F0BD34D52C0C58C953DAE454640"
+    phone: ""
+    email: null
+    url: "http://www.colchestervt.gov/Facilities/Facility/Details/Bayside-Park-3"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/CE7h0n66QbunS4eCNXWf"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: colchester
+    city_id: 1840070411
+    slug: bayside-park-playground
+    path: /courts/us/vermont/colchester/bayside-park-playground
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T09:13:37.379Z"
+    updated_at: "2024-05-14T09:37:32.471Z"
+    schedule_sources_updated_at: null
+  - id: "9b2daf3e-83be-4200-a756-1449e7a8501d"
+    title: Bennington Recreation Center
+    address: "655 Gage St, Bennington, VT, 05201, USA"
+    lat: 42.880604
+    lng: -73.185882
+    coords: "010100000091BA9D7DE54B52C0075DC2A1B7704540"
+    phone: "8024421053"
+    email: null
+    url: "http://www.benningtonvt.org/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ROpfqbXQBOu4DLme1E4Q"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/TBoPKeglThuScJWjcK0f"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/101118828905288882444"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101118828905288882444\">Gerol Petruzella</a>"
+        attribution_name: Gerol Petruzella
+    country_slug: us
+    state_slug: vermont
+    city_slug: bennington
+    city_id: 1840070381
+    slug: bennington-recreation-center
+    path: /courts/us/vermont/bennington/bennington-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T07:53:06.227Z"
+    updated_at: "2025-09-22T05:58:54.818Z"
+    schedule_sources_updated_at: null
+  - id: "30eda3b9-6b0b-498b-af11-751d645528c3"
+    title: Bombardier Park East
+    address: "4 Tennis Ct, Milton, VT, 05468, USA"
+    lat: 44.617146
+    lng: -73.121205
+    coords: "010100000026C79DD2C14752C0B96DDFA3FE4E4640"
+    phone: "8028934922"
+    email: null
+    url: "http://www.miltonvt.gov/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/mkBuFb7LSHW3iKqwQuqq"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: vermont
+    city_slug: united-states
+    city_id: 433916662
+    slug: bombardier-park-east
+    path: /courts/us/vermont/united-states/bombardier-park-east
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T00:45:26.471Z"
+    updated_at: "2024-05-03T10:01:22.841Z"
+    schedule_sources_updated_at: null
+  - id: caf6f147-b9d7-45cd-b046-82c55a351890
+    title: Brattleboro Senior Center - Gibson Aiken Center
+    address: "207 Main St, Brattleboro, VT, 05301, USA"
+    lat: 42.854639
+    lng: -72.558521
+    coords: "01010000004548DDCEBE2352C06D718DCF646D4540"
+    phone: "8022464563"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/NlzoOzY5SNrBsfX1YD7T"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/BrattleboroSeniorCenter/photos/2627875133921297"
+        attribution_html: null
+        attribution_name: Brattleboro Senior Center
+      - url: "https://cdn.filestackcontent.com/jKoHRPJGTvCLbWM4vw5A"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/BrattleboroSeniorCenter/photos/3045010315541108"
+        attribution_html: null
+        attribution_name: Brattleboro Senior Center
+    country_slug: us
+    state_slug: vermont
+    city_slug: brattleboro
+    city_id: 1840070391
+    slug: brattleboro-senior-center-gibson-aiken-center
+    path: /courts/us/vermont/brattleboro/brattleboro-senior-center-gibson-aiken-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T05:24:38.151Z"
+    updated_at: "2023-01-06T01:28:47.762Z"
+    schedule_sources_updated_at: null
+  - id: c739e45a-d5a8-4315-91ab-54bdda8d6660
+    title: Brown's Court
+    address: "58 Browns Ct, Richmond, VT 05477, USA"
+    lat: 44.4095892
+    lng: -72.9931502
+    coords: "01010000000441DBC58F3F52C0BC653D6B6D344640"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/RyTSRbomQK24wGMcGf09"
+        source: user
+        attribution_url: ""
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: vermont
+    city_slug: richmond
+    city_id: 1840071146
+    slug: browns-court
+    path: /courts/us/vermont/richmond/browns-court
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-05-29T06:28:37.677Z"
+    updated_at: "2026-05-29T06:31:28.754Z"
+    schedule_sources_updated_at: null
+  - id: "6a002ecc-962c-45ca-9a0b-a3d85c3f9e46"
+    title: Callahan Park
+    address: "45 Locust St, Burlington, VT, 05401, USA"
+    lat: 44.462817
+    lng: -73.21304
+    coords: "01010000005A2F8672A24D52C0348463963D3B4640"
+    phone: "8028640123"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/CT4zacLQGeZxcOJUHkot"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: burlington
+    city_id: 1840002310
+    slug: callahan-park
+    path: /courts/us/vermont/burlington/callahan-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-22T18:23:14.087Z"
+    updated_at: "2023-01-05T05:01:13.304Z"
+    schedule_sources_updated_at: null
+  - id: cbace2d1-de2f-457a-8c7b-dadcca5eba8a
+    title: Cascade Street Park
+    address: "Cascade St, Essex Junction, VT, 05452, USA"
+    lat: 44.481646
+    lng: -73.122719
+    coords: "010100000043E6CAA0DA4752C0E61F7D93A63D4640"
+    phone: "+18028781376"
+    email: null
+    url: "https://www.ejrp.org/parks-facilities/cascade-park"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/bnIZNyl7TsC4rI5j0uRL"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/EJRPVT/photos/a.377314218376/10159137405478377/?type=3"
+        attribution_html: null
+        attribution_name: Essex Junction Recreation and Parks
+    country_slug: us
+    state_slug: vermont
+    city_slug: essex-junction
+    city_id: 1840004083
+    slug: cascade-street-park
+    path: /courts/us/vermont/essex-junction/cascade-street-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-29T21:34:07.795Z"
+    updated_at: "2023-07-18T02:26:47.231Z"
+    schedule_sources_updated_at: null
+  - id: "2e034f77-1cd4-4254-9cf6-f510a292b3bc"
+    title: Castleton Rec.
+    address: "47 Mechanic Street, Castleton, VT, USA 05735"
+    lat: 43.6122623
+    lng: -73.1784289
+    coords: "0101000000528A0C616B4B52C070896D9C5ECE4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, lighted, water]
+    description: Located at the former Castleton Village School
+    access_details: Contact Castleton Recreation Dept.
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: vermont
+    city_slug: castleton
+    city_id: 1840070403
+    slug: castleton-rec
+    path: /courts/us/vermont/castleton/castleton-rec
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-04-17T12:00:08.620Z"
+    updated_at: "2024-04-17T12:00:08.620Z"
+    schedule_sources_updated_at: null
+  - id: d3c94ac1-a090-43b1-a698-1c14300553ca
+    title: Charlotte Town Beach
+    address: "1375 Lake Rd, Charlotte, VT, 05445, USA"
+    lat: 44.333917
+    lng: -73.281438
+    coords: "010100000081768714035252C00A4AD1CABD2A4640"
+    phone: "8024256129"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/qeMgMIi3T1asPnUt2hi9"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: charlotte
+    city_id: 1840070405
+    slug: charlotte-town-beach
+    path: /courts/us/vermont/charlotte/charlotte-town-beach
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-01T06:52:58.235Z"
+    updated_at: "2025-08-15T08:24:18.752Z"
+    schedule_sources_updated_at: null
+  - id: a95d86b4-3f44-4aed-b0f4-c820ca5e7144
+    title: Chris Lewit Tennis Academy/Londonderry
+    address: "3997 VT Route 11, Londonderry, VT, 05148, USA"
+    lat: 43.211316
+    lng: -72.785135
+    coords: "01010000007AFCDEA63F3252C08E8F16670C9B4540"
+    phone: "8028243688"
+    email: null
+    url: "http://www.chrislewit.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/DWKZHM1RHGLmkFMDtKaQ"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/ChrisLewitTennisAcademy/photos/pb.100063796921032.-2207520000./2425497864247255/?type=3"
+        attribution_html: null
+        attribution_name: Chris Lewit Tennis Academy
+      - url: "https://cdn.filestackcontent.com/FATyJCw3Q1mhyFRkxTOU"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115758906501278222611"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115758906501278222611\">Chris Lewit Tennis Academy</a>"
+        attribution_name: Chris Lewit Tennis Academy
+    country_slug: us
+    state_slug: vermont
+    city_slug: londonderry
+    city_id: 1840070776
+    slug: chris-lewit-tennis-academylondonderry
+    path: /courts/us/vermont/londonderry/chris-lewit-tennis-academylondonderry
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T12:58:18.934Z"
+    updated_at: "2023-01-06T01:04:24.379Z"
+    schedule_sources_updated_at: null
+  - id: "2e462f61-9137-4d3d-bc27-e17c64c547e2"
+    title: Collins Perley Fitness Center
+    address: "890 Fairfax Rd I 89, Saint Albans, VT, 05478, USA"
+    lat: 44.794052
+    lng: -73.075746
+    coords: "01010000006133C005D94452C065A9F57EA3654640"
+    phone: "8025271202"
+    email: null
+    url: "https://collinsperleysports.myrec.com/info/default.aspx"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/BMf7wDf7QpGTHSaVHuaZ"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/106434102014208398636"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106434102014208398636\">Courier</a>"
+        attribution_name: Courier
+    country_slug: us
+    state_slug: vermont
+    city_slug: saint-albans-city
+    city_id: 1641434642
+    slug: collins-perley-fitness-center
+    path: /courts/us/vermont/saint-albans-city/collins-perley-fitness-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-05T11:08:56.476Z"
+    updated_at: "2025-06-20T03:07:19.309Z"
+    schedule_sources_updated_at: null
+  - id: "65257a1e-3f93-468f-9140-22be77e4fe56"
+    title: Dana L Thompson Memorial Park
+    address: "340 Rec Park Rd, Manchester, VT 05255, USA"
+    lat: 43.18504739999999
+    lng: -73.0550087
+    coords: "0101000000B6DF3543854352C0DA9A19A2AF974540"
+    phone: "8023621439"
+    email: null
+    url: "http://www.manchester-vt.gov/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/esdcm7UgQ4CL42u1PSLS"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Peter Kreutzer
+    country_slug: us
+    state_slug: vermont
+    city_slug: united-states
+    city_id: 433916662
+    slug: dana-l-thompson-memorial-park
+    path: /courts/us/vermont/united-states/dana-l-thompson-memorial-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T05:24:45.438Z"
+    updated_at: "2024-05-14T10:02:34.358Z"
+    schedule_sources_updated_at: null
+  - id: f3faa039-4b11-4162-814b-894fd7e46e6b
+    title: Davis Park
+    address: "344 Harbor Rd, Shelburne, VT, 05482, USA"
+    lat: 44.381573
+    lng: -73.232743
+    coords: "0101000000DE57E542E54E52C0B0045262D7304640"
+    phone: "8029859551"
+    email: null
+    url: "https://www.shelburnevt.org/Facilities/Facility/Details/Davis-Park-3"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 7
+    total_courts: 7
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/EWAGviFiTNC9lnLLnk8H"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: shelburne
+    city_id: 1840071299
+    slug: davis-park
+    path: /courts/us/vermont/shelburne/davis-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T06:21:34.035Z"
+    updated_at: "2023-01-06T03:19:25.983Z"
+    schedule_sources_updated_at: null
+  - id: "12158d20-25bb-4d54-ae66-02696129eb2a"
+    title: Derby Rec Park
+    address: "428 Main Street Derby Center, Derby, VT 05829, USA"
+    lat: 44.9484798
+    lng: -72.1334765
+    coords: "0101000000369204E18A0852C054F53CC967794640"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: Behind Town Clerk’s Office
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/GIo2GFZvSoaGg8DV4Zxw"
+        source: user
+        attribution_url: ""
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: vermont
+    city_slug: derby
+    city_id: 1840115353
+    slug: derby-rec-park
+    path: /courts/us/vermont/derby/derby-rec-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-04-06T08:09:51.649Z"
+    updated_at: "2026-04-06T08:27:22.562Z"
+    schedule_sources_updated_at: null
+  - id: "621ccb55-1e47-4814-a8cd-e2d78ab0fe9d"
+    title: Donaldson Park
+    address: "Donaldson Rd, Grand Isle, VT, 05458, USA"
+    lat: 44.692638
+    lng: -73.300438
+    coords: "0101000000711E4E603A5352C0C2FBAA5CA8584640"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Q1byuoV7TqKsDqyo3xT6"
+        source: user
+        visible: true
+        attribution_url: "https://islandspickleballassociationlakechamplain.org/IPASite/"
+        attribution_html: null
+        attribution_name: Pogo Senior
+    country_slug: us
+    state_slug: vermont
+    city_slug: grand-isle
+    city_id: 1840070483
+    slug: donaldson-park
+    path: /courts/us/vermont/grand-isle/donaldson-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T03:21:04.689Z"
+    updated_at: "2023-10-16T07:20:30.243Z"
+    schedule_sources_updated_at: null
+  - id: "5497386c-7eb4-4743-bd68-97270c54bde8"
+    title: Flood Brook School
+    address: "91 VT Route 11, Londonderry, VT, 05148, USA"
+    lat: 43.236976
+    lng: -72.84816
+    coords: "01010000009F71E140483652C0ECF7C43A559E4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/VPeISa4aR9WLDaM3l5T5"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/114097114209387788173"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114097114209387788173\">Flood Brook School</a>"
+        attribution_name: Flood Brook School
+    country_slug: us
+    state_slug: vermont
+    city_slug: londonderry
+    city_id: 1840070776
+    slug: flood-brook-school
+    path: /courts/us/vermont/londonderry/flood-brook-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T14:37:46.189Z"
+    updated_at: "2023-01-05T03:32:53.555Z"
+    schedule_sources_updated_at: null
+  - id: "8f61c085-c764-44fd-800d-9d29a38eab79"
+    title: Gardner Memorial Park Recreation Area
+    address: "155 Gardner Park Rd, Newport, VT, 05855, USA"
+    lat: 44.938797
+    lng: -72.202034
+    coords: "010100000086AB0320EE0C52C09D4A06802A784640"
+    phone: "+18023346345"
+    email: null
+    url: "https://www.newportrecreation.org/gardnerpark.html"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/dirawp2aSGW99LnXLWkS"
+        source: user
+        attribution_url: "https://newportvt.myrec.com/info/facilities/area_info.aspx?FacilityID=14700&AreaID=14706"
+        attribution_html: null
+        attribution_name: Newport Parks and Recreation
+    country_slug: us
+    state_slug: vermont
+    city_slug: newport
+    city_id: 1840002270
+    slug: gardner-memorial-park-recreation-area
+    path: /courts/us/vermont/newport/gardner-memorial-park-recreation-area
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T19:57:35.723Z"
+    updated_at: "2025-03-19T01:16:59.555Z"
+    schedule_sources_updated_at: null
+  - id: a583ab04-cd77-4cdf-9bb8-f259237f74a0
+    title: Georgia Beach
+    address: "4815 Georgia Shore Rd, Saint Albans, VT, 05478, USA"
+    lat: 44.767849
+    lng: -73.161623
+    coords: "010100000003D2FE07584A52C016A243E048624640"
+    phone: null
+    email: null
+    url: "https://www.townofgeorgia.com/parksandrecreation"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: temporary
+    nets: byo
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/17e9eabNQ6WmgLQo7P9N"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: saint-albans-bay
+    city_id: 1840114985
+    slug: georgia-beach
+    path: /courts/us/vermont/saint-albans-bay/georgia-beach
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-10T07:14:19.941Z"
+    updated_at: "2023-01-05T06:48:36.116Z"
+    schedule_sources_updated_at: null
+  - id: "969aa650-6c36-4ce0-9eb2-fa5ccd6149f4"
+    title: Gertrude Chamberlin School
+    address: "262 White St, South Burlington, VT, 05403, USA"
+    lat: 44.471306
+    lng: -73.165372
+    coords: "010100000025EB7074954A52C04C3448C1533C4640"
+    phone: "8028464108"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/j9ou7mHJSGidzdzHxSQb"
+        source: user
+        attribution_url: "https://chamberlin.sbschools.net/"
+        attribution_html: null
+        attribution_name: " Gertrude Chamberlin School"
+    country_slug: us
+    state_slug: vermont
+    city_slug: south-burlington
+    city_id: 1840002311
+    slug: gertrude-chamberlin-school
+    path: /courts/us/vermont/south-burlington/gertrude-chamberlin-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T21:02:19.165Z"
+    updated_at: "2025-03-24T05:15:40.610Z"
+    schedule_sources_updated_at: null
+  - id: bd21e844-404c-4177-b96d-e881a4c590d1
+    title: Greater Burlington YMCA
+    address: "298 College St, Burlington, VT, 05401, USA"
+    lat: 44.4779
+    lng: -73.208048
+    coords: "0101000000E3FF8EA8504D52C01361C3D32B3D4640"
+    phone: "8028629622"
+    email: null
+    url: "https://www.gbymca.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: false
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [lighted, locker rooms, restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/X2WHPMpdTYiXWs2yg5Wx"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/114669791143479678114"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114669791143479678114\">Greater Burlington YMCA</a>"
+        attribution_name: Greater Burlington YMCA
+      - url: "https://cdn.filestackcontent.com/7B1fNPO4R22KawZgmQWs"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/114669791143479678114"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114669791143479678114\">Greater Burlington YMCA</a>"
+        attribution_name: Greater Burlington YMCA
+    country_slug: us
+    state_slug: vermont
+    city_slug: burlington
+    city_id: 1840002310
+    slug: greater-burlington-ymca
+    path: /courts/us/vermont/burlington/greater-burlington-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-10T15:02:17.041Z"
+    updated_at: "2024-07-16T09:48:01.890Z"
+    schedule_sources_updated_at: null
+  - id: e378a5a8-7b95-4d9a-b563-6e50e4d194d7
+    title: Green Mountain Community Fitness
+    address: "652 Granger Rd, Barre, VT 05641, United States"
+    lat: 44.214675
+    lng: -72.5595025
+    coords: "0101000000EFE192E3CE2352C068226C787A1B4640"
+    phone: "+18022236161"
+    email: info@gmcf.life
+    url: "https://gmcf.life/pickleball/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, training, lighted, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/OdfICrCfSI24sjt1TUhm"
+        source: user
+        attribution_url: "https://www.google.com/search?q=Barre+(Green+Mountain+Community+Fitness&sourceid=chrome&ie=UTF-8#lpg=cid:CgIgAQ%3D%3D,ik:CAoSF0NJSE0wb2dLRUlDQWdJQ1h1cDZELXdF"
+        attribution_html: null
+        attribution_name: Green Mountain Community Fitness
+    country_slug: us
+    state_slug: vermont
+    city_slug: barre
+    city_id: 1840002186
+    slug: green-mountain-community-fitness
+    path: /courts/us/vermont/barre/green-mountain-community-fitness
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-06-15T11:26:08.033Z"
+    updated_at: "2026-06-15T11:26:08.033Z"
+    schedule_sources_updated_at: null
+  - id: a8cbbc00-9c33-4575-9357-e1c21b1ea562
+    title: Heritage Park
+    address: "781 Blakely Rd, Colchester, VT, 05446, USA"
+    lat: 44.536469
+    lng: -73.205953
+    coords: "0101000000D6E07D552E4D52C0AE282504AB444640"
+    phone: "8028629258"
+    email: null
+    url: "https://colchestervt.gov/facilities/facility/details/Heritage-Park-9"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/hSO1O5g4R7auFu86Q2CM"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Heritage Park
+    country_slug: us
+    state_slug: vermont
+    city_slug: colchester
+    city_id: 1840070411
+    slug: heritage-park
+    path: /courts/us/vermont/colchester/heritage-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T12:55:39.653Z"
+    updated_at: "2023-07-18T02:30:01.543Z"
+    schedule_sources_updated_at: null
+  - id: fa9a2a10-2115-4f52-b101-ecc51d3589b3
+    title: Highgate Arena
+    address: "243 Gore Rd, Highgate Center, VT, 05459, USA"
+    lat: 44.942391
+    lng: -73.042486
+    coords: "01010000006C223317B84252C0BA85AE44A0784640"
+    phone: "8028684406"
+    email: recdirector@highgatevt.org
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/bpOeCAumTQ6nrM6huhYD"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/HighgateArena/photos/pb.100033225804873.-2207520000./1833096886862299/?type=3"
+        attribution_html: null
+        attribution_name: Highgate Recreation
+    country_slug: us
+    state_slug: vermont
+    city_slug: highgate-center
+    city_id: 1840139505
+    slug: highgate-arena
+    path: /courts/us/vermont/highgate-center/highgate-arena
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-23T08:08:15.552Z"
+    updated_at: "2023-01-06T03:35:53.437Z"
+    schedule_sources_updated_at: null
+  - id: "1c07ac0b-eddb-4070-b40a-cd6ab912037b"
+    title: Hotel Vervana
+    address: "141 Main St, Bennington, VT, 05201, USA"
+    lat: 42.879769
+    lng: -73.204848
+    coords: "0101000000AA29C93A1C4D52C06F8445459C704540"
+    phone: "+18024428351"
+    email: null
+    url: "https://thehotelvervana.com/pickleball/"
+    reservation_url: null
+    facility_type: private
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: "5$/day"
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ofEdomVTyWZhQNoRlVmI"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/hUIufzQJSiunAsHakfR7"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/106224592179011721573"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106224592179011721573\">Paradise Inn</a>"
+        attribution_name: Paradise Inn
+      - url: "https://cdn.filestackcontent.com/7gnMqydKQgm70PZICcXJ"
+        source: user
+        attribution_url: ""
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: vermont
+    city_slug: bennington
+    city_id: 1840070381
+    slug: hotel-vervana
+    path: /courts/us/vermont/bennington/hotel-vervana
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-14T21:10:35.678Z"
+    updated_at: "2025-09-01T05:25:35.070Z"
+    schedule_sources_updated_at: null
+  - id: d8cb3507-cf5c-4c31-802b-bd9f8b3cbbcd
+    title: Howard Park - Shaftsbury
+    address: "Buck Hill Rd, Shaftsbury, VT, 05262, USA"
+    lat: 42.945815
+    lng: -73.197228
+    coords: "0101000000C07630629F4C52C07B88467710794540"
+    phone: "+18024424038"
+    email: null
+    url: "https://shaftsburyvt.gov/explore/howard-park.php"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Sv4dflXQQZGrVNSN3hjk"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: shaftsbury
+    city_id: 1840071253
+    slug: howard-park-shaftsbury
+    path: /courts/us/vermont/shaftsbury/howard-park-shaftsbury
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-30T17:37:52.734Z"
+    updated_at: "2023-07-19T04:28:38.373Z"
+    schedule_sources_updated_at: null
+  - id: "998f7077-00e2-49a4-ad10-70e8a51af9eb"
+    title: Isle La Motte Schoolyard
+    address: "School St, Isle La Motte, VT, 05463, USA"
+    lat: 44.881135
+    lng: -73.346167
+    coords: "010100000015FDA199275652C0342E1C08C9704640"
+    phone: null
+    email: null
+    url: "http://www.islelamotteschool.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/OuazHoSSGe7WpqqN8gLt"
+        source: user
+        attribution_url: "https://islandspickleballassociationlakechamplain.org/IPASite/wp-content/uploads/2022/08/ILM-Grand-Opening-Action-768x576.jpg"
+        attribution_html: null
+        attribution_name: Islands Pickleball Association
+    country_slug: us
+    state_slug: vermont
+    city_slug: isle-la-motte
+    city_id: 1840115395
+    slug: isle-la-motte-schoolyard
+    path: /courts/us/vermont/isle-la-motte/isle-la-motte-schoolyard
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-26T19:04:51.491Z"
+    updated_at: "2025-09-11T06:16:26.145Z"
+    schedule_sources_updated_at: null
+  - id: "5580c4ba-039b-4482-a301-6f9c39b7d689"
+    title: Jericho Elementary School
+    address: "90 VT Route 15, Jericho, VT, 05465, USA"
+    lat: 44.506065
+    lng: -72.98999
+    coords: "01010000007E5704FF5B3F52C03B53E8BCC6404640"
+    phone: null
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: []
+    lines: temporary
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/rLxeYu6TuS2x3QLDoEMc"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: jericho
+    city_id: 1840004084
+    slug: jericho-elementary-school
+    path: /courts/us/vermont/jericho/jericho-elementary-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-23T16:18:45.565Z"
+    updated_at: "2023-01-05T03:40:20.202Z"
+    schedule_sources_updated_at: null
+  - id: "4a74664b-e755-4805-a057-2d4c0d368bd7"
+    title: Johnson Rec Center
+    address: "2782 River Rd, Killington, VT, 05751, USA"
+    lat: 43.674123
+    lng: -72.77897
+    coords: "01010000002BA4FCA4DA3152C09F3D97A949D64540"
+    phone: "8024223932"
+    email: Recdirector@killingtontown.com
+    url: "https://killingtonvt.myrec.com/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, food, locker rooms, water]
+    description: "Note: Food/ Drink, Locker Rooms, and Water Fountain are only available while the pool house is open (typically mid-June through Mid-August). There is a porta-pot available for use June-October. The Town Office and Library are within a short walking distance for water and bathrooms during their normal operating hours."
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/sCryuOdSTmvXgGXGLstQ"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Joe W
+    country_slug: us
+    state_slug: vermont
+    city_slug: killington
+    city_id: 1840115473
+    slug: johnson-rec-center-tennis-courts
+    path: /courts/us/vermont/killington/johnson-rec-center-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-31T14:45:13.236Z"
+    updated_at: "2024-11-25T08:44:04.857Z"
+    schedule_sources_updated_at: null
+  - id: a8485036-4cd8-4c2b-b838-5deed33f7b0a
+    title: Johnson Recreation Center
+    address: "2782 River Rd Fork, Killington, VT 05751, USA"
+    lat: 43.6741038
+    lng: -72.77900319999999
+    coords: "0101000000ADDE3C30DB3152C0FE8D870849D64540"
+    phone: "+18024222711"
+    email: null
+    url: "https://killingtonvt.myrec.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/4BzBidIQ5Semei49cxr7"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/115482503380984562455"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115482503380984562455\">Joe W</a>"
+        attribution_name: Joe W
+    country_slug: us
+    state_slug: vermont
+    city_slug: killington
+    city_id: 1840115473
+    slug: johnson-recreation-center
+    path: /courts/us/vermont/killington/johnson-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-04-17T11:56:24.956Z"
+    updated_at: "2024-04-17T11:57:20.646Z"
+    schedule_sources_updated_at: null
+  - id: "2cddccc6-8a66-4844-9355-16a0a0c6a0c8"
+    title: Landry Park
+    address: "23 Pine St, Winooski, VT 05404, USA"
+    lat: 44.4993758
+    lng: -73.19079289999999
+    coords: "0101000000C6736CF3354C52C0F9B4D48BEB3F4640"
+    phone: "8026556410"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/4X9KCyqITkiPYypM3K4J"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: winooski
+    city_id: 1840002312
+    slug: landry-park
+    path: /courts/us/vermont/winooski/landry-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T03:36:36.577Z"
+    updated_at: "2024-06-05T08:46:34.623Z"
+    schedule_sources_updated_at: null
+  - id: "5bf223b8-3d1e-4b8c-83db-44c48d230c78"
+    title: Leddy Park
+    address: "174 Leddy Park Rd RD05408, Burlington, VT, 05408, USA"
+    lat: 44.502751
+    lng: -73.253389
+    coords: "0101000000A20A7F86375052C002840F255A404640"
+    phone: "8028640123"
+    email: null
+    url: "https://enjoyburlington.com/place/leddy-park-3/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/35yo3glS2CtpP38xkOL3"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: burlington
+    city_id: 1840002310
+    slug: leddy-park
+    path: /courts/us/vermont/burlington/leddy-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-14T03:39:32.223Z"
+    updated_at: "2023-07-18T02:38:37.190Z"
+    schedule_sources_updated_at: null
+  - id: "9196d19b-3142-4060-8fd4-f07ccbbbb295"
+    title: Living Memorial Park
+    address: "61 Guilford St, Brattleboro, VT 05301, USA"
+    lat: 42.848309
+    lng: -72.586041
+    coords: "01010000005E471CB2812552C084F3A963956C4540"
+    phone: "+18022545808"
+    email: null
+    url: "http://www.brattleboro.org/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: No fees
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/JfVamnOwRTKK3Qs6kLqg"
+        source: user
+        attribution_url: "https://www.google.com/search?sca_esv=9775b4ed3171e694&sxsrf=ANbL-n7yie5J-nqhvyB8eTnFI9vKnuSUMw:1781521653294&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpUrv6YeyJhXfuYqj4Fj6c1SIV4w5e5qANUAPGe3KAH5yxpG7Tfwq-adkJ5iGt2DGbpL-5h2mvyih1cSmZpGu1swTjpp5JC9RIGBHj2ZBoZR_nLN0HkPReCFBlQEiWAJ4NOfdPBqH1y49vJlTYOUkccxqWsXU1oNrBCZTqx6ryp5uEpl5gn7HVXvUnXFE5Vv9ULxr3Kw&q=Brattleboro+(Living+Memorial+Park)+new+pickleball+courts&sa=X&ved=2ahUKEwill7eqjYmVAxWmUPUHHYy_J8oQtKgLegQIExAB&biw=1280&bih=585&dpr=1.5#sv=CAMSURoyKhBlLUl3Sy0taDMzUHFTX3FNMg5Jd0stLWgzM1BxU19xTToOMWxaWkI0ZjE1SXZ0TE0gBCoXCgFzEhBlLUl3Sy0taDMzUHFTX3FNGAEwARgHINjXxd0PSggQARgBIAEoAQ"
+        attribution_html: null
+        attribution_name: "@townofbrattleborogov"
+    country_slug: us
+    state_slug: vermont
+    city_slug: brattleboro
+    city_id: 1840070391
+    slug: living-memorial-park
+    path: /courts/us/vermont/brattleboro/living-memorial-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-26T23:01:55.070Z"
+    updated_at: "2026-06-15T11:15:52.375Z"
+    schedule_sources_updated_at: "2024-04-26T07:19:35.935Z"
+  - id: "8822911b-26e6-43b3-b888-64b047255b29"
+    title: Ludlow Town Recreation Area
+    address: "41 Andover St, Ludlow, VT, 05149, USA"
+    lat: 43.393279
+    lng: -72.705708
+    coords: "0101000000A321E3512A2D52C00F9A5DF756B24540"
+    phone: "8022282849"
+    email: null
+    url: "http://www.ludlow.vt.us/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/JUwNetzSoyL2FSrKe6mv"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Dorsey Park
+    country_slug: us
+    state_slug: vermont
+    city_slug: ludlow
+    city_id: 1840004159
+    slug: ludlow-town-recreation-area
+    path: /courts/us/vermont/ludlow/ludlow-town-recreation-area
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-14T19:31:32.919Z"
+    updated_at: "2024-08-01T10:26:34.085Z"
+    schedule_sources_updated_at: null
+  - id: e5ca579a-bd30-4129-b5e9-57aee246a853
+    title: Main Recreation And Athletic Complex
+    address: "70 Websterville Rd, Barre, VT, 05641, USA"
+    lat: 44.168159
+    lng: -72.485604
+    coords: "0101000000A2B3CC22141F52C098C3EE3B86154640"
+    phone: "8024799331"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: Courts will be closed Wednesday June 26th through Saturday June 29th installing permanent courts.
+    images:
+      - url: "https://cdn.filestackcontent.com/kOii4s5RazPyLzeEZVwV"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/AreteVT/photos/pb.100068863434145.-2207520000./2087588298016250/?type=3"
+        attribution_html: null
+        attribution_name: Town of Barre - Recreation
+      - url: "https://cdn.filestackcontent.com/tJ805gaKS760KILHLbtN"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/AreteVT/photos/pb.100068863434145.-2207520000./2131731773601902/?type=3"
+        attribution_html: null
+        attribution_name: Town of Barre - Recreation
+    country_slug: us
+    state_slug: vermont
+    city_slug: barre
+    city_id: 1840002186
+    slug: main-recreation-and-athletic-complex
+    path: /courts/us/vermont/barre/main-recreation-and-athletic-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T07:15:52.122Z"
+    updated_at: "2024-06-27T08:56:11.963Z"
+    schedule_sources_updated_at: null
+  - id: a4112537-2873-4b98-bab4-8adef66fe9e1
+    title: Marble Mill Park
+    address: "Merchants Row, Swanton, VT, 05488, USA"
+    lat: 44.918942
+    lng: -73.125793
+    coords: "0101000000354415FE0C4852C0DE7536E49F754640"
+    phone: "+18028684421"
+    email: null
+    url: "https://www.swantonvt.gov/community/parks"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/sVbjSu01QWaOCiIpenbq"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: swanton
+    city_id: 1840004033
+    slug: marble-mill-park
+    path: /courts/us/vermont/swanton/marble-mill-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T14:39:20.580Z"
+    updated_at: "2023-07-19T04:28:49.229Z"
+    schedule_sources_updated_at: null
+  - id: dc05e12b-5248-4bb9-9e53-94ce97aab4de
+    title: Middlebury Parks and Recreation
+    address: "154 Creek Rd, Middlebury, VT, 05753, USA"
+    lat: 44.003093
+    lng: -73.16063
+    coords: "01010000006A300DC3474A52C05BECF65965004640"
+    phone: "8024589014"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/TQeB9MZYRl8p9kJjZgrw"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115223806947537987701"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115223806947537987701\">Town of Middlebury Parks and Recreation Department</a>"
+        attribution_name: Town of Middlebury Parks and Recreation Department
+    country_slug: us
+    state_slug: vermont
+    city_slug: middlebury
+    city_id: 1840070864
+    slug: middlebury-parks-and-recreation
+    path: /courts/us/vermont/middlebury/middlebury-parks-and-recreation
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T07:00:20.535Z"
+    updated_at: "2023-01-06T02:14:39.144Z"
+    schedule_sources_updated_at: null
+  - id: "25cc81fa-c796-4f58-90ec-666b91bf11c4"
+    title: Middlebury Recreation Department
+    address: "7 Mahady Ct, Middlebury, VT, 05753, USA"
+    lat: 44.013755
+    lng: -73.163241
+    coords: "01010000007217618A724A52C008944DB9C2014640"
+    phone: "+18024588015"
+    email: null
+    url: "https://middleburyvt.myrec.com/info/default.aspx"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/lHdmZuoaQvOJUAXFM9M1"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: middlebury
+    city_id: 1840070864
+    slug: middlebury-recreation-department
+    path: /courts/us/vermont/middlebury/middlebury-recreation-department
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-29T23:04:29.633Z"
+    updated_at: "2023-07-18T03:54:34.084Z"
+    schedule_sources_updated_at: null
+  - id: e6396f86-090b-4731-8e96-e7965c57ca39
+    title: Mill Pickleball
+    address: "160 Benmont Ave, Bennington, VT, 05201, USA"
+    lat: 42.884559
+    lng: -73.202916
+    coords: "010100000073F56393FC4C52C0F530B43A39714540"
+    phone: "8028819141"
+    email: polly@sonatina.com
+    url: "https://www.millpickleball.club/"
+    reservation_url: "https://www.millpickleball.club"
+    facility_type: club
+    access: needs-audit
+    has_reservations: true
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: $7 per person for 2 hours as a non-member; $5 per person for 2 hours as a member. Membership is $35 per year.
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ruTOQ2f5RzCoPz2CKEfL"
+        source: user
+        visible: true
+        attribution_url: "https://m.facebook.com/people/Mill-Pickleball/100057255738610/"
+        attribution_html: null
+        attribution_name: Mill Pickleball
+    country_slug: us
+    state_slug: vermont
+    city_slug: bennington
+    city_id: 1840070381
+    slug: mill-pickleball
+    path: /courts/us/vermont/bennington/mill-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T00:30:04.159Z"
+    updated_at: "2025-07-11T07:55:42.363Z"
+    schedule_sources_updated_at: null
+  - id: f352816d-7a5c-430d-9b2d-c10ab197c38e
+    title: Monsignor Thomas Connor Memorial Park
+    address: "59 Meadow St, Rutland, VT 05701, USA"
+    lat: 43.6027677
+    lng: -72.9867005
+    coords: "0101000000999CDA19263F52C0E64AF37D27CD4540"
+    phone: "+18027731822"
+    email: joeb@rutlandrec.com
+    url: "https://www.rutlandrec.com"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/aKibOseSSKuONS36pMLX"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/xpdcBn1sRiOY1a7VsQZX"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: rutland
+    city_id: 1840002632
+    slug: monsignor-thomas-connor-memorial-park
+    path: /courts/us/vermont/rutland/monsignor-thomas-connor-memorial-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-10-19T02:51:17.279Z"
+    updated_at: "2024-05-13T12:54:25.104Z"
+    schedule_sources_updated_at: "2024-05-10T21:11:11.690Z"
+  - id: "397f8c71-b3a9-4fe0-b17f-fdad6cb7aa0e"
+    title: Montpelier Rec Center Gym
+    address: "55 Barre St, Montpelier, VT, 05602, USA"
+    lat: 44.257103
+    lng: -72.575069
+    coords: "010100000061FC34EECD2452C00C5A48C0E8204640"
+    phone: "8022231026"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/CucfvJHXSA6poef3Eg4A"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/MontpelierRec/photos/pb.100054103395640.-2207520000./1059959724034601/?type=3"
+        attribution_html: null
+        attribution_name: Montpelier Recreation Department
+    country_slug: us
+    state_slug: vermont
+    city_slug: montpelier
+    city_id: 1840002187
+    slug: montpelier-rec-center-gym
+    path: /courts/us/vermont/montpelier/montpelier-rec-center-gym
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T16:33:04.739Z"
+    updated_at: "2023-01-05T03:19:57.728Z"
+    schedule_sources_updated_at: null
+  - id: aa78e719-dc65-44e0-be00-90835a2b48c2
+    title: Montpelier Rec Center Outdoor Courts
+    address: "Elm St, Montpelier, VT, 05602, USA"
+    lat: 44.266504
+    lng: -72.568665
+    coords: "01010000004F58E201652452C0682096CD1C224640"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/vgY06R4MRiiA6f7FYpWe"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: montpelier
+    city_id: 1840002187
+    slug: montpelier-rec-center-outdoor-courts
+    path: /courts/us/vermont/montpelier/montpelier-rec-center-outdoor-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-13T21:02:34.311Z"
+    updated_at: "2023-01-06T01:07:26.918Z"
+    schedule_sources_updated_at: null
+  - id: "380d0380-9022-416a-8fd4-e575853f695d"
+    title: Moretown Recreation Park
+    address: "940 VT Route 100B, Moretown, VT, 05660, USA"
+    lat: 44.24755
+    lng: -72.762616
+    coords: "010100000001DA56B3CE3052C0F90FE9B7AF1F4640"
+    phone: "8024962594"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/oL7mTe4sRqD3JM17Dutw"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: moretown
+    city_id: 1840070932
+    slug: moretown-recreation-park
+    path: /courts/us/vermont/moretown/moretown-recreation-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T05:37:10.815Z"
+    updated_at: "2023-11-27T09:12:13.712Z"
+    schedule_sources_updated_at: null
+  - id: bde56b79-fc50-4230-b46d-ba77e359a411
+    title: Mt Anthony High School Gym
+    address: "301 Park St, Bennington, VT, 05201, USA"
+    lat: 42.885733
+    lng: -73.191414
+    coords: "0101000000C77F8120404C52C076FEEDB25F714540"
+    phone: "+18024477511"
+    email: null
+    url: "http://mauhs.svsu.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/XSWK6TXTVayMOf1kb4SA"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113837403339833828559"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113837403339833828559\">JB The Milker</a>"
+        attribution_name: JB The Milker
+    country_slug: us
+    state_slug: vermont
+    city_slug: bennington
+    city_id: 1840070381
+    slug: mt-anthony-high-school-gym
+    path: /courts/us/vermont/bennington/mt-anthony-high-school-gym
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T01:47:55.117Z"
+    updated_at: "2023-07-18T02:30:47.446Z"
+    schedule_sources_updated_at: null
+  - id: d2b10a9e-11c6-4a5b-8a5f-982a54b689de
+    title: Newport Municipal Gym
+    address: "222 Main St, Newport, VT, 05855, USA"
+    lat: 44.935568
+    lng: -72.21082
+    coords: "0101000000EF552B137E0D52C0929735B1C0774640"
+    phone: "8023346345"
+    email: Info@NewportRecreation.org
+    url: "https://www.newportrecreation.org/main-office--municipal-gym.html"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/0g2hlJQURue95MF2Wx9g"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/newportparksandrecreation/photos/pb.100063723283564.-2207520000./3312391238888992/?type=3"
+        attribution_html: null
+        attribution_name: Newport Parks & Rec
+    country_slug: us
+    state_slug: vermont
+    city_slug: newport
+    city_id: 1840002270
+    slug: newport-municipal-gym
+    path: /courts/us/vermont/newport/newport-municipal-gym
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-05T05:48:45.016Z"
+    updated_at: "2023-07-18T02:26:03.710Z"
+    schedule_sources_updated_at: null
+  - id: "9ebe2d15-c3cf-465d-bffa-3a3251f8b936"
+    title: North Hero Schoolyard
+    address: "US Hwy 2, North Hero, VT, 05474, USA"
+    lat: 44.833815
+    lng: -73.272982
+    coords: "010100000063997E89785152C006F52D73BA6A4640"
+    phone: null
+    email: null
+    url: "http://www.northheroschool.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/48ibEgF9RIuRnAAAPPPX"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: north-hero
+    city_id: 1840070961
+    slug: north-hero-schoolyard
+    path: /courts/us/vermont/north-hero/north-hero-schoolyard
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T18:00:09.614Z"
+    updated_at: "2023-01-05T06:39:32.979Z"
+    schedule_sources_updated_at: null
+  - id: c5096cd9-ecdf-4695-adc8-42f455088030
+    title: Northwood Park
+    address: "104 Northwood Park Rd, Rutland, VT 05701, USA"
+    lat: 43.64586
+    lng: -72.950388
+    coords: "0101000000B2A03028D33C52C0B4E55C8AABD24540"
+    phone: "+18027792518"
+    email: null
+    url: "https://www.rutlandtown.com/recreation"
+    reservation_url: ""
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: All levels are welcome. Use playtime scheduler to sign up.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/5LFoEeBThW3T0W3mOGEn"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/104448581010817843470"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/104448581010817843470\">J D</a>"
+        attribution_name: J D
+    country_slug: us
+    state_slug: vermont
+    city_slug: rutland
+    city_id: 1840002632
+    slug: northwood-park
+    path: /courts/us/vermont/rutland/northwood-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-07-08T11:49:03.747Z"
+    updated_at: "2024-07-08T11:50:49.134Z"
+    schedule_sources_updated_at: null
+  - id: dbf0112e-1581-40bb-b769-eab2ae9e2281
+    title: O.N.E. Community Center
+    address: "22 Allen St, Burlington, VT, 05401, USA"
+    lat: 44.483765
+    lng: -73.215649
+    coords: "0101000000919A7631CD4D52C087F9F202EC3D4640"
+    phone: "+18023161510"
+    email: null
+    url: "https://enjoyburlington.com/place/core/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [lighted]
+    description: ""
+    access_details: Daily Use Fee or by Punch Card at discounted price.
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/NxXcPBljTH27vHjRb9ve"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/107862638175229276634"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/107862638175229276634\">Andrew Krebbs</a>"
+        attribution_name: Andrew Krebbs
+    country_slug: us
+    state_slug: vermont
+    city_slug: burlington
+    city_id: 1840002310
+    slug: one-community-center
+    path: /courts/us/vermont/burlington/one-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-14T14:45:43.884Z"
+    updated_at: "2023-11-14T06:43:11.466Z"
+    schedule_sources_updated_at: null
+  - id: "6be50501-2ca5-4df9-a61c-242968856df0"
+    title: Oakledge Park
+    address: "200 Flynn Ave, Burlington, VT, 05401, USA"
+    lat: 44.456196
+    lng: -73.224295
+    coords: "0101000000016A6AD95A4E52C073486AA1643A4640"
+    phone: ""
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: public
+    access: needs-audit
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/l6LFpFMySXK9XUetNJrl"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: burlington
+    city_id: 1840002310
+    slug: oakledge-park
+    path: /courts/us/vermont/burlington/oakledge-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T19:57:07.854Z"
+    updated_at: "2023-10-19T02:39:35.659Z"
+    schedule_sources_updated_at: null
+  - id: "6cfabff8-78dd-43e8-be95-0a244f27fe06"
+    title: Pearl Street Park
+    address: "183 Pearl St, Essex Junction, VT, 05452, USA"
+    lat: 44.501234
+    lng: -73.130182
+    coords: "0101000000C921E2E6544852C056D28A6F28404640"
+    phone: "8022335213"
+    email: null
+    url: "https://www.essexvt.org/241/Pearl-Street-Park"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/eVzWySVSGyqadITkjl8i"
+        source: user
+        visible: true
+        attribution_url: "https://www.essexvt.org/ImageRepository/Document?documentID=7471"
+        attribution_html: null
+        attribution_name: Essex Parks & Recreation
+    country_slug: us
+    state_slug: vermont
+    city_slug: essex-junction
+    city_id: 1840004083
+    slug: pearl-street-park
+    path: /courts/us/vermont/essex-junction/pearl-street-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-01T21:40:18.623Z"
+    updated_at: "2023-07-18T02:27:18.439Z"
+    schedule_sources_updated_at: null
+  - id: dde8d19e-a6d7-48af-b4b0-265a8265ada5
+    title: Pearl Street Park
+    address: "227 Dalton Dr, Colchester, VT, 05446, USA is"
+    lat: 44.50415
+    lng: -73.14582
+    coords: "010100000093C6681D554952C0A323B9FC87404640"
+    phone: "+18028781342"
+    email: null
+    url: "https://www.essexvt.org/230/Fort-Ethan-Allen-Parade-Grounds-Park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/NYPVuARXmSsTjTDe2nsQ"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: colchester
+    city_id: 1840070411
+    slug: pearl-street-park
+    path: /courts/us/vermont/colchester/pearl-street-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-26T17:14:54.134Z"
+    updated_at: "2025-12-09T08:46:16.204Z"
+    schedule_sources_updated_at: null
+  - id: "03c13cfd-57b1-40da-85fe-36102879604d"
+    title: Pingree Park/Londonderry
+    address: "Pingree Park Ln, Londonderry, VT, 05148, USA"
+    lat: 43.233476
+    lng: -72.819174
+    coords: "0101000000F2EEC8586D3452C05133A48AE29D4540"
+    phone: null
+    email: null
+    url: "http://www.londonderryvt.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/4CDAyYRZSicsjTRFIIcA"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo/?fbid=10159771761554239&set=g.669743833042176"
+        attribution_html: null
+        attribution_name: Kelly MacLaury Pajala
+    country_slug: us
+    state_slug: vermont
+    city_slug: londonderry
+    city_id: 1840070776
+    slug: pingree-parklondonderry
+    path: /courts/us/vermont/londonderry/pingree-parklondonderry
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T15:54:06.870Z"
+    updated_at: "2024-04-18T06:37:54.790Z"
+    schedule_sources_updated_at: null
+  - id: "65c1c226-f67f-40cc-b56a-f7173a875a39"
+    title: Pittsford Recreation Area
+    address: "355 Furnace Rd, Pittsford, VT, 05763, USA"
+    lat: 43.711416
+    lng: -73.01546
+    coords: "01010000005B99F04BFD4052C0F2ECF2AD0FDB4540"
+    phone: "+18024836500"
+    email: recreation@pittsfordvermont.com
+    url: "https://pittsfordvermont.com/departments/recreation-department/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ArjikZZDSMacDBG9VECn"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: pittsford
+    city_id: 1840071044
+    slug: pittsford-recreation-area
+    path: /courts/us/vermont/pittsford/pittsford-recreation-area
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-05T03:52:24.665Z"
+    updated_at: "2024-05-14T11:25:27.217Z"
+    schedule_sources_updated_at: null
+  - id: "8f05adb5-57a2-4df3-a883-b04163493af3"
+    title: Powers Park
+    address: "Powers Park, Lyndonville, VT, 05851, USA"
+    lat: 44.538909
+    lng: -72.002837
+    coords: "0101000000008E3D7B2E0052C0914259F8FA444640"
+    phone: null
+    email: null
+    url: "https://www.lyndonvt.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: ""
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/3v4Zg4FfQMmqhklaHlaM"
+        source: user
+        attribution_url: ""
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: vermont
+    city_slug: lyndon
+    city_id: 1840070820
+    slug: powers-park
+    path: /courts/us/vermont/lyndon/powers-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T14:47:09.263Z"
+    updated_at: "2025-11-11T06:42:39.036Z"
+    schedule_sources_updated_at: null
+  - id: "08925da3-5ddc-4bd0-b5ba-fa8686147387"
+    title: Powers Recreation Park
+    address: "41 Powers Park, Lyndonville, VT, 05851, USA"
+    lat: 44.539822
+    lng: -72.004696
+    coords: "0101000000029B73F04C0052C0A6D425E318454640"
+    phone: "8026265243"
+    email: null
+    url: "http://powerspark.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Ht74n4OTmebr35jftqdN"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo.php?fbid=281339740454366&set=pb.100057350264633.-2207520000.&type=3"
+        attribution_html: null
+        attribution_name: Powers Park
+    country_slug: us
+    state_slug: vermont
+    city_slug: lyndonville
+    city_id: 1840004081
+    slug: powers-recreation-park
+    path: /courts/us/vermont/lyndonville/powers-recreation-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-07T08:04:44.405Z"
+    updated_at: "2023-01-05T01:25:38.528Z"
+    schedule_sources_updated_at: null
+  - id: "686aa5ba-343e-462f-8c04-cddc266f2b36"
+    title: Prouty Beach Tennis Courts
+    address: "Prouty Beach Rd, Newport, VT, 05855, USA"
+    lat: 44.948572
+    lng: -72.207631
+    coords: "0101000000B1A888D3490D52C05EF3AACE6A794640"
+    phone: "+18023346345"
+    email: null
+    url: "https://newportvt.myrec.com/info/facilities/area_info.aspx?FacilityID=14710&AreaID=14712"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/WJ1bSjnfSTOQ3g4muruo"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: newport
+    city_id: 1840002270
+    slug: prouty-beach-tennis-courts
+    path: /courts/us/vermont/newport/prouty-beach-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T08:31:51.781Z"
+    updated_at: "2025-09-01T04:53:15.632Z"
+    schedule_sources_updated_at: null
+  - id: eb344915-9096-4d7c-a5a5-f25f34a5a231
+    title: RecFit
+    address: "49 Perkins St, Saint Johnsbury, VT, 05819, USA"
+    lat: 44.424166
+    lng: -72.013464
+    coords: "010100000018EB1B98DC0052C09E094D124B364640"
+    phone: "8027512305"
+    email: null
+    url: "https://stjacademy.org/recfit/fit/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [clay]
+    lines: permanent
+    nets: portable
+    amenities: [food, restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/sCUIHv03RlKsNeqnsrVL"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/recfitstj/photos/2390657630980574"
+        attribution_html: null
+        attribution_name: RecFitStJ
+    country_slug: us
+    state_slug: vermont
+    city_slug: st-johnsbury
+    city_id: 1840115464
+    slug: recfit
+    path: /courts/us/vermont/st-johnsbury/recfit
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-29T13:29:51.723Z"
+    updated_at: "2023-01-06T02:47:15.948Z"
+    schedule_sources_updated_at: null
+  - id: d3ca1e96-1851-4541-9ec1-7b3bd56ad326
+    title: Riverside Recreation Park/Springfield
+    address: "13 Fairground Rd, Springfield, VT, 05156, USA"
+    lat: 43.30412
+    lng: -72.496858
+    coords: "010100000062307F85CC1F52C09E077767EDA64540"
+    phone: "8028852727"
+    email: springfieldrec@hotmail.com
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/nkuOdnYBRneAOznSaQYF"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: springfield
+    city_id: 1840071330
+    slug: riverside-recreation-parkspringfield
+    path: /courts/us/vermont/springfield/riverside-recreation-parkspringfield
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T10:23:24.474Z"
+    updated_at: "2025-09-22T06:45:09.533Z"
+    schedule_sources_updated_at: null
+  - id: "7a8cd075-c9a7-4b21-861e-5d0021d04e6a"
+    title: Rossignol Park
+    address: "Industrial Ave, Williston, VT, 05495, USA"
+    lat: 44.461648
+    lng: -73.122931
+    coords: "0101000000882AFC19DE4752C0C4211B48173B4640"
+    phone: "8022889544"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/pJO74ujnRemLH8Autk9Q"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110146013066680530839"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110146013066680530839\">Theo Blood</a>"
+        attribution_name: Theo Blood
+    country_slug: us
+    state_slug: vermont
+    city_slug: williston
+    city_id: 1840071854
+    slug: rossignol-park
+    path: /courts/us/vermont/williston/rossignol-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T09:13:12.019Z"
+    updated_at: "2023-01-05T05:25:12.888Z"
+    schedule_sources_updated_at: null
+  - id: "4ac62052-5f18-4e86-a5dc-92c6f63f35d8"
+    title: Rutland Racquet Club LLC
+    address: "129 Forest St, Rutland, VT, 05701, USA"
+    lat: 43.599061
+    lng: -72.984399
+    coords: "0101000000C4CDA964003F52C08FA7E507AECC4540"
+    phone: "8027748450"
+    email: jamestaggart401@gmail.com
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, lighted, locker rooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/hDfuUu9lTueUTQGHEnEw"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113225469589434930744"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113225469589434930744\">Gil</a>"
+        attribution_name: Gil
+      - url: "https://cdn.filestackcontent.com/KppUxBJQWCtjkLihlwZw"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/100344669220980408507"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/100344669220980408507\">Jacquelyn Vero</a>"
+        attribution_name: Jacquelyn Vero
+    country_slug: us
+    state_slug: vermont
+    city_slug: rutland
+    city_id: 1840002632
+    slug: rutland-racquet-club-llc
+    path: /courts/us/vermont/rutland/rutland-racquet-club-llc
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T06:21:03.868Z"
+    updated_at: "2024-05-14T11:24:14.868Z"
+    schedule_sources_updated_at: null
+  - id: "74d592ac-339f-462d-b891-020f8c9b7c0e"
+    title: Sandhill Park
+    address: "208 Sandhill Rd, Essex Junction, VT, 05452, USA"
+    lat: 44.507372
+    lng: -73.054275
+    coords: "0101000000637FD93D794352C0FB73D190F1404640"
+    phone: null
+    email: null
+    url: "https://www.essexvt.org/251/Sand-Hill-Park"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/JfNDPcfaRDqDszOBEn9C"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Frank Grenon
+    country_slug: us
+    state_slug: vermont
+    city_slug: essex-junction
+    city_id: 1840004083
+    slug: sandhill-park
+    path: /courts/us/vermont/essex-junction/sandhill-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T13:02:12.060Z"
+    updated_at: "2023-07-18T02:26:58.867Z"
+    schedule_sources_updated_at: null
+  - id: "1efcc196-4b3b-4ee3-bbb0-e7b7052a4cfe"
+    title: Schmanska Park
+    address: "35 Grove St O5401, Burlington, VT, 05401, USA"
+    lat: 44.486779
+    lng: -73.184155
+    coords: "010100000046990D32C94B52C096B036C64E3E4640"
+    phone: "+18028657247"
+    email: null
+    url: "https://enjoyburlington.com/place/schmanska-park/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/QYFVEaNpTOCtzhSRxweT"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: burlington
+    city_id: 1840002310
+    slug: schmanska-park
+    path: /courts/us/vermont/burlington/schmanska-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T05:21:01.080Z"
+    updated_at: "2023-07-18T02:38:45.625Z"
+    schedule_sources_updated_at: null
+  - id: c0e0c54e-005d-4c9b-b801-bdfbdd5591c2
+    title: Southern Vermont Pickleball Club
+    address: "161 Vermont Rte 100, West Dover, VT 05356, USA"
+    lat: 42.9418303
+    lng: -72.8587599
+    coords: "0101000000706715ECF53652C0E17030E58D784540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/eGSN6SDsRGq459LN8PwU"
+        source: user
+        attribution_url: "https://www.google.com/search?q=Southern+Vermont+Pickleball+Club+155+Route+100%2C+West+Dover%2C+Vermont%2C+05356&sca_esv=bdb93e76f1da42be&biw=1280&bih=585&ei=02hCaYGRHq6A0PEPw73a6Qw&ved=0ahUKEwjBxpSgmcSRAxUuADQIHcOeNs0Q4dUDCBE&oq=Southern+Vermont+Pickleball+Club+155+Route+100%2C+West+Dover%2C+Vermont%2C+05356&gs_lp=Egxnd3Mtd2l6LXNlcnAiSlNvdXRoZXJuIFZlcm1vbnQgUGlja2xlYmFsbCBDbHViIDE1NSBSb3V0ZSAxMDAsIFdlc3QgRG92ZXIsIFZlcm1vbnQsIDA1MzU2SJBUUOAFWOlJcAF4AZABAJgBqgKgAdMGqgEDMi0zuAEMyAEA-AEB-AECmAIDoALlBKgCFMICHRAuGIAEGJECGLQCGOcGGMcBGIoFGOoCGK8B2AEBwgIXEAAYgAQYkQIYtAIY5wYYigUY6gLYAQHCAiYQLhiABBi0AhjUAxjlAhjnBhjHARi3AxiKBRjqAhiKAxivAdgBAcICIBAAGIAEGLQCGNQDGOUCGOcGGLcDGIoFGOoCGIoD2AEBwgIQEAAYAxi0AhjqAhiPAdgBAsICCxAuGIAEGMcBGK8BwgIGEAAYFhgewgIIEAAYgAQYogTCAggQABiiBBiJBcICGhAuGIAEGMcBGK8BGJcFGNwEGN4EGOAE2AECmAMb8QVqUgScGQ0fv7oGBAgBGAe6BgYIAhABGAqSBwcxLjAuMS4xoAeYD7IHBTItMS4xuAfJBMIHBTMtMi4xyAcsgAgA&sclient=gws-wiz-serp#lpg=cid:CgIgAQ%3D%3D,ik:CAoSFkNJSE0wb2dLRUlDQWdJQ3pnTFNzWlE%3D"
+        attribution_html: null
+        attribution_name: Marv Baker
+    country_slug: us
+    state_slug: vermont
+    city_slug: dover
+    city_id: 1840070419
+    slug: southern-vermont-pickleball-club
+    path: /courts/us/vermont/dover/southern-vermont-pickleball-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-12-17T08:28:23.208Z"
+    updated_at: "2025-12-17T08:28:23.208Z"
+    schedule_sources_updated_at: null
+  - id: bd760cc4-c613-4fb8-a42d-44e9680c6639
+    title: Stratton Training & Fitness Center
+    address: "10 Arbor Road, Stratton, VT, USA"
+    lat: 43.1121842
+    lng: -72.8970533
+    coords: "010100000035913E52693952C06010470D5C8E4540"
+    phone: "8022974230"
+    email: null
+    url: "https://www.stratton.com/things-to-do/activities"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, pro shop, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/tWVbZFpYRMqkdEhaRcRf"
+        source: user
+        visible: true
+        attribution_url: "https://www.stratton.com/things-to-do/activities/pickleball"
+        attribution_html: null
+        attribution_name: Stratton VT
+    country_slug: us
+    state_slug: vermont
+    city_slug: stratton
+    city_id: 1840071522
+    slug: stratton-training-and-fitness-center
+    path: /courts/us/vermont/stratton/stratton-training-and-fitness-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T23:02:16.916Z"
+    updated_at: "2023-10-16T06:42:49.155Z"
+    schedule_sources_updated_at: null
+  - id: d7f6ee90-d5aa-4f3f-bc6e-00448879f4fe
+    title: Szymanski Park
+    address: "32 Andrews Ave, South Burlington, VT, 05403, USA"
+    lat: 44.435872
+    lng: -73.204283
+    coords: "01010000003E0801F9124D52C0FE9E58A7CA374640"
+    phone: "8028464108"
+    email: null
+    url: "https://www.southburlingtonvt.gov/parks_and_facilities/community_parks/szymanski_park.php"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/P7q486UXQhWQKm6gKhqq"
+        source: user
+        attribution_url: "https://www.google.com/search?sca_esv=e4967f2aa746cbdf&sxsrf=ANbL-n4ApU0HtPF9n8fMZbQDyPrGcQhBWQ:1779348263659&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpUrv6YeyJhXfuYqj4Fj6c1U4Z6Yq0xAU8tFlmuJvKXCt2iug6axOV8fORMUDyzql5eftAvM01BCoXXxgyfHuMr6x2ZscPm0fwdyB5VxFc3qhFktTNNsTcSXhE1J_92G1r23NvRFGxXQ-uXT-THLAv8DOnLHJ6TClkcSI4uBVjtomHiYU_eBVJ1_iPUYGSF7AYqciP4Q&q=Szymanski+Park+32+Andrews+Ave,+South+Burlington,+VT,+05403,+USA+new+pickleball+courts&sa=X&ved=2ahUKEwj1o7_p7MmUAxVTk1YBHQ78HjIQtKgLegQIEBAB&biw=1280&bih=585&dpr=1.5#sv=CAMSVhoyKhBlLVNzRjczVUU5RWJWZ2xNMg5Tc0Y3M1VFOUViVmdsTToOUm5WLWdHLWhBT0JXdE0gBCocCgZtb3NhaWMSEGUtU3NGNzNVRTlFYlZnbE0YADABGAcgqKL3qgdKCBABGAEgASgB"
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: vermont
+    city_slug: south-burlington
+    city_id: 1840002311
+    slug: szymanski-park
+    path: /courts/us/vermont/south-burlington/szymanski-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T07:17:54.582Z"
+    updated_at: "2026-05-21T07:28:18.838Z"
+    schedule_sources_updated_at: null
+  - id: "9219ecbe-77bb-4504-a48f-6c72b8c0092d"
+    title: The Arlington Common
+    address: "3938 Route 7A, Arlington, VT 05250, USA"
+    lat: 43.07536
+    lng: -73.15333
+    coords: "0101000000B9DFA128D04952C09AB67F65A5894540"
+    phone: null
+    email: info@arlingtoncommon.org
+    url: "http://arlingtoncommon.org"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/e42P9hu8SOajTYTogdcZ"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo.php?fbid=273197218678074&set=pb.100079633947444.-2207520000&type=3"
+        attribution_html: null
+        attribution_name: The Arlington Common
+    country_slug: us
+    state_slug: vermont
+    city_slug: arlington
+    city_id: 1840070373
+    slug: the-arlington-common
+    path: /courts/us/vermont/arlington/the-arlington-common
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-19T06:02:02.431Z"
+    updated_at: "2026-05-07T06:27:03.411Z"
+    schedule_sources_updated_at: null
+  - id: "1746234f-39fd-448d-9590-2245891b81d1"
+    title: The Kiwini Club
+    address: "5353 Spear St, Shelburne, VT 05482, USA"
+    lat: 44.3977211
+    lng: -73.1973424
+    coords: "01010000004E870442A14C52C0EEB66686E8324640"
+    phone: "+18022336019"
+    email: spearstreetpickleball@gmail.com
+    url: "https://www.thekwiniclub.com/spearstreetpickleballclub"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/5g3HkmZqSlmPPzbQjsH4"
+        source: user
+        attribution_url: "https://www.thekwiniclub.com/spearstreetpickleballclub?lightbox=dataItem-m72lnkh5"
+        attribution_html: null
+        attribution_name: The Kiwini Club
+    country_slug: us
+    state_slug: vermont
+    city_slug: shelburne
+    city_id: 1840071299
+    slug: the-kiwini-club
+    path: /courts/us/vermont/shelburne/the-kiwini-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-12-23T03:04:50.476Z"
+    updated_at: "2025-12-23T03:04:50.476Z"
+    schedule_sources_updated_at: null
+  - id: "5c03c68f-9c28-40a1-89dc-2c0f1f104510"
+    title: The Pop - Essex
+    address: "131 Red Pine Circle, Essex, VT 05452, USA"
+    lat: 44.49534939999999
+    lng: -73.0326791
+    coords: "0101000000D070146A174252C0ED8BF09B673F4640"
+    phone: "+18028767527"
+    email: laney@thepopvt.com
+    url: "https://www.thepopvt.com/"
+    reservation_url: "https://www.thepopvt.com/"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 8
+    outdoor_courts: 0
+    total_courts: 8
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, food, restrooms, water, youth, pro shop, training, wheelchair accessible, locker rooms]
+    description: ""
+    access_details: null
+    schedule_details: Please call ahead!
+    images:
+      - url: "https://cdn.filestackcontent.com/UbOivsBeQubD5ZFSiM3R"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/101623263399912439125"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101623263399912439125\">Joshua Lincoln</a>"
+        attribution_name: Joshua Lincoln
+    country_slug: us
+    state_slug: vermont
+    city_slug: essex-junction
+    city_id: 1840004083
+    slug: the-pop-essex
+    path: /courts/us/vermont/essex-junction/the-pop-essex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-11-03T12:07:44.933Z"
+    updated_at: "2025-11-11T06:45:28.636Z"
+    schedule_sources_updated_at: null
+  - id: "5229def9-70e4-4733-8285-226371983422"
+    title: The Pop!
+    address: "West Entrance, 530 Community Dr Suite 2B, South Burlington, VT 05403, USA"
+    lat: 44.4500537
+    lng: -73.1458823
+    coords: "01010000002DE4B622564952C0CE78115C9B394640"
+    phone: "+18024952533"
+    email: laney@thepopvt.com
+    url: "https://www.thepopvt.com/"
+    reservation_url: "https://app.courtreserve.com/Online/Portal/Index/13167"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 7
+    outdoor_courts: 0
+    total_courts: 7
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms, water, lighted, pro shop, training, wheelchair accessible, locker rooms, youth]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/TZQT4J4rSd68P5WHPWuC"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/jMrX9ngSve79cW2bA8BE"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/MOh9zRSS0Wf8jAUaC4Y8"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: vermont
+    city_slug: south-burlington
+    city_id: 1840002311
+    slug: the-pop
+    path: /courts/us/vermont/south-burlington/the-pop
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-03T10:41:53.571Z"
+    updated_at: "2025-12-18T02:25:14.633Z"
+    schedule_sources_updated_at: null
+  - id: "65014911-cfd6-4284-a8f3-d08c4698187b"
+    title: The Teen Center
+    address: "middlebury, vt"
+    lat: 33.75410079956055
+    lng: -117.4739990234375
+    coords: "010100000000000000565E5DC00000006086E04040"
+    phone: "+18023491790"
+    email: info@teencentervt.org
+    url: "https://www.teencentervt.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt, hard]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/rGWD1v6uR1WJydS7qpPT"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: middlebury
+    city_id: 1840070864
+    slug: the-teen-center
+    path: /courts/us/vermont/middlebury/the-teen-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-07T00:39:29.998Z"
+    updated_at: "2024-03-08T09:05:01.850Z"
+    schedule_sources_updated_at: null
+  - id: "6a4910a3-b11e-4669-8e54-49fcfa404450"
+    title: The Woodstock Inn & Resort
+    address: "1489 South Rd, Woodstock, VT, 05091, USA"
+    lat: 43.602579
+    lng: -72.517726
+    coords: "01010000007D923B6C222152C0D120054F21CD4540"
+    phone: "8024576656"
+    email: null
+    url: "https://www.woodstockinn.com/do/things-to-do/athletic-club"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 4
+    total_courts: 6
+    has_pickleball: true
+    surface: [clay, hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/t7MZJA79TSWWmjHGOJLy"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/jIAog96RrWoS7Yvxa9at"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/112331583004526102710"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112331583004526102710\">Woodstock Athletic Club</a>"
+        attribution_name: Woodstock Athletic Club
+    country_slug: us
+    state_slug: vermont
+    city_slug: woodstock
+    city_id: 1840004161
+    slug: the-woodstock-inn-and-resort
+    path: /courts/us/vermont/woodstock/the-woodstock-inn-and-resort
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-20T10:26:16.731Z"
+    updated_at: "2023-10-16T03:32:34.845Z"
+    schedule_sources_updated_at: null
+  - id: "9965c046-9abe-4e89-93a7-dad73d1763dd"
+    title: Vail Field Tennis and Pickleball Courts
+    address: "South St, Woodstock, VT 05091, USA"
+    lat: 43.6194978
+    lng: -72.5176149
+    coords: "010100000007DB3E9A202152C0D37833B44BCF4540"
+    phone: "+18024573813"
+    email: null
+    url: "https://woodstockvt.myrec.com/info/default.aspx"
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 5
+    total_courts: 5
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/WMmn62dRRyDLG0qcE41w"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/112331583004526102710"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112331583004526102710\">Woodstock Athletic Club</a>"
+        attribution_name: Woodstock Athletic Club
+    country_slug: us
+    state_slug: vermont
+    city_slug: woodstock
+    city_id: 1840004161
+    slug: vail-field-tennis-and-pickleball-courts
+    path: /courts/us/vermont/woodstock/vail-field-tennis-and-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T23:27:18.420Z"
+    updated_at: "2023-07-18T03:54:25.676Z"
+    schedule_sources_updated_at: null
+  - id: c944cc52-b385-445c-b113-f4f02f4d8a57
+    title: Vergennes Union Elementary School
+    address: "43 East St, Vergennes, VT, 05491, USA"
+    lat: 44.166849
+    lng: -73.247995
+    coords: "010100000094A46B26DF4F52C0662FDB4E5B154640"
+    phone: "+18028773761"
+    email: null
+    url: "https://www.vergennesunion.org/"
+    reservation_url: null
+    facility_type: school
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ny9czjCQAiDp2HTS7jXK"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: vergennes
+    city_id: 1840002218
+    slug: vergennes-union-elementary-school
+    path: /courts/us/vermont/vergennes/vergennes-union-elementary-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T08:11:33.239Z"
+    updated_at: "2023-08-07T00:43:12.192Z"
+    schedule_sources_updated_at: null
+  - id: "92c78e33-5b55-4d23-aeaf-4f8b6cfed68c"
+    title: Vermont Pickleball Powered by The EDGE Total Health Network
+    address: "142 West Twin Oaks Terrace, South Burlington, VT, USA"
+    lat: 44.4514834
+    lng: -73.1722916
+    coords: "010100000008D858D3064B52C0ECD74235CA394640"
+    phone: "+18028603343"
+    email: null
+    url: "http://www.edgevt.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 9
+    outdoor_courts: 8
+    total_courts: 17
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted, pro shop, training, wheelchair accessible, food, locker rooms, adaptive]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/qvwPZfeORLS8CUzX6EtU"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/eWTYJHimRvSdzXCyDO0K"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/CklTdBfzTOyKMP5HCW3N"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/435c1tukQiyPBLeUdyvQ"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/fDhnIRpaQSmuGdmLhYst"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/bunMl281TdSVfqG1Eu7g"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/8j6PNIsrTeq3fdS5fClG"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/MaCFAqIuS2q0lpNsmTx9"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/JTMZaIdlSQqhnMT190YQ"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: vermont
+    city_slug: south-burlington
+    city_id: 1840002311
+    slug: vermont-pickleball-powered-by-the-edge-total-health-network
+    path: /courts/us/vermont/south-burlington/vermont-pickleball-powered-by-the-edge-total-health-network
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-21T01:35:09.399Z"
+    updated_at: "2024-12-24T06:21:47.407Z"
+    schedule_sources_updated_at: null
+  - id: de3f0c21-ab47-4330-8d52-845cbe797760
+    title: Vermont Sport & Fitness Club
+    address: "40 Curtis Ave, Rutland, VT, 05701, USA"
+    lat: 43.591584
+    lng: -72.963443
+    coords: "0101000000D923D40CA93D52C01E6B4606B9CB4540"
+    phone: "8027759916"
+    email: vtsportandfitness@gmail.com
+    url: "http://www.vermontsportandfitness.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/09Y5JahyRUSnGPgmCEV0"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/117237910829857963682"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117237910829857963682\">Vermont Sport &amp; Fitness Club</a>"
+        attribution_name: Vermont Sport &amp; Fitness Club
+    country_slug: us
+    state_slug: vermont
+    city_slug: rutland
+    city_id: 1840002632
+    slug: vermont-sport-and-fitness-club
+    path: /courts/us/vermont/rutland/vermont-sport-and-fitness-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-10T15:43:18.060Z"
+    updated_at: "2023-01-06T02:22:19.071Z"
+    schedule_sources_updated_at: null
+  - id: "23d0d4ca-a88a-466e-a904-318207ed22c6"
+    title: Veterans Memorial Park
+    address: "1000 Dorset St, South Burlington, VT, 05403, USA"
+    lat: 44.449386
+    lng: -73.177964
+    coords: "010100000062F71DC3634B52C0DFA3FE7A85394640"
+    phone: "18028464108"
+    email: null
+    url: "https://www.southburlingtonvt.gov/parks_and_facilities/city_parks/veteransmemorial_park.php"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: [food, restrooms, water, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/82g003CPSuymvvC8SOEQ"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: south-burlington
+    city_id: 1840002311
+    slug: veterans-memorial-park
+    path: /courts/us/vermont/south-burlington/veterans-memorial-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T03:30:14.898Z"
+    updated_at: "2023-07-18T02:30:25.973Z"
+    schedule_sources_updated_at: null
+  - id: "74bd3426-460f-4e6e-bd42-c6c6b2bf9918"
+    title: Wallingford Court
+    address: "Meadow St, Wallingford, VT, 05773, USA"
+    lat: 43.470544
+    lng: -72.980409
+    coords: "01010000000FED6305BF3E52C01DAA29C93ABC4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/M2CkMEYoTkm0V3ktHq3n"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: wallingford
+    city_id: 1840071664
+    slug: wallingford-court
+    path: /courts/us/vermont/wallingford/wallingford-court
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T00:21:35.039Z"
+    updated_at: "2025-10-21T09:53:24.201Z"
+    schedule_sources_updated_at: null
+  - id: "29ce8d53-e1d2-455a-b413-3121827bf1e9"
+    title: Warren Elementary School
+    address: "293 School Rd, Warren, VT, 05674, USA"
+    lat: 44.116437
+    lng: -72.852731
+    coords: "010100000044520B25933652C0AD855968E70E4640"
+    phone: "+18024962487"
+    email: null
+    url: "https://warren.huusd.org/home"
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/XlmZrLlOT9GsdyAPISka"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: warren
+    city_id: 1840071674
+    slug: warren-elementary-school
+    path: /courts/us/vermont/warren/warren-elementary-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T07:04:42.042Z"
+    updated_at: "2025-09-25T09:17:23.545Z"
+    schedule_sources_updated_at: null
+  - id: fcd667c0-471e-4c5f-9a12-557fb30255c8
+    title: Wells Courts
+    address: "135 VT-30, Wells, VT 05774, USA"
+    lat: 43.417965
+    lng: -73.2066351
+    coords: "01010000002A2D6D82394D52C0B3EF8AE07FB54540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: Courts are located behind the Wells Village School. The courts are first come first serve. All levels are welcome.
+    access_details: null
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: vermont
+    city_slug: wells
+    city_id: 1840028606
+    slug: wells-courts
+    path: /courts/us/vermont/wells/wells-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-07-08T11:48:38.536Z"
+    updated_at: "2024-07-08T11:51:54.796Z"
+    schedule_sources_updated_at: null
+  - id: c2a6108c-36a1-43e3-8602-5508d82565bd
+    title: Wilkinson Building/Bennington
+    address: "458 Morse Rd, Bennington, VT, 05201, USA"
+    lat: 42.899319
+    lng: -73.215216
+    coords: "0101000000DC645419C64D52C0F1D58EE21C734540"
+    phone: "+15184613101"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/BgmOt7OoRAWz3snWXVr4"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Wilkinson Building/Bennington
+    country_slug: us
+    state_slug: vermont
+    city_slug: bennington
+    city_id: 1840070381
+    slug: wilkinson-buildingbennington
+    path: /courts/us/vermont/bennington/wilkinson-buildingbennington
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T01:58:02.385Z"
+    updated_at: "2023-07-18T02:30:36.607Z"
+    schedule_sources_updated_at: null
+  - id: "75e1c4ba-b724-4fab-be1a-737c842c45af"
+    title: Williston Central School
+    address: "195 Central School Dr, Williston, VT, 05495, USA"
+    lat: 44.439979
+    lng: -73.07351
+    coords: "0101000000747B4963B44452C0A1F65B3B51384640"
+    phone: "8022889544"
+    email: null
+    url: "http://www.cvsdvt.org/"
+    reservation_url: null
+    facility_type: school
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/CyNYkrMtTbu6k3nJpUyu"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: williston
+    city_id: 1840071854
+    slug: williston-central-school
+    path: /courts/us/vermont/williston/williston-central-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-01T20:15:24.507Z"
+    updated_at: "2023-07-19T04:28:17.690Z"
+    schedule_sources_updated_at: null
+  - id: "31a3bdb8-bb14-4137-b85b-4a85f0bb24ef"
+    title: Wilmington Old High School
+    address: "Baker Field, 24 School St, Wilmington, VT 05363, USA"
+    lat: 42.8658472
+    lng: -72.8710768
+    coords: "01010000007A13E8B8BF3752C0A5AABF14D46E4540"
+    phone: "8609892116"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt, hard, acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/G0is77QJTTudStcz6OOK"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: vermont
+    city_slug: wilmington
+    city_id: 1840071866
+    slug: wilmington-old-high-school
+    path: /courts/us/vermont/wilmington/wilmington-old-high-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-07T21:31:36.466Z"
+    updated_at: "2025-06-16T10:13:30.048Z"
+    schedule_sources_updated_at: null

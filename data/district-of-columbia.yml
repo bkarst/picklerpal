@@ -1,0 +1,1265 @@
+state: District Of Columbia
+state_slug: district-of-columbia
+country: us
+court_count: 29
+scraped_at: "2026-06-30T05:22:32.424Z"
+source: pickleheads.com misc.search API
+courts:
+  - id: "48a1af34-c3ea-48a5-9f38-850236c0a7fd"
+    title: Anacostia Pool and Recreation Center
+    address: "1800 Anacostia Freeway, Washington, DC 20019, USA"
+    lat: 38.8725812
+    lng: -76.9831767
+    coords: "01010000001C2CF75DEC3E53C05E8DA2BDB06F4340"
+    phone: "+17712081453"
+    email: null
+    url: "https://www.nps.gov/anac/index.htm"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 10
+    total_courts: 10
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: "Four nets are in a lockbox; go to the TeamReach group (code eastoftheriver) for access information.\nRestrooms are available when the pool is open during the summer."
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/UgoqowRFWWwVrF9wIiDA"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: anacostia-park
+    path: /courts/us/district-of-columbia/washington/anacostia-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T15:20:20.378Z"
+    updated_at: "2024-05-17T08:52:34.248Z"
+    schedule_sources_updated_at: "2024-05-16T19:08:54.724Z"
+  - id: "6e82e52a-9548-473d-bf09-3f4b14b83c67"
+    title: Arthur Capper Recreation Center
+    address: "1000 5th St SE, Washington, DC 20003, USA"
+    lat: 38.8778006
+    lng: -76.9991368
+    coords: "0101000000BA0E7ADBF13F53C060B422C55B704340"
+    phone: (202) 547-0581
+    email: null
+    url: "https://dpr.dc.gov/page/arthur-capper-community-center"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, locker rooms, training]
+    description: ""
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/r3aCkTFeQeOHQ2NI3Odk"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/101810068829626301924"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101810068829626301924\">Austin Graff</a>"
+        attribution_name: Austin Graff
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: arthur-capper-recreation-center
+    path: /courts/us/district-of-columbia/washington/arthur-capper-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T04:51:29.189Z"
+    updated_at: "2026-05-20T03:51:19.067Z"
+    schedule_sources_updated_at: "2026-05-20T03:51:18.187Z"
+  - id: a54e7089-da15-481d-ad64-fee44292f345
+    title: Bancroft Elementary School
+    address: "1755 Newton St. NW Washington, DC 20010"
+    lat: 38.9350432
+    lng: -77.0402999
+    coords: "01010000000D220846944253C0712CDE7EAF774340"
+    phone: (202) 673-7280
+    email: null
+    url: "http://bancroftelementary.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/qBTHmZLATgqA7gOtsQon"
+        source: user
+        visible: true
+        attribution_url: "https://bancroftelementary.org/"
+        attribution_html: null
+        attribution_name: Bancroft Elementary School
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: bancroft-elementary-school
+    path: /courts/us/district-of-columbia/washington/bancroft-elementary-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-04T02:26:36.240Z"
+    updated_at: "2023-04-04T02:26:36.240Z"
+    schedule_sources_updated_at: null
+  - id: "6820cebd-cafa-4a05-a35c-8587cc302fe2"
+    title: Chevy Chase Community Center
+    address: "5601 Connecticut Ave NW, Washington, DC, 20015, USA"
+    lat: 38.965166
+    lng: -77.075111
+    coords: "010100000079245E9ECE4453C0079B3A8F8A7B4340"
+    phone: (202) 282-2204
+    email: null
+    url: "https://dpr.dc.gov/page/chevy-chase-community-center"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/zPYGq7xpQc62JI3yB4Lj"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: chevy-chase-community-center
+    path: /courts/us/district-of-columbia/washington/chevy-chase-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-25T18:43:24.413Z"
+    updated_at: "2026-06-29T06:29:45.763Z"
+    schedule_sources_updated_at: null
+  - id: e7adba25-5af2-459f-b763-660bdd6903f0
+    title: Chevy Chase Rec Center Tennis Courts
+    address: "5500 41st St NW, Washington, DC, 20015, USA"
+    lat: 38.963467
+    lng: -77.080756
+    coords: "01010000002BBD361B2B4553C03BE3FBE2527B4340"
+    phone: "2027277714"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/X7ejfPl1Tk3IsxxfrXbH"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/WxBZ88I9TKGGW5U1TGIn"
+        source: user
+        visible: true
+        attribution_url: "https://www.mapquest.com/us/district-of-columbia/chevy-chase-recreation-center-357631318"
+        attribution_html: null
+        attribution_name: MapQuest
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: chevy-chase-rec-center-tennis-courts
+    path: /courts/us/district-of-columbia/washington/chevy-chase-rec-center-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T16:44:47.397Z"
+    updated_at: "2022-11-07T01:09:24.706Z"
+    schedule_sources_updated_at: null
+  - id: "2c510b1f-6452-4029-afa9-caadbdaa3f59"
+    title: Columbia Heights Community Center
+    address: "1480 Girard St NW, Washington, DC 20009, USA"
+    lat: 38.9251584
+    lng: -77.0350405
+    coords: "01010000004562821A3E4253C052CF27976B764340"
+    phone: "+12026710373"
+    email: null
+    url: "https://dpr.dc.gov/ColumbiaHeights"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: columbia-heights-community-center
+    path: /courts/us/district-of-columbia/washington/columbia-heights-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-02-06T08:00:49.327Z"
+    updated_at: "2025-02-06T08:00:49.327Z"
+    schedule_sources_updated_at: null
+  - id: "0eca29c8-afb2-4e77-83e6-08cc6279a76a"
+    title: Edgewood Recreation Center
+    address: "300 Evarts St NE, Washington, DC, 20002, USA"
+    lat: 38.92465
+    lng: -77.001986
+    coords: "01010000003143E389204053C08A1F63EE5A764340"
+    phone: (202) 788-2204
+    email: null
+    url: "https://dpr.dc.gov/page/edgewood-recreation-center-01"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 2
+    total_courts: 4
+    has_pickleball: true
+    surface: [wood, acrylic]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/FMItqlVESRulb03xnE8I"
+        source: user
+        visible: true
+        attribution_url: "https://blueskyeconstruction.com/edgewood-recreation-center/"
+        attribution_html: null
+        attribution_name: Blue Skye
+      - url: "https://cdn.filestackcontent.com/79rk9M8UTNWFpnWDn2J4"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: edgewood-recreation-center
+    path: /courts/us/district-of-columbia/washington/edgewood-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T07:25:24.270Z"
+    updated_at: "2023-03-02T02:35:07.758Z"
+    schedule_sources_updated_at: null
+  - id: acf538f6-15ce-4109-a899-4cb0cf35de84
+    title: Emery Heights Community Center
+    address: "5701 Georgia Ave NW, Washington, DC 20011, USA"
+    lat: 38.9586541
+    lng: -77.02739009999999
+    coords: "0101000000FCEE67C2C04153C091D6732DB57A4340"
+    phone: (202) 576-3211
+    email: null
+    url: "https://dpr.dc.gov/page/emery-heights-community-center"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/hUQ09IrEShyYtz8NVNuq"
+        source: user
+        visible: true
+        attribution_url: "https://foursquare.com/v/emery-recreation-center/4bfdecd5b68d0f471695e957"
+        attribution_html: null
+        attribution_name: FOURSQUARE CITY GUIDE
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: emery-heights-community-center
+    path: /courts/us/district-of-columbia/washington/emery-heights-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T03:28:36.040Z"
+    updated_at: "2025-09-25T09:10:36.458Z"
+    schedule_sources_updated_at: "2025-09-25T09:10:25.141Z"
+  - id: d23db598-1845-4fe7-9387-83f52271486a
+    title: FrayLife Rec at Bridge District
+    address: "633 Howard Rd SE, Washington, DC 20020, USA"
+    lat: 38.8643483
+    lng: -76.9999055
+    coords: "0101000000CB65A373FE3F53C0366D10F7A26E4340"
+    phone: "+12022901969"
+    email: info@unitedfray.com
+    url: "https://dcfray.com/frayliferec/"
+    reservation_url: null
+    facility_type: null
+    access: needs-audit
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [lighted, food, restrooms, water, youth]
+    description: "#Fraylife Rec at Bridge District is opening soon in D.C., featuring four outdoor pickleball courts, an abundance of outdoor lawn games, and chill space with beverages by Atlas Brew Works (debuting its 3rd location at the Bridge District in 2025) and local food popups. A collaboration with Redbrick LMD + DC Fray // District Fray along with additional partnerships including DC Pickleball Team + Joola."
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/7HrXIxeSM64yfKQ7MEMy"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: fraylife-rec-at-bridge-district
+    path: /courts/us/district-of-columbia/washington/fraylife-rec-at-bridge-district
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-09-23T11:33:28.679Z"
+    updated_at: "2024-09-23T12:31:09.524Z"
+    schedule_sources_updated_at: null
+  - id: "9fe6637a-41fb-46b0-9f36-aec11e95c4ad"
+    title: Friendship Recreation Center aka Turtle Park
+    address: "4500 Van Ness St NW, Washington, DC 20016, USA"
+    lat: 38.94249
+    lng: -77.08806
+    coords: "01010000007D0569C6A24553C04D672783A3784340"
+    phone: (202) 282-2198
+    email: sarokin@gmail.com
+    url: "https://dgs.dc.gov/page/dgs-friendship-recreation-center-project"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: "Come play pickleball at Friendship Recreation Center in Washington, DC, commonly known as Turtle Park (for the mosaic turtle in the playground)! There are 2 outdoor asphalt dual-use courts used for tennis and pickleball. The lines are permanent and roll-away nets are available. The courts are free. Open play is scheduled most weekday mornings and noon on Saturday. At other times, play is first come, first serve.  Check TeamReach (code: TPDC) for complete schedule."
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/3EqZZAPEQn2PNNfuukBG"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: friendship-recreation-center-aka-turtle-park
+    path: /courts/us/district-of-columbia/washington/friendship-recreation-center-aka-turtle-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-03-02T03:08:49.170Z"
+    updated_at: "2026-06-29T06:29:33.803Z"
+    schedule_sources_updated_at: null
+  - id: ad540e8c-40c0-466c-896b-2e0afa1b0feb
+    title: "George Washington Tennis Center, Mt Vernon Campus"
+    address: "2100 Foxhall Road Northwest, Washington, DC, USA"
+    lat: 38.9174161
+    lng: -77.08983599999999
+    coords: "010100000038807EDFBF4553C0742909E46D754340"
+    phone: "2022426100"
+    email: cgjsnr@hotmail.com
+    url: "https://gwsports.com/sports/2018/7/23/facilities-tennis-center-html.aspx"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: tape
+    nets: portable
+    amenities: [restrooms, water]
+    description: Private and small group pickleball lessons are available from a PPR certified teaching professional.
+    access_details: "Membership is free\n\n$8.00 per person per 2-hour session"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/eoiXC4nQUqu2BhFVNWHW"
+      - url: "https://cdn.filestackcontent.com/kU9mLozKQWu7wTAIW0kt"
+      - url: "https://cdn.filestackcontent.com/jrpEYNqSom5zRx5o9rHz"
+      - url: "https://cdn.filestackcontent.com/GSYme7QbROyDn3irndZB"
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: george-washington-tennis-center-mt-vernon-campus
+    path: /courts/us/district-of-columbia/washington/george-washington-tennis-center-mt-vernon-campus
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-11-04T11:51:23.426Z"
+    updated_at: "2025-06-23T13:32:52.790Z"
+    schedule_sources_updated_at: "2024-11-04T13:40:34.110Z"
+  - id: "239ed1b1-e051-44fc-8fca-1959de4f5c5d"
+    title: Hillcrest Recreation Center
+    address: "3100 Denver St SE, Washington, DC 20020, USA"
+    lat: 38.8587836
+    lng: -76.9626408
+    coords: "0101000000E67228E89B3D53C0AB2BFA9EEC6D4340"
+    phone: (202) 645-9200
+    email: null
+    url: "https://dpr.dc.gov/page/hillcrest-recreation-center"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 4
+    outdoor_courts: 2
+    total_courts: 6
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: "Outdoor courts are located off of Alabama Avenue, next to the Washington Senior Center."
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/uRFQQV6rQjuFZP03rNfE"
+        source: user
+        visible: true
+        attribution_url: "https://www.longandfoster.com/images/uploads/recos/35009/community/washington/hillcrest/06.jpg"
+        attribution_html: null
+        attribution_name: Long & Foster
+      - url: "https://cdn.filestackcontent.com/8Yo8kUqIT4yMCGecYiCV"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: hillcrest-recreation-park
+    path: /courts/us/district-of-columbia/washington/hillcrest-recreation-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-07T03:23:10.554Z"
+    updated_at: "2025-10-27T07:42:29.537Z"
+    schedule_sources_updated_at: "2024-05-16T18:00:49.858Z"
+  - id: "63660f52-4f22-48e2-976b-6deef78a4d86"
+    title: Jefferson Field Pickleball & Tennis Courts
+    address: "Jefferson Field, 9th Street Southwest, Washington, DC, USA"
+    lat: 38.881298
+    lng: -77.0233154
+    coords: "0101000000901FE0FF7D4153C0DE03745FCE704340"
+    phone: (202) 673-7647
+    email: null
+    url: "http://dpr.dc.gov/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: It's a school playground. Grass growing up all around. Not good.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/iiR47Hj7TFaKSiGYcehQ"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: jefferson-field-pickleball-and-tennis-courts
+    path: /courts/us/district-of-columbia/washington/jefferson-field-pickleball-and-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-04T03:12:58.761Z"
+    updated_at: "2026-05-22T07:44:06.881Z"
+    schedule_sources_updated_at: "2026-05-20T03:56:26.418Z"
+  - id: e294358d-d144-4c83-8631-1a299ea91f2f
+    title: King Greenleaf Recreation Center
+    address: "201 N St SW, Washington, DC, 20024, USA"
+    lat: 38.875091
+    lng: -77.012758
+    coords: "0101000000CB30EE06D14053C010035DFB02704340"
+    phone: (202) 645-7454
+    email: null
+    url: "https://dpr.dc.gov/page/king-greenleaf-recreation-center"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 4
+    total_courts: 6
+    has_pickleball: true
+    surface: [wood, asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted, food, training]
+    description: ""
+    access_details: null
+    schedule_details: "As of May 19 the 4 outdoor courts are under reconstruction. Expected opening July 1. Recurrent players communicate via TeamReach, group code: GREENLEAF."
+    images:
+      - url: "https://cdn.filestackcontent.com/0PdMIj8QpZBsK0eEH2gb"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Nikhil Kulkarni
+      - url: "https://cdn.filestackcontent.com/DQ9qQHXXS92s2lrbmUvd"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: king-greenleaf-recreation-center
+    path: /courts/us/district-of-columbia/washington/king-greenleaf-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T22:25:29.017Z"
+    updated_at: "2026-05-20T03:53:12.728Z"
+    schedule_sources_updated_at: "2026-05-20T03:53:11.878Z"
+  - id: "536740de-9c43-407c-9fdb-7b3082660cae"
+    title: Kraken Kourts & Skates
+    address: "514 Rhode Island Avenue Northeast, Washington, DC, USA"
+    lat: 38.9219323
+    lng: -76.9997668
+    coords: "01010000001A68E32DFC3F53C023D0AAE001764340"
+    phone: (833) 388-0106
+    email: null
+    url: "http://www.experiencekraken.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 14
+    outdoor_courts: 0
+    total_courts: 14
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [food, lighted, restrooms, water, wheelchair accessible, training]
+    description: ""
+    access_details: "Drop-in Play $10 per 2 Hours, Court Rental $15-$75 per Hour, Membership $99 per Month"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/mXRaHtqRSM2SEoeRw6g6"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo.php?fbid=777189977742307&set=pb.100063539365271.-2207520000&type=3"
+        attribution_html: null
+        attribution_name: Kraken
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: kraken-kourts
+    path: /courts/us/district-of-columbia/washington/kraken-kourts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-03T07:10:59.715Z"
+    updated_at: "2024-05-03T09:46:18.816Z"
+    schedule_sources_updated_at: null
+  - id: "7b754943-ded6-4173-b57b-885115296882"
+    title: Kraken Kourts & Skates
+    address: "514 Rhode Island Ave NE, Washington, DC, USA"
+    lat: 38.9219323
+    lng: -76.9997668
+    coords: "01010000001A68E32DFC3F53C023D0AAE001764340"
+    phone: "+18888651507"
+    email: ""
+    url: "https://www.experiencekraken.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 15
+    outdoor_courts: 0
+    total_courts: 15
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms, water, training]
+    description: ""
+    access_details: Hourly fee per court
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/fN8Q9IGSZypE34QgKBO8"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/102174369231412499707"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/102174369231412499707\">Kraken Kourts &amp; Skates | Bryant Street NE</a>"
+        attribution_name: Kraken Kourts &amp; Skates | Bryant Street NE
+      - url: "https://cdn.filestackcontent.com/ofK77H5DRMyYA7KhTABQ"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/102174369231412499707"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/102174369231412499707\">Kraken Kourts &amp; Skates | Bryant Street NE</a>"
+        attribution_name: Kraken Kourts &amp; Skates | Bryant Street NE
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: kraken-kourts-and-skates
+    path: /courts/us/district-of-columbia/washington/kraken-kourts-and-skates
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-05-30T08:14:18.879Z"
+    updated_at: "2025-07-03T05:39:27.091Z"
+    schedule_sources_updated_at: null
+  - id: a584cad1-699d-481b-9eb7-f9c7c44c6e9c
+    title: Newark Street Park
+    address: "3307 39th St NW, Washington, DC, USA"
+    lat: 38.9341381
+    lng: -77.0767923
+    coords: "01010000006A45402AEA4453C04AB956D691774340"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/9MWp121dShGCJ7qxGagl"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: newark-street-park
+    path: /courts/us/district-of-columbia/washington/newark-street-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-11-18T06:58:45.691Z"
+    updated_at: "2025-09-15T08:31:27.149Z"
+    schedule_sources_updated_at: null
+  - id: "37cd7a47-fd7e-43ec-b939-3dae842dd691"
+    title: North Michigan Park Recreation Center
+    address: "1333 Emerson St NE, Washington, DC 20017, USA"
+    lat: 38.9497153
+    lng: -76.9865377
+    coords: "01010000005971056F233F53C063015D4590794340"
+    phone: (202) 541-3526
+    email: null
+    url: "https://dpr.dc.gov/page/north-michigan-park-recreation-center-0"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Ly7l1amhQ6yfikfBizDK"
+        source: user
+        visible: true
+        attribution_url: "https://fastly.4sqi.net/img/general/600x600/31043374_aQ98-bLdt245L-OhIT0P2xafVFc4f4E-JpXdp9adel8.jpg"
+        attribution_html: null
+        attribution_name: Foursquare
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: north-michigan-park-recreation-center
+    path: /courts/us/district-of-columbia/washington/north-michigan-park-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-03-02T03:47:33.503Z"
+    updated_at: "2026-06-29T06:30:10.360Z"
+    schedule_sources_updated_at: null
+  - id: e23c9408-f670-48f5-975d-fa8637e9c083
+    title: Palisades Recreation Center & Playground
+    address: "5200 Sherier Pl NW, Washington, DC, 20016, USA"
+    lat: 38.924563
+    lng: -77.104576
+    coords: "010100000093FC885FB14653C0BB0B941458764340"
+    phone: (202) 545-7201
+    email: null
+    url: "https://dpr.dc.gov/page/spray-parks"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 4
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, wheelchair accessible]
+    description: ""
+    access_details: free
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/SFlyJlvcTkSAUdwRAC5o"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/101540542724221033233"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101540542724221033233\">Thomas Smith</a>"
+        attribution_name: Thomas Smith
+      - url: "https://cdn.filestackcontent.com/QCWWVB7ZQyO8YcK4v2lj"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: palisades-recreation-center-and-playground
+    path: /courts/us/district-of-columbia/washington/palisades-recreation-center-and-playground
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T08:11:55.764Z"
+    updated_at: "2025-04-08T09:17:01.465Z"
+    schedule_sources_updated_at: null
+  - id: "873536f2-0e8b-49db-a8b5-ddd3cb331eb7"
+    title: Ridge Road Community Center
+    address: "830 Ridge Rd SE, Washington, DC 20019, USA"
+    lat: 38.8764484
+    lng: -76.94098640000001
+    coords: "0101000000C67E051F393C53C0D6500F762F704340"
+    phone: "+12026716747"
+    email: null
+    url: "https://dpr.dc.gov/ridgeroad"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/X9Smitf3SvumOIcqZRXk"
+        source: user
+        attribution_url: "https://www.yelp.com/biz_photos/ridge-road-recreation-center-washington?select=poo7kjoWw9NrV06WUaaYzA"
+        attribution_html: null
+        attribution_name: Austin G.
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: ridge-road-community-center
+    path: /courts/us/district-of-columbia/washington/ridge-road-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-10-04T07:06:13.547Z"
+    updated_at: "2024-11-13T02:09:07.268Z"
+    schedule_sources_updated_at: null
+  - id: c707d24e-b1c0-4bf6-80ee-a7c9ff1ef681
+    title: Rose Park Recreation Center
+    address: "2609 Dumbarton St NW, Washington, DC, 20007, USA"
+    lat: 38.908683851827355
+    lng: -77.05421246857833
+    coords: "010100000014E59237784353C03B00A1C04F744340"
+    phone: (202) 664-4734
+    email: null
+    url: "https://dpr.dc.gov/page/rose-park-recreation-center"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/rq8Yxo57QhK8nHBpz1Yh"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/AYM66CRMTHWvfCD2K8R0"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/ULHxyug8RNqEqb0aiGat"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: rose-park-recreation-center
+    path: /courts/us/district-of-columbia/washington/rose-park-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T19:51:34.220Z"
+    updated_at: "2023-09-04T07:13:17.471Z"
+    schedule_sources_updated_at: null
+  - id: "0d5a51f0-2a73-4ddb-95bd-831e4164241c"
+    title: Rosedale Recreation Center
+    address: "1701 Gales St NE, Washington, DC, 20002, USA"
+    lat: 38.897819
+    lng: -76.979136
+    coords: "010100000085950A2AAA3E53C01C5DA5BBEB724340"
+    phone: (202) 727-2591
+    email: null
+    url: "http://app.dpr.dc.gov/dprmap/details.asp?cid=41"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: tape
+    nets: portable
+    amenities: [restrooms, water, locker rooms]
+    description: null
+    access_details: Fee for non DC residents
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/uxBLrymdTjy2AlJPPRor"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/place/Rosedale+Recreation+Center/"
+        attribution_html: null
+        attribution_name: Thomas Smith
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: rosedale-recreation-center
+    path: /courts/us/district-of-columbia/washington/rosedale-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-13T16:53:38.977Z"
+    updated_at: "2024-06-27T08:36:39.319Z"
+    schedule_sources_updated_at: "2024-05-10T09:02:19.761Z"
+  - id: "06ad4f3f-11c0-4164-8509-5dbf6f86e93e"
+    title: Sherwood Recreation Center
+    address: "640 10th St NE, Washington, DC, 20002, USA"
+    lat: 38.898602
+    lng: -76.993169
+    coords: "0101000000AA99B514903F53C0620FED6305734340"
+    phone: (202) 698-3075
+    email: null
+    url: "https://dpr.dc.gov/page/sherwood-recreation-center"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/6AY84LYtSC2Y0BkUUi8o"
+        source: user
+        visible: true
+        attribution_url: "https://foursquare.com/v/sherwood-recreational-center/"
+        attribution_html: null
+        attribution_name: Cheikh R.
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: sherwood-recreation-center
+    path: /courts/us/district-of-columbia/washington/sherwood-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T14:00:06.673Z"
+    updated_at: "2023-09-25T10:16:54.225Z"
+    schedule_sources_updated_at: null
+  - id: c5d8d0ba-f0fa-4972-b39f-b19fa043c2b2
+    title: Takoma Recreation Center
+    address: "300 Van Buren St NW, Washington, DC, 20012, USA"
+    lat: 38.9689
+    lng: -77.017999
+    coords: "0101000000161747E5264153C0158C4AEA047C4340"
+    phone: (202) 576-7068
+    email: null
+    url: "http://dpr.dc.gov/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/2rOk4JNmRK2sRrJ4XnxI"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: takoma-recreation-center
+    path: /courts/us/district-of-columbia/washington/takoma-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T13:19:51.342Z"
+    updated_at: "2023-03-02T02:47:07.078Z"
+    schedule_sources_updated_at: null
+  - id: "849ab5eb-5c5d-4a73-8d54-954c7cc37424"
+    title: The Robert M. Krughoff Pickleball Center at Garfield Park
+    address: "172 Virginia Ave SE, Washington, DC 20003, USA"
+    lat: 38.8805877
+    lng: -77.0029687
+    coords: "0101000000585AA1A3304053C043610619B7704340"
+    phone: null
+    email: d_reynolds@yahoo.com
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 5
+    total_courts: 5
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms]
+    description: "As of June 27th, the center is open dawn to dusk. This is an open-space, unused road for which we have a DC permit for 5 professionally painted courts on a tennis surface. Presently it is BYON (bring your own nets). But we expect to have semi-perm nets on site 24/7 and partitions by mid-July. Open play will be during daylight hours. There is a Whole Foods nearby. For-fee coaching may become available in the Fall. Recurrent players communicate via TeamReach; group code GPPB. This is an inclusive community: 4-on, 4-off at all times. See posted guidelines."
+    access_details: ""
+    schedule_details: Inclusive open play doubles games are the main focus.
+    images:
+      - url: "https://cdn.filestackcontent.com/EAuRekXYTMKSNHxYqEmr"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: the-robert-m-krughoff-pickleball-center-at-garfield-park
+    path: /courts/us/district-of-columbia/washington/the-robert-m-krughoff-pickleball-center-at-garfield-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-21T07:37:15.745Z"
+    updated_at: "2026-06-29T06:29:27.848Z"
+    schedule_sources_updated_at: "2026-06-27T20:19:06.130Z"
+  - id: "53c315a4-652e-4224-b917-3dbd5491e848"
+    title: Thomson Elementary School
+    address: "1200 L St NW  Washington, DC 20005"
+    lat: 38.9034227
+    lng: -77.0284693
+    coords: "0101000000291CE670D24153C0657BE35AA3734340"
+    phone: (202) 898-4660
+    email: null
+    url: "https://www.thomsondcps.org/"
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ildBTMCQNOLTQ66oC07A"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/108360724959926209466"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108360724959926209466\">Alex Tucker</a>"
+        attribution_name: Alex Tucker
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: thomson-elementary-school
+    path: /courts/us/district-of-columbia/washington/thomson-elementary-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-04T03:04:12.547Z"
+    updated_at: "2023-04-04T03:04:12.547Z"
+    schedule_sources_updated_at: null
+  - id: "1c757050-dc4d-471d-83e8-200dcc6c80e1"
+    title: Turkey Thicket Recreation Center
+    address: "1150 Michigan Ave NE, Washington, DC, 20017, USA"
+    lat: 38.938759725430046
+    lng: -76.99195332159996
+    coords: "01010000008CDBC8297C3F53C012C3574729784340"
+    phone: (202) 576-9238
+    email: null
+    url: "https://dpr.dc.gov/page/turkey-thicket-recreation-center"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 4
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/1fCOaBdHR8i0T6wztA2Q"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/FtcIuqYQQF6gEZNFM4Ac"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Paul H
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: turkey-thicket-recreation-center
+    path: /courts/us/district-of-columbia/washington/turkey-thicket-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T08:56:16.632Z"
+    updated_at: "2026-06-01T05:05:53.768Z"
+    schedule_sources_updated_at: null
+  - id: dda1f240-91c4-4edf-98b2-3b2e63106077
+    title: Volta Recreation Center
+    address: "1555 34th St NW, Washington, DC 20007, United States"
+    lat: 38.91011
+    lng: -77.0668
+    coords: "0101000000DCD78173464453C09CE1067C7E744340"
+    phone: (202) 645-5668
+    email: null
+    url: "https://web1.myvscloud.com/wbwsc/dcwashingtonwt.wsc/splash.html?SessionID=df2269a64db7c97524706ebdb9d7fbae3c049de2fdb9b960a1c90c8ded07d1d11ab81f73201136947c20baee0162a56ce1fb7c2ed48d04a9618b856f7f4ffe47/dprmap/details.asp"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/UdN3WVLTaaIPu6aDFPwx"
+        source: user
+        visible: true
+        attribution_url: "https://georgetownmetropolitan.com/2023/01/23/pickleball-court-painted-at-volta/"
+        attribution_html: null
+        attribution_name: Georgetown Metropolitan
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: volta-recreation-center
+    path: /courts/us/district-of-columbia/washington/volta-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-03T06:57:29.363Z"
+    updated_at: "2023-04-19T05:12:22.013Z"
+    schedule_sources_updated_at: null
+  - id: "8d3544f5-70a3-4d28-8a60-70faf90a061e"
+    title: Washington Tennis & Education Foundation - East
+    address: "200 Stoddert Pl SE, Washington, DC, 20019, USA"
+    lat: 38.888557
+    lng: -76.947182
+    coords: "0101000000085740A19E3C53C0E1D05B3CBC714340"
+    phone: "2022919888"
+    email: null
+    url: "http://www.wtef.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 9
+    total_courts: 9
+    has_pickleball: true
+    surface: [hard]
+    lines: null
+    nets: tennis
+    amenities: [restrooms, water]
+    description: Contact WTEF to confirm availability and play times.
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/qd4IGpYWT4qi5s6Ai8Ei"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: district-of-columbia
+    city_slug: washington
+    city_id: 1840006060
+    slug: washington-tennis-and-education-foundation-east
+    path: /courts/us/district-of-columbia/washington/washington-tennis-and-education-foundation-east
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-20T00:01:41.877Z"
+    updated_at: "2024-05-17T05:39:05.080Z"
+    schedule_sources_updated_at: null

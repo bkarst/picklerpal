@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# pickleheads scrape raw dump (large; regenerate via scripts/pickleheads-crawl.js)
+/pickleheads-us-courts.json

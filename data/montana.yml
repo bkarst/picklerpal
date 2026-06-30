@@ -1,0 +1,3133 @@
+state: Montana
+state_slug: montana
+country: us
+court_count: 73
+scraped_at: "2026-06-30T05:22:32.424Z"
+source: pickleheads.com misc.search API
+courts:
+  - id: "1148d457-0d6f-4638-b7aa-a94a3f52ce93"
+    title: Anaconda Technology Center Gym
+    address: "1410 W Park Ave, Anaconda, MT, 59711, USA"
+    lat: 46.133237
+    lng: -112.971699
+    coords: "010100000094A30051303E5CC0FFCEF6E80D114740"
+    phone: "4065633408"
+    email: null
+    url: "https://smeltercitycrossfit.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/F9igqyQJQReYyJspP7Zq"
+        source: user
+        visible: true
+        attribution_url: "https://static.wixstatic.com/media/0643ba_5aaab82190ac448f8ce99de373726b96~mv2.png/v1/fill/w_2500,h_1591,al_c/0643ba_5aaab82190ac448f8ce99de373726b96~mv2.png"
+        attribution_html: null
+        attribution_name: Smelter City Recreation Complex
+    country_slug: us
+    state_slug: montana
+    city_slug: anaconda
+    city_id: 1840074775
+    slug: anaconda-technology-center-gym
+    path: /courts/us/montana/anaconda/anaconda-technology-center-gym
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T17:20:47.192Z"
+    updated_at: "2022-12-19T05:23:49.977Z"
+    schedule_sources_updated_at: null
+  - id: c7bc4e1b-fd7a-42ff-99bd-46609e57f768
+    title: Barney Park
+    address: "1901 Cleveland St, Helena, MT, 59601, USA"
+    lat: 46.60775415155135
+    lng: -112.04886554365538
+    coords: "0101000000ACF9F19C20035CC0EC7556E3CA4D4740"
+    phone: "4064596810"
+    email: null
+    url: "https://www.helenamt.gov/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/jPDOlUOeTnKig8ZGTLvs"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: montana
+    city_slug: helena
+    city_id: 1840019820
+    slug: barney-park
+    path: /courts/us/montana/helena/barney-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T02:17:06.988Z"
+    updated_at: "2023-09-27T05:10:31.040Z"
+    schedule_sources_updated_at: null
+  - id: "643d1606-3fce-418c-af8f-cbd3dbbf1010"
+    title: Beaverhead Pickleball Association
+    address: "1573 Overland Rd, Dillon, MT 59725, USA"
+    lat: 45.2273107
+    lng: -112.6140903
+    coords: "01010000009DD266414D275CC0F3435B84189D4640"
+    phone: "+14063600386"
+    email: hmsk4mt@gmail.com
+    url: "https://pickleballbcmontana.com"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [acrylic, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: "Free to play during public facility hours, but donations are requested."
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Ya1CH2Z6T78ahKEt5oei"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: montana
+    city_slug: dillon
+    city_id: 1840018539
+    slug: beaverhead-pickleball-association
+    path: /courts/us/montana/dillon/beaverhead-pickleball-association
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-07-24T10:34:29.602Z"
+    updated_at: "2026-05-12T03:40:43.315Z"
+    schedule_sources_updated_at: "2026-05-12T00:55:40.282Z"
+  - id: a088684f-7e8f-4f4c-a1b5-3a764c60618c
+    title: Big Sky Tennis/Pickleball Courts
+    address: "423 Little Coyote Rd, Big Sky, MT, 59716, USA"
+    lat: 45.270633
+    lng: -111.293052
+    coords: "0101000000C1012D5DC1D25BC0F31B261AA4A24640"
+    phone: "+14069932112"
+    email: bsco@bsco.org
+    url: "https://bsco.org/play/sports/tennis/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/684stfitRtanGVP9c3Hb"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/bscomt/"
+        attribution_html: null
+        attribution_name: The Big Sky Community Organization
+    country_slug: us
+    state_slug: montana
+    city_slug: gallatin-gateway
+    city_id: 1840023880
+    slug: big-sky-tennispickleball-courts
+    path: /courts/us/montana/gallatin-gateway/big-sky-tennispickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-30T19:32:00.184Z"
+    updated_at: "2025-07-03T05:22:36.519Z"
+    schedule_sources_updated_at: null
+  - id: "517b6ef8-0493-4294-9384-088ff67ecf04"
+    title: Billings YMCA
+    address: "402 N 32nd St, Billings, MT, 59101, USA"
+    lat: 45.782541
+    lng: -108.514176
+    coords: "0101000000D7187442E8205BC0BB63B14D2AE44640"
+    phone: "4066718886"
+    email: null
+    url: "http://www.billingsymca.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/twGtf2PGQXeU8EXpc66w"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/104959938923548347920"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/104959938923548347920\">Billings YMCA</a>"
+        attribution_name: Billings YMCA
+    country_slug: us
+    state_slug: montana
+    city_slug: billings
+    city_id: 1840018496
+    slug: billings-ymca
+    path: /courts/us/montana/billings/billings-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T18:07:54.575Z"
+    updated_at: "2022-12-19T07:36:49.611Z"
+    schedule_sources_updated_at: null
+  - id: "599fd972-cb6c-454c-aa4c-1a1dc501057b"
+    title: Bogert Park
+    address: "325 S Church Ave, Bozeman, MT, 59715, USA"
+    lat: 45.675943
+    lng: -111.030466
+    coords: "0101000000F568AA27F3C15BC0E57ADB4C85D64640"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 7
+    total_courts: 7
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images: []
+    country_slug: us
+    state_slug: montana
+    city_slug: bozeman
+    city_id: 1840018509
+    slug: bogert-park
+    path: /courts/us/montana/bozeman/bogert-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T00:31:52.478Z"
+    updated_at: "2023-10-17T07:36:55.857Z"
+    schedule_sources_updated_at: null
+  - id: "18fb42db-788e-4a95-ba77-5a86f57038d8"
+    title: Bozeman Classic Pickleball Club
+    address: "707 E Peach St C, Bozeman, MT 59715, USA"
+    lat: 45.68583779999999
+    lng: -111.0255309
+    coords: "010100000066225B4CA2C15BC026AE7488C9D74640"
+    phone: "+14069310564"
+    email: em@bozemanpickleballclub.com
+    url: "https://www.bozemanpickleballclub.com/"
+    reservation_url: "https://app.courtreserve.com/Online/Memberships/Public/13381"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete, acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, pro shop, training, locker rooms]
+    description: "Bozeman Classic is Bozeman's indoor Pickleball Club with 4 full size (60' x 30') dedicated pickleball courts featuring outdoor grade court playing surface, permanent Putterman nets and posts, and a pro shop.  We are in Bozeman's hot NorthEast nieghborhood on E Peach St. between Wild Crumb and Mountains Walking Brewery.  We have 40 parking spots and are open daily from 5am-11pm for reservations.  A limited number of unlimited memberships are still available."
+    access_details: "Unlimited Memberships are for sale, limited to 395 total members.  Drop in guests can book courts up to 3 days in advance for $11/hr per player"
+    schedule_details: "1.5 Hour Reservation slots every day starting at 5:30AM"
+    images:
+      - url: "https://cdn.filestackcontent.com/QGyu8KnTs6Jppd0qbeCE"
+        source: user
+        attribution_url: "https://www.bozemanpickleballclub.com/"
+        attribution_html: null
+        attribution_name: Bozeman Pickleball Club
+      - url: "https://cdn.filestackcontent.com/2DOiqD8aR6l6Prsm1xhp"
+        source: user
+        attribution_url: "https://www.explorebigsky.com/wp-content/uploads/2024/10/Screenshot-2024-10-21-at-11.14.36%E2%80%AFAM.png"
+        attribution_html: null
+        attribution_name: Bozeman Classic Pickleball Club
+      - url: "https://cdn.filestackcontent.com/TUesNQzuQ3im3aKspzqM"
+        source: user
+        attribution_url: "https://www.bozemanpickleballclub.com/"
+        attribution_html: null
+        attribution_name: Interior of Bozeman Classic Pickleball Club!
+      - url: "https://cdn.filestackcontent.com/axlqiGAZRkKwzwnJtfFN"
+        source: user
+        attribution_url: "https://www.bozemanpickleballclub.com/"
+        attribution_html: null
+        attribution_name: Exterior of Bozeman Classic Pickleball Club at Night
+    country_slug: us
+    state_slug: montana
+    city_slug: bozeman
+    city_id: 1840018509
+    slug: bozeman-classic-pickleball-club
+    path: /courts/us/montana/bozeman/bozeman-classic-pickleball-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-10-28T11:19:32.452Z"
+    updated_at: "2026-04-03T06:05:03.165Z"
+    schedule_sources_updated_at: null
+  - id: "42efb485-8fa8-424b-a98a-5524039cad0e"
+    title: Butte Civic Center Annex
+    address: "1340 Harrison Ave, Butte, MT, 59701, USA"
+    lat: 46.002694
+    lng: -112.516429
+    coords: "01010000002F6D382C0D215CC09DF2E84658004740"
+    phone: ""
+    email: buttepickleball@gmail.com
+    url: "https://www.buttepickleball.com/home"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/NgiiFRYTRt3qxcvxhgSq"
+        source: user
+        attribution_url: "https://www.google.com/maps/contrib/108980284740580063383/photos/@36.6771503,-114.0709981,9z/data=!3m1!4b1!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI1MDQwNy4wIKXMDSoJLDEwMjExNjQwSAFQAw%3D%3D"
+        attribution_html: null
+        attribution_name: Nils Hünerfürst
+    country_slug: us
+    state_slug: montana
+    city_slug: butte
+    city_id: 1840032850
+    slug: butte-civic-center-annex
+    path: /courts/us/montana/butte/butte-civic-center-annex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T01:33:26.049Z"
+    updated_at: "2026-03-10T07:35:49.174Z"
+    schedule_sources_updated_at: null
+  - id: "70174e4a-cd24-4efc-b762-a7501c60c1b9"
+    title: Capital City Health Club
+    address: "1280 N Montana Ave, Helena, MT, 59601, USA"
+    lat: 46.596574
+    lng: -112.022196
+    coords: "01010000008786C5A86B015CC06BD26D895C4C4740"
+    phone: null
+    email: null
+    url: "http://www.capcity.club/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/juOFU4aQe2sFzCJvkawo"
+        source: user
+        visible: true
+        attribution_url: "https://s3-media0.fl.yelpcdn.com/bphoto/UWi60sQrTzJsjpGCY28QuQ/l.jpg"
+        attribution_html: null
+        attribution_name: MapQuest
+      - url: "https://cdn.filestackcontent.com/5Qme5v4OTEmSz0qgciNg"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/102484457732742485624"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/102484457732742485624\">Jesse Franzen</a>"
+        attribution_name: Jesse Franzen
+    country_slug: us
+    state_slug: montana
+    city_slug: helena
+    city_id: 1840019820
+    slug: capital-city-health-club
+    path: /courts/us/montana/helena/capital-city-health-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-05T05:14:06.649Z"
+    updated_at: "2022-12-19T08:01:13.326Z"
+    schedule_sources_updated_at: null
+  - id: "5c3fb00a-3ce0-472b-9075-c5d597a6c209"
+    title: Castlerock Tennis Courts
+    address: "600 W Wicks Ln, Billings, MT, 59105, USA"
+    lat: 45.826275
+    lng: -108.500293
+    coords: "0101000000BC5AEECC04205BC04F401361C3E94640"
+    phone: "4066578371"
+    email: null
+    url: "https://www.castlerockbillings.com/?rcstdid=Mg==-YRjTEizZPgM="
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: Lockbox with portable nets available to Billings Pickleball Association members.
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/vlooViQmQSKVfxE4oXlK"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/lN8E8kalTh398jizOZJz"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/116165638480417669564"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/116165638480417669564\">Castlerock Apartment Homes</a>"
+        attribution_name: Castlerock Apartment Homes
+    country_slug: us
+    state_slug: montana
+    city_slug: billings
+    city_id: 1840018496
+    slug: castlerock-tennis-courts
+    path: /courts/us/montana/billings/castlerock-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T03:07:01.657Z"
+    updated_at: "2024-10-24T10:12:04.206Z"
+    schedule_sources_updated_at: null
+  - id: "184bc35b-31b4-4a90-b356-bb0815f1d973"
+    title: Centra
+    address: "2715 Dickinson Street, Miles City, MT, USA"
+    lat: 46.4043558
+    lng: -105.8274243
+    coords: "01010000009B1A0D85F4745AC055794CEEC1334740"
+    phone: "4068746286"
+    email: TurckM@milescc.edu
+    url: "Https://www.milescc.edu/CampusServiceslCentra"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: tape
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: $10.00 without membership
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: montana
+    city_slug: miles-city
+    city_id: 1840019878
+    slug: centra
+    path: /courts/us/montana/miles-city/centra
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-01-05T02:30:55.886Z"
+    updated_at: "2024-01-22T08:29:52.368Z"
+    schedule_sources_updated_at: null
+  - id: "8ba35522-449d-4824-bab5-e77a0cc50adf"
+    title: Central Park
+    address: "101 10th St W, Billings, MT, 59102, USA"
+    lat: 45.770725
+    lng: -108.538301
+    coords: "0101000000DD99098673225BC0D49AE61DA7E24640"
+    phone: null
+    email: null
+    url: "http://www.billingsparks.org/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/sszwBN6vSJKGW3Hr1Fco"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/tYITJ2iLStOoc6xHCBt9"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/slErjLJgSGf6J5LuHpzw"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/xECXzSCQoCel2Axd4yK7"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/bVuU1zScT3GcQ6XvFgtY"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/114004022412316277710"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114004022412316277710\">Miranda G</a>"
+        attribution_name: Miranda G
+    country_slug: us
+    state_slug: montana
+    city_slug: billings
+    city_id: 1840018496
+    slug: central-park
+    path: /courts/us/montana/billings/central-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T02:19:32.590Z"
+    updated_at: "2024-05-14T02:17:32.000Z"
+    schedule_sources_updated_at: null
+  - id: b2578ef4-a641-415e-8dea-079ae600caa2
+    title: Choteau Lions Club Recreational Courts
+    address: "11 1st Ave SW, Choteau, MT 59422, USA"
+    lat: 47.8106099
+    lng: -112.183429
+    coords: "0101000000D508FD4CBD0B5CC02C28B110C2E74740"
+    phone: null
+    email: pickleball@choteaulions.club
+    url: "https://choteaulions.club"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [acrylic, concrete]
+    lines: permanent
+    nets: portable
+    amenities: [wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: Sunrise to sunset
+    images: []
+    country_slug: us
+    state_slug: montana
+    city_slug: choteau
+    city_id: 1840018391
+    slug: choteau-lions-club-recreational-courts
+    path: /courts/us/montana/choteau/choteau-lions-club-recreational-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-30T10:18:10.545Z"
+    updated_at: "2024-08-30T10:18:10.545Z"
+    schedule_sources_updated_at: null
+  - id: "2d4baca7-7eb0-438a-9020-2592c2d1b6f8"
+    title: Columbia Falls Park
+    address: "219 3rd Ave E, Columbia Falls, MT, USA"
+    lat: 48.3762692
+    lng: -114.1767962
+    coords: "0101000000A74302A1508B5CC0FD3ED29629304840"
+    phone: null
+    email: null
+    url: "https://www.cityofcolumbiafalls.org/recreation"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt, hard, acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: Very nice courts. No lights or wind blocks
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/m7mVAdF2TQ6vipFdIZFg"
+    country_slug: us
+    state_slug: montana
+    city_slug: columbia-falls
+    city_id: 1840018351
+    slug: columbia-falls-park
+    path: /courts/us/montana/columbia-falls/columbia-falls-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-09-02T12:01:01.380Z"
+    updated_at: "2024-09-02T12:45:28.841Z"
+    schedule_sources_updated_at: null
+  - id: "6e3fd8d6-2534-4e5e-b23b-64f16cd45ee4"
+    title: Condon Community Court
+    address: "6803 MT-83, Condon, MT, USA"
+    lat: 47.52802680000001
+    lng: -113.7111604
+    coords: "0101000000750DE9A6836D5CC0AFB4D66196C34740"
+    phone: "2094040807"
+    email: Martindehsven@yahoo.com
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: "Multi-use court for Pickleball, Basketball, Volleyball \nBring a broom or blower since pine needles will need to be removed before play"
+    access_details: null
+    schedule_details: Local club schedule’s games
+    images: []
+    country_slug: us
+    state_slug: montana
+    city_slug: seeley-lake
+    city_id: 1840018435
+    slug: condon-community-court
+    path: /courts/us/montana/seeley-lake/condon-community-court
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-04-19T07:49:51.110Z"
+    updated_at: "2025-04-19T07:49:51.110Z"
+    schedule_sources_updated_at: null
+  - id: ed45c97b-1ae4-4994-9f24-daac9a26edc1
+    title: Custer County Senior Center
+    address: "230 North Haynes Avenue, Miles City, MT, USA"
+    lat: 46.4110617
+    lng: -105.8215624
+    coords: "0101000000E4E7757A94745AC0AF1177AB9D344740"
+    phone: "+14068743482"
+    email: null
+    url: "https://custercountymt.gov/services/council-on-aging/"
+    reservation_url: ""
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/hgAhBG7Q6qQqZGX5y89A"
+        source: user
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipOo4NpiuS-DUXJ6Kfao0MAOoPWJyBpTQvfttIvq=s680-w680-h510-rw"
+        attribution_html: null
+        attribution_name: Custer County Senior Center
+      - url: "https://cdn.filestackcontent.com/TX4MFUDVTGGAwOOm7bv5"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/110405666998993808640"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110405666998993808640\">Custer County Community / Senior Center</a>"
+        attribution_name: Custer County Community / Senior Center
+    country_slug: us
+    state_slug: montana
+    city_slug: miles-city
+    city_id: 1840019878
+    slug: custer-county-senior-center
+    path: /courts/us/montana/miles-city/custer-county-senior-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-05-19T04:41:55.409Z"
+    updated_at: "2026-05-19T04:55:08.630Z"
+    schedule_sources_updated_at: null
+  - id: b6b92922-53a6-4d6f-adcf-60b5429220dc
+    title: Eagle Nest Rv Resort
+    address: "35800 Eagle Nest Dr, Polson, MT, 59860, USA"
+    lat: 47.691977
+    lng: -114.11971
+    coords: "010100000044C02154A9875CC0C74ACCB392D84740"
+    phone: "4068835904"
+    email: null
+    url: "http://eaglenestrv.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/1C4i2tjNTgqEJe4c7gp0"
+        source: user
+        visible: true
+        attribution_url: "https://s3-us-west-2.amazonaws.com/montana-surveytoolimages/general/full-size/3693h.jpg"
+        attribution_html: null
+        attribution_name: Visit Montana
+    country_slug: us
+    state_slug: montana
+    city_slug: polson
+    city_id: 1840019802
+    slug: eagle-nest-rv-resort
+    path: /courts/us/montana/polson/eagle-nest-rv-resort
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-07T04:41:36.952Z"
+    updated_at: "2022-12-21T04:58:05.926Z"
+    schedule_sources_updated_at: null
+  - id: "5590b186-c215-4275-b42a-277a5bf76309"
+    title: East Helena High School Tennis Courts
+    address: "325 Academic St, East Helena, MT, USA"
+    lat: 46.5959328
+    lng: -111.9162328
+    coords: "010100000071E1E58EA3FA5BC08E4EA786474C4740"
+    phone: "+14064312176"
+    email: carl@mt.net
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 12
+    total_courts: 12
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, lighted]
+    description: "4 of the 12 courts have lights.  Can't play during school hours or during high school tennis lessons.  After school is out for the summer the courts are available from 7 am till dark.  New courts in great shape.  Lines are a bit hard to see."
+    access_details: null
+    schedule_details: Best times to play are usually from 8 am till noon
+    images: []
+    country_slug: us
+    state_slug: montana
+    city_slug: east-helena
+    city_id: 1840021111
+    slug: east-helena-high-school-tennis-courts
+    path: /courts/us/montana/east-helena/east-helena-high-school-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-06T12:45:42.670Z"
+    updated_at: "2024-05-06T12:45:42.670Z"
+    schedule_sources_updated_at: null
+  - id: "97908ff2-dea0-4f48-8748-0fc21bfd394a"
+    title: Ennis MT Pickleball Club
+    address: "Ennis High School, Charles Avenue, Ennis, MT, USA"
+    lat: 45.3467722
+    lng: -111.7333915
+    coords: "010100000085EAE6E2EFEE5BC0BB140D0863AC4640"
+    phone: null
+    email: ennismtpickleball@gmail.com
+    url: "https://ennispickleball.com"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: "Ennis Pickleball Club welcomes visitors year round (weather depending).   If the sun is shining and we can scrape the snow off the court, then we are playing.   Games every morning from 10am in the winter, from 9am in the Summer."
+    access_details: none
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/CqfooB5tQuOIDbZvbunj"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo?fbid=10226641235550924&set=pcb.762646242466811"
+        attribution_html: null
+        attribution_name: Brian Conklin
+      - url: "https://cdn.filestackcontent.com/olE0JvZQT8yxYVujr3Bx"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Julie
+    country_slug: us
+    state_slug: montana
+    city_slug: ennis
+    city_id: 1840021201
+    slug: ennis-mt-pickleball-club
+    path: /courts/us/montana/ennis/ennis-mt-pickleball-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-02-07T09:01:16.207Z"
+    updated_at: "2024-07-01T11:10:04.054Z"
+    schedule_sources_updated_at: null
+  - id: e5ec30d5-4d0e-496b-b77b-a5c1d9e5aab1
+    title: "Eureka Public School District, Middle School gym, Eureka, MT"
+    address: "335 6th St E, Eureka, MT, 59917, USA"
+    lat: 48.884683
+    lng: -115.049959
+    coords: "010100000004C93B8732C35CC0E129E44A3D714840"
+    phone: null
+    email: null
+    url: "http://www.lchigh.net/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/E2cO3KgrRBueZ4xyA0u9"
+        source: user
+        visible: true
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipPP5P6KQbl1GTnncQ0k70gTzHAhBo8EWdSQDlEQ=s680-w680-h510"
+        attribution_html: null
+        attribution_name: Jeremy Meyer
+    country_slug: us
+    state_slug: montana
+    city_slug: eureka
+    city_id: 1840021052
+    slug: eureka-public-school-district-middle-school-gym-eureka-mt
+    path: /courts/us/montana/eureka/eureka-public-school-district-middle-school-gym-eureka-mt
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-21T17:49:07.019Z"
+    updated_at: "2022-12-21T05:15:18.508Z"
+    schedule_sources_updated_at: null
+  - id: "38e42c26-bff1-4a7d-87e6-6533b09d78e2"
+    title: Eureka Sports Park
+    address: "424 Boundary St, Eureka, MT, 59917, USA"
+    lat: 48.908733
+    lng: -115.050809
+    coords: "0101000000EB55647440C35CC0E2E5E95C51744840"
+    phone: "4062493310"
+    email: null
+    url: "https://www.eureka-mt.com/index.php/eureka-youth-sports-league"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/jeUoNNpuQAeKDE6AGXBg"
+        source: user
+        visible: true
+        attribution_url: "https://lh5.googleusercontent.com/p/AF1QipMvfbljDm8yAaoS4qIFlxIlFcTe0FjehKwOdS9o=w426-h240-k-no"
+        attribution_html: null
+        attribution_name: Zaubee
+    country_slug: us
+    state_slug: montana
+    city_slug: eureka
+    city_id: 1840021052
+    slug: eureka-sports-park
+    path: /courts/us/montana/eureka/eureka-sports-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T19:07:43.720Z"
+    updated_at: "2022-12-19T07:02:55.412Z"
+    schedule_sources_updated_at: null
+  - id: a9f85f1a-249a-467c-970a-740dcb171b79
+    title: Field School Park
+    address: "Veterans Memorial Civic Center, 215 14th St W, Red Lodge, MT 59068, USA"
+    lat: 45.1842285
+    lng: -109.2493045
+    coords: "0101000000B88FDC9AF44F5BC0DE3EABCC94974640"
+    phone: "5034358710"
+    email: null
+    url: "https://www.redlodgemountain.com/venue/red-lodge-civic-center/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Knj4yVY3QFS3XnF09wRP"
+        source: user
+        visible: true
+        attribution_url: "https://www.cityofredlodge.net/sites/default/files/styles/full_node_primary/public/imageattachments/community/page/2682/fieldschoolpark-300x225.jpg?itok=E6cP-2j8"
+        attribution_html: null
+        attribution_name: City of Red Lodge
+    country_slug: us
+    state_slug: montana
+    city_slug: red-lodge
+    city_id: 1840019946
+    slug: field-school-park
+    path: /courts/us/montana/red-lodge/field-school-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-05T23:34:59.666Z"
+    updated_at: "2022-12-21T04:55:13.138Z"
+    schedule_sources_updated_at: null
+  - id: e805a8df-02a9-4fb2-a94e-5a5ee10c7a1e
+    title: Fort Missoula Pickleball
+    address: "Fort Missoula Rd, Missoula, MT 59804, USA"
+    lat: 46.845209705148136
+    lng: -114.05075725816393
+    coords: "010100000051F65E9B3F835CC0C0EFE4D42F6C4740"
+    phone: (406) 721-7275
+    email: null
+    url: "https://www.ci.missoula.mt.us/157/Parks-Recreation"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: Additional courts available on tennis courts with bring your own nets/portable nets.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/A2a5Y6sJS926gOA7yk29"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/105721423023840873351"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/105721423023840873351\">Mulet DLM</a>"
+        attribution_name: Mulet DLM
+      - url: "https://cdn.filestackcontent.com/it7E1TxTNqi0YM8GKVSI"
+        source: user
+        visible: true
+        attribution_url: "https://www.ci.missoula.mt.us/ImageRepository/Document?documentID=56082"
+        attribution_html: null
+        attribution_name: City of Missoula
+    country_slug: us
+    state_slug: montana
+    city_slug: missoula
+    city_id: 1840019840
+    slug: fort-missoula-pickleball
+    path: /courts/us/montana/missoula/fort-missoula-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-11T03:02:21.295Z"
+    updated_at: "2025-05-02T08:06:07.023Z"
+    schedule_sources_updated_at: null
+  - id: "1d051f7b-ba82-482d-8223-fb03b9fe160e"
+    title: Fortine School
+    address: "358 Meadow Creek Rd, Fortine, MT, 59918, USA"
+    lat: 48.764442
+    lng: -114.904903
+    coords: "010100000059C345EEE9B95CC02CD8463CD9614840"
+    phone: null
+    email: null
+    url: "http://www.fortineschool.net/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/F6HDicRTQSTBqUX9idyV"
+        source: user
+        visible: true
+        attribution_url: "https://www.fortineschool.net/images/slide/bball.jpg"
+        attribution_html: null
+        attribution_name: Fortine School
+    country_slug: us
+    state_slug: montana
+    city_slug: fortine
+    city_id: 1840017301
+    slug: fortine-school
+    path: /courts/us/montana/fortine/fortine-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-31T01:30:45.505Z"
+    updated_at: "2022-12-19T05:26:25.759Z"
+    schedule_sources_updated_at: null
+  - id: "0270c511-5ed2-404c-a467-371ce43759bc"
+    title: Great Falls Community Recreation Center
+    address: "801 2nd Ave N, Great Falls, MT, 59401, USA"
+    lat: 47.507786
+    lng: -111.293041
+    coords: "0101000000C7D8092FC1D25BC0EFAEB321FFC04740"
+    phone: null
+    email: null
+    url: "http://greatfallsmt.net/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/YWKoKH1SRiwr0ZNsP3sc"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/117137500059466859330"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117137500059466859330\">Stephanie Kae</a>"
+        attribution_name: Stephanie Kae
+    country_slug: us
+    state_slug: montana
+    city_slug: great-falls
+    city_id: 1840019839
+    slug: great-falls-community-recreation-center
+    path: /courts/us/montana/great-falls/great-falls-community-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T07:17:15.088Z"
+    updated_at: "2023-08-15T16:35:10.252Z"
+    schedule_sources_updated_at: null
+  - id: e589a96b-3e50-461b-a782-116cb05621da
+    title: Greater Missoula Family YMCA
+    address: "3000 S Russell St, Missoula, MT 59801, United States"
+    lat: 46.8430451
+    lng: -114.0173112
+    coords: "0101000000B0766FA01B815CC0CAC6DEE6E86B4740"
+    phone: "4067219622"
+    email: ymca@ymcamissoula.org
+    url: "http://www.ymcamissoula.org"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: false
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [locker rooms, restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: "Pickleball runs November 8–June 1 (subject to change based on Y program schedules)\nMonday/Wednesday/Friday—9:30–11:30 a.m.\nTuesday/Thursday—7:30–11:30 a.m.\nSunday—8:00–10:00 a.m."
+    images:
+      - url: "https://cdn.filestackcontent.com/wa4nQUjWRUq95B082Pdm"
+        visible: true
+    country_slug: us
+    state_slug: montana
+    city_slug: missoula
+    city_id: 1840019840
+    slug: greater-missoula-family-ymca
+    path: /courts/us/montana/missoula/greater-missoula-family-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-12-26T12:39:44.929Z"
+    updated_at: "2023-12-26T12:39:44.929Z"
+    schedule_sources_updated_at: null
+  - id: "30c9742b-b3af-410a-ba5d-fcd0ab300210"
+    title: GT Center Pickleball
+    address: "2 5th St, Joplin, MT, 59531, USA"
+    lat: 48.563345
+    lng: -110.770627
+    coords: "0101000000899AE8F351B15BC0BCAE5FB01B484840"
+    phone: "4063995300"
+    email: parksandrecreation@mymanatee.org
+    url: "https://www.facebook.com/brayrecreation/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/GT4oEvL6TyC9hDRcO2A4"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/315817349_622848402970369_1960268224326952295_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGoOl4o9jXAJUJtTDdaaj40pwnRRGNmt8anCdFEY2a3xnn1_xGGzpaDQzpKEhNZWTi_Dwu63oH-Ku3TvtK7ro9m&_nc_ohc=GbT6JL1fHhkAX_8WetX&tn=5xDEGXpILlwDEdvQ&_nc_ht=scontent-lax3-1.xx&oh=00_AfCyu07h7r76gOT_alVKBco5Ygxf9xabScL0v9YIbjsR1Q&oe=63A42246"
+        attribution_html: null
+        attribution_name: Joplin Pickleball Club
+    country_slug: us
+    state_slug: montana
+    city_slug: joplin
+    city_id: 1840017308
+    slug: gt-center-pickleball
+    path: /courts/us/montana/joplin/gt-center-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-26T21:07:27.887Z"
+    updated_at: "2022-12-19T06:42:38.799Z"
+    schedule_sources_updated_at: null
+  - id: e4c8a46c-321c-44f1-aeb3-c510cb596fe2
+    title: Hawthorne Park Tennis Courts
+    address: "335 Liberty St, Kalispell, MT, 59901, USA"
+    lat: 48.208781
+    lng: -114.334977
+    coords: "010100000061FA5E4370955CC05A83F755B91A4840"
+    phone: "4062705522"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/sMvYaqMzQoWJVhvbDLom"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-sea1-1.xx.fbcdn.net/v/t1.6435-9/205276687_4147529265338144_7506826745130306100_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=6srchXClH6sAX9LOtcS&_nc_ht=scontent-sea1-1.xx&oh=00_AfBFVlv4Kpbk8Ku4FCqhLvKyB18sbHKzDcQw7z687su9Zw&oe=63CA15FA"
+        attribution_html: null
+        attribution_name: Kalispell Pickleball
+    country_slug: us
+    state_slug: montana
+    city_slug: kalispell
+    city_id: 1840018350
+    slug: hawthorne-park-tennis-courts
+    path: /courts/us/montana/kalispell/hawthorne-park-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T12:20:35.891Z"
+    updated_at: "2022-12-21T05:12:43.349Z"
+    schedule_sources_updated_at: null
+  - id: fcbd03a9-3e61-411f-ab3f-60efed3be86a
+    title: Helena Family YMCA
+    address: "1200 N Last Chance Gulch, Helena, MT, 59601, USA"
+    lat: 46.599575
+    lng: -112.031645
+    coords: "01010000003E05C07806025CC0E63FA4DFBE4C4740"
+    phone: null
+    email: null
+    url: "http://helenaymca.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/PoThnbzTBevXgF7wK7Uz"
+        source: user
+        visible: true
+        attribution_url: "https://lh3.googleusercontent.com/p/AF1QipOdrvmEcCufbhCy_ZevaZ80LhVAHV9vGWQxuyB5=s680-w680-h510"
+        attribution_html: null
+        attribution_name: David Oclander
+    country_slug: us
+    state_slug: montana
+    city_slug: helena
+    city_id: 1840019820
+    slug: helena-family-ymca
+    path: /courts/us/montana/helena/helena-family-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-26T13:28:47.000Z"
+    updated_at: "2022-12-21T06:51:35.555Z"
+    schedule_sources_updated_at: null
+  - id: "2591b468-3e78-432a-8674-d450acc9ba67"
+    title: High Roads Gym
+    address: "184 13th St, Eureka, MT, 59917, USA"
+    lat: 48.890653
+    lng: -115.054579
+    coords: "01010000001903EB387EC35CC0CA8AE1EA00724840"
+    phone: null
+    email: null
+    url: "https://m.facebook.com/Fosters-Fitness-385530548320087/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/9WTeQdz5RBO4n4gaZfWI"
+        source: user
+        visible: true
+        attribution_url: "https://bloximages.newyork1.vip.townnews.com/montanarightnow.com/content/tncms/assets/v3/editorial/0/cd/0cdd0c1e-5531-11eb-944e-2fdf67a795f6/5ffe36a1716fc.preview.png?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        attribution_html: null
+        attribution_name: ABC Fox Montana
+    country_slug: us
+    state_slug: montana
+    city_slug: eureka
+    city_id: 1840021052
+    slug: high-roads-gym
+    path: /courts/us/montana/eureka/high-roads-gym
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-13T09:49:59.089Z"
+    updated_at: "2022-12-19T06:08:39.211Z"
+    schedule_sources_updated_at: null
+  - id: "3c894f57-be02-41e9-8849-3dfe561687fc"
+    title: Independent Elementary School
+    address: "2907 Roundup Drive, Billings, MT, USA"
+    lat: 45.7607167
+    lng: -108.584989
+    coords: "010100000043E1B37570255BC0B202322A5FE14640"
+    phone: (406) 259-8109
+    email: null
+    url: "http://www.independent.k12.mt.us/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/VWUHKK1USy2Ei7ItOUWY"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Independent Elementary School
+    country_slug: us
+    state_slug: montana
+    city_slug: billings
+    city_id: 1840018496
+    slug: independent-elementary-school
+    path: /courts/us/montana/billings/independent-elementary-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-04T06:11:40.290Z"
+    updated_at: "2023-04-04T06:11:40.290Z"
+    schedule_sources_updated_at: null
+  - id: "3fc01d4d-1832-413b-ab1d-84d878ac091b"
+    title: Jaycee Park
+    address: "225 23rd Ave NE, Great Falls, MT, 59404, USA"
+    lat: 47.527324
+    lng: -111.308194
+    coords: "0101000000B3B45373B9D35BC0AD32535A7FC34740"
+    phone: null
+    email: null
+    url: "https://greatfallsmt.net/recreation/park-district-project-jaycee-park"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [acrylic, hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: No scheduled play.  Courts are open but play is determined by weather.  Players have went to our indoor facilities.
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/YDO2iCDTQKbBP3q0UvNQ"
+        source: user
+        visible: true
+        attribution_url: "https://www.gannett-cdn.com/presto/2020/09/03/PGRF/40ed7e1d-b45b-4077-9181-ed06ffa87a9b-pickleball_courts.JPG?crop=4055,2281,x0,y456&width=3200&height=1801&format=pjpg&auto=webp"
+        attribution_html: null
+        attribution_name: Great Falls Tribune
+    country_slug: us
+    state_slug: montana
+    city_slug: great-falls
+    city_id: 1840019839
+    slug: jaycee-park
+    path: /courts/us/montana/great-falls/jaycee-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T07:13:58.874Z"
+    updated_at: "2024-11-04T11:30:11.833Z"
+    schedule_sources_updated_at: "2024-11-02T16:39:51.964Z"
+  - id: "732a9cde-7b01-4dd2-be22-7c9dcad16f85"
+    title: "Lewis and Clark Park in Stevensville, MT 59870"
+    address: "W 2nd St, Stevensville, MT, 59870, USA"
+    lat: 46.511709
+    lng: -114.094732
+    coords: "01010000009E78CE1610865CC0D10836AE7F414740"
+    phone: "4062398648"
+    email: null
+    url: "https://www.townofstevensville.com/parksrec/page/lewis-clark-park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/FetPtY1STWzhpR41BxLw"
+        source: user
+        visible: true
+        attribution_url: "https://bitterrootstar.com/wp-content/uploads/2019/07/pickleball-courts.jpg"
+        attribution_html: null
+        attribution_name: Bitterroot Star
+      - url: "https://cdn.filestackcontent.com/GIIv96tcQD9SVOo1FwFx"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: montana
+    city_slug: stevensville
+    city_id: 1840022324
+    slug: lewis-and-clark-park-in-stevensville-mt-59870
+    path: /courts/us/montana/stevensville/lewis-and-clark-park-in-stevensville-mt-59870
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T19:58:42.259Z"
+    updated_at: "2023-06-12T03:23:09.710Z"
+    schedule_sources_updated_at: null
+  - id: c08c54cb-53e4-407d-9bf4-e8d7b3eee7fe
+    title: Lifelong Learning Center
+    address: "310 South Curtis Street, Missoula, MT, USA"
+    lat: 46.8683276
+    lng: -114.0308788
+    coords: "0101000000F10813EBF9815CC06A1BDA5B256F4740"
+    phone: null
+    email: null
+    url: "https://missoulaclasses.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: Friday Only 2 hours with paid registration.
+    access_details: Through lifelong learning
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/7UZjfDSLSesENACpoaVQ"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/116774628972497735965"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/116774628972497735965\">Lifelong Learning Center</a>"
+        attribution_name: Lifelong Learning Center
+    country_slug: us
+    state_slug: montana
+    city_slug: missoula
+    city_id: 1840019840
+    slug: lifelong-learning-center
+    path: /courts/us/montana/missoula/lifelong-learning-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-04-14T10:05:22.390Z"
+    updated_at: "2025-04-14T10:14:21.066Z"
+    schedule_sources_updated_at: null
+  - id: "10bc085e-128d-4f48-beb1-38e3a21b6837"
+    title: Lillis Park Pickleball Courts
+    address: "898 Parkview Dr, Billings, MT, 59102, USA"
+    lat: 45.778914
+    lng: -108.585378
+    coords: "0101000000117349D576255BC0C2323674B3E34640"
+    phone: "+14068559270"
+    email: lester.k.blair@gmail.com
+    url: "http://www.billingsparks.org/park/lillis/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/sCrSCftsSwOuZVp4Ciju"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/101186357842633412639"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101186357842633412639\">Clark Johnson</a>"
+        attribution_name: Clark Johnson
+      - url: "https://cdn.filestackcontent.com/i2B3RQO8T7WiDGXDKKJ1"
+        source: user
+        visible: true
+        attribution_url: "https://static.wixstatic.com/media/4dcec5_0a675f250c494f65861c70c6b799b8c8~mv2.jpg/v1/fill/w_640,h_188,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4dcec5_0a675f250c494f65861c70c6b799b8c8~mv2.jpg"
+        attribution_html: null
+        attribution_name: Billings Pickleball Association
+    country_slug: us
+    state_slug: montana
+    city_slug: billings
+    city_id: 1840018496
+    slug: lillis-park-pickleball-courts
+    path: /courts/us/montana/billings/lillis-park-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T04:21:16.183Z"
+    updated_at: "2024-08-26T09:25:17.030Z"
+    schedule_sources_updated_at: null
+  - id: "93619c97-7209-4a87-aac9-a15de7b0b9ba"
+    title: Livingston Civic Center
+    address: "229 River Dr, Livingston, MT, 59047, USA"
+    lat: 45.655155
+    lng: -110.556593
+    coords: "0101000000AF0B3F389FA35BC0CB67791EDCD34640"
+    phone: null
+    email: null
+    url: "https://www.livingstonmontana.org/rec"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/dkdpLr3yTq2QxGzJx5On"
+        source: user
+        visible: true
+        attribution_url: "https://livingstonareapickleball.files.wordpress.com/2020/07/img_2800.jpeg"
+        attribution_html: null
+        attribution_name: WordPress
+    country_slug: us
+    state_slug: montana
+    city_slug: livingston
+    city_id: 1840019906
+    slug: livingston-civic-center
+    path: /courts/us/montana/livingston/livingston-civic-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T21:50:42.831Z"
+    updated_at: "2022-12-21T04:19:05.750Z"
+    schedule_sources_updated_at: null
+  - id: ebce8f38-9baf-4cf7-a05b-7c48f3e97a37
+    title: Memorial Park
+    address: "1098 E 3rd St, Whitefish, MT, 59937, USA"
+    lat: 48.409497
+    lng: -114.327831
+    coords: "01010000005CE7DF2EFB945CC0B267CF656A344840"
+    phone: null
+    email: null
+    url: "https://www.cityofwhitefish.org/facilities/facility/details/Memorial-Park-Pickleball-Courts-33"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/jUM4HmB8RTKFPsV8v08X"
+        source: user
+        visible: true
+        attribution_url: "https://www.cityofwhitefish.org/ImageRepository/Document?documentID=1022"
+        attribution_html: null
+        attribution_name: Facilities Whitefish
+    country_slug: us
+    state_slug: montana
+    city_slug: whitefish
+    city_id: 1840021047
+    slug: memorial-park
+    path: /courts/us/montana/whitefish/memorial-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-21T19:36:29.551Z"
+    updated_at: "2023-10-17T11:00:56.958Z"
+    schedule_sources_updated_at: null
+  - id: "7e4eb26a-22f3-4c43-ab9b-e5888fca47d8"
+    title: Montana Athletic Club - Flathead Valley Pickleball
+    address: "850 Holt Dr, Bigfork, MT, 59911, USA"
+    lat: 48.075396
+    lng: -114.111291
+    coords: "0101000000B45549641F875CC0E61F7D93A6094840"
+    phone: "4068372582"
+    email: null
+    url: "https://montanaathleticclub.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 9
+    total_courts: 11
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, food, pro shop, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/mFbbxqeQ7GA8oAlToq9l"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110034108561909994276"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110034108561909994276\">Montana Athletic Club</a>"
+        attribution_name: Montana Athletic Club
+      - url: "https://cdn.filestackcontent.com/xevY2a6wSJq9kC7Dtsnr"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110034108561909994276"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110034108561909994276\">Montana Athletic Club</a>"
+        attribution_name: Montana Athletic Club
+    country_slug: us
+    state_slug: montana
+    city_slug: bigfork
+    city_id: 1840017296
+    slug: montana-athletic-club-flathead-valley-pickleball
+    path: /courts/us/montana/bigfork/montana-athletic-club-flathead-valley-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T17:27:39.352Z"
+    updated_at: "2023-10-17T06:51:13.224Z"
+    schedule_sources_updated_at: null
+  - id: "310c9be8-c4a2-4e01-9e8c-42f985964ddc"
+    title: Montana Rail Link Park
+    address: "2110 S Johnson St, Missoula, MT, 59801, USA"
+    lat: 46.851455
+    lng: -114.02802
+    coords: "010100000092E86514CB815CC00282397AFC6C4740"
+    phone: null
+    email: null
+    url: "https://www.ci.missoula.mt.us/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/QvjtpyAQoqCNHHk0xev0"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/Qo8bhe8S1yWbetjh4Fnu"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/107704808160116936969"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/107704808160116936969\">James Kappel</a>"
+        attribution_name: James Kappel
+    country_slug: us
+    state_slug: montana
+    city_slug: missoula
+    city_id: 1840019840
+    slug: montana-rail-link-park
+    path: /courts/us/montana/missoula/montana-rail-link-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T15:56:11.443Z"
+    updated_at: "2025-09-25T10:23:29.808Z"
+    schedule_sources_updated_at: null
+  - id: "7881bf4c-65fa-4b55-82aa-b7e92310fd3d"
+    title: Montana State University Billings
+    address: "1500 University Dr, Billings, MT, 59101, USA"
+    lat: 45.796772
+    lng: -108.521347
+    coords: "010100000089B7CEBF5D215BC02B2FF99FFCE54640"
+    phone: null
+    email: null
+    url: "http://www.msubillings.edu/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Cd6IxzEQF23oiUxyR9qQ"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/106334227179190946246"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106334227179190946246\">ACCEPT-CHRIST &amp;B-SAVED-2DAY</a>"
+        attribution_name: ACCEPT-CHRIST &amp;B-SAVED-2DAY
+      - url: "https://cdn.filestackcontent.com/t0PLDrvyTvKdNNqK6s7p"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/107544938639321847599"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/107544938639321847599\">Alasdair Spark</a>"
+        attribution_name: Alasdair Spark
+    country_slug: us
+    state_slug: montana
+    city_slug: billings
+    city_id: 1840018496
+    slug: montana-state-university-billings
+    path: /courts/us/montana/billings/montana-state-university-billings
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T09:27:59.558Z"
+    updated_at: "2022-12-19T08:15:49.720Z"
+    schedule_sources_updated_at: null
+  - id: "84811b1c-7c4e-41ba-bcce-1be019ceb723"
+    title: Mountain View Park
+    address: "S Alice St, Helena, MT 59601, USA"
+    lat: 46.5873666
+    lng: -111.951878
+    coords: "01010000000AF2B391EBFC5BC0A1E128D42E4B4740"
+    phone: null
+    email: null
+    url: "http://www.mvmeadows.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: tennis
+    amenities: [water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/WyWGYWmpTvmRWFMXPBtF"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: montana
+    city_slug: helena
+    city_id: 1840019820
+    slug: mountain-view-park
+    path: /courts/us/montana/helena/mountain-view-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T17:51:51.925Z"
+    updated_at: "2022-12-21T04:09:20.263Z"
+    schedule_sources_updated_at: null
+  - id: e33a22bf-87fb-4610-bc49-b9cd8f569269
+    title: MPR Sports & Wellness Center
+    address: "1515 Fairview Ave, Missoula, MT, 59801, USA"
+    lat: 46.845649
+    lng: -114.019685
+    coords: "010100000031CEDF8442815CC09372F7393E6C4740"
+    phone: "4065526266"
+    email: null
+    url: "https://yfcmt.com/about/city-life-community-center/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ZPOSFaJNR7q0SsEpzoqO"
+        source: user
+        visible: true
+        attribution_url: "https://peakhealthgyms.com/missoula-blue-mountain/wp-content/uploads/sites/3/2021/12/gyms-with-pickleball-near-me-blue-mountain.jpg"
+        attribution_html: null
+        attribution_name: Peak Blue
+    country_slug: us
+    state_slug: montana
+    city_slug: missoula
+    city_id: 1840019840
+    slug: mpr-sports-and-wellness-center
+    path: /courts/us/montana/missoula/mpr-sports-and-wellness-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T06:19:43.757Z"
+    updated_at: "2022-12-21T05:04:02.974Z"
+    schedule_sources_updated_at: null
+  - id: e3cb6919-cd97-4511-ab3c-8d5d4edaa429
+    title: North Park
+    address: "North Park Dog Park, 710 N 22nd St, Billings, MT 59101, USA"
+    lat: 45.79124420000001
+    lng: -108.5036048
+    coords: "0101000000F486A00F3B205BC02A136D7D47E54640"
+    phone: "4066578371"
+    email: null
+    url: "http://www.billingsparks.org/park/north/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: Street parking
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/A4WhJpFJRtGUpU9gkjv3"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: montana
+    city_slug: billings
+    city_id: 1840018496
+    slug: north-park
+    path: /courts/us/montana/billings/north-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T13:45:32.183Z"
+    updated_at: "2026-06-01T05:29:22.435Z"
+    schedule_sources_updated_at: null
+  - id: a158d506-d8fd-47da-a51f-172ce8246f81
+    title: O'Malley Park
+    address: "11th Ave E, Polson, MT, 59860, USA"
+    lat: 47.685483
+    lng: -114.158068
+    coords: "0101000000D3A23EC91D8A5CC0637B2DE8BDD74740"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/5aluYn4LTniTmI4hnEVY"
+        source: user
+        visible: true
+        attribution_url: "http://www.valleyjournal.net/photogallery/6771/medium/Pickleball-court_RZ.jpg"
+        attribution_html: null
+        attribution_name: Valley Journal
+    country_slug: us
+    state_slug: montana
+    city_slug: united-states
+    city_id: 254570330
+    slug: omalley-park
+    path: /courts/us/montana/united-states/omalley-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T16:28:36.303Z"
+    updated_at: "2025-04-09T07:24:08.857Z"
+    schedule_sources_updated_at: null
+  - id: "3f469f86-55f6-4cfa-909a-f1d54550fada"
+    title: Ophir Elementary School in Big Sky
+    address: "45465 Gallatin Rd, Gallatin Gateway, MT, 59730, USA"
+    lat: 45.229107
+    lng: -111.252276
+    coords: "010100000034643C4A25D05BC07024D060539D4640"
+    phone: "4065806393"
+    email: null
+    url: "http://www.bssd72.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/fbCzMhSASA2g6llHWHIY"
+        source: user
+        visible: true
+        attribution_url: "https://www.explorebigsky.com/wp-content/uploads/2021/09/PXL_20210824_224525440.MP_-scaled.jpg"
+        attribution_html: null
+        attribution_name: Explore Big Sky
+    country_slug: us
+    state_slug: montana
+    city_slug: gallatin-gateway
+    city_id: 1840023880
+    slug: ophir-elementary-school-in-big-sky
+    path: /courts/us/montana/gallatin-gateway/ophir-elementary-school-in-big-sky
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T01:45:35.106Z"
+    updated_at: "2022-12-19T07:11:10.628Z"
+    schedule_sources_updated_at: null
+  - id: "827b2009-42e8-4bd8-85dc-fa1c164dd2c6"
+    title: Peak Health & Wellness Center
+    address: "1800 Benefis Ct, Great Falls, MT, 59405, USA"
+    lat: 47.485539
+    lng: -111.299739
+    coords: "01010000007D957CEC2ED35BC05EF7562426BE4740"
+    phone: "4067277325"
+    email: null
+    url: "http://peakgreatfalls.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/3RWqF2EbTYyW6JtYhkoL"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/108924396236372833035"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108924396236372833035\">Peak Health and Wellness Center</a>"
+        attribution_name: Peak Health and Wellness Center
+    country_slug: us
+    state_slug: montana
+    city_slug: great-falls
+    city_id: 1840019839
+    slug: peak-health-and-wellness-center
+    path: /courts/us/montana/great-falls/peak-health-and-wellness-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-07T20:38:30.856Z"
+    updated_at: "2025-05-13T08:30:56.311Z"
+    schedule_sources_updated_at: null
+  - id: "8fc21d55-d2b0-4554-85f9-27ed9e64e681"
+    title: Peak Racquet Club
+    address: "4990 Buckhouse Ln, Missoula, MT, 59804, USA"
+    lat: 46.825241
+    lng: -114.079345
+    coords: "010100000079060DFD13855CC0BF28417FA1694740"
+    phone: "4062513356"
+    email: null
+    url: "http://peakmissoula.com/racquet-club/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 4
+    total_courts: 10
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, pro shop, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/sIJt3crS5WhtnZ3wzTzX"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/116344257995013122857"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/116344257995013122857\">David Firth</a>"
+        attribution_name: David Firth
+      - url: "https://cdn.filestackcontent.com/9pEYHhJYT2msmIbGGItQ"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/117724557534352531795"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117724557534352531795\">PEAK Health &amp; Wellness Racquet Club</a>"
+        attribution_name: PEAK Health &amp; Wellness Racquet Club
+    country_slug: us
+    state_slug: montana
+    city_slug: missoula
+    city_id: 1840019840
+    slug: peak-racquet-club
+    path: /courts/us/montana/missoula/peak-racquet-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-22T23:10:20.655Z"
+    updated_at: "2024-02-01T03:44:56.815Z"
+    schedule_sources_updated_at: null
+  - id: d0ddaa22-cc0f-4f5b-8e02-7f20cc3fb429
+    title: Pickleball 406
+    address: "Kyle Lane 140, Hamilton , MT 59840, USA"
+    lat: 46.211199
+    lng: -114.152462
+    coords: "01010000007FF8F9EFC1895CC055F99E91081B4740"
+    phone: "406-240-0388"
+    email: null
+    url: "http://Pickleball406.com"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 5
+    outdoor_courts: 0
+    total_courts: 5
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/6Swchwp9S8aIlyPPVAEs"
+        source: user
+        visible: true
+        attribution_url: "http://pickleball406.com/wp-content/uploads/2023/04/135-Kyle-Lane-For-Web-134-1024x682.jpeg"
+        attribution_html: null
+        attribution_name: Pickleball 406
+      - url: "https://cdn.filestackcontent.com/tPRLcfJYQNSPpiHSY6KN"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/108631346492456517913"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108631346492456517913\">Pickleball 406</a>"
+        attribution_name: Pickleball 406
+    country_slug: us
+    state_slug: montana
+    city_slug: hamilton
+    city_id: 1840019896
+    slug: pickleball-406
+    path: /courts/us/montana/hamilton/pickleball-406
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-30T05:10:18.391Z"
+    updated_at: "2023-10-17T08:59:14.044Z"
+    schedule_sources_updated_at: null
+  - id: "039eddcb-cbce-4a5a-ac07-eb24ee16dbeb"
+    title: Pickleball Pit
+    address: "9442 Sanctuary Estates Drive unit 10, Billings, MT, USA"
+    lat: 45.7014265
+    lng: -108.6554084
+    coords: "010100000084E11236F2295BC01C06F357C8D94640"
+    phone: "+14068550291"
+    email: pickleballpit406@gmail.com
+    url: ""
+    reservation_url: "https://app.courtreserve.com/Reservation/List?&page=courtreservations"
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, wheelchair accessible, lighted]
+    description: At the Pickleball Pit there is plenty of room to hit shots! Brand new facility! Find on Court Reserve.
+    access_details: Discounted summer rate are in effect! Book with Court Reserve.
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: montana
+    city_slug: billings
+    city_id: 1840018496
+    slug: pickleball-pit
+    path: /courts/us/montana/billings/pickleball-pit
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-05T08:07:28.853Z"
+    updated_at: "2025-06-05T08:07:28.853Z"
+    schedule_sources_updated_at: null
+  - id: "738c81c5-826d-4dfc-95c7-a3ec81e9ae75"
+    title: Playfair Park
+    address: "3001 Bancroft St, Missoula, MT, 59801, USA"
+    lat: 46.84297
+    lng: -114.010581
+    coords: "0101000000603DEE5BAD805CC02BC1E270E66B4740"
+    phone: "4065526266"
+    email: null
+    url: "http://www.ci.missoula.mt.us/Facilities/Facility/Details/Playfair-38"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ZDiRAegxQESc4mOaeGgb"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: montana
+    city_slug: missoula
+    city_id: 1840019840
+    slug: playfair-park
+    path: /courts/us/montana/missoula/playfair-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-05T13:57:01.778Z"
+    updated_at: "2024-06-21T09:09:04.257Z"
+    schedule_sources_updated_at: null
+  - id: "52c2d89e-4604-4374-be43-dc029d4ead0f"
+    title: Ravalli County Fairgrounds
+    address: "100 Old Corvallis Rd, Hamilton, MT, 59840, USA"
+    lat: 46.256786
+    lng: -114.152876
+    coords: "0101000000F9156BB8C8895CC00B09185DDE204740"
+    phone: "4062398648"
+    email: null
+    url: "https://ravalli.us/200/Fairgrounds"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/5lTdVWtT7SNeMTcdaAby"
+        source: user
+        visible: true
+        attribution_url: "https://ravalli.us/ImageRepository/Document?documentID=6662"
+        attribution_html: null
+        attribution_name: Ravalli County
+    country_slug: us
+    state_slug: montana
+    city_slug: hamilton
+    city_id: 1840019896
+    slug: ravalli-county-fairgrounds
+    path: /courts/us/montana/hamilton/ravalli-county-fairgrounds
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T04:06:06.241Z"
+    updated_at: "2022-12-19T07:42:39.917Z"
+    schedule_sources_updated_at: null
+  - id: "8f5588cd-41eb-48b8-b96a-b2d014c072e5"
+    title: Red Lodge Pickleball
+    address: "9th St, Red Lodge, MT, 59068, USA"
+    lat: 45.188853
+    lng: -109.24865
+    coords: "0101000000A089B0E1E94F5BC03160C9552C984640"
+    phone: null
+    email: null
+    url: "http://www.bgcofcarboncounty.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/gvoDcksxS2uoO1DprJlc"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/304965217_10225666894331299_1903225790886366517_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=hliVgjbux9oAX_v4zdG&tn=5xDEGXpILlwDEdvQ&_nc_ht=scontent-sea1-1.xx&oh=00_AfBX_kRxLn6U_eKrm0o_QJN0tVR_1WSyy79UuEAzpgGYrw&oe=63A6D499"
+        attribution_html: null
+        attribution_name: Allen Tetrault
+    country_slug: us
+    state_slug: montana
+    city_slug: red-lodge
+    city_id: 1840019946
+    slug: red-lodge-pickleball
+    path: /courts/us/montana/red-lodge/red-lodge-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T01:24:55.646Z"
+    updated_at: "2025-10-28T03:18:45.209Z"
+    schedule_sources_updated_at: null
+  - id: f63ad5d3-c6df-4d55-9617-0db07761419f
+    title: Richland County Sports Complex
+    address: "1281 South Central Avenue, Sidney, MT, USA"
+    lat: 47.7046976
+    lng: -104.1659344
+    coords: "0101000000025251AB9E0A5AC0ECC8EC8733DA4740"
+    phone: "406-489-3285"
+    email: null
+    url: "https://www.facebook.com/groups/6066745460024942"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [concrete, hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, food]
+    description: ""
+    access_details: $5/hr per person (Min charge $20/hr)
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/vkdznrSpT9VrX3BzGMof"
+      - url: "https://cdn.filestackcontent.com/dKKTjYARBa8kOPVXdBYL"
+    country_slug: us
+    state_slug: montana
+    city_slug: sidney
+    city_id: 1840021085
+    slug: richland-county-sports-complex
+    path: /courts/us/montana/sidney/richland-county-sports-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-04-19T04:55:07.228Z"
+    updated_at: "2024-04-19T04:56:13.003Z"
+    schedule_sources_updated_at: null
+  - id: "5bc11090-c087-436d-b1ae-6bac3c406758"
+    title: Ridge Athletic Club
+    address: "4181 Fallon St, Bozeman, MT 59718, USA"
+    lat: 45.6740196
+    lng: -111.0944978
+    coords: "0101000000D02280400CC65BC0776E354646D64640"
+    phone: (406) 586-1737
+    email: null
+    url: "https://ridgeathletic.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [locker rooms, food, restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/s2MGI20ATdSftrIHdRmQ"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/112914098487293491805"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112914098487293491805\">Ridge Athletic Clubs</a>"
+        attribution_name: Ridge Athletic Clubs
+    country_slug: us
+    state_slug: montana
+    city_slug: bozeman
+    city_id: 1840018509
+    slug: ridge-athletic-club
+    path: /courts/us/montana/bozeman/ridge-athletic-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-04-26T07:51:51.019Z"
+    updated_at: "2024-04-26T07:53:08.805Z"
+    schedule_sources_updated_at: null
+  - id: "63ca79b3-35b3-49e6-86ad-e288b660d170"
+    title: Riverside Country Club
+    address: "2500 Springhill Rd, Bozeman, MT 59718, USA"
+    lat: 45.7274532
+    lng: -111.065905
+    coords: "010100000025E99AC937C45BC06EAFBB2F1DDD4640"
+    phone: "+14065875105"
+    email: null
+    url: "https://riverside-country-club.com"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [pro shop, training, restrooms, water]
+    description: ""
+    access_details: Private club
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/URfiLXlbRrOhwjoky7c5"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/101226729219362856862"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101226729219362856862\">Wesley Stewart</a>"
+        attribution_name: Wesley Stewart
+    country_slug: us
+    state_slug: montana
+    city_slug: bozeman
+    city_id: 1840018509
+    slug: riverside-country-club
+    path: /courts/us/montana/bozeman/riverside-country-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-01-13T11:54:28.526Z"
+    updated_at: "2025-01-13T12:36:57.965Z"
+    schedule_sources_updated_at: null
+  - id: "928bd296-ecde-40a7-90af-ba969b67769d"
+    title: Rose Park
+    address: "22nd St W & Avenue C, Billings, MT, USA"
+    lat: 45.7860072
+    lng: -108.5719131
+    coords: "0101000000DB2967399A245BC0D43549E29BE44640"
+    phone: null
+    email: ""
+    url: "https://www.billingsparks.org"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: Lockbox with portable nets available for Billings Pickleball Association members.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/8ae8uQO7Sw6UPrVmO8f2"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/100857036881053006305"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/100857036881053006305\">Tim McBride</a>"
+        attribution_name: Tim McBride
+    country_slug: us
+    state_slug: montana
+    city_slug: billings
+    city_id: 1840018496
+    slug: rose-park
+    path: /courts/us/montana/billings/rose-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-10-24T10:22:44.406Z"
+    updated_at: "2024-10-24T11:09:05.036Z"
+    schedule_sources_updated_at: null
+  - id: "5c52a80e-2e02-4066-95e4-923d40317d5e"
+    title: Salvation Army Fire Gym
+    address: "1330 Hudson St, Helena, MT, USA"
+    lat: 46.6075935
+    lng: -112.0508447
+    coords: "010100000032EB200A41035CC08FE1B19FC54D4740"
+    phone: "+14064397556"
+    email: philsa2425@gmail.com
+    url: "https://helena.salvationarmy.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, youth]
+    description: ""
+    access_details: "$5 per time slot 8am - 10am, 10am - Noon"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/sR21hwRteFIyqSL2hiTA"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/108533619072603091594"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108533619072603091594\">Chad Laverty</a>"
+        attribution_name: Chad Laverty
+    country_slug: us
+    state_slug: montana
+    city_slug: helena
+    city_id: 1840019820
+    slug: salvation-army-fire-gym
+    path: /courts/us/montana/helena/salvation-army-fire-gym
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-06-12T06:23:22.776Z"
+    updated_at: "2026-06-12T06:27:33.860Z"
+    schedule_sources_updated_at: "2026-06-12T06:27:32.965Z"
+  - id: "55f63b33-1295-4e91-abd2-82419ad4c311"
+    title: Salvation Army Gym
+    address: "1000 17th Ave South, Great Falls, Montana 59405, USA"
+    lat: 47.48732
+    lng: -111.2903
+    coords: "0101000000D881734694D25BC0E657738060BE4740"
+    phone: "+14064529641"
+    email: null
+    url: "https://greatfalls.salvationarmy.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [lighted, water, restrooms]
+    description: ""
+    access_details: null
+    schedule_details: Some Saturdays available
+    images:
+      - url: "https://cdn.filestackcontent.com/6wzT1KrRGah655c7UIlb"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/100146979146095674342"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/100146979146095674342\">Phoebe Marcinek</a>"
+        attribution_name: Phoebe Marcinek
+      - url: "https://cdn.filestackcontent.com/SX8bticaTTed6qG50y8k"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: montana
+    city_slug: great-falls
+    city_id: 1840019839
+    slug: salvation-army-gym
+    path: /courts/us/montana/great-falls/salvation-army-gym
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-17T06:26:04.804Z"
+    updated_at: "2024-03-20T06:26:44.630Z"
+    schedule_sources_updated_at: null
+  - id: ac81c01d-921c-4477-b39b-77b9c1de5ddd
+    title: Seeley Lake Pickleball Courts
+    address: "200 School Ln, Seeley Lake, MT 59868, USA"
+    lat: 47.1760066
+    lng: -113.4781157
+    coords: "010100000011CD9772995E5CC0A9705F6287964740"
+    phone: null
+    email: seeleylakepickleball@gmaill.com
+    url: "https://www.seeleylakepickleball.com"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: $30 Annual for Seeley Lake Club Membership (18 years old and younger play FREE).
+    schedule_details: "Closed for winter play, Open weather permitting"
+    images:
+      - url: "https://cdn.filestackcontent.com/pVycoKE3TIGjl8D6SBhs"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/QqrXqmIbScKHd2zflM6P"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/YQZeuAzwQju1Wpi4FvAp"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: montana
+    city_slug: seeley-lake
+    city_id: 1840018435
+    slug: seeley-lake-pickleball-courts
+    path: /courts/us/montana/seeley-lake/seeley-lake-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-06-21T09:16:25.196Z"
+    updated_at: "2026-04-28T06:46:05.072Z"
+    schedule_sources_updated_at: "2026-04-28T06:46:03.983Z"
+  - id: a1539516-8de8-4d24-9daf-daedfffc37c5
+    title: Silverman Private Lakeside Court
+    address: "38919 Baypoint Lane, Polson, MT, USA"
+    lat: 47.7324943
+    lng: -114.1768716
+    coords: "0101000000D66542DD518B5CC0D2808B5FC2DD4740"
+    phone: "+14065992569"
+    email: bsilverman99@gmail.com
+    url: "https://flatheadefoiling.com"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms, water]
+    description: "3.5 rated players or higher are welcome to play on one of the prettiest courts in Montana (according to all-time champion and friend. Scott Moore.\n\nLessons can also be arranged for players wishing to improve their \"soft game.\""
+    access_details: null
+    schedule_details: Call for invite
+    images:
+      - url: "https://cdn.filestackcontent.com/quokpfZTsSNWcJoGxQA4"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/tgznLl4TQnaID3pmdA4z"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/ok7asxJSDqwySabBMegX"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: montana
+    city_slug: polson
+    city_id: 1840019802
+    slug: silverman-private-lakeside-court
+    path: /courts/us/montana/polson/silverman-private-lakeside-court
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-07-18T10:21:19.189Z"
+    updated_at: "2025-04-29T08:28:19.273Z"
+    schedule_sources_updated_at: null
+  - id: "73627835-b5de-49e8-9332-c709cc49f6ad"
+    title: Smith Fields
+    address: "Whitefish, MT, USA"
+    lat: 48.4106373
+    lng: -114.3352652
+    coords: "0101000000295F2BFC74955CC0450257C38F344840"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/dqABkWc9TD6U0BgsSJX1"
+        source: user
+        attribution_url: "https://hagadone.media.clients.ellingtoncms.com/img/photos/2024/06/10/Pickle_4_wfp.jpg.1000x590_q85_box-0%2C0%2C2000%2C1180_crop_detail.jpg"
+        attribution_html: null
+        attribution_name: Whitefish Pilot
+    country_slug: us
+    state_slug: montana
+    city_slug: whitefish
+    city_id: 1840021047
+    slug: smith-fields
+    path: /courts/us/montana/whitefish/smith-fields
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-09-19T08:38:24.557Z"
+    updated_at: "2025-09-19T09:49:27.006Z"
+    schedule_sources_updated_at: null
+  - id: "4ac7cf6b-e4ca-451b-8dee-21be748203e5"
+    title: Southside Park Tennis Courts
+    address: "S 5th Ave, Bozeman, MT, 59715, USA"
+    lat: 45.671203
+    lng: -111.04398
+    coords: "0101000000666B7D91D0C25BC011FDDAFAE9D54640"
+    phone: "4065822290"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: temporary
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/5t4q8d7iRGOBxHbSVfQd"
+        source: user
+        visible: true
+        attribution_url: "https://www.bozeman.net/home/showpublishedimage/8892/636951562314630000"
+        attribution_html: null
+        attribution_name: City of Bozeman
+    country_slug: us
+    state_slug: montana
+    city_slug: bozeman
+    city_id: 1840018509
+    slug: southside-park-tennis-courts
+    path: /courts/us/montana/bozeman/southside-park-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T19:43:35.953Z"
+    updated_at: "2023-10-17T07:46:18.880Z"
+    schedule_sources_updated_at: null
+  - id: a7006904-8c46-4b4d-817e-7983bd3f43b5
+    title: Southwestern Montana Family YMCA
+    address: "75 Swenson Way, Dillon, MT, USA"
+    lat: 45.2213249
+    lng: -112.6412276
+    coords: "0101000000B9D27CDF09295CC02EA5D35F549C4640"
+    phone: "+14066839622"
+    email: null
+    url: "https://www.swmtf-ymca.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [food, locker rooms, restrooms, water, lighted]
+    description: ""
+    access_details: $8 Drop in Fee
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/w1R99c2sQlap6CrBknfs"
+        source: user
+        attribution_url: "https://www.swmtf-ymca.org/sites/default/files/styles/hero_image_manual_crop/public/basketball.jpeg?itok=cx9MdyfR"
+        attribution_html: null
+        attribution_name: Southwestern Montana Family YMCA
+    country_slug: us
+    state_slug: montana
+    city_slug: dillon
+    city_id: 1840018539
+    slug: southwestern-montana-family-ymca
+    path: /courts/us/montana/dillon/southwestern-montana-family-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-06T07:58:16.818Z"
+    updated_at: "2024-09-23T10:41:19.082Z"
+    schedule_sources_updated_at: "2024-09-23T10:41:18.310Z"
+  - id: "2d4cb971-18d7-4de2-b4f2-156715e69945"
+    title: Stillwater Youth Center
+    address: "1036 East Pike Avenue, Columbus, MT, USA"
+    lat: 45.635608
+    lng: -109.2458468
+    coords: "0101000000E17437F4BB4F5BC0B9895A9A5BD14640"
+    phone: "+14063225440"
+    email: stillwateryouthcenteroffice@gmail.com
+    url: "https://www.stillwateryouthcenter.com/index2.shtml"
+    reservation_url: "https://www.facebook.com/StillwaterYouthCenter"
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [wood]
+    lines: tape
+    nets: portable
+    amenities: [food, locker rooms, restrooms, water, youth, lighted]
+    description: "We've adapted an indoor racquetball court for pickleball, complete with tape lines, a portable net, and loaner paddles and balls ready for you to use. While it's not a regulation-sized court, that's part of the fun! This smaller space will definitely test your accuracy and speed, making for some exciting and challenging games while sharpening your skills. All ages are welcome to come give it a try!"
+    access_details: No fee however we are a non-profit so donations are appreciated.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Jz1YX61WTvWkUJAiLJrp"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: montana
+    city_slug: columbus
+    city_id: 1840022332
+    slug: stillwater-youth-center
+    path: /courts/us/montana/columbus/stillwater-youth-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-11T08:58:47.771Z"
+    updated_at: "2025-06-11T08:58:47.771Z"
+    schedule_sources_updated_at: null
+  - id: fd741e8f-bd78-41fe-8109-0bf2aad88b2d
+    title: Stodden Park
+    address: "3105 S Utah Ave, Butte, MT, 59701, USA"
+    lat: 45.978874
+    lng: -112.522755
+    coords: "0101000000833463D174215CC0CD7344BE4BFD4640"
+    phone: "4064976535"
+    email: null
+    url: "http://co.silverbow.mt.us/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/WoPUD1aRTEs7IxG1GBBA"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: montana
+    city_slug: butte
+    city_id: 1840032850
+    slug: stodden-park
+    path: /courts/us/montana/butte/stodden-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T23:33:38.568Z"
+    updated_at: "2026-03-10T07:35:14.293Z"
+    schedule_sources_updated_at: null
+  - id: "0aff8bac-fc80-4220-b253-3edb6100fa33"
+    title: Symmes Park
+    address: "201 Ridgelawn Avenue, Lewistown, MT, USA"
+    lat: 47.0718278
+    lng: -109.4154777
+    coords: "0101000000E86DC72F975A5BC0C9F841A731894740"
+    phone: "4065353045"
+    email: recreation@ci.lewistown.mt.us
+    url: "https://lewistownpickleball.com"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: ""
+    schedule_details: Open play all day
+    images:
+      - url: "https://cdn.filestackcontent.com/jL7zMmsmTLyfD25R2BQX"
+      - url: "https://cdn.filestackcontent.com/MVL0uh58TBaXHPnQPGzb"
+    country_slug: us
+    state_slug: montana
+    city_slug: lewistown
+    city_id: 1840019823
+    slug: symmes-park
+    path: /courts/us/montana/lewistown/symmes-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-08-01T06:20:00.264Z"
+    updated_at: "2025-08-01T06:27:38.292Z"
+    schedule_sources_updated_at: null
+  - id: "54d105b3-5ce3-48cb-8cfe-7b1d0e155ffe"
+    title: The Pickle Barn
+    address: "1260 W Valley Dr, Kalispell, MT, 59901, USA"
+    lat: 48.238728
+    lng: -114.395571
+    coords: "0101000000BF0F070951995CC0DB519CA38E1E4840"
+    phone: "4064710045"
+    email: null
+    url: "http://www.406thebarn.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/NYlN6r1YQFmXIOleP3p0"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110194105848744807018"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110194105848744807018\">Kent Rogers</a>"
+        attribution_name: Kent Rogers
+    country_slug: us
+    state_slug: montana
+    city_slug: kalispell
+    city_id: 1840018350
+    slug: the-pickle-barn
+    path: /courts/us/montana/kalispell/the-pickle-barn
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-01T07:18:19.643Z"
+    updated_at: "2024-04-23T08:21:00.131Z"
+    schedule_sources_updated_at: null
+  - id: "4fc21037-04b6-44b7-a0ef-e504266e3604"
+    title: The Picklr - Bozeman
+    address: "225 Laura Louise Lane, Bozeman, MT 59718, USA"
+    lat: 45.7027407
+    lng: -111.1884217
+    coords: "0101000000D5D6E3190FCC5BC0B9084268F3D94640"
+    phone: "+14067478907"
+    email: bozeman.mt@thepicklrfranchise.com
+    url: "https://thepicklr.com/location/bozeman/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 13
+    outdoor_courts: 0
+    total_courts: 13
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: [locker rooms, restrooms, pro shop, water, training, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ukBC0wyWQWiOA4wWOxJT"
+        source: user
+        attribution_url: "https://bozemanrealestate.group/blog/indoor-pickleball-club-bozeman"
+        attribution_html: null
+        attribution_name: Bozeman Real Estate Group
+    country_slug: us
+    state_slug: montana
+    city_slug: bozeman
+    city_id: 1840018509
+    slug: the-picklr-bozeman
+    path: /courts/us/montana/bozeman/the-picklr-bozeman
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-23T10:34:39.171Z"
+    updated_at: "2026-06-26T12:43:08.299Z"
+    schedule_sources_updated_at: null
+  - id: "24db1b91-0fde-4d1c-ae88-065ee5d9a6a9"
+    title: Townsend Tennis Courts
+    address: "131 S Harrison, Townsend, MT, 59644, USA"
+    lat: 46.322314
+    lng: -111.510468
+    coords: "0101000000E469F981ABE05BC07F85CC9541294740"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 2
+    total_courts: 3
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/8kY7c7hZTwmsMn9B4Mkv"
+        source: user
+        visible: true
+        attribution_url: "https://playtennis.usta.com/Library/ocean-pines-association?command=Proxy&lang=en&type=Images&currentFolder=%2F&hash=d7ee8f69223eae4429b183b271a521949c940ef7&fileName=pickle3.jpg"
+        attribution_html: null
+        attribution_name: USTA
+    country_slug: us
+    state_slug: montana
+    city_slug: townsend
+    city_id: 1840021165
+    slug: townsend-tennis-courts
+    path: /courts/us/montana/townsend/townsend-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-26T02:17:34.714Z"
+    updated_at: "2022-12-19T05:51:35.698Z"
+    schedule_sources_updated_at: null
+  - id: a19c3d6a-a681-4dc8-9f14-f6e44d51be4a
+    title: Two Rivers Pickleball Club
+    address: "218 Sportsman Ln, Bigfork, MT, 59911, USA"
+    lat: 48.09847
+    lng: -114.098767
+    coords: "010100000023BBD23252865CC08DD13AAA9A0C4840"
+    phone: "4065006525"
+    email: null
+    url: "http://jewelbasincenter.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 6
+    total_courts: 10
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, wheelchair accessible, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/4mK3JNegQrS2HnOiIPyv"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/112500331608405628874"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112500331608405628874\">Jacq Guertin</a>"
+        attribution_name: Jacq Guertin
+      - url: "https://cdn.filestackcontent.com/Qb9IBgdTB60TpiTvNOFx"
+        source: user
+        visible: true
+        attribution_url: "https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/319352074_612318174028141_6315892341007380379_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=G_SVRojcZ5oAX9D4kjc&tn=5xDEGXpILlwDEdvQ&_nc_ht=scontent-sea1-1.xx&oh=00_AfAxdg2kcLhcayKKk4QM2G9U7_SWdePJdTv9OTeIGxQdQg&oe=63A6BD75"
+        attribution_html: null
+        attribution_name: Two Rivers Pickleball Club
+    country_slug: us
+    state_slug: montana
+    city_slug: bigfork
+    city_id: 1840017296
+    slug: two-rivers-pickleball-club
+    path: /courts/us/montana/bigfork/two-rivers-pickleball-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T12:30:11.931Z"
+    updated_at: "2023-10-17T06:41:41.327Z"
+    schedule_sources_updated_at: null
+  - id: ed6a1267-41d4-442f-8d8a-d28464e5d8fa
+    title: Westview Courts
+    address: "103 S 9th St, Hamilton, MT 59840, USA"
+    lat: 46.24591909999999
+    lng: -114.1684966
+    coords: "01010000002E9FF6A5C88A5CC019FBED467A1F4740"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/kmBn8C2nQ4uQDWqw7FVv"
+    country_slug: us
+    state_slug: montana
+    city_slug: hamilton
+    city_id: 1840019896
+    slug: westview-courts
+    path: /courts/us/montana/hamilton/westview-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-05-19T09:28:15.470Z"
+    updated_at: "2025-06-12T08:23:25.930Z"
+    schedule_sources_updated_at: null
+  - id: "96861ffd-af02-4795-a046-285d856a2c7e"
+    title: Whitter School Tennis Courts
+    address: "2583 Sheridan Ave, Butte, MT, 59701, USA"
+    lat: 45.988154
+    lng: -112.492573
+    coords: "01010000002079E750861F5CC0AFB48CD47BFE4640"
+    phone: ""
+    email: null
+    url: "http://www.buttecountryclub.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: "https://www.buttepickleball.com/home"
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/sftjavIJRnCMmKmBsDjw"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/106396015851592668408"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106396015851592668408\">Shay Lewis</a>"
+        attribution_name: Shay Lewis
+    country_slug: us
+    state_slug: montana
+    city_slug: butte
+    city_id: 1840032850
+    slug: whitter-school-tennis-courts
+    path: /courts/us/montana/butte/whitter-school-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T01:20:19.026Z"
+    updated_at: "2025-06-12T08:16:30.095Z"
+    schedule_sources_updated_at: null
+  - id: "46ea79f1-0f8b-48e1-84a7-9482c9c7e11e"
+    title: Yellowstone Fitness
+    address: "1595 Grand Ave, Billings, MT, 59102, USA"
+    lat: 45.786084
+    lng: -108.556588
+    coords: "0101000000265646239F235BC056F487669EE44640"
+    phone: "4062450690"
+    email: null
+    url: "http://www.yellowstonefitness.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/14xR5fQSW6MauatUOMFg"
+        source: user
+        visible: true
+        attribution_url: "https://i1.wp.com/www.yourbigsky.com/wp-content/uploads/sites/101/2020/12/YellowstoneFitness-5471.jpg?ssl=1"
+        attribution_html: null
+        attribution_name: YourBigSky.com
+    country_slug: us
+    state_slug: montana
+    city_slug: billings
+    city_id: 1840018496
+    slug: yellowstone-fitness
+    path: /courts/us/montana/billings/yellowstone-fitness
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-22T11:16:40.404Z"
+    updated_at: "2022-12-19T07:26:09.476Z"
+    schedule_sources_updated_at: null

@@ -1,0 +1,2556 @@
+state: Rhode Island
+state_slug: rhode-island
+country: us
+court_count: 59
+scraped_at: "2026-06-30T05:22:32.424Z"
+source: pickleheads.com misc.search API
+courts:
+  - id: a9add223-3442-4a07-98fd-ce2bcaa23e88
+    title: "3rd Shot Drop RI at Kings Crossing Golf Club"
+    address: "655 Old Baptist Rd, North Kingstown, RI 02852, USA"
+    lat: 41.5989344
+    lng: -71.4863101
+    coords: "0101000000BACD65B41FDF51C08539E6E1A9CC4440"
+    phone: "+14017418540"
+    email: "3rdshotdropri@gmail.com"
+    url: "http://www.kingscrossinggolfclub.com/"
+    reservation_url: "https://app.courtreserve.com/Online/Portal/Index/10353"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, food, training, water, pro shop]
+    description: ""
+    access_details: Court Reservations required
+    schedule_details: "Leagues, Lessons, Drop Ins"
+    images:
+      - url: "https://cdn.filestackcontent.com/Evx1964QmWzVYuMulsS7"
+        source: user
+        visible: true
+        attribution_url: "https://kingscrossinggolfclub.com/?gclid=CjwKCAjwitShBhA6EiwAq3RqA1_dhA8FO4ma59W3-LKEyUmzMqGiGEudl0i4KkafF8mrsioTeF_3YhoCS2MQAvD_BwE"
+        attribution_html: null
+        attribution_name: Kings Crossing Golf Club
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: north-kingstown
+    city_id: 1840066135
+    slug: "3rd-shot-drop-ri-at-kings-crossing-golf-club"
+    path: /courts/us/rhode-island/north-kingstown/3rd-shot-drop-ri-at-kings-crossing-golf-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-12T02:23:07.963Z"
+    updated_at: "2025-08-18T06:19:37.862Z"
+    schedule_sources_updated_at: null
+  - id: "183ad8df-4489-40c5-878a-a342a406100a"
+    title: Barrington Kent Street Park Tennis / Pickleball courts
+    address: "14 Kent St, Barrington, RI, 02806, USA"
+    lat: 41.753931
+    lng: -71.299428
+    coords: "01010000006EE00ED429D351C065389ECF80E04440"
+    phone: null
+    email: pjmreid@gmail.com
+    url: ""
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/SQonAqOQmGZaJSJJ8t3V"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: barrington
+    city_id: 1840106239
+    slug: barrington-kent-street-park-tennis-pickleball-courts
+    path: /courts/us/rhode-island/barrington/barrington-kent-street-park-tennis-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T11:22:02.956Z"
+    updated_at: "2023-01-01T21:47:47.509Z"
+    schedule_sources_updated_at: null
+  - id: cdb03802-4338-439b-8e71-fafc7da5fd3b
+    title: Barrington Middle School Outdoor Pickleball Courts
+    address: "261 Middle Hwy, Barrington, RI, 02806, USA"
+    lat: 41.745786
+    lng: -71.33215
+    coords: "010100000073D712F241D551C047E867EA75DF4440"
+    phone: "4013743715"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [asphalt, concrete]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/x77MdYjCSeTNvDsMNhFN"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: barrington
+    city_id: 1840106239
+    slug: barrington-middle-school-outdoor-pickleball-courts
+    path: /courts/us/rhode-island/barrington/barrington-middle-school-outdoor-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-05T23:21:21.591Z"
+    updated_at: "2026-05-19T04:13:23.061Z"
+    schedule_sources_updated_at: null
+  - id: d9c338de-cde2-4413-be32-301e9178401f
+    title: Bristol Town Commons Park
+    address: "316 Wood St, Bristol, RI, 02809, USA"
+    lat: 41.6708417
+    lng: -71.2706094
+    coords: "01010000005FBF16AA51D151C082250D24DED54440"
+    phone: "4012531611"
+    email: BristolPickleballClubRI@gmail.com
+    url: "https://www.bristolpickleballri.org"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, wheelchair accessible, training]
+    description: There are two pickleball lined courts that require portable nets in addition to the 6 dedicated courts.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/yxaBiOH0TS6CpART4mgL"
+      - url: "https://cdn.filestackcontent.com/CzCgRsazTuCybUBJyhT3"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/112918504153327051730"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/112918504153327051730\">Clifford Teixeira</a>"
+        attribution_name: Clifford Teixeira
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: bristol
+    city_id: 1840106238
+    slug: bristol-town-commons-park
+    path: /courts/us/rhode-island/bristol/bristol-town-commons-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-13T01:06:21.200Z"
+    updated_at: "2025-05-10T02:13:24.941Z"
+    schedule_sources_updated_at: null
+  - id: "53858d4e-0cff-49d4-a81a-92185a9dd8a8"
+    title: Burrs Hill Park
+    address: "775 Main St, Warren, RI, 02885, USA"
+    lat: 41.722773
+    lng: -71.281629
+    coords: "0101000000BB26A43506D251C045B75ED383DC4440"
+    phone: null
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/w4SHsRoiQEuOkACSNQJI"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: warren
+    city_id: 1840066117
+    slug: burrs-hill-park
+    path: /courts/us/rhode-island/warren/burrs-hill-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-05T16:45:29.832Z"
+    updated_at: "2023-01-01T22:35:04.532Z"
+    schedule_sources_updated_at: null
+  - id: efeeb857-8be0-4fd7-b806-c81747f9c761
+    title: Centerline Pickleball Club
+    address: "33 Lambert Lind Hwy, Warwick, RI 02886, USA"
+    lat: 41.7304944
+    lng: -71.4782639
+    coords: "0101000000E05630E09BDE51C0A0F42AD780DD4440"
+    phone: "+14012499686"
+    email: centerlinepickleball@gmail.com
+    url: "https://centerlinepickleballclub.com/"
+    reservation_url: "https://apps.apple.com/us/app/courtreserve/id1392556575"
+    facility_type: null
+    access: needs-audit
+    has_reservations: true
+    indoor_courts: 8
+    outdoor_courts: 0
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [food, locker rooms, restrooms, water, youth, lighted, pro shop, training, wheelchair accessible, adaptive]
+    description: ""
+    access_details: Court rentals available for members and non-members. Sign up through court reserve.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/eg4bmnVS3yQb5mQQYgIk"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/34R9lPlVTHyZAftBHEXR"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/cRBR5fBtQdWj8oNPunbD"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/GSyV4E7GQs2mgcooEPsb"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/6CIaZvPQzyjwBE1Fm2iQ"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/J5uBLBHKSUug9rSiNdz1"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: warwick
+    city_id: 1840003344
+    slug: centerline-pickleball-club
+    path: /courts/us/rhode-island/warwick/centerline-pickleball-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-03-19T06:02:13.485Z"
+    updated_at: "2025-03-19T06:02:13.485Z"
+    schedule_sources_updated_at: null
+  - id: "6cf08017-4030-4afb-91c8-84c19f65309a"
+    title: Centre Court Tennis Club
+    address: "55 Hospital Rd, Riverside, RI, USA"
+    lat: 41.7755243
+    lng: -71.33931199999999
+    coords: "0101000000FBC8AD49B7D551C06CE0586144E34440"
+    phone: "+14014371210"
+    email: ""
+    url: "https://centrecourttennisclub.com"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [lighted, restrooms, locker rooms, water]
+    description: ""
+    access_details: pay per person (i.e. 2 hours slots)
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ddwrtNQdRgi1FLk4sX8H"
+        source: user
+        attribution_url: "https://www.centrecourttennisclub.com/pages/ricentrecourt/image/_zzz7463.jpeg"
+        attribution_html: null
+        attribution_name: Centre Court Tennis Club
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: east-providence
+    city_id: 1840003288
+    slug: centre-court-tennis-club
+    path: /courts/us/rhode-island/east-providence/centre-court-tennis-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-01-22T06:44:42.152Z"
+    updated_at: "2026-01-22T06:47:22.729Z"
+    schedule_sources_updated_at: null
+  - id: "5451f48d-3fae-4023-99e0-7dc26c5c8811"
+    title: Chianese Park
+    address: "41 Centennial Ave, Barrington, RI 02806, USA"
+    lat: 41.7406392
+    lng: -71.3162926
+    coords: "0101000000E03D51233ED451C05B11EB43CDDE4440"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: There may be portable nets during certain seasons
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/E8MepgxOQA6ArliLDCHP"
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: barrington
+    city_id: 1840106239
+    slug: chianese-park
+    path: /courts/us/rhode-island/barrington/chianese-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-09-13T07:23:39.953Z"
+    updated_at: "2025-05-28T07:22:49.415Z"
+    schedule_sources_updated_at: null
+  - id: "0bfafc85-640d-44ac-a2fc-002cbd7503a1"
+    title: City of Warwick Pickleball
+    address: "152 Sleepy Hollow Farm Rd, Warwick, RI 02886, USA"
+    lat: 41.6809741
+    lng: -71.47523819999999
+    coords: "0101000000D5B37B4D6ADE51C02676C8282AD74440"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/fiVz2QqpTqa518HVwsbg"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/109731692330160115067"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/109731692330160115067\">Lawrence Pavese Jr.</a>"
+        attribution_name: Lawrence Pavese Jr.
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: warwick
+    city_id: 1840003344
+    slug: city-of-warwick-pickleball
+    path: /courts/us/rhode-island/warwick/city-of-warwick-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-05-26T07:16:29.529Z"
+    updated_at: "2025-08-11T07:10:07.689Z"
+    schedule_sources_updated_at: null
+  - id: "5d29b6b8-7de8-41dd-89e4-6db8d5cafda1"
+    title: Clarke Pointe Park
+    address: "170 Clarke Rd, Narragansett, RI, 02882, USA"
+    lat: 41.400209
+    lng: -71.478073
+    coords: "010100000070067FBF98DE51C04D486B0C3AB34440"
+    phone: "4017820658"
+    email: null
+    url: "http://www.narragansettri.gov/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/icG7ZiXR1a0fMfTpmcNd"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/b2bDPuNGQYKzZcQqL99y"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: narragansett
+    city_id: 1840106247
+    slug: clarke-pointe-park
+    path: /courts/us/rhode-island/narragansett/clarke-pointe-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-26T02:45:12.337Z"
+    updated_at: "2023-02-12T14:16:15.226Z"
+    schedule_sources_updated_at: null
+  - id: d54732c9-c103-4e2d-97f4-0d9be3908d6f
+    title: Cold Spring Park
+    address: "Harris Ave, Woonsocket, RI, USA"
+    lat: 42.009844
+    lng: -71.5236575
+    coords: "01010000008733BF9A83E151C0EA07759142014540"
+    phone: "+14017679287"
+    email: null
+    url: "https://www.woonsocketri.org/parks-recreation/pages/cold-spring-park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/yib0KcMSQ3O7R4wk1VgM"
+      - url: "https://cdn.filestackcontent.com/67brTpe9TeK0kGZn55Eo"
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: united-states
+    city_id: 1983609142
+    slug: cold-spring-park
+    path: /courts/us/rhode-island/united-states/cold-spring-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-07-22T10:14:49.249Z"
+    updated_at: "2024-07-31T09:58:12.255Z"
+    schedule_sources_updated_at: null
+  - id: e4817747-c25d-4671-ba25-f2c6349f2a1e
+    title: Conlon Park
+    address: "201 Messer Street, Providence, RI, USA"
+    lat: 41.809916
+    lng: -71.4350848
+    coords: "010100000026BFEA6DD8DB51C0EA40D653ABE74440"
+    phone: "+14012258500"
+    email: jtees@aol.com
+    url: "https://www.providenceri.gov/parks/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: Brand New Pickleball Court located in Conlon Park next to the Messer Street Fire Station in the West End!
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/pnCiCvLTGiCnIkQm6zj1"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: "James Taylor "
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: providence
+    city_id: 1840003289
+    slug: conlon-park
+    path: /courts/us/rhode-island/providence/conlon-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-07-07T09:42:12.596Z"
+    updated_at: "2025-07-07T10:04:07.124Z"
+    schedule_sources_updated_at: null
+  - id: ed04fa65-14dc-4dc0-8738-ed8ce376132d
+    title: Crandall Field
+    address: "188 Main St a, Ashaway, RI 02804, USA"
+    lat: 41.42233969999999
+    lng: -71.7875705
+    coords: "0101000000D732198E67F251C0B5A62F3A0FB64440"
+    phone: "+14013777795"
+    email: null
+    url: "https://www.hopkintonri.gov/recreation-department/pages/crandall-field"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: On Tennis courts
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/PbHPal1cSNSXDOFuuQnZ"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/117383779460790101328"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117383779460790101328\">Luis Montero</a>"
+        attribution_name: Luis Montero
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: hopkinton
+    city_id: 1840026107
+    slug: crandall-field
+    path: /courts/us/rhode-island/hopkinton/crandall-field
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-07-30T10:49:19.962Z"
+    updated_at: "2024-07-30T11:51:05.044Z"
+    schedule_sources_updated_at: null
+  - id: "7cea687b-1d5c-4c36-a8ef-98ba17c53e35"
+    title: Cristofaro Recreation Park
+    address: "1160 Boston Neck Rd, Narragansett, RI, 02882, USA"
+    lat: 41.489666
+    lng: -71.439888
+    coords: "0101000000C879FF1F27DC51C048FB1F60ADBE4440"
+    phone: "4017820658"
+    email: null
+    url: "http://www.narragansettri.gov/Facilities/Facility/Details/Domenic-Christofaro-Park-11"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [concrete]
+    lines: tape
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/scTzOpQLI5IRn7pzyw74"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: narragansett
+    city_id: 1840106247
+    slug: cristofaro-recreation-park
+    path: /courts/us/rhode-island/narragansett/cristofaro-recreation-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-21T07:05:15.456Z"
+    updated_at: "2024-07-01T10:00:30.524Z"
+    schedule_sources_updated_at: null
+  - id: b08f6d94-4189-404a-a95c-9fc5623493aa
+    title: Crompton Playground
+    address: "71 Manchester Street, West Warwick, RI, USA"
+    lat: 41.6857872
+    lng: -71.5239028
+    coords: "01010000001A129C9F87E151C0F901FEDFC7D74440"
+    phone: null
+    email: null
+    url: "https://westwarwickri.gov/?SEC=640172A6-F891-4034-BF20-463C97B4F5F6&DE=A7310021-A44A-46B2-A04A-0BD705E9AE63"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/w9vPWweNSsylfyFNZKlX"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/111930898278690532912"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/111930898278690532912\">Ifyouknowyouknow</a>"
+        attribution_name: Ifyouknowyouknow
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: west-warwick
+    city_id: 1840106223
+    slug: crompton-playground
+    path: /courts/us/rhode-island/west-warwick/crompton-playground
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-05-19T09:28:44.165Z"
+    updated_at: "2025-05-19T10:11:23.712Z"
+    schedule_sources_updated_at: null
+  - id: "5e055190-527d-4957-a2cb-e2bbd46c2d82"
+    title: Curtis Corner Middle School
+    address: "301 Curtis Corner Rd, Wakefield, RI, 02879, USA"
+    lat: 41.45402
+    lng: -71.528425
+    coords: "0101000000E25817B7D1E151C06EDDCD531DBA4440"
+    phone: "4017899301"
+    email: null
+    url: "http://cc.skschools.net/"
+    reservation_url: null
+    facility_type: school
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 5
+    total_courts: 5
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/T4dTyFM8Ri6M3dQ9hoMr"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: wakefield
+    city_id: 1840035722
+    slug: curtis-corner-middle-school
+    path: /courts/us/rhode-island/wakefield/curtis-corner-middle-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-30T09:44:12.316Z"
+    updated_at: "2023-10-19T03:24:24.137Z"
+    schedule_sources_updated_at: null
+  - id: "85c7ace6-22c4-416f-8e65-f3c677b3e18a"
+    title: Davisville Middle School
+    address: "174 School St, North Kingstown, RI, 02852, USA"
+    lat: 41.620953
+    lng: -71.464584
+    coords: "0101000000AC8F87BEBBDD51C032AD4D637BCF4440"
+    phone: null
+    email: null
+    url: "http://dms.nksd.net/"
+    reservation_url: null
+    facility_type: school
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/h8ud3dbWRLezPBmYeJYG"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: north-kingstown
+    city_id: 1840066135
+    slug: davisville-middle-school
+    path: /courts/us/rhode-island/north-kingstown/davisville-middle-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-10T03:15:38.701Z"
+    updated_at: "2023-01-01T22:50:20.865Z"
+    schedule_sources_updated_at: null
+  - id: "15a5621c-6c10-486e-a679-e2acfd2ae7b1"
+    title: Deerfield Park
+    address: "1 William J Hawkins Trl, Greenville, RI, 02828, USA"
+    lat: 41.882663
+    lng: -71.553027
+    coords: "010100000085B35BCB64E351C0D331E719FBF04440"
+    phone: ""
+    email: smithfieldpickleballri@gmail.com
+    url: ""
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [acrylic, asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: None
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/oRG7fuXTPKGApjAxnaMQ"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: smithfield
+    city_id: 1840106200
+    slug: deerfield-park
+    path: /courts/us/rhode-island/smithfield/deerfield-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-14T21:25:32.347Z"
+    updated_at: "2025-06-02T07:17:07.792Z"
+    schedule_sources_updated_at: "2025-06-02T07:17:07.051Z"
+  - id: "0a5e020d-4f25-4f0d-b3de-462c9bb2aae0"
+    title: Diamond Hill Park
+    address: "4125 Diamond Hill Rd, Cumberland, RI 02864, USA"
+    lat: 42.0019991
+    lng: -71.4187451
+    coords: "01010000000E773FB8CCDA51C08B8FAA8141004540"
+    phone: "+14019557188"
+    email: schalhoub-skeldon@cumberlandri.org
+    url: "https://www.cumberlandri.org/195/Parks-Recreation"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/rLL4G24dQAaU7WhU0R4h"
+        source: user
+        attribution_url: "https://www.facebook.com/share/p/19BKCcqUz6/?mibextid=xfxF2i"
+        attribution_html: null
+        attribution_name: Court
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: cumberland
+    city_id: 1840066127
+    slug: diamond-hill-park
+    path: /courts/us/rhode-island/cumberland/diamond-hill-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-02T08:34:28.053Z"
+    updated_at: "2025-06-02T09:41:39.554Z"
+    schedule_sources_updated_at: null
+  - id: "0638b351-02be-45fe-aef6-b6d3f7ad98a5"
+    title: East Bay Pickleball Club
+    address: "317 Market St, Warren, RI, USA"
+    lat: 41.7397737
+    lng: -71.27255319999999
+    coords: "0101000000E31AFA8271D151C070F893E7B0DE4440"
+    phone: "+14012524021"
+    email: null
+    url: "https://eastbaypickleballclub.com"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 9
+    outdoor_courts: 0
+    total_courts: 9
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: [locker rooms, restrooms, water, youth, adaptive, training, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/RYxnSzUXRHSNx3BGyI1x"
+        source: user
+        attribution_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/577181435_25597613293158416_7945398943339326432_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=1IubBqo3NiEQ7kNvwEGEoF2&_nc_oc=Adl20xthM79E7MxodXs7WVlPrkYVVd7lu9LiGx_G2HOTA10YZLgXfdfzIRo3S3Wtb-o&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=7KY7fvvDfzRYXfAVADRddA&oh=00_AfjhE_vplM9kzOZ6eXrv3QLfOogOd25k2OfDl7fgNt8jWg&oe=6918ADD8"
+        attribution_html: null
+        attribution_name: Clifford Teixeira
+      - url: "https://cdn.filestackcontent.com/w1c4D7LcRlWVL0f8LIEV"
+        source: user
+        attribution_url: "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/574244725_25597612936491785_8466801658188530854_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=kJyN6Rb1S0MQ7kNvwE6_b0u&_nc_oc=AdlFuzdj3Uz48EK5TaX2YYvFd-CPxfn01foQ6OrdsxXVI1iv1FhXqYeRRq8rlDS5Itc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=vfkqbBeq-iqT-KCI1oHkrA&oh=00_AfgQMkR55xhjwdZdOcL2Jl66g6SZKiLWv0hUMOEpvl8d2A&oe=6918AAAA"
+        attribution_html: null
+        attribution_name: Clifford Teixeira
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: warren
+    city_id: 1840066117
+    slug: east-bay-pickleball-club
+    path: /courts/us/rhode-island/warren/east-bay-pickleball-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-11-11T07:11:07.783Z"
+    updated_at: "2025-11-20T05:28:08.607Z"
+    schedule_sources_updated_at: null
+  - id: d415755a-1d8f-468c-9b33-6eeaeaaa4c01
+    title: Fairlawn Playground
+    address: "13 Cecile St, Lincoln, RI, 02865, USA"
+    lat: 41.882337
+    lng: -71.413346
+    coords: "0101000000ADFBC74274DA51C07F86376BF0F04440"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/wmaCz1LSNu9UZJULzEyA"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: lincoln
+    city_id: 1840106233
+    slug: fairlawn-playground
+    path: /courts/us/rhode-island/lincoln/fairlawn-playground
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T03:41:10.268Z"
+    updated_at: "2023-01-01T23:31:00.312Z"
+    schedule_sources_updated_at: null
+  - id: "334d4dd7-b8bd-4742-a8d1-a4678e7baf3e"
+    title: Fore Court Racquet & Fitness
+    address: "44 Cray St, Cumberland, RI, 02864, USA"
+    lat: 41.92727
+    lng: -71.421557
+    coords: "0101000000981936CAFADA51C0ED478AC8B0F64440"
+    phone: "+14013334480"
+    email: Ascott@forecourtri.com
+    url: "http://www.forecourtri.com/"
+    reservation_url: null
+    facility_type: club
+    access: free
+    has_reservations: true
+    indoor_courts: 8
+    outdoor_courts: 0
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard, acrylic]
+    lines: tape
+    nets: portable
+    amenities: [lighted, training, water, restrooms, locker rooms, food]
+    description: null
+    access_details: $12 per player
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/xOIL5IgJTmmT2yirLDJK"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo.php?fbid=540962438033653&set=pb.100063597037794.-2207520000.&type=3"
+        attribution_html: null
+        attribution_name: Fore Court Racquet & Fitness Club
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: cumberland
+    city_id: 1840066127
+    slug: fore-court-racquet-and-fitness
+    path: /courts/us/rhode-island/cumberland/fore-court-racquet-and-fitness
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-30T14:40:29.307Z"
+    updated_at: "2023-08-29T08:28:56.717Z"
+    schedule_sources_updated_at: null
+  - id: "78ac0411-a4af-4d22-9f30-289383abef07"
+    title: Frenchtown Road
+    address: "1540 Frenchtown Rd, East Greenwich, RI 02818, USA"
+    lat: 41.6232891
+    lng: -71.5210147
+    coords: "01010000000E4F0A4E58E151C0053AEEEFC7CF4440"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 5
+    total_courts: 5
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/a5DvkHFQnqkMhNM0TQmv"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: east-greenwich
+    city_id: 1840066133
+    slug: frenchtown-road
+    path: /courts/us/rhode-island/east-greenwich/frenchtown-road
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-06-17T11:07:35.230Z"
+    updated_at: "2024-06-17T11:19:00.284Z"
+    schedule_sources_updated_at: null
+  - id: "87b38d09-02e3-4515-9279-3f6eeca37eea"
+    title: Herbert F Paine Memorial Field
+    address: "1277 Main Street, Coventry, RI, USA"
+    lat: 41.6924279
+    lng: -71.570844
+    coords: "01010000008AC745B588E451C042AB387AA1D84440"
+    phone: null
+    email: null
+    url: "https://coventryri.myrec.com/info/facilities/details.aspx?FacilityID=14702"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/btDbwjuRnaDeu9RU713Q"
+        source: user
+        attribution_url: "https://s3-media2.fl.yelpcdn.com/bphoto/fSdr_8KFUENUQXSMiJn8iw/l.jpg"
+        attribution_html: null
+        attribution_name: MapQuest
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: coventry
+    city_id: 1840066132
+    slug: herbert-f-paine-memorial-field
+    path: /courts/us/rhode-island/coventry/herbert-f-paine-memorial-field
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-07-09T09:38:28.518Z"
+    updated_at: "2024-07-09T10:35:08.511Z"
+    schedule_sources_updated_at: null
+  - id: ea220fb8-beac-43c2-a855-636b2bc4f81d
+    title: Howland Park
+    address: "10 3rd Beach Road, Middletown, RI, USA"
+    lat: 41.5137472
+    lng: -71.2559484
+    coords: "0101000000AADD657561D051C0AE34DF77C2C14440"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: "Four side-by-side courts in a fenced enclosure. Howland was completely resurfaced at the beginning of the 2024 season with an Acrytech top coat. \n\nThere is a large play scape for children next to the courts. It is being completely rebuilt as of 8 June 2025."
+    access_details: ""
+    schedule_details: There are no set hours. Players organize on Team Reach. There is no paddle holder or culture of showing up as a single and putting your paddle in the rack to play in.
+    images:
+      - url: "https://cdn.filestackcontent.com/rcaEpv6iSuaf0J5W0jEw"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/114965188002646253232"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114965188002646253232\">Lenin Cardona Puerta</a>"
+        attribution_name: Lenin Cardona Puerta
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: middletown
+    city_id: 1840066121
+    slug: howland-park
+    path: /courts/us/rhode-island/middletown/howland-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-09T08:07:57.053Z"
+    updated_at: "2025-06-09T08:17:07.220Z"
+    schedule_sources_updated_at: null
+  - id: b6f6c881-9e73-40f5-8ce0-19bee675ee26
+    title: Hunter Park
+    address: "Dyres Gate St, Newport, RI 02840, USA"
+    lat: 41.4995576
+    lng: -71.3192081
+    coords: "01010000009287CFE76DD451C0F03BE180F1BF4440"
+    phone: "4018455300"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/FBlDoQlrQ8KHU48bpK9w"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: newport
+    city_id: 1840003355
+    slug: hunter-park
+    path: /courts/us/rhode-island/newport/hunter-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T19:10:37.659Z"
+    updated_at: "2024-09-10T08:22:08.592Z"
+    schedule_sources_updated_at: "2024-05-22T08:32:58.255Z"
+  - id: "1db4bf7c-a468-443a-ad6f-e8f755cb5e99"
+    title: Jamiel's Park
+    address: "Barrus St, Warren, RI 02885, USA"
+    lat: 41.7307972
+    lng: -71.2815513
+    coords: "01010000005D69BEEF04D251C012013DC38ADD4440"
+    phone: "4018244623"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/52KwErh3ROqacaeLjwMs"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: warren
+    city_id: 1840066117
+    slug: jamiels-park
+    path: /courts/us/rhode-island/warren/jamiels-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T02:09:40.240Z"
+    updated_at: "2023-01-01T22:33:01.618Z"
+    schedule_sources_updated_at: null
+  - id: "896add9c-1909-4710-b56e-cc79838fb404"
+    title: Jewish Community Center of RI
+    address: "401 Elmgrove Ave, Providence, RI, 02906, USA"
+    lat: 41.841978
+    lng: -71.392363
+    coords: "0101000000454AB3791CD951C0CAF962EFC5EB4440"
+    phone: "+14014214111"
+    email: rcastellucci@jewishallianceri.org
+    url: "http://www.jewishallianceri.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [food, restrooms, water, wheelchair accessible]
+    description: null
+    access_details: $5/day to use the courts if you're not a JCC member.
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/0kjMYZjIT8SMIxCuaIBM"
+        source: user
+        visible: true
+        attribution_url: "https://s3-us-west-2.amazonaws.com/prod-api-lymberfitness/studios/38485/gallery_images/64859/cropped_basketball_court_2.jpg?1526575482"
+        attribution_html: null
+        attribution_name: Dwares JCC Rhoe Island
+      - url: "https://cdn.filestackcontent.com/0wM58zYQRcqDz62KE2NJ"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: providence
+    city_id: 1840003289
+    slug: jewish-community-center-of-ri
+    path: /courts/us/rhode-island/providence/jewish-community-center-of-ri
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T15:36:28.859Z"
+    updated_at: "2026-04-20T09:24:24.651Z"
+    schedule_sources_updated_at: null
+  - id: "9f8e498d-e834-460c-adab-6ddfad097814"
+    title: John Chafee Athletic & Recreation Center
+    address: "450 Hope Road, Cranston, RI 02921, USA"
+    lat: 41.7519336
+    lng: -71.51267349999999
+    coords: "0101000000A70183A4CFE051C0BC61365C3FE04440"
+    phone: null
+    email: null
+    url: "https://clcfsoccer.net/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/obwD9myqTNO0jKQugQ0F"
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: cranston
+    city_id: 1840003287
+    slug: john-chafee-athletic-and-recreation-center
+    path: /courts/us/rhode-island/cranston/john-chafee-athletic-and-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-07-29T10:46:26.877Z"
+    updated_at: "2024-07-30T10:26:14.641Z"
+    schedule_sources_updated_at: null
+  - id: "8e02bda1-cdac-41ba-9697-0cd86b60a9af"
+    title: Little Compton
+    address: "29 S of Commons Rd, Little Compton, RI 02837, USA"
+    lat: 41.5060343
+    lng: -71.17020160000001
+    coords: "0101000000866E4095E4CA51C0BF9360BBC5C04440"
+    phone: "7749939353"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [asphalt]
+    lines: temporary
+    nets: byo
+    amenities: [wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/srj4ciJQjyDilraqtWX5"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: little-compton
+    city_id: 1840066120
+    slug: little-compton
+    path: /courts/us/rhode-island/little-compton/little-compton
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T11:59:50.383Z"
+    updated_at: "2023-01-01T23:00:12.613Z"
+    schedule_sources_updated_at: null
+  - id: "8da172a0-9788-482e-9f7d-cd4ab7c182cf"
+    title: MacColl YMCA
+    address: "32 Breakneck Hill Road, Lincoln, RI, USA"
+    lat: 41.9035065
+    lng: -71.4420717
+    coords: "01010000002D7F19E74ADC51C0999CDA19A6F34440"
+    phone: "+14017250773"
+    email: null
+    url: "https://ymcapawtucket.org/maccoll-ymca/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [locker rooms, restrooms, water]
+    description: Must be a member to play
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/fNYMGtf5QXCDfKLIcAgO"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115527532225465860435"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115527532225465860435\">MacColl YMCA</a>"
+        attribution_name: MacColl YMCA
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: lincoln
+    city_id: 1840106233
+    slug: maccoll-ymca
+    path: /courts/us/rhode-island/lincoln/maccoll-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-06-05T08:18:48.137Z"
+    updated_at: "2023-06-06T03:42:21.528Z"
+    schedule_sources_updated_at: null
+  - id: "92c5be9c-8a23-4bf1-88b5-03b737c10842"
+    title: Mickey Stevens Sports Complex
+    address: "975 Sandy Ln, Warwick, RI, 02889, USA"
+    lat: 41.70748
+    lng: -71.415924
+    coords: "0101000000C767B27F9EDA51C07B4963B48EDA4440"
+    phone: "4017382019"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/sIQVhJIUSdW2aZUccRqL"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: warwick
+    city_id: 1840003344
+    slug: mickey-stevens-sports-complex
+    path: /courts/us/rhode-island/warwick/mickey-stevens-sports-complex
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T10:36:00.776Z"
+    updated_at: "2023-01-01T23:05:30.990Z"
+    schedule_sources_updated_at: null
+  - id: f952514a-b939-440e-b399-ba8ddf92a07b
+    title: Monsignor Matthew F. Clarke Catholic Regional School
+    address: "5074 Tower Hill Rd, Wakefield, RI, 02879, USA"
+    lat: 41.442639
+    lng: -71.477958
+    coords: "010100000024B726DD96DE51C092770E65A8B84440"
+    phone: "4017890860"
+    email: null
+    url: "http://www.monsignorclarkeschool.org/"
+    reservation_url: null
+    facility_type: school
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [pro shop, restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/hmbYgDGuRdOLljNFpJzN"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo.php?fbid=582998720494453&set=pb.100063529900911.-2207520000.&type=3"
+        attribution_html: null
+        attribution_name: Monsignor Clarke School
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: wakefield
+    city_id: 1840035722
+    slug: monsignor-matthew-f-clarke-catholic-regional-school
+    path: /courts/us/rhode-island/wakefield/monsignor-matthew-f-clarke-catholic-regional-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T02:54:28.441Z"
+    updated_at: "2023-01-01T23:47:37.317Z"
+    schedule_sources_updated_at: null
+  - id: ec26f44e-5788-4a87-b9df-f78abfcb7529
+    title: MoreJoyPB at Prout HS
+    address: "4640 Tower Hill Rd, Wakefield, RI, 02879, USA"
+    lat: 41.450785
+    lng: -71.468621
+    coords: "0101000000014EEFE2FDDD51C08143A852B3B94440"
+    phone: "4017899262"
+    email: null
+    url: "http://www.theproutschool.org/"
+    reservation_url: null
+    facility_type: school
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Qnvk9ZBQDqUF8JVWbX2s"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: wakefield
+    city_id: 1840035722
+    slug: morejoypb-at-prout-hs
+    path: /courts/us/rhode-island/wakefield/morejoypb-at-prout-hs
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T15:31:35.194Z"
+    updated_at: "2023-01-01T23:41:18.597Z"
+    schedule_sources_updated_at: null
+  - id: "859d102d-2e86-47af-8205-940969dc1cff"
+    title: nathan bishop middle school
+    address: "360 Elmgrove Ave, Providence, RI 02906, USA"
+    lat: 41.840483
+    lng: -71.393458
+    coords: "01010000005F96766A2ED951C007EC6AF294EB4440"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 0
+    total_courts: 0
+    has_pickleball: true
+    surface: []
+    lines: null
+    nets: null
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: providence
+    city_id: 1840003289
+    slug: nathan-bishop-middle-school
+    path: /courts/us/rhode-island/providence/nathan-bishop-middle-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-06-05T09:14:27.922Z"
+    updated_at: "2024-06-05T09:14:27.922Z"
+    schedule_sources_updated_at: null
+  - id: "604969e6-bf21-4bdf-bb02-93b927af97ef"
+    title: Nathan Bishop tennis courts
+    address: "Tennis & Pickleball courts, 360 Elmgrove Ave, Providence, RI 02906, USA"
+    lat: 41.8400247
+    lng: -71.3934577
+    coords: "0101000000007734692ED951C0862AEBED85EB4440"
+    phone: "+14012485681"
+    email: jtcorey@gmail.com
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/dsFpnMISDiiylUzIEnHg"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: providence
+    city_id: 1840003289
+    slug: nathan-bishop-tennis-courts
+    path: /courts/us/rhode-island/providence/nathan-bishop-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-22T07:08:56.797Z"
+    updated_at: "2025-07-21T10:06:20.576Z"
+    schedule_sources_updated_at: "2025-07-21T10:06:19.870Z"
+  - id: "442222ee-ef10-42f2-bb5d-63d0888030de"
+    title: Naval Station Newport Chaffee Fitness Center
+    address: "1109 Taylor Dr, Newport, RI, USA"
+    lat: 41.51292309999999
+    lng: -71.3261401
+    coords: "010100000082DAB97ADFD451C073EED176A7C14440"
+    phone: "4018412512"
+    email: null
+    url: "https://www.navylifenpt.com/programs/cb1a003f-ae95-4785-bd17-6c7a391a9bd2"
+    reservation_url: ""
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [locker rooms, restrooms, water, lighted]
+    description: ""
+    access_details: Free and open to all DoD ID card holders with MWR privileges.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/6hFHpzDFQGORr1zacxJP"
+      - url: "https://cdn.filestackcontent.com/LvkHZKSJQpCaZJ8vEiKb"
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: newport
+    city_id: 1840003355
+    slug: naval-station-newport-chaffee-fitness-center
+    path: /courts/us/rhode-island/newport/naval-station-newport-chaffee-fitness-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-06-09T08:07:39.995Z"
+    updated_at: "2025-06-10T08:04:27.947Z"
+    schedule_sources_updated_at: "2025-06-09T08:22:53.547Z"
+  - id: "7a2fac0d-4008-429f-b906-189db025c77b"
+    title: Newport Pickleball Club
+    address: "866 West Main Road, Middletown, Rhode Island 02842, USA"
+    lat: 41.528555
+    lng: -71.3009512
+    coords: "0101000000496CD2C842D351C09291B3B0A7C34440"
+    phone: "+14013245672"
+    email: info@newportpickleball.com
+    url: "https://www.newportpickleball.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 11
+    outdoor_courts: 0
+    total_courts: 11
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [food, lighted, restrooms, water, training, youth, pro shop, adaptive, wheelchair accessible]
+    description: "Rhode Islands best indoor courts! Air conditioned facility with an amazing full restaurant and bar.  Offering court rentals, open play, top rated coaching lessons, and a great Pickleball atmosphere!  Come check us out we are open all week long!"
+    access_details: "Individual Membership - $70/month, Couples Membership - $130/month, Family Membership - 170/month, Junior Membership - $40/month, For Seniors, Teachers, First Responders & Veterans - $56/month, Non-member - $15"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/9dq01YLKTw6eKuyugv2C"
+        source: user
+        attribution_url: "https://www.bostonglobe.com/2024/12/18/metro/newport-pickleball-club-opening-rhode-island-december-2024/"
+        attribution_html: null
+        attribution_name: The Boston Globe
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: middletown
+    city_id: 1840066121
+    slug: newport-pickleball-club
+    path: /courts/us/rhode-island/middletown/newport-pickleball-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-05-01T05:49:18.361Z"
+    updated_at: "2025-11-17T06:44:46.178Z"
+    schedule_sources_updated_at: null
+  - id: dd5c5e5f-d383-4575-9eef-0b184a3a3f70
+    title: Ninigret Park
+    address: "5 Park Ln, Charlestown, RI 02813, United States"
+    lat: 41.3674191
+    lng: -71.6613862
+    coords: "0101000000A5C1C82654EA51C07F36CD9607AF4440"
+    phone: "4013641222"
+    email: null
+    url: "http://www.charlestownri.org/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 12
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: Free
+    schedule_details: "Typically players will rotate in during “open play” all year round, 9-11am, with earlier play during summer months."
+    images:
+      - url: "https://cdn.filestackcontent.com/YQ0l6Y8WSgyVmlXPxpN9"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/boBLIfesRlyA08oPYqMK"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Chris Turner
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: charlestown
+    city_id: 1840066130
+    slug: ninigret-park
+    path: /courts/us/rhode-island/charlestown/ninigret-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-26T06:30:21.261Z"
+    updated_at: "2025-11-18T05:51:31.909Z"
+    schedule_sources_updated_at: null
+  - id: "115de314-2449-4967-811e-30b3088bee63"
+    title: North smithfield
+    address: "46 Grange Rd, North Smithfield, RI 02896, USA"
+    lat: 41.9542854
+    lng: -71.54297439999999
+    coords: "01010000002CA4B217C0E251C07006240626FA4440"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/cKomHL0XT6GCh8iTjJRq"
+        source: user
+        visible: true
+        attribution_url: "https://bloximages.newyork1.vip.townnews.com/valleybreeze.com/content/tncms/assets/v3/editorial/a/ff/aff43e14-0374-5204-b247-583f2555a8bc/612e8a3fb704a.image.jpg"
+        attribution_html: null
+        attribution_name: The Valley Breeze
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: north-smithfield
+    city_id: 1840106199
+    slug: north-smithfield
+    path: /courts/us/rhode-island/north-smithfield/north-smithfield
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-06-26T10:07:32.102Z"
+    updated_at: "2023-06-26T10:09:02.506Z"
+    schedule_sources_updated_at: null
+  - id: f70ae087-1e1b-4115-8df9-1cde1eb2265a
+    title: Ocean Community YMCA
+    address: "95 High St, Westerly, RI, 02891, USA"
+    lat: 41.379912
+    lng: -71.827179
+    coords: "0101000000083C3080F0F451C0D1ADD7F4A0B04440"
+    phone: ""
+    email: null
+    url: "http://oceancommunityymca.org/locations/westerly-pawcatuck-branch/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, wheelchair accessible, locker rooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/4iioL97jTJiF6wWHWO8M"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/100675072284138379641"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/100675072284138379641\">Kevin Emery</a>"
+        attribution_name: Kevin Emery
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: westerly
+    city_id: 1840026106
+    slug: ocean-community-ymca
+    path: /courts/us/rhode-island/westerly/ocean-community-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-10T04:26:34.852Z"
+    updated_at: "2025-11-25T05:01:26.128Z"
+    schedule_sources_updated_at: null
+  - id: "2f0d60a7-4236-4414-8332-0186a3b8084c"
+    title: Ocean State Pickleball Club
+    address: "360 S Pier Rd, Narragansett, RI, USA"
+    lat: 41.428961
+    lng: -71.479182
+    coords: "01010000003DB5FAEAAADE51C03621AD31E8B64440"
+    phone: "+14017863329"
+    email: oceanstatepickleballclub@gmail.com
+    url: "https://oceanstatepickleball.com/"
+    reservation_url: "https://oceanstatepickleball.com/reserve-a-court/"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 8
+    outdoor_courts: 0
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, pro shop, training, lighted, food, wheelchair accessible, youth]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/6fg8DCRyRWaW9AdANAtA"
+        source: user
+        attribution_url: "https://www.facebook.com/photo?fbid=717432013759012&set=a.380227757479441"
+        attribution_html: null
+        attribution_name: Ocean State Pickleball Club
+      - url: "https://cdn.filestackcontent.com/xkla7jvTSq2v2ubuEyOx"
+        source: user
+        attribution_url: "https://www.facebook.com/photo/?fbid=756416243193922&set=a.380227757479441"
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/TkYccvkJStuSiHh9xfNU"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/AnchorSportsRI/photos/pb.100076447534521.-2207520000/121226023744272/?type=3"
+        attribution_html: null
+        attribution_name: Anchor Sports ( Old Building)
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: narragansett
+    city_id: 1840106247
+    slug: ocean-state-pickleball-club
+    path: /courts/us/rhode-island/narragansett/ocean-state-pickleball-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-06-22T04:52:16.118Z"
+    updated_at: "2024-07-29T09:23:48.979Z"
+    schedule_sources_updated_at: null
+  - id: "1dd0ae0b-c752-4616-8bc0-8387486d6165"
+    title: Old Mountain Field
+    address: "831 Kingstown Rd, Wakefield, RI, 02879, USA"
+    lat: 41.446644
+    lng: -71.488649
+    coords: "0101000000478E740646DF51C0317A6EA12BB94440"
+    phone: "4017899301"
+    email: reberly@southkingstownri.com
+    url: "https://www.southkingstownri.com/208/Parks-Recreation"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 11
+    total_courts: 11
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: Call 401-789-9301 for court rental schedule and rental fee information.
+    schedule_details: "Open rotational play is free, typically from 9am-12pm each day."
+    images:
+      - url: "https://cdn.filestackcontent.com/IffKVVoKSHmpH6NBxYdL"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: south-kingstown
+    city_id: 1840106244
+    slug: old-mountain-field
+    path: /courts/us/rhode-island/south-kingstown/old-mountain-field
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T14:33:42.269Z"
+    updated_at: "2025-07-25T03:16:19.300Z"
+    schedule_sources_updated_at: null
+  - id: "579f8d8f-00d8-4ee8-a474-6e7a2f478bdd"
+    title: Pickleball Citi
+    address: "60 Walnut Grove Avenue, Cranston, RI, USA"
+    lat: 41.7891278
+    lng: -71.4747972
+    coords: "0101000000DF8ECB1363DE51C0A6AEC62302E54440"
+    phone: "+14019999065"
+    email: info@pickleballciti.com
+    url: "https://pickleballciti.com/"
+    reservation_url: "https://widgets.courtreserve.com/Online/Public/EmbedCode/11577/28528"
+    facility_type: null
+    access: needs-audit
+    has_reservations: true
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, training, pro shop]
+    description: "SportMaster Pickleball court surfacing system. The specialized texture is ideal for non-slip pickleball play, but not too aggressive for extending the life of pickleballs. You're playing on an 9utdoor surface inside."
+    access_details: "$15.00 2 hour open plays 7 days a week  Private court rental available $60 per hour, Bronze Membership (free) $15.00 open plays, Silver Membership $39.99($10 open plays, 5% off all services) Gold Membership $59.99 ($7.50 Open Play, 10% off all services, After hours access up to 6 players - 1 court) Seasonal Platinum $79.99 no cost open plays, $10 off all services)"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/m89AVu6oReSO3G739dMd"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/80vmevCRCCwy6NCoyj6Q"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/Hz7rYOWgTx63Shk2ZquT"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/UpNtBr9MQfuPrCfPNLKi"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/a0pS2zBGSue5PsmxMnli"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/9fScAy37SMNdHRriffnk"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/YUeotAxrTYWaLlLwfvlm"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/QhTJ6H1dSFqdIOgadwn5"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/26PlawzTRik0jzQctj5w"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/MpdeCGgMRZej2KtIaqhP"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/VXylmrSSIuUZFowtIYz8"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: cranston
+    city_id: 1840003287
+    slug: pickleball-citi
+    path: /courts/us/rhode-island/cranston/pickleball-citi
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-03-29T01:05:25.448Z"
+    updated_at: "2024-09-24T10:57:29.926Z"
+    schedule_sources_updated_at: null
+  - id: "2c9e1dba-be61-423a-bcdb-e9f606098e5d"
+    title: Quonochontaug Tennis Club
+    address: "15 Highland Road, Charlestown, RI 02813, USA"
+    lat: 41.3414629
+    lng: -71.7007598
+    coords: "01010000007FD6A13FD9EC51C00F266A0EB5AB4440"
+    phone: "+14018625678"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/7vPNDGE6QXGnijCLtDUu"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: charlestown
+    city_id: 1840066130
+    slug: quonochontaug-tennis-club
+    path: /courts/us/rhode-island/charlestown/quonochontaug-tennis-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-12-09T05:03:03.551Z"
+    updated_at: "2025-12-09T05:03:03.551Z"
+    schedule_sources_updated_at: null
+  - id: "8ddc2383-9c71-4c70-8ec2-2fc93d6db99f"
+    title: Rotary Park
+    address: "90 Airport Rd, Westerly, RI, 02891, USA"
+    lat: 41.345777
+    lng: -71.813382
+    coords: "0101000000ED4960730EF451C0C05AB56B42AC4440"
+    phone: "+12035982253"
+    email: iontheball1@gmail.com
+    url: ""
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/4kMUa1MS9Wd0Tm91vAZw"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: westerly
+    city_id: 1840026106
+    slug: rotary-park
+    path: /courts/us/rhode-island/westerly/rotary-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-10T03:26:03.541Z"
+    updated_at: "2024-07-15T10:05:40.945Z"
+    schedule_sources_updated_at: "2024-07-15T10:05:40.254Z"
+  - id: "318e4f45-4e04-4136-813b-83e9cf178436"
+    title: Seaside Beach Club
+    address: "651 Atlantic Ave, Westerly, RI, 02891, USA"
+    lat: 41.329318
+    lng: -71.764827
+    coords: "01010000004206F2ECF2F051C0F8FD9B1727AA4440"
+    phone: "4013220201"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/HeWESEYAROKZrKQQZDlh"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: westerly
+    city_id: 1840026106
+    slug: seaside-beach-club
+    path: /courts/us/rhode-island/westerly/seaside-beach-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T00:56:44.312Z"
+    updated_at: "2023-01-01T22:08:00.721Z"
+    schedule_sources_updated_at: null
+  - id: e0cbab94-7c6c-42c3-9417-2fc89500defd
+    title: Slater Park
+    address: "825 Armistice Blvd, Pawtucket, RI, USA"
+    lat: 41.8716406
+    lng: -71.34356009999999
+    coords: "0101000000786D80E3FCD551C0D36E4FEB91EF4440"
+    phone: null
+    email: null
+    url: "https://pawtucketri.recdesk.com/Community/Facility/Detail?facilityId=116"
+    reservation_url: "https://pawtucketri.recdesk.com/Community/Facility/Detail?facilityId=116"
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/N9cFhfhdTbiz8YzBBzWD"
+        source: user
+        attribution_url: "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/366996693_1043769073515418_8622176173460885534_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=2pQhcORDhxkQ7kNvgGZ_tZ-&_nc_ht=scontent-lax3-1.xx&oh=00_AYDv0to4DgjRiH8ITUhLVs8PPmVjwAofQbI-7MM4vYmblg&oe=66E732DA"
+        attribution_html: null
+        attribution_name: Slater Park Tennis
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: pawtucket
+    city_id: 1840003285
+    slug: slater-park
+    path: /courts/us/rhode-island/pawtucket/slater-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-09-11T10:29:32.749Z"
+    updated_at: "2025-09-23T06:55:01.623Z"
+    schedule_sources_updated_at: null
+  - id: "144040ed-214f-41ce-9b10-88c80d85d610"
+    title: South Kingstown Recreation Center
+    address: "30 St Dominic Rd, Wakefield, RI, 02879, USA"
+    lat: 41.452958
+    lng: -71.485121
+    coords: "01010000009566F3380CDF51C0153B1A87FAB94440"
+    phone: "+14012841975"
+    email: sgruenberg@southkingstownri.com
+    url: "https://www.southkingstownri.com/208/Parks-Recreation"
+    reservation_url: null
+    facility_type: school
+    access: one-time
+    has_reservations: true
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: tape
+    nets: portable
+    amenities: [restrooms, water, lighted, locker rooms, training]
+    description: "Check our bi monthly schedule for drop in and court rentals schedule here https://www.southkingstownri.com/DocumentCenter/View/6550/Weekly-Schedule.\n\nDrop in fees are $3/visit for South Kingstown residents and $6/visit for non residents.\n\nFor info on lessons and leagues, stop by the Recreation Center or call 401-284-1975."
+    access_details: Drop in fees are $3/visit for South Kingstown residents and $6/visit for non residents.
+    schedule_details: "https://www.southkingstownri.com/DocumentCenter/View/6550/Weekly-Schedule"
+    images:
+      - url: "https://cdn.filestackcontent.com/mQYoailHRgOQxTzIHMAg"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/108256869979310263659"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/108256869979310263659\">Matt F</a>"
+        attribution_name: Matt F
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: wakefield
+    city_id: 1840035722
+    slug: south-kingstown-recreation-center
+    path: /courts/us/rhode-island/wakefield/south-kingstown-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T04:17:34.936Z"
+    updated_at: "2023-04-05T05:29:10.690Z"
+    schedule_sources_updated_at: null
+  - id: "021954c3-c9ae-4270-bbc1-fdf73f839ebc"
+    title: Tennis Rhode Island - West Bay Club
+    address: "636 Centerville Rd, Warwick, RI 02886, USA"
+    lat: 41.6964742
+    lng: -71.482716
+    coords: "01010000006150A6D1E4DE51C0FEC00B1126D94440"
+    phone: "+14018284450"
+    email: Tennisriwb@gmail.com
+    url: "https://web.facebook.com/TRIWestBay/?_rdc=1&_rdr"
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: null
+    nets: null
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/zsHX1vASJirARSulVXkt"
+        source: user
+        visible: true
+        attribution_url: "https://web.facebook.com/photo/?fbid=787433590049889&set=a.787433550049893"
+        attribution_html: null
+        attribution_name: "Tennis Rhode Island, West Bay"
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: warwick
+    city_id: 1840003344
+    slug: tennis-rhode-island-west-bay-club
+    path: /courts/us/rhode-island/warwick/tennis-rhode-island-west-bay-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-09-08T23:52:49.529Z"
+    updated_at: "2023-09-09T00:03:50.879Z"
+    schedule_sources_updated_at: null
+  - id: "752a3d0c-2d80-464d-9ddc-6f227107c76d"
+    title: Tiverton Pickle Ballers
+    address: "3154-3588 RI-77, Tiverton, RI 02878, USA"
+    lat: 41.583627
+    lng: -71.192726
+    coords: "0101000000B0C56E9F55CC51C003081F4AB4CA4440"
+    phone: null
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: Construction not completed yet 1/1/25.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/EdpO4fw9QpuOSAN3pVyn"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/groups/672637936569938"
+        attribution_html: null
+        attribution_name: Tiverton Pickle Ballers on FB
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: tiverton
+    city_id: 1840066125
+    slug: tiverton-pickle-ballers
+    path: /courts/us/rhode-island/tiverton/tiverton-pickle-ballers
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-01T05:43:35.051Z"
+    updated_at: "2025-01-02T08:52:27.337Z"
+    schedule_sources_updated_at: null
+  - id: b4dfca0b-e363-4c0f-82fb-8718089536a6
+    title: Vernon Park
+    address: "41 Freeborn St, Newport, RI 02840, United States"
+    lat: 41.5032968
+    lng: -71.3003576
+    coords: "0101000000B946150F39D351C03A1790076CC04440"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: "4 permanent tennis courts with permanent pickle ball lines painted as well."
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/gY1J80O4R9GmZWp0k62W"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/111651088311649184623"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/111651088311649184623\">Chip Leakas</a>"
+        attribution_name: Chip Leakas
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: newport
+    city_id: 1840003355
+    slug: vernon-park
+    path: /courts/us/rhode-island/newport/vernon-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-10-21T10:49:54.564Z"
+    updated_at: "2024-10-21T11:39:43.190Z"
+    schedule_sources_updated_at: "2024-10-21T11:39:42.483Z"
+  - id: "08b1c6c9-c93e-446e-8cda-3f7bc67d6754"
+    title: West Kingston Park
+    address: "3840 Kingstown Rd, West Kingston, RI 02892, USA"
+    lat: 41.4883274
+    lng: -71.5686862
+    coords: "0101000000F0ABCD5A65E451C0D05E228381BE4440"
+    phone: "4017821170"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: school
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/mc6Q0W5UTXK2cIzPZnow"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/0cBjyBKLTyCae8IjGwsD"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/532AkoPRHy6xmtQZPzuM"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/101486550268927993284"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101486550268927993284\">Aida Krisna</a>"
+        attribution_name: Aida Krisna
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: west-kingston
+    city_id: 1840035711
+    slug: west-kingston-park
+    path: /courts/us/rhode-island/west-kingston/west-kingston-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-07-25T04:46:09.293Z"
+    updated_at: "2024-03-22T09:19:34.412Z"
+    schedule_sources_updated_at: null
+  - id: d67fce3e-f590-4705-b641-1cab45e6b33d
+    title: Westerly Downtown
+    address: "61 Main Street, Westerly, RI, USA"
+    lat: 41.3760598
+    lng: -71.8319136
+    coords: "01010000003F468A123EF551C08F2B3FBA22B04440"
+    phone: "+14013884296"
+    email: null
+    url: "https://www.westerlyri.gov/rec"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt, hard, concrete]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/RfJxHLBMR2CJnpOp5RMR"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: westerly
+    city_id: 1840026106
+    slug: westerly-downtown
+    path: /courts/us/rhode-island/westerly/westerly-downtown
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-07-09T08:59:11.912Z"
+    updated_at: "2025-07-09T09:10:26.429Z"
+    schedule_sources_updated_at: null
+  - id: "9ed2d346-4b09-42cf-b623-3e22ec51229b"
+    title: Wicklund Park
+    address: "341 Carolina Back Rd, Charlestown, RI, 02813, USA"
+    lat: 41.447453
+    lng: -71.655008
+    coords: "010100000093A7ACA6EBE951C0A1BFD02346B94440"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/3m727WLIRfalXTCQh7x3"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: charlestown
+    city_id: 1840066130
+    slug: wicklund-park
+    path: /courts/us/rhode-island/charlestown/wicklund-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-26T07:20:05.193Z"
+    updated_at: "2023-01-01T23:07:36.502Z"
+    schedule_sources_updated_at: null
+  - id: "443abbd3-ebc0-4d6d-8627-1a92fc36bb82"
+    title: William Brousseau Park
+    address: "208 Succotash Rd, Wakefield, RI, 02879, USA"
+    lat: 41.398076
+    lng: -71.529479
+    coords: "0101000000CD3AE3FBE2E151C048A98427F4B24440"
+    phone: "4017899301"
+    email: null
+    url: "http://www.southkingstownri.com/Facilities/Facility/Details/Brousseau-Park-2"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/04gJHvAsTle0T4jAVdg8"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: wakefield
+    city_id: 1840035722
+    slug: william-brousseau-park
+    path: /courts/us/rhode-island/wakefield/william-brousseau-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-06T02:51:53.650Z"
+    updated_at: "2023-01-01T22:16:46.833Z"
+    schedule_sources_updated_at: null
+  - id: "5df212e5-9a9b-4b0f-b8cc-5304fae3f744"
+    title: Willow Field Pickleball Courts
+    address: "Willow Road, Greenville, RI, USA"
+    lat: 41.8746227
+    lng: -71.5414942
+    coords: "010100000051FE49D7A7E251C06C6BFAA2F3EF4440"
+    phone: null
+    email: Smithfieldripickleball@gmail.com
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: No fees
+    schedule_details: Open play times are posted on Team Reach.
+    images:
+      - url: "https://cdn.filestackcontent.com/lsmHlaeDSiSHcgJY7dXj"
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: smithfield
+    city_id: 1840106200
+    slug: willow-field-pickleball-courts
+    path: /courts/us/rhode-island/smithfield/willow-field-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-04-09T07:14:20.013Z"
+    updated_at: "2026-06-18T08:28:20.140Z"
+    schedule_sources_updated_at: null
+  - id: f998b282-378b-42aa-a132-bd907df51567
+    title: Wilson Park
+    address: "Roosevelt Ave, North Kingstown, RI 02852, USA"
+    lat: 41.5748164
+    lng: -71.4577
+    coords: "010100000045D8F0F44ADD51C02C9A739593C94440"
+    phone: "4013727117"
+    email: null
+    url: "https://nkrec.recdesk.com/Community/Program/Detail?programId=780"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/fDG6ZEC8RDaYGbfmo1mw"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: north-kingstown
+    city_id: 1840066135
+    slug: wilson-park
+    path: /courts/us/rhode-island/north-kingstown/wilson-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T08:25:12.315Z"
+    updated_at: "2024-07-18T10:07:52.734Z"
+    schedule_sources_updated_at: null
+  - id: aad3d9cf-f492-4746-8835-67de65fa427e
+    title: Wilson Park North kingstown RI
+    address: "Brown Street, North Kingstown, RI, USA"
+    lat: 41.5700572
+    lng: -71.4525546
+    coords: "0101000000E1A991A7F6DC51C0B76C63A2F7C84440"
+    phone: "+14015290985"
+    email: zinger1212@verizon.net
+    url: "https://www.chicagoparkdistrict.com/parks-facilities/wilson-park-pickleball-courts"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/OGLUmoYyRAbr5GsunPUC"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Michelle Klein
+    country_slug: us
+    state_slug: rhode-island
+    city_slug: north-kingstown
+    city_id: 1840066135
+    slug: wilson-park-north-kingstown-ri
+    path: /courts/us/rhode-island/north-kingstown/wilson-park-north-kingstown-ri
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-29T09:28:19.412Z"
+    updated_at: "2024-08-09T08:57:00.901Z"
+    schedule_sources_updated_at: null

@@ -1,0 +1,55 @@
+total_courts: 16311
+states: 51
+scraped_at: "2026-06-30T05:22:32.424Z"
+by_state:
+  alabama: 246
+  alaska: 51
+  arizona: 311
+  arkansas: 118
+  california: 1197
+  colorado: 376
+  connecticut: 210
+  delaware: 53
+  district-of-columbia: 29
+  florida: 1059
+  georgia: 469
+  hawaii: 141
+  idaho: 160
+  illinois: 710
+  indiana: 369
+  iowa: 267
+  kansas: 191
+  kentucky: 194
+  louisiana: 160
+  maine: 141
+  maryland: 369
+  massachusetts: 394
+  michigan: 568
+  minnesota: 423
+  mississippi: 104
+  missouri: 371
+  montana: 73
+  nebraska: 138
+  nevada: 118
+  new-hampshire: 99
+  new-jersey: 400
+  new-mexico: 118
+  new-york: 761
+  north-carolina: 587
+  north-dakota: 55
+  ohio: 678
+  oklahoma: 168
+  oregon: 253
+  pennsylvania: 579
+  rhode-island: 59
+  south-carolina: 255
+  south-dakota: 55
+  tennessee: 317
+  texas: 996
+  utah: 271
+  vermont: 85
+  virginia: 461
+  washington: 468
+  west-virginia: 87
+  wisconsin: 499
+  wyoming: 50

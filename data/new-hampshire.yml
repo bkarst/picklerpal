@@ -1,0 +1,4238 @@
+state: New Hampshire
+state_slug: new-hampshire
+country: us
+court_count: 99
+scraped_at: "2026-06-30T05:22:32.424Z"
+source: pickleheads.com misc.search API
+courts:
+  - id: "4726dcdc-cd89-4e25-b195-6e8a974a4108"
+    title: Adams Playground
+    address: "71 Union St, Peterborough, NH, 03458, USA"
+    lat: 42.884073
+    lng: -71.961315
+    coords: "0101000000DF89592F86FD51C06823D74D29714540"
+    phone: "6039248080"
+    email: null
+    url: "http://www.peterboroughrec.com/"
+    reservation_url: null
+    facility_type: public
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/bLNhfqJSimtU4MH8EtSt"
+        source: user
+        attribution_url: "https://www.ledgertranscript.com/Pickleball-at-Adams-Playground-55666743"
+        attribution_html: null
+        attribution_name: BILL FONDA
+      - url: "https://cdn.filestackcontent.com/TBNkMwtYSieSLVB9IBWN"
+        source: user
+        attribution_url: "https://www.ledgertranscript.com/Pickleball-at-Adams-Playground-55666743"
+        attribution_html: null
+        attribution_name: BILL FONDA
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: peterborough
+    city_id: 1840055383
+    slug: adams-playground
+    path: /courts/us/new-hampshire/peterborough/adams-playground
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-21T04:29:20.420Z"
+    updated_at: "2025-05-26T06:56:43.732Z"
+    schedule_sources_updated_at: null
+  - id: "8c7a471d-1cdd-4314-8041-1e871838e554"
+    title: Alexander Carr Park
+    address: "28 Pierce Ave, Derry, NH, 03038, USA"
+    lat: 42.877157
+    lng: -71.313654
+    coords: "01010000009D103AE812D451C08E3A3AAE46704540"
+    phone: "6034326100"
+    email: null
+    url: "https://www.derrynh.org/parks-recreation/pages/alexander-carr-park"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/G0Ti10vXSJmw0E7yVpXC"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/116948220695719519454"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/116948220695719519454\">Jerry P</a>"
+        attribution_name: Jerry P
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: derry
+    city_id: 1840054793
+    slug: alexander-carr-park
+    path: /courts/us/new-hampshire/derry/alexander-carr-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T09:33:43.752Z"
+    updated_at: "2022-12-19T23:34:35.339Z"
+    schedule_sources_updated_at: null
+  - id: "961d6ce3-704d-4d7b-98c0-1b4f9edcb56f"
+    title: Apple Therapy and Wellness
+    address: "29 Kosciuszko St, Manchester, NH, 03101, USA"
+    lat: 42.994305
+    lng: -71.461582
+    coords: "0101000000079B3A8F8ADD51C0E89FE062457F4540"
+    phone: "6036681106"
+    email: null
+    url: "http://www.appletherapy.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/NC9o3hNUSqm1q24fQbjj"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/ATWellness/photos/pb.100069136581971.-2207520000./2084764761540644/?type=3"
+        attribution_html: null
+        attribution_name: Apple Therapy & Wellness
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: manchester
+    city_id: 1840002983
+    slug: apple-therapy-and-wellness
+    path: /courts/us/new-hampshire/manchester/apple-therapy-and-wellness
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-05T10:42:42.594Z"
+    updated_at: "2022-12-20T02:21:06.815Z"
+    schedule_sources_updated_at: null
+  - id: "7a9dd5cc-bbe3-476d-a8c6-7417df9cc251"
+    title: Baker Athletic Field
+    address: "1595 Quincy Rd, Rumney, NH, 03266, USA"
+    lat: 43.78373
+    lng: -71.762775
+    coords: "010100000036CD3B4ED1F051C07172BF4351E44540"
+    phone: "6035362629"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: null
+    outdoor_courts: null
+    total_courts: 0
+    has_pickleball: true
+    surface: []
+    lines: temporary
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images: []
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: rumney
+    city_id: 1840055500
+    slug: baker-athletic-field
+    path: /courts/us/new-hampshire/rumney/baker-athletic-field
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T01:39:22.306Z"
+    updated_at: "2022-12-19T23:15:13.811Z"
+    schedule_sources_updated_at: null
+  - id: f5584e42-ba28-457c-81b9-f9ac56456853
+    title: Barnard Park
+    address: "Barnard Ln, Goffstown, NH, 03045, USA"
+    lat: 43.014622
+    lng: -71.589287
+    coords: "01010000004F3DD2E0B6E551C0ACE63922DF814540"
+    phone: "6034978990"
+    email: null
+    url: "http://www.goffstown.com/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Vn81jNv0SLWrtO2vmHAc"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: goffstown
+    city_id: 1840054900
+    slug: barnard-park
+    path: /courts/us/new-hampshire/goffstown/barnard-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-23T11:11:31.034Z"
+    updated_at: "2025-03-28T06:44:26.993Z"
+    schedule_sources_updated_at: null
+  - id: "232fd259-1e7b-4c5c-8c49-cfc3f34badf7"
+    title: Beaver Meadow School
+    address: "34 Sewalls Falls Rd, Concord, NH 03301, USA"
+    lat: 43.25276042887472
+    lng: -71.57075053002472
+    coords: "010100000060283B2D87E451C0B4DE27745AA04540"
+    phone: "6037481619"
+    email: null
+    url: "http://www.sau8.org/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: Portable nets in lock box with balls.   Usually there is a portapotty
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/4oTAvdP5SKyc3BIDdZOP"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: concord
+    city_id: 1840002747
+    slug: beaver-meadow-school
+    path: /courts/us/new-hampshire/concord/beaver-meadow-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T18:06:21.813Z"
+    updated_at: "2022-12-19T12:44:37.251Z"
+    schedule_sources_updated_at: null
+  - id: b821d834-85bd-42f5-82ed-556eaf556068
+    title: Betsy's Park
+    address: "Holderness, NH 03245, United States"
+    lat: 43.7494662
+    lng: -71.59967329999999
+    coords: "010100000033F21E0C61E651C08C3A2982EEDF4540"
+    phone: null
+    email: betsysparknh@gmail.com
+    url: "https://www.betsysparknh.org/betsys-park"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/KUShvHEpRbeum12tKrqY"
+        source: user
+        attribution_url: "https://www.betsysparknh.org/betsys-park"
+        attribution_html: null
+        attribution_name: Betsy's Park
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: holderness
+    city_id: 1840055012
+    slug: betsys-park
+    path: /courts/us/new-hampshire/holderness/betsys-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-11-21T07:37:14.048Z"
+    updated_at: "2025-11-21T07:41:05.955Z"
+    schedule_sources_updated_at: null
+  - id: a6d904ee-f1e5-4722-b0a8-347208a52f02
+    title: BSRC Wellness and Rec Center
+    address: "955 Bridge St, Pelham, NH 03076, United States"
+    lat: 42.7464872
+    lng: -71.28256189999999
+    coords: "01010000001EE6817E15D251C0F9707FE48C5F4540"
+    phone: "+16038981675"
+    email: null
+    url: "https://bsrcwellnessandreccenter.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: Sign-Up Genius required
+    images:
+      - url: "https://cdn.filestackcontent.com/LkoNYwkIRgaodw2oOynS"
+        source: user
+        attribution_url: "https://pelhampathways.com/pelham-pickleball/"
+        attribution_html: null
+        attribution_name: Pelham Pathways
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: pelham
+    city_id: 1840055379
+    slug: bsrc-wellness-and-rec-center
+    path: /courts/us/new-hampshire/pelham/bsrc-wellness-and-rec-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-06-25T10:58:00.752Z"
+    updated_at: "2026-06-25T10:58:00.752Z"
+    schedule_sources_updated_at: null
+  - id: "165e7174-d1ab-4956-add2-b089ab6776d9"
+    title: Camp Spofford
+    address: "24 State Rte 9A, Spofford, NH, 03462, USA"
+    lat: 42.900153
+    lng: -72.455067
+    coords: "0101000000499F56D11F1D52C0BA32A83638734540"
+    phone: "6033634440"
+    email: null
+    url: "http://www.campspofford.org/"
+    reservation_url: null
+    facility_type: private
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/UIklqth8QWmhQBIycr1d"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: spofford
+    city_id: 1840079938
+    slug: camp-spofford
+    path: /courts/us/new-hampshire/spofford/camp-spofford
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T05:18:43.784Z"
+    updated_at: "2022-12-19T12:04:41.883Z"
+    schedule_sources_updated_at: null
+  - id: "6c97cf52-3450-4e11-8c68-8d226eb9b12d"
+    title: CCBA Witherell Recreation Center
+    address: "1 Taylor St, Lebanon, NH, 03766, USA"
+    lat: 43.645595
+    lng: -72.251208
+    coords: "0101000000971FB8CA131052C006BB61DBA2D24540"
+    phone: "6034486477"
+    email: info@joinccba.org
+    url: "https://joinccba.org/"
+    reservation_url: null
+    facility_type: public
+    access: needs-audit
+    has_reservations: true
+    indoor_courts: 4
+    outdoor_courts: 4
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard, wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted, locker rooms]
+    description: Membership is not required to play. Guests can purchase a day-pass at the welcome desk and participate in Pickleball.
+    access_details: Guest passes are also available.
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/JqF2L9PPSvyYXFlZ7oGN"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/100346495203302515259"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/100346495203302515259\">Wil Michael</a>"
+        attribution_name: Wil Michael
+      - url: "https://cdn.filestackcontent.com/mvPGNQHJTU26cD5SZC4W"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: lebanon
+    city_id: 1840002192
+    slug: ccba-witherell-recreation-center
+    path: /courts/us/new-hampshire/lebanon/ccba-witherell-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T04:11:28.727Z"
+    updated_at: "2025-01-31T06:09:51.471Z"
+    schedule_sources_updated_at: null
+  - id: "6a7c8f53-e368-40db-9548-55a8b9f4c72e"
+    title: Center Harbor Tennis Courts
+    address: "670 Dane Road, Center Harbor, NH, USA"
+    lat: 43.7000923
+    lng: -71.5159051
+    coords: "0101000000BC15D39604E151C03957DE9F9CD94540"
+    phone: "+16034551632"
+    email: null
+    url: "https://www.centerharbornh.gov/parks-recreation/pages/tennis-courts-pickleball-courts"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/fqR6LjQ9SUkatKUHTZKA"
+        source: user
+        visible: true
+        attribution_url: "https://www.centerharbornh.gov/discover-center-harbor/slideshows/image-gallery"
+        attribution_html: null
+        attribution_name: Center Harnor NH Gov
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: center-harbor
+    city_id: 1840054710
+    slug: center-harbor-tennis-courts
+    path: /courts/us/new-hampshire/center-harbor/center-harbor-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-24T17:47:42.441Z"
+    updated_at: "2023-08-26T07:04:34.472Z"
+    schedule_sources_updated_at: null
+  - id: "5021b0c5-4d7a-4ab3-95e5-0e6005d4679e"
+    title: Claremont Community Center
+    address: "152 South St, Claremont, NH 03743, USA"
+    lat: 43.3647748
+    lng: -72.3350904
+    coords: "0101000000074D011F721552C0D533CEF0B0AE4540"
+    phone: "6035427019"
+    email: parksandrecinfo@claremontnh.com
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/KXb6sXMnQZCFvyYIVaSW"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Raymond Gagnon
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: claremont
+    city_id: 1840002805
+    slug: claremont-community-center
+    path: /courts/us/new-hampshire/claremont/claremont-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T02:17:52.304Z"
+    updated_at: "2025-05-20T09:08:28.018Z"
+    schedule_sources_updated_at: null
+  - id: "69e76f94-8e5b-46ae-b5e1-765aed7a3eb7"
+    title: Club Piklbal!
+    address: "96 Daniel Webster Hwy, Belmont, NH, USA"
+    lat: 43.5150751
+    lng: -71.4920147
+    coords: "0101000000AE69392B7DDF51C0F1BD1AFBEDC14540"
+    phone: "+16037076164"
+    email: play@clubpiklbal.com
+    url: "https://www.clubpiklbal.com/"
+    reservation_url: "https://app.courtreserve.com/Online/Reservations/Bookings/12242?sId=17962"
+    facility_type: null
+    access: needs-audit
+    has_reservations: true
+    indoor_courts: 8
+    outdoor_courts: 0
+    total_courts: 8
+    has_pickleball: true
+    surface: [acrylic, hard]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, pro shop, water, locker rooms, restrooms, training, adaptive, youth]
+    description: ""
+    access_details: Can play as a member or non-member
+    schedule_details: "https://app.courtreserve.com/Online/Calendar/Events/12242/Month"
+    images:
+      - url: "https://cdn.filestackcontent.com/Q5mYEs76SuKVJQQfGxti"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/Wo3lWvNQIKYM3HIIJnMg"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/QuTFr27SEWIzoykAN5Co"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/uy1suRRQ1SI54wFfnVyU"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: belmont
+    city_id: 1840054639
+    slug: club-piklbal
+    path: /courts/us/new-hampshire/belmont/club-piklbal
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-05-02T08:55:22.079Z"
+    updated_at: "2026-03-26T10:07:56.493Z"
+    schedule_sources_updated_at: null
+  - id: "3d67661a-0a0e-4dde-aab3-b977ef93f26e"
+    title: Clyde Goldthwaite Recreational Facility
+    address: "Diamond Drive, Danville, NH, USA"
+    lat: 42.9324714
+    lng: -71.1110289
+    coords: "01010000004B9AF5181BC751C048BA0B395B774540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/hiHAW70HQ92RLxVuRgNE"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/106508790464640225504"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/106508790464640225504\">Rag Arnold</a>"
+        attribution_name: Rag Arnold
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: danville
+    city_id: 1840054771
+    slug: clyde-goldthwaite-recreational-facility
+    path: /courts/us/new-hampshire/danville/clyde-goldthwaite-recreational-facility
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-07T02:51:16.036Z"
+    updated_at: "2024-08-07T03:31:16.893Z"
+    schedule_sources_updated_at: null
+  - id: e74916a9-2475-4a42-a3e3-a10e45253e5d
+    title: Concord Community Center
+    address: "16 Canterbury Road, Concord, NH 03301, USA"
+    lat: 43.2148748
+    lng: -71.5064735
+    coords: "01010000009AB2D30F6AE051C0055E7704819B4540"
+    phone: "603 225 8690"
+    email: null
+    url: "https://www.concordnh.gov/1364/Community-Centers"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/P7yqf4F6RjyBnbp8Du2g"
+        source: user
+        visible: true
+        attribution_url: "https://concordnh.gov/ImageRepository/Document?documentID=14914"
+        attribution_html: null
+        attribution_name: "Concord, NH"
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: concord
+    city_id: 1840002747
+    slug: concord-community-center
+    path: /courts/us/new-hampshire/concord/concord-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-29T14:49:20.680Z"
+    updated_at: "2023-05-29T14:49:20.680Z"
+    schedule_sources_updated_at: null
+  - id: "4c191f32-fb00-4d1e-b51b-90702d554375"
+    title: Concord Family YMCA
+    address: "15 N State St, Concord, NH, 03301, USA"
+    lat: 43.204886
+    lng: -71.538045
+    coords: "0101000000AFB14B546FE251C042B456B4399A4540"
+    phone: "6032289622"
+    email: null
+    url: "http://concordymca.org/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/oc4i0G46Qf6sFXtwolGQ"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/ConcordYMCA/photos/pb.100043104375972.-2207520000./2718720328173925/?type=3"
+        attribution_html: null
+        attribution_name: YMCA of Concord
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: concord
+    city_id: 1840002747
+    slug: concord-family-ymca
+    path: /courts/us/new-hampshire/concord/concord-family-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-16T17:49:41.414Z"
+    updated_at: "2022-12-19T22:39:27.544Z"
+    schedule_sources_updated_at: null
+  - id: "4aaa9a1e-fe45-4ff2-b64d-33d9debc210d"
+    title: Conway Recreation Center
+    address: "1634 E Main St, Center Conway, NH, 03813, USA"
+    lat: 43.996253
+    lng: -71.060486
+    coords: "01010000006AF7AB00DFC351C05DC5E23785FF4540"
+    phone: "6034478858"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 0
+    total_courts: 1
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/u4tsHtbqR02uwS7QbtaN"
+        source: user
+        visible: true
+        attribution_url: "https://meridiannh.com/commercial-construction/kennett-middle-school-recreation-center/"
+        attribution_html: null
+        attribution_name: Meridian Construction
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: center-conway
+    city_id: 1840080136
+    slug: conway-recreation-center
+    path: /courts/us/new-hampshire/center-conway/conway-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-01T17:00:29.112Z"
+    updated_at: "2022-12-19T22:31:26.825Z"
+    schedule_sources_updated_at: null
+  - id: "3ee94628-54ef-4e4b-ab33-f2f148037701"
+    title: Davis Park
+    address: "Davis Park Recreation Area, 90-60 East Side Rd, Conway, NH 03818, USA"
+    lat: 43.9833048
+    lng: -71.1163467
+    coords: "0101000000D7DF6D3972C751C0FAFF82EEDCFD4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: "Near the covered bridge, behind the small parking lot at Davis Park.  Paddle holder on the outside of the courts."
+    access_details: Free
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/NEb31yjbRWOhMpXYsdqT"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/xLEf9WsSGqg2z7eFbHYs"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: conway
+    city_id: 1840054762
+    slug: davis-park
+    path: /courts/us/new-hampshire/conway/davis-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-06-13T09:15:25.948Z"
+    updated_at: "2024-06-13T09:15:25.948Z"
+    schedule_sources_updated_at: null
+  - id: b056be66-c09e-4358-b82b-d75bcd9239cb
+    title: Deerfield Community School
+    address: "66 North Road, Deerfield, NH 03037, USA"
+    lat: 43.1500176
+    lng: -71.23775479999999
+    coords: "0101000000E39DE85F37CF51C086E9D6C633934540"
+    phone: "+16034638811"
+    email: null
+    url: "https://dcs.sau53.org/en-US"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: tape
+    nets: portable
+    amenities: [restrooms, water, wheelchair accessible]
+    description: "Deerfield Park and Recreation host drop in pickleball during the winter at the DCS. It is recommended to sign up since space is limited 20 players per session. \n\nFor more information contact P&R at 603-463-8811 ext. 305"
+    access_details: $35 season pass or $5 drop in fee
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/4c8m8ePMR3OoJ0bWP2A2"
+        source: user
+        attribution_url: "https://cdn.schoolblocks.com/organizations/6789ce9f-f22c-468f-988e-7a157ed76f96/zch42m-deerfield_02-small.jpg"
+        attribution_html: null
+        attribution_name: Deerfield Community School
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: deerfield
+    city_id: 1840054775
+    slug: deerfield-community-school
+    path: /courts/us/new-hampshire/deerfield/deerfield-community-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-12-16T01:44:23.508Z"
+    updated_at: "2024-12-16T01:46:46.365Z"
+    schedule_sources_updated_at: "2024-12-16T01:46:45.633Z"
+  - id: d66be919-f5db-4c3d-bb71-14f7534671c3
+    title: Dynamite Pickleball NH
+    address: "702 Daniel Webster Hwy, Merrimack, NH 03054, United States"
+    lat: 42.8971721
+    lng: -71.4645547
+    coords: "0101000000FFECA243BBDD51C01B310E89D6724540"
+    phone: "+16034247582"
+    email: null
+    url: "https://dynamitepickleball.playbypoint.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 12
+    outdoor_courts: 6
+    total_courts: 18
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, training, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/2Wc9r1qIQia3wS1gDiul"
+        source: user
+        attribution_url: "https://www.facebook.com/photo.php?fbid=122128782399155944&set=pb.61584678337495.-2207520000&type=3"
+        attribution_html: null
+        attribution_name: Dynamite Pickleball NH
+      - url: "https://cdn.filestackcontent.com/lfx9bvheRm953QWJAPce"
+        source: user
+        attribution_url: "https://www.facebook.com/photo.php?fbid=122128781043155944&set=pb.61584678337495.-2207520000&type=3"
+        attribution_html: null
+        attribution_name: Dynamite Pickleball NH
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: merrimack
+    city_id: 1840080351
+    slug: dynamite-pickleball-nh
+    path: /courts/us/new-hampshire/merrimack/dynamite-pickleball-nh
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-06-25T10:26:50.322Z"
+    updated_at: "2026-06-25T10:26:50.322Z"
+    schedule_sources_updated_at: null
+  - id: a77f41ff-eb7e-4d3a-95ba-d53480531495
+    title: Ellis-Harrison Park
+    address: "55 Knight St, Keene, NH, 03431, USA"
+    lat: 42.946765
+    lng: -72.269519
+    coords: "0101000000A4A99ECC3F1152C0ACFF73982F794540"
+    phone: null
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/gbBmG0CbQI23KL7jWuJk"
+        source: user
+        visible: true
+        attribution_url: "https://www.myrecordjournal.com/News/Wallingford/Wallingford-News/Mayor-gives-OK-to-changing-over-park-to-pickleball-courts.html"
+        attribution_html: null
+        attribution_name: Dave Zajac
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: keene
+    city_id: 1840003050
+    slug: ellis-harrison-park
+    path: /courts/us/new-hampshire/keene/ellis-harrison-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-03T13:12:27.383Z"
+    updated_at: "2026-06-19T06:30:08.690Z"
+    schedule_sources_updated_at: null
+  - id: "5560c5f3-7e0a-4e0c-b040-621e07e9f5e9"
+    title: Errol Consolidated School
+    address: "99 Main Street, Errol, NH, USA"
+    lat: 44.7804702
+    lng: -71.1347182
+    coords: "010100000043CB15399FC851C055409072E6634640"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: Not available while school is in session.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/IxughlfyS823CIr47NLP"
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: errol
+    city_id: 1840054837
+    slug: errol-consolidated-school
+    path: /courts/us/new-hampshire/errol/errol-consolidated-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-06-24T08:59:18.572Z"
+    updated_at: "2024-06-24T08:59:18.572Z"
+    schedule_sources_updated_at: null
+  - id: daf44eb9-501a-4c16-9787-cbc1f0cf1268
+    title: Executive Health and Sports Center
+    address: "1 Highlander Way, Manchester, NH, 03103, USA"
+    lat: 42.925877
+    lng: -71.44741
+    coords: "0101000000D1798D5DA2DC51C02E8F352383764540"
+    phone: "+16036684753"
+    email: null
+    url: "http://www.ehsc.com/"
+    reservation_url: null
+    facility_type: private
+    access: membership
+    has_reservations: true
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted, locker rooms, food]
+    description: ""
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/lMoWO9tyTaeIZjBHzF3E"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/101410817122907297595"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/101410817122907297595\">Justin Pfister</a>"
+        attribution_name: Justin Pfister
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: manchester
+    city_id: 1840002983
+    slug: executive-health-and-sports-center
+    path: /courts/us/new-hampshire/manchester/executive-health-and-sports-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T16:54:39.128Z"
+    updated_at: "2024-07-08T10:04:16.362Z"
+    schedule_sources_updated_at: null
+  - id: b4b0309a-9ec0-4704-bf9a-5d0abc3b9a1e
+    title: Exeter Area YMCA
+    address: "56 Linden St, Exeter, NH, 03833, USA"
+    lat: 42.973277
+    lng: -70.95851
+    coords: "0101000000E5B8533A58BD51C079793A57947C4540"
+    phone: "+16036426631"
+    email: membership@sdymca.org
+    url: "https://www.sdymca.org"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: false
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [locker rooms, restrooms, training, water, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/s9NJ1y17Q5iT1bN6oGph"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Todd Libby
+      - url: "https://cdn.filestackcontent.com/87rvN9K5SMeUXJ414Qjm"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Potato
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: exeter
+    city_id: 1840054838
+    slug: exeter-area-ymca
+    path: /courts/us/new-hampshire/exeter/exeter-area-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T03:53:32.069Z"
+    updated_at: "2023-08-14T08:27:44.850Z"
+    schedule_sources_updated_at: null
+  - id: f694b72f-9438-45db-b269-a41b5f060b34
+    title: Exeter Recreation Park
+    address: "4 Hampton Rd, Exeter, NH, 03833, USA"
+    lat: 42.979192
+    lng: -70.913976
+    coords: "01010000000D5531957EBA51C09E40D829567D4540"
+    phone: "6037736151"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 10
+    total_courts: 10
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/18RZIzNxQPev4LIQcQ0M"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/9nqlrCWgSuypmAOW0dp2"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/104059006435883339818"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/104059006435883339818\">Pierre Durand</a>"
+        attribution_name: Pierre Durand
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: exeter
+    city_id: 1840054838
+    slug: exeter-recreation-park
+    path: /courts/us/new-hampshire/exeter/exeter-recreation-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-20T06:22:48.917Z"
+    updated_at: "2025-05-27T07:34:15.255Z"
+    schedule_sources_updated_at: null
+  - id: efea6c72-9391-4ba2-a998-3c19ecb0c822
+    title: Express Pickleball
+    address: "1328 Hooksett Rd, Hooksett, NH 03106, USA"
+    lat: 43.0541816
+    lng: -71.4436553
+    coords: "01010000009D0C33D964DC51C0C105346CEF864540"
+    phone: "+16033148900"
+    email: ccossano@ehsc.com
+    url: "https://www.expresspickleball.com/"
+    reservation_url: "https://app.courtreserve.com/Online/Portal/Index/16215"
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 7
+    outdoor_courts: 0
+    total_courts: 7
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms, water, lighted, training, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/sj77nWHTfaeQZAELKxV4"
+        source: user
+        attribution_url: "https://www.google.com/search?q=Express+PickleballHooksett%3A+Located+at+1328+Hooksett+Road&sourceid=chrome&ie=UTF-8#lpg=cid:CgIgAQ%3D%3D,ik:CAoSHENJQUJJaEN2QmQ0c09zZnl6NHZzX2FGN0F6UFM%3D"
+        attribution_html: null
+        attribution_name: Express Pickleball
+      - url: "https://cdn.filestackcontent.com/52xl3UGqSp6s6M81FsZe"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/114914616570781107245"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/114914616570781107245\">Express Fitness</a>"
+        attribution_name: Express Fitness
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: hooksett
+    city_id: 1840055022
+    slug: express-pickleball
+    path: /courts/us/new-hampshire/hooksett/express-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-02-23T07:31:38.664Z"
+    updated_at: "2026-06-25T10:33:31.637Z"
+    schedule_sources_updated_at: "2026-02-23T08:49:23.610Z"
+  - id: "03bf7d75-a4fc-4824-ae58-53c3bb3702cb"
+    title: Fields Grove Park
+    address: "5 Field St, Nashua, NH, 03060, USA"
+    lat: 42.748576
+    lng: -71.461529
+    coords: "0101000000F549EEB089DD51C006499F56D15F4540"
+    phone: "6038882161"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/RxrYl7m4RICNZlj0S6K7"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Christina Levitan
+      - url: "https://cdn.filestackcontent.com/AeyoidkPTxundfL4ENAw"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: nashua
+    city_id: 1840002984
+    slug: fields-grove-park
+    path: /courts/us/new-hampshire/nashua/fields-grove-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-21T09:33:32.706Z"
+    updated_at: "2022-12-19T11:01:12.530Z"
+    schedule_sources_updated_at: null
+  - id: "8b37afee-2336-4b96-943f-55585c282630"
+    title: Fishersfield Recreation Area
+    address: "200 Old Post Rd, Newbury, NH, 03255, USA"
+    lat: 43.310622
+    lng: -72.010809
+    coords: "010100000028603B18B10052C085B53176C2A74540"
+    phone: "6037632095"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ylu4riyLT24WJYoEQQsc"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: newbury
+    city_id: 1840055221
+    slug: fishersfield-recreation-area
+    path: /courts/us/new-hampshire/newbury/fishersfield-recreation-area
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T17:36:44.487Z"
+    updated_at: "2022-12-19T23:32:34.634Z"
+    schedule_sources_updated_at: null
+  - id: b23176e0-d2bd-40b3-9c78-5d230e1bd57d
+    title: Fitzwilliam Emerson Courts
+    address: "35 Rhododendron Rd, Fitzwilliam, NH, 03447, USA"
+    lat: 42.775104
+    lng: -72.159721
+    coords: "010100000001DF6DDE380A52C0D87F9D9B36634540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/cj8eLB4SJ6FGCkylYVct"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: fitzwilliam
+    city_id: 1840054850
+    slug: fitzwilliam-emerson-courts
+    path: /courts/us/new-hampshire/fitzwilliam/fitzwilliam-emerson-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T07:53:54.762Z"
+    updated_at: "2022-12-20T07:49:48.877Z"
+    schedule_sources_updated_at: null
+  - id: ebceef70-dee6-4e03-969d-b909d769bb52
+    title: Francoeur Field
+    address: "27 Belknap Mountain Rd, Gilford, NH 03249, United States"
+    lat: 43.5467382
+    lng: -71.4058577
+    coords: "01010000001B159392F9D951C0A93C7084FBC54540"
+    phone: null
+    email: null
+    url: "https://sports.bluesombrero.com/Default.aspx?tabid=535389"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/UKfCSXk7Qzazs5h2TOYS"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: gilford
+    city_id: 1840054887
+    slug: francoeur-field
+    path: /courts/us/new-hampshire/gilford/francoeur-field
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-24T19:57:33.749Z"
+    updated_at: "2023-08-26T07:49:35.829Z"
+    schedule_sources_updated_at: null
+  - id: c0d9061c-e5e4-4d38-8098-f5efdbd93825
+    title: Franconia Inn Pickleball Courts
+    address: "1172 Easton Rd, Franconia, NH 03580, USA"
+    lat: 44.1961558
+    lng: -71.7529119
+    coords: "01010000003BD164B52FF051C0DAF51CA21B194640"
+    phone: "+16038235542"
+    email: info@franconiainn.com
+    url: "https://www.franconiainn.com"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [clay]
+    lines: tape
+    nets: portable
+    amenities: [training]
+    description: "The Franconia Inn has converted one of its beautiful clay tennis courts into two clay pickleball courts! Come play pickleball with great views of the mountains. $20 for 90 minutes of play, $30 for 3 hours. Must call to reserve. All reservations subject to availability and weather.\nThe Franconia Inn also serves dinner and offers lodging, horseback riding, bike rentals, tennis, and pool day passes."
+    access_details: "$20 per court for 90 minutes, $30 for 3 hours"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/wx5A5wCSHuOGHoFr76du"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: franconia
+    city_id: 1840054880
+    slug: franconia-inn-pickleball-courts
+    path: /courts/us/new-hampshire/franconia/franconia-inn-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-12T10:55:14.331Z"
+    updated_at: "2024-08-12T10:55:14.331Z"
+    schedule_sources_updated_at: null
+  - id: "3eb4855b-0328-4448-9cf7-e43beeb6a01a"
+    title: Frank W Whitcomb Recreational Park
+    address: "Poole Rd, Jaffrey, NH, 03452, USA"
+    lat: 42.845599
+    lng: -72.079267
+    coords: "0101000000BB29E5B5120552C0E14389963C6C4540"
+    phone: null
+    email: null
+    url: "http://www.walpolenh.us/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: temporary
+    nets: byo
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/p66o36HlQoiXshjV5jae"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: jaffrey
+    city_id: 1840055042
+    slug: frank-w-whitcomb-recreational-park
+    path: /courts/us/new-hampshire/jaffrey/frank-w-whitcomb-recreational-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T06:05:51.114Z"
+    updated_at: "2022-12-19T12:57:47.627Z"
+    schedule_sources_updated_at: null
+  - id: ca9520af-3a5f-4d94-aa62-7964b8af2cd7
+    title: G.B. White Building
+    address: "8 Raymond Rd Unit 4, Deerfield, NH 03037, USA"
+    lat: 43.1316964
+    lng: -71.2383258
+    coords: "0101000000C132DBBA40CF51C01F80796DDB904540"
+    phone: "6038818811"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [lighted, food]
+    description: "The courts are located at the end of the building next to Charlie's Restaurant. The courts were resurfaced and lighting added in 2024. \nThe local players organize drop in playing times 3 or 4 times per week from spring to about November. These are good opportunity to meet other players. Also, they hold beginner and youth days to encourage new players.\n\nMany of the players stop by Charlie's after playing for a bite and beer. \n\nNote: The group moves indoors in November. They play at Deerfield Community School on the basketball courts on Friday evening and Sunday mornings. There are 3 courts at DCS."
+    access_details: $5 drop in fee or a $35 season pass.
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/xbr1QUaaRNGlJDGYViYl"
+        source: user
+        visible: true
+        attribution_url: "https://forumhome.org/pickleball-comes-to-deerfield-p17701-111.htm"
+        attribution_html: null
+        attribution_name: Walter Hooker
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: deerfield
+    city_id: 1840054775
+    slug: gb-white-building
+    path: /courts/us/new-hampshire/deerfield/gb-white-building
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T21:25:36.299Z"
+    updated_at: "2024-12-16T01:10:06.651Z"
+    schedule_sources_updated_at: null
+  - id: "3af0fa42-6098-45e6-ade6-bc8b06a75ab7"
+    title: Garrison Elementary School
+    address: "1 Shaws Ln, Dover, NH, 03820, USA"
+    lat: 43.164255
+    lng: -70.869766
+    coords: "01010000000E4B033FAAB751C02C9ACE4E06954540"
+    phone: null
+    email: null
+    url: "https://ges.dover.k12.nh.us/"
+    reservation_url: null
+    facility_type: school
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/cHVXLIdSQsCKdME173Wi"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: dover
+    city_id: 1840002808
+    slug: garrison-elementary-school
+    path: /courts/us/new-hampshire/dover/garrison-elementary-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-22T13:47:34.294Z"
+    updated_at: "2022-12-19T12:52:53.903Z"
+    schedule_sources_updated_at: null
+  - id: a4ed780f-5b5c-48a5-9596-cb5a7cfb30e5
+    title: Gilford Hills Tennis & Fitness
+    address: "314 Old Lake Shore Rd, Gilford, NH 03249, United States"
+    lat: 43.5698962
+    lng: -71.40777419999999
+    coords: "0101000000C349F5F818DA51C0AE8ED25BF2C84540"
+    phone: "+16032937546"
+    email: null
+    url: "https://www.gilfordhills.com/"
+    reservation_url: null
+    facility_type: null
+    access: null
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [concrete]
+    lines: null
+    nets: portable
+    amenities: [locker rooms, restrooms, water, training]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/A2BkBVxlT4agGo7kZqiA"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: gilford
+    city_id: 1840054887
+    slug: gilford-hills-tennis-and-fitness
+    path: /courts/us/new-hampshire/gilford/gilford-hills-tennis-and-fitness
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-24T20:10:50.711Z"
+    updated_at: "2023-10-17T04:53:21.380Z"
+    schedule_sources_updated_at: null
+  - id: be062d2f-efdf-4c73-a405-0194579dee32
+    title: Gilford Youth Center
+    address: "Gilford Youth Center, 19 Potter Hill Rd, Gilford, NH 03249, United States"
+    lat: 43.5480279
+    lng: -71.4050592
+    coords: "0101000000693C6C7DECD951C0D5E539C725C64540"
+    phone: "6035246978"
+    email: Office@gilfordyouthcenter.com
+    url: "https://www.gilfordyouthcenter.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: tape
+    nets: portable
+    amenities: [restrooms]
+    description: "Drop In pickleball Monday/Wednesday/Friday 8:30-10:30 am - 24 player limit - first come first serve- can not enter building before 8:30- $5 fee\nCourt Rentals available Fridays 10:30-1:30 \n$20 per court per hour - as many players as renter wants"
+    access_details: "$5 drop in fee\n$20 for court rental per court per hour\nAs many players as renter would like"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/uQ75aUR7T4KpJd6b39WB"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115821184923295550622"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115821184923295550622\">Gilford Youth Center</a>"
+        attribution_name: Gilford Youth Center
+      - url: "https://cdn.filestackcontent.com/E3VqLKuzQRSMjeAIKhbW"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115821184923295550622"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115821184923295550622\">Gilford Youth Center</a>"
+        attribution_name: Gilford Youth Center
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: gilford
+    city_id: 1840054887
+    slug: gilford-youth-center
+    path: /courts/us/new-hampshire/gilford/gilford-youth-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-24T19:49:36.086Z"
+    updated_at: "2024-12-20T06:40:04.097Z"
+    schedule_sources_updated_at: "2024-12-20T06:40:03.364Z"
+  - id: "944dc12a-3949-45f0-869f-8a339a80d938"
+    title: Granite YMCA - Downtown Manchester
+    address: "30 Mechanic St, Manchester, NH, USA"
+    lat: 42.9919161
+    lng: -71.4641506
+    coords: "0101000000CDDAB7A4B4DD51C01CF0541BF77E4540"
+    phone: "+16036233558"
+    email: null
+    url: "https://www.graniteymca.org/location/manchester/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [locker rooms, restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/8e7JT3C9SaxLbpMX6Prg"
+        source: user
+        visible: true
+        attribution_url: "https://www.graniteymca.org/dev/wp-content/uploads/2023/11/Pickleball.jpg"
+        attribution_html: null
+        attribution_name: Granite YMCA
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: manchester
+    city_id: 1840002983
+    slug: granite-ymca-downtown-manchester
+    path: /courts/us/new-hampshire/manchester/granite-ymca-downtown-manchester
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-03-15T00:20:40.266Z"
+    updated_at: "2024-03-15T00:23:58.836Z"
+    schedule_sources_updated_at: null
+  - id: d2429ea1-6c54-4ca2-8178-57f455f1ec1c
+    title: Greely Park
+    address: "Concord Street, Nashua, NH, USA"
+    lat: 42.778751
+    lng: -71.4654475
+    coords: "010100000051A04FE4C9DD51C0185DDE1CAE634540"
+    phone: null
+    email: null
+    url: "https://www.nashuanh.gov/facilities/facility/details/greeley-park-29"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: portable
+    amenities: [lighted, restrooms]
+    description: Portable nets are put away in storage box and locked. Need to ask for code.
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ibqQYtP3TPCXwbdJUS6D"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/104411450331853943028"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/104411450331853943028\">crazy people</a>"
+        attribution_name: crazy people
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: united-states
+    city_id: 575785292
+    slug: greely-park
+    path: /courts/us/new-hampshire/united-states/greely-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-10-26T08:06:09.971Z"
+    updated_at: "2024-10-26T08:17:25.772Z"
+    schedule_sources_updated_at: null
+  - id: "65c2b048-7440-45ad-9819-e61d4ee8f850"
+    title: Grimes Field
+    address: "29 Preston St, Hillsborough, NH, USA"
+    lat: 43.115811
+    lng: -71.88768499999999
+    coords: "01010000009509BFD4CFF851C02FC214E5D28E4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: "Porta Potties\n\nThere are 4 additional courts available but must have own net for those.  Lines are painted."
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/rqypJLRrOJRTeBddS0WQ"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/104772882616406451691"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/104772882616406451691\">Jon Daley</a>"
+        attribution_name: Jon Daley
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: hillsborough
+    city_id: 1840080319
+    slug: grimes-field
+    path: /courts/us/new-hampshire/hillsborough/grimes-field
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-10-17T09:20:13.284Z"
+    updated_at: "2024-10-17T10:07:34.544Z"
+    schedule_sources_updated_at: null
+  - id: f528222c-1eb6-42ea-8f39-7b386826b868
+    title: Hallsville School
+    address: "275 Jewett Street, Manchester, NH 03105, USA"
+    lat: 42.98022
+    lng: -71.43765
+    coords: "01010000000B46257502DC51C04C7155D9777D4540"
+    phone: (603) 624-6332
+    email: null
+    url: "https://manchesternh.recdesk.com/Community/Program"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/d5Xwf07pSuetcFY8b06q"
+        source: user
+        visible: true
+        attribution_url: "https://manchesterinklink.com/wp-content/uploads/2022/04/PXL_20220406_230301534.MP_-771x581.jpg"
+        attribution_html: null
+        attribution_name: Manchester Ink
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: manchester
+    city_id: 1840002983
+    slug: hallsville-school
+    path: /courts/us/new-hampshire/manchester/hallsville-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-14T06:58:54.304Z"
+    updated_at: "2025-01-06T06:40:42.309Z"
+    schedule_sources_updated_at: null
+  - id: dcfeace1-40a0-48f2-8d1f-307ef3fd12b1
+    title: Hampshire Hills
+    address: "50 Emerson Rd, Milford, NH 03055, USA"
+    lat: 42.8138207
+    lng: -71.6367423
+    coords: "0101000000B59EC662C0E851C067A7D5462B684540"
+    phone: (603) 673-7123
+    email: null
+    url: "http://www.hampshirehills.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: false
+    indoor_courts: 4
+    outdoor_courts: 2
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard, wood]
+    lines: permanent
+    nets: portable
+    amenities: [food, locker rooms, restrooms, water, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/wIoa6I9TU9m7jEsIZcKw"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/111768617132307064999"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/111768617132307064999\">Hampshire Dome</a>"
+        attribution_name: Hampshire Dome
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: milford
+    city_id: 1840055182
+    slug: hampshire-hills
+    path: /courts/us/new-hampshire/milford/hampshire-hills
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-03-01T13:59:32.653Z"
+    updated_at: "2024-10-11T07:42:10.653Z"
+    schedule_sources_updated_at: null
+  - id: "05b2c9d4-03cb-4991-9cac-50210eb7cef4"
+    title: Henry Wilson Jr High
+    address: "51 School St, Farmington, NH, USA"
+    lat: 43.3925426
+    lng: -71.0702232
+    coords: "0101000000E9DA72897EC451C0B6A4FED53EB24540"
+    phone: "+16037552181"
+    email: null
+    url: "https://hwms.sau61.org/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/9F7PbkHHQhygb9y8pRly"
+        source: user
+        attribution_url: "https://www.sau61.org/files/images/hmwm_slider.jpg?mask=1"
+        attribution_html: null
+        attribution_name: Sau61
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: farmington
+    city_id: 1840054843
+    slug: henry-wilson-jr-high
+    path: /courts/us/new-hampshire/farmington/henry-wilson-jr-high
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-04-28T07:11:19.902Z"
+    updated_at: "2025-04-28T07:39:50.512Z"
+    schedule_sources_updated_at: null
+  - id: f0a651c3-32f3-4178-ade7-b5f57f0c231b
+    title: Hidden Valley Golf & RV Park
+    address: "81 Damren Rd, Derry, NH, 03038, USA"
+    lat: 42.916869
+    lng: -71.239675
+    coords: "0101000000CEAACFD556CF51C0ADDBA0F65B754540"
+    phone: "6038873767"
+    email: null
+    url: "http://hiddenvalleyrvgolf.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/g9wzbZDmRPgXYpIbAksS"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/HIddenValleyRvGolfPark/photos/pb.100044301714006.-2207520000./385844478205731/?type=3"
+        attribution_html: null
+        attribution_name: HIdden Valley RV & Golf Park
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: derry
+    city_id: 1840054793
+    slug: hidden-valley-golf-and-rv-park
+    path: /courts/us/new-hampshire/derry/hidden-valley-golf-and-rv-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T06:24:43.032Z"
+    updated_at: "2022-12-21T04:49:27.501Z"
+    schedule_sources_updated_at: null
+  - id: "301f9df0-0896-4e01-a0d3-52aecab5e5b8"
+    title: Hobbs Community Center
+    address: "8 Nashua Rd, Pelham, NH 03076, USA"
+    lat: 42.73530770000001
+    lng: -71.3250123
+    coords: "01010000000ED36300CDD451C09EFF0D901E5E4540"
+    phone: (603) 635-3800
+    email: null
+    url: "https://www.pelhamweb.com/pelham-senior-programs-at-the-hobbs-community-center"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/djyHKcuyT1i7OABowoMJ"
+        source: user
+        visible: true
+        attribution_url: "https://www.pelhamweb.com/sites/g/files/vyhlif4856/f/styles/gallery_full/public/galleries/thumbnail_img_6087.jpg?itok=vehJIEkr"
+        attribution_html: null
+        attribution_name: "Hobbs Community Center "
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: pelham
+    city_id: 1840055379
+    slug: hobbs-community-center
+    path: /courts/us/new-hampshire/pelham/hobbs-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-03-24T02:30:07.057Z"
+    updated_at: "2026-06-25T10:53:27.801Z"
+    schedule_sources_updated_at: null
+  - id: e2d38a97-4552-412e-9b07-6a61db6a5122
+    title: Horne Field  Tennis Courts
+    address: "Horne St, Berlin, NH, 03570, USA"
+    lat: 44.48384
+    lng: -71.16514
+    coords: "0101000000BBD05CA791CA51C0923F1878EE3D4640"
+    phone: "6037230679"
+    email: null
+    url: "http://www.berlinnh.gov/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/iSmIjoukS8GWpabp9kKC"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: berlin
+    city_id: 1840002100
+    slug: horne-field-tennis-courts
+    path: /courts/us/new-hampshire/berlin/horne-field-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T08:26:49.693Z"
+    updated_at: "2023-04-20T06:39:37.075Z"
+    schedule_sources_updated_at: null
+  - id: faa24754-738b-4217-acc4-9717b3830173
+    title: Howard Recreation Center
+    address: "Kent St, Concord, NH, 03301, USA"
+    lat: 43.197449
+    lng: -71.558142
+    coords: "01010000008A213999B8E351C05FD0420246994540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/HexregOISCuc6TU2oVDY"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113837403339833828559"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113837403339833828559\">JB The Milker</a>"
+        attribution_name: JB The Milker
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: concord
+    city_id: 1840002747
+    slug: howard-recreation-center
+    path: /courts/us/new-hampshire/concord/howard-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-17T11:08:27.648Z"
+    updated_at: "2022-12-21T05:01:19.856Z"
+    schedule_sources_updated_at: null
+  - id: "4fc8954e-4c5f-4b15-8ea4-4417b1f2b051"
+    title: James W. Foley Memorial Community Center
+    address: "150 Wakefield Street, Rochester, NH, USA"
+    lat: 43.3162426
+    lng: -70.9788537
+    coords: "01010000006444FD89A5BE51C00F4D34A37AA84540"
+    phone: "+16033324120"
+    email: null
+    url: "https://www.rochesternh.gov/rochester-recreation-arena/pages/community-center-tennis-courts"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/N4TEbCX2Tp69OUijlHhw"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/109145096437139052036"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/109145096437139052036\">Tri-City Bicycles N.H.</a>"
+        attribution_name: Tri-City Bicycles N.H.
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: rochester
+    city_id: 1840002809
+    slug: james-w-foley-memorial-community-center
+    path: /courts/us/new-hampshire/rochester/james-w-foley-memorial-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-06-04T09:58:22.173Z"
+    updated_at: "2024-06-04T10:01:05.128Z"
+    schedule_sources_updated_at: null
+  - id: "956dae42-a3ab-4e3b-b069-72ceec8ff0bd"
+    title: Johnny Eastman Park - Public Pickleball Courts
+    address: "1808 East Main Street, Center Conway , NH 03813"
+    lat: 44.011566
+    lng: -97.8219985961914
+    coords: "0101000000000000A09B7458C06EDFA3FE7A014640"
+    phone: "+16039011139"
+    email: null
+    url: "https://conwaynh.myrec.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/aGcz0lNSISQXWVGu0wfe"
+        source: user
+        visible: true
+        attribution_url: "https://bloximages.newyork1.vip.townnews.com/conwaydailysun.com/content/tncms/assets/v3/editorial/7/bf/7bfee53e-f181-11ec-97fb-bb0351387d12/62b1f5ac5068f.image.jpg?resize=400%2C300"
+        attribution_html: null
+        attribution_name: The Conway Daily Sun
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: conway
+    city_id: 1840054762
+    slug: johnny-eastman-park-public-pickleball-courts
+    path: /courts/us/new-hampshire/conway/johnny-eastman-park-public-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-06-01T03:52:28.017Z"
+    updated_at: "2023-08-28T09:26:35.938Z"
+    schedule_sources_updated_at: null
+  - id: e2322c82-ee27-4411-adf2-4fccf771f9d2
+    title: Jonathan Daniels Pickleball Courts
+    address: "227 Maple Ave, Keene, NH, 03431, USA"
+    lat: 42.962099
+    lng: -72.308966
+    coords: "0101000000DC645419C61352C0D5415E0F267B4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/b8kUC783SHGZ9irzvmn3"
+        source: user
+        visible: true
+        attribution_url: "https://www.stjameskeene.com/pickleball"
+        attribution_html: null
+        attribution_name: St. James Episcopal Church
+      - url: "https://cdn.filestackcontent.com/wLzSlNeYS6q2YcVwnAGG"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: keene
+    city_id: 1840003050
+    slug: jonathan-daniels-pickleball-courts
+    path: /courts/us/new-hampshire/keene/jonathan-daniels-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-19T01:01:06.624Z"
+    updated_at: "2024-09-20T09:46:16.281Z"
+    schedule_sources_updated_at: null
+  - id: "49b7ca5d-fa78-4d67-ac37-cb0a06a06644"
+    title: Keene Recreation Center
+    address: "312 Washington St, Keene, NH, 03431, USA"
+    lat: 42.942885
+    lng: -72.276016
+    coords: "01010000000E4B033FAA1152C0C971A774B0784540"
+    phone: "6033579829"
+    email: null
+    url: "https://ci.keene.nh.us/parks-recreation"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/9hvjErmqSNyr62o1Ke4U"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo.php?fbid=489902929816827&set=pb.100063913727758.-2207520000.&type=3"
+        attribution_html: null
+        attribution_name: Keene Parks and Recreation
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: keene
+    city_id: 1840003050
+    slug: keene-recreation-center
+    path: /courts/us/new-hampshire/keene/keene-recreation-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T23:21:42.358Z"
+    updated_at: "2022-12-19T13:07:16.259Z"
+    schedule_sources_updated_at: null
+  - id: eb0fd5fe-0499-4d6b-b279-71e3e9a4a735
+    title: "Kelly Park, Bristol"
+    address: "N Main St, Bristol, NH, 03222, USA"
+    lat: 43.587429
+    lng: -71.733019
+    coords: "01010000002F1686C8E9EE51C06ADC9BDF30CB4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/qJ9aZJeYTbeB4BPg5cH2"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/5kSGgz4TwG1YdPIj2tFg"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/102181385351145023512"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/102181385351145023512\">Fernando Oliveira</a>"
+        attribution_name: Fernando Oliveira
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: bristol
+    city_id: 1840054703
+    slug: kelly-park-bristol
+    path: /courts/us/new-hampshire/bristol/kelly-park-bristol
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-07T12:26:21.862Z"
+    updated_at: "2025-03-14T07:50:00.660Z"
+    schedule_sources_updated_at: null
+  - id: "1fdc0d10-b036-4c06-aa19-93bf85447988"
+    title: Kraine Meadow Park
+    address: "Playground Dr, Moultonborough, NH, 03254, USA"
+    lat: 43.722379
+    lng: -71.431369
+    coords: "010100000087E0B88C9BDB51C0992842EA76DC4540"
+    phone: "+16037650931"
+    email: joerush004@gmail.com
+    url: "https://www.moultonboroughnh.gov/recreation-department"
+    reservation_url: null
+    facility_type: public
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 5
+    total_courts: 5
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: MRD’s Pickleball Program is open to ALL levels of play. Comfortable clothing is recommended & sneakers are required.
+    access_details: "$3/day for residents, $5/day for non-residents"
+    schedule_details: Pre-registration is required & space is limited. Sign up online or in the Rec office. Call MRD for more info 603-476-8868.
+    images:
+      - url: "https://cdn.filestackcontent.com/oDQ5sPxeQoqDQ2p46gKw"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Ian L.
+      - url: "https://cdn.filestackcontent.com/irlpj40IRiaZJITmUeGp"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/yDxsJIgQQ2EVqBI8yTIA"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/117204551461255599000"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/117204551461255599000\">Daniel Sutcliffe</a>"
+        attribution_name: Daniel Sutcliffe
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: moultonborough
+    city_id: 1840055201
+    slug: kraine-meadow-park
+    path: /courts/us/new-hampshire/moultonborough/kraine-meadow-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-21T14:43:31.222Z"
+    updated_at: "2023-07-24T03:47:26.400Z"
+    schedule_sources_updated_at: null
+  - id: d39d689f-e9f7-41a8-9a46-280cdba11d3e
+    title: Laconia Community Center
+    address: "306 Union Ave, Laconia, NH, 03246, USA"
+    lat: 43.533666
+    lng: -71.463901
+    coords: "01010000003BE5D18DB0DD51C05A7EE02A4FC44540"
+    phone: "6035245046"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/CWGOvcXQBe5keEryCxEA"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/103476484990888889650"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103476484990888889650\">Nhracing</a>"
+        attribution_name: Nhracing
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: laconia
+    city_id: 1840002683
+    slug: laconia-community-center
+    path: /courts/us/new-hampshire/laconia/laconia-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T17:06:19.929Z"
+    updated_at: "2022-12-21T03:08:54.217Z"
+    schedule_sources_updated_at: null
+  - id: fe5a6af8-6181-4bf4-8b70-35eabe0ed38e
+    title: "Leavitt Park, Laconia"
+    address: "334 Elm St, Laconia, NH, 03246, USA"
+    lat: 43.553221
+    lng: -71.469008
+    coords: "0101000000FE63213A04DE51C0EF3A1BF2CFC64540"
+    phone: "6035241886"
+    email: null
+    url: "http://www.laconianh.gov/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/vOSXpD4kQh2FWyulGSGy"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: laconia
+    city_id: 1840002683
+    slug: leavitt-park-laconia
+    path: /courts/us/new-hampshire/laconia/leavitt-park-laconia
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T00:57:11.792Z"
+    updated_at: "2022-12-21T05:03:28.612Z"
+    schedule_sources_updated_at: null
+  - id: "0cb195c2-9c08-423b-a816-9efa7f65d957"
+    title: Liberty Tree Park Tennis Courts
+    address: "55 Frank C Gilman Hwy, Alton, NH, 03809, USA"
+    lat: 43.454487
+    lng: -71.225449
+    coords: "01010000009E7AA4C16DCE51C084BA48A12CBA4540"
+    phone: "5038750109"
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/FEWsL2VfRPuYzi8mKBug"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: alton
+    city_id: 1840054507
+    slug: liberty-tree-park-tennis-courts
+    path: /courts/us/new-hampshire/alton/liberty-tree-park-tennis-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-15T01:26:27.119Z"
+    updated_at: "2022-12-19T11:17:55.085Z"
+    schedule_sources_updated_at: null
+  - id: "5ea26f34-b53d-4023-ac20-232a88d66924"
+    title: Lion's Camp Pride
+    address: "154 Lions Camp Pride Way, New Durham, New Hampshire 03855, United States"
+    lat: 43.49217
+    lng: -71.12414
+    coords: "01010000000708E6E8F1C751C04209336DFFBE4540"
+    phone: (603) 482-6115
+    email: null
+    url: "http://www.lionscamppride.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/hyz1uqwYSKy5yVxtml8u"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/116895655638949221636"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/116895655638949221636\">Pat R</a>"
+        attribution_name: Pat R
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: new-durham
+    city_id: 1840055229
+    slug: lions-camp-pride
+    path: /courts/us/new-hampshire/new-durham/lions-camp-pride
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-14T03:08:42.549Z"
+    updated_at: "2023-04-14T03:08:42.549Z"
+    schedule_sources_updated_at: null
+  - id: "57a8361c-35cd-4053-a10a-a9893f25b90d"
+    title: Litchfield Sawmill Park
+    address: "Litchfield Park at Sawmill Brook, Albuquerque Ave, Litchfield, NH 03052, USA"
+    lat: 42.8640121
+    lng: -71.46287869999999
+    coords: "0101000000F5A0FBCD9FDD51C0946CD0F2976E4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/hSdOxkk5QtKhblfwDIsb"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/102333650019580252427"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/102333650019580252427\">Jeff Towne</a>"
+        attribution_name: Jeff Towne
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: litchfield
+    city_id: 1840055112
+    slug: litchfield-sawmill-park
+    path: /courts/us/new-hampshire/litchfield/litchfield-sawmill-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-23T04:54:01.307Z"
+    updated_at: "2024-10-08T09:39:14.957Z"
+    schedule_sources_updated_at: null
+  - id: "78d2e790-282e-430e-b5e7-78b541b2541b"
+    title: Little River Park
+    address: "39 North River Road, Lee, NH 03861, USA"
+    lat: 43.116291
+    lng: -71.0121446
+    coords: "0101000000ACF424FAC6C051C0D9E89C9FE28E4540"
+    phone: "https://oryarec.org/facilities/little-river-park-fields/"
+    email: null
+    url: "https://oryarec.org/facilities/little-river-park-fields/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/Q3eBo2OaS3G628fcaWK7"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/115661843667740582499"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115661843667740582499\">Gregory Rosic</a>"
+        attribution_name: Gregory Rosic
+      - url: "https://cdn.filestackcontent.com/3NCXpxILRwCEMufF9h9w"
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: lee
+    city_id: 1840055079
+    slug: little-river-park
+    path: /courts/us/new-hampshire/lee/little-river-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-04-19T05:15:13.473Z"
+    updated_at: "2024-04-19T05:16:53.774Z"
+    schedule_sources_updated_at: null
+  - id: "48276fa5-3379-42f1-87ee-dd44b205f8f3"
+    title: Longfellow New Hampshire Tennis & Swim Club
+    address: "140 Lock Street, Nashua, NH 03064, USA"
+    lat: 42.769263
+    lng: -71.45268
+    coords: "010100000069E388B5F8DC51C0ED82C13577624540"
+    phone: (603) 883-0153
+    email: john@Longfellownewhampshire.com
+    url: "https://longfellownh.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: false
+    indoor_courts: 8
+    outdoor_courts: 0
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted, locker rooms]
+    description: membership is not required.
+    access_details: As of 10/15/2025 Pickleball fee is $15.00 per person for 2 hours.
+    schedule_details: "Popular times are 5:00pm-7:00pm and 7:00pm - 9:00pm"
+    images:
+      - url: "https://cdn.filestackcontent.com/4K8GFoVOS1yYjTdAA3is"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110702657071919099835"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110702657071919099835\">Longfellow New Hampshire Tennis &amp; Swim Club</a>"
+        attribution_name: Longfellow New Hampshire Tennis &amp; Swim Club
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: nashua
+    city_id: 1840002984
+    slug: longfellow-new-hampshire-tennis-and-swim-club
+    path: /courts/us/new-hampshire/nashua/longfellow-new-hampshire-tennis-and-swim-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-14T07:03:48.169Z"
+    updated_at: "2025-11-06T07:55:29.267Z"
+    schedule_sources_updated_at: null
+  - id: "3149a74b-581b-47be-a28e-c48dc5ec8418"
+    title: Manchester Community College
+    address: "1066 Front St, Manchester, NH, 03102, USA"
+    lat: 43.0202
+    lng: -71.48369
+    coords: "0101000000BED9E6C6F4DE51C08AB0E1E995824540"
+    phone: "6035336975"
+    email: null
+    url: "https://www.mccnh.edu/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/f7zddNDhR4mkglbkMjQ4"
+        source: user
+        visible: true
+        attribution_url: "https://www.mccnh.edu/"
+        attribution_html: null
+        attribution_name: Manchester Community College
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: manchester
+    city_id: 1840002983
+    slug: manchester-community-college
+    path: /courts/us/new-hampshire/manchester/manchester-community-college
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-21T01:25:51.455Z"
+    updated_at: "2023-04-26T06:22:44.007Z"
+    schedule_sources_updated_at: null
+  - id: f08183c3-0234-4763-a284-9e5ca323b49c
+    title: McSheffrey’s Up North-The Club
+    address: "100 Christmas Mountain Rd, Intervale, NH 03845, United States"
+    lat: 44.1296662
+    lng: -71.1848776
+    coords: "0101000000D470DB08D5CB51C0C432ECE698104640"
+    phone: "+12032688024"
+    email: mvwpickleballboccegroup@gmail.com
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water]
+    description: ""
+    access_details: $10 for guest of MWVPBG member
+    schedule_details: Open Play 9am to noon and 4 to 6 pm  7 days a week
+    images:
+      - url: "https://cdn.filestackcontent.com/FRPxIppBQROJeLhlaKgm"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+      - url: "https://cdn.filestackcontent.com/FOdYiD2SQfejeMDBu4qZ"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/ZUWUKb7yToqgUCACqJhi"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: John Magazzu
+      - url: "https://cdn.filestackcontent.com/ckDPL52Q0Cy0dDhBAqQW"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/"
+        attribution_html: null
+        attribution_name: Dan Floyd
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: bartlett
+    city_id: 1840054602
+    slug: mcsheffreys-up-north-the-club
+    path: /courts/us/new-hampshire/bartlett/mcsheffreys-up-north-the-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-08-26T09:11:26.666Z"
+    updated_at: "2023-11-24T08:28:06.534Z"
+    schedule_sources_updated_at: null
+  - id: f9762a41-bd2e-441c-bdb7-78bb9bce6f40
+    title: Melendy Park
+    address: "8 Melendy Rd, Hudson, NH 03051"
+    lat: 42.7613507
+    lng: -71.42989
+    coords: "010100000028B8585183DB51C0B3A492F073614540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/CPwOdQG1TWi2sITXQdmQ"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: hudson
+    city_id: 1840055034
+    slug: melendy-park
+    path: /courts/us/new-hampshire/hudson/melendy-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-11T05:59:07.058Z"
+    updated_at: "2024-06-03T09:16:10.709Z"
+    schedule_sources_updated_at: "2024-06-03T09:16:09.937Z"
+  - id: ebe570ef-7fbd-4534-bf36-3bdf930bff24
+    title: Memorial Park -Laconia
+    address: "31 Lindsay Ct, Laconia, NH 03246, United States"
+    lat: 43.519988
+    lng: -71.4724098
+    coords: "0101000000D55350F63BDE51C0FE277FF78EC24540"
+    phone: "6035245046"
+    email: null
+    url: "http://www.laconianh.gov/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 5
+    total_courts: 5
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/2oL1BhwSS6rkKV7n1iiQ"
+        source: user
+        visible: true
+        attribution_url: "https://www.laconiadailysun.com/news/local/picklers-rejoice-as-city-adds-five-new-courts-at-memorial-park/article_06411f30-3878-11ee-8c09-8bb593269d84.html"
+        attribution_html: null
+        attribution_name: Catherine McLaughlin
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: laconia
+    city_id: 1840002683
+    slug: memorial-park-laconia
+    path: /courts/us/new-hampshire/laconia/memorial-park-laconia
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-29T23:49:54.009Z"
+    updated_at: "2023-08-25T07:51:30.386Z"
+    schedule_sources_updated_at: null
+  - id: d890cb33-46e0-4dd1-b386-7676d24b8a5e
+    title: Meredith Community Center
+    address: "1 Circle Dr, Meredith, NH 03253, USA"
+    lat: 43.6664397
+    lng: -71.5018839
+    coords: "0101000000E438A6DD1EE051C0C62066E54DD54540"
+    phone: "+16032798197"
+    email: parksnrec@meredithnh.org
+    url: "https://www.meredithnh.org/parks-recreation/pages/adult-programs"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, training]
+    description: ""
+    access_details: $20 for Residents and $30 for Non-residents
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/x5s8zx29RVaKQ6aunixv"
+        source: user
+        visible: true
+        attribution_url: "https://www.google.com/maps/uv?pb=!1s0x4cb347a98d2fdc35%3A0x671e4ede4ec1f6e6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPwAj9ZEvpJaNz1DRKF_DJMXvTYLcVh7q_xJh5U%3Dw108-h144-k-no!5sMeredith%20Community%20Center%201%20Circle%20Dr%2C%20Meredith%2C%20NH%2003253%2C%20USA%20pickleball%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipN21gEn7E3CJOsqd5jVwDIoN9MHnVNlZ0ZzJXHI&hl=en&sa=X&ved=2ahUKEwjvhq3Coo77AhU1EEQIHRTKDB0Qoip6BAg8EAM&cshid=1667349950470114"
+        attribution_html: null
+        attribution_name: Jim Eden
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: meredith
+    city_id: 1840055178
+    slug: meredith-community-center
+    path: /courts/us/new-hampshire/meredith/meredith-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-06-28T10:37:25.979Z"
+    updated_at: "2023-07-10T00:25:40.001Z"
+    schedule_sources_updated_at: null
+  - id: a1cd0552-43bf-4f35-833b-5f3c4a11d5ac
+    title: Mountain View Middle School
+    address: "41 Lauren Ln, Goffstown, NH, 03045, USA"
+    lat: 43.029364
+    lng: -71.551158
+    coords: "0101000000713B342C46E351C002D71533C2834540"
+    phone: "6034978990"
+    email: null
+    url: "http://www.goffstown.k12.nh.us/index.php/schools/mountain-view-middle-school"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/AA5c0y9mSyG9p2ppstye"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/115661843667740582499"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/115661843667740582499\">Gregory Rosic</a>"
+        attribution_name: Gregory Rosic
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: goffstown
+    city_id: 1840054900
+    slug: mountain-view-middle-school
+    path: /courts/us/new-hampshire/goffstown/mountain-view-middle-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T00:36:57.139Z"
+    updated_at: "2022-12-20T07:10:36.878Z"
+    schedule_sources_updated_at: null
+  - id: e5538055-4c27-4829-91d0-ffa88f296b04
+    title: Mountainside Racquet and Fitness Center
+    address: "745 King Hill Rd, New London, NH, 03257, USA"
+    lat: 43.389957
+    lng: -71.98521
+    coords: "01010000004C6C3EAE0DFF51C053EC681CEAB14540"
+    phone: "6035269293"
+    email: null
+    url: "http://www.mountainsiderfc.com/"
+    reservation_url: null
+    facility_type: club
+    access: membership
+    has_reservations: true
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/Q0YavAxuTIugp8JNrT6t"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/105411538430884449090"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/105411538430884449090\">Tyler Beck</a>"
+        attribution_name: Tyler Beck
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: new-london
+    city_id: 1840055261
+    slug: mountainside-racquet-and-fitness-center
+    path: /courts/us/new-hampshire/new-london/mountainside-racquet-and-fitness-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-08T00:28:35.824Z"
+    updated_at: "2022-12-21T04:33:09.939Z"
+    schedule_sources_updated_at: null
+  - id: e5a89062-7f09-45b2-a068-f60340c220cf
+    title: New England Pickleball Club - Rye
+    address: "6 Airfield Drive suite 102, Rye, NH 03870, USA"
+    lat: 43.00877819999999
+    lng: -70.8016418
+    coords: "0101000000D28668194EB351C077F5E0A41F814540"
+    phone: "+18026372582"
+    email: Questions@Newenglandpickleball.Com
+    url: "https://newenglandpickleball.com/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, lighted, training, pro shop]
+    description: ""
+    access_details: "Non members can play for a fee ($24 for drop-ins, $64 for group basics, $100 for private lessons)"
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/BfFW0jKTJKrwzB16rM9w"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: rye
+    city_id: 1840055509
+    slug: new-england-pickleball-club-rye
+    path: /courts/us/new-hampshire/rye/new-england-pickleball-club-rye
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-03-15T00:19:29.679Z"
+    updated_at: "2024-03-15T00:19:29.679Z"
+    schedule_sources_updated_at: null
+  - id: a7d173a2-fdac-40d5-903f-e509c5e9e34d
+    title: Newington Courts
+    address: "419 Newington Street, Newington, NH, USA"
+    lat: 43.0879424
+    lng: -70.8108383
+    coords: "0101000000083653C6E4B351C044F751B2418B4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: ""
+    access_details: No Charge
+    schedule_details: ""
+    images: []
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: united-states
+    city_id: 575785292
+    slug: newington-courts
+    path: /courts/us/new-hampshire/united-states/newington-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-08-12T11:04:04.863Z"
+    updated_at: "2024-08-12T11:18:21.445Z"
+    schedule_sources_updated_at: null
+  - id: d6bf77ba-0a43-4d0a-a99b-8f9e7d59025d
+    title: Newport LaValley Family Community Center
+    address: "17 Meadow Rd, Newport, NH 03773, USA"
+    lat: 43.3645666
+    lng: -72.1767827
+    coords: "0101000000E9BF6268500B52C0621B4C1EAAAE4540"
+    phone: "6038631332"
+    email: null
+    url: "http://www.newportrec.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: [wood]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ktL23FXSoWj88krSzXNw"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/newportnhrecreation/photos/1400814890264964"
+        attribution_html: null
+        attribution_name: Newport Recreation
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: newport
+    city_id: 1840055268
+    slug: newport-lavalley-family-community-center
+    path: /courts/us/new-hampshire/newport/newport-lavalley-family-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-12T20:28:21.947Z"
+    updated_at: "2025-07-18T09:51:22.154Z"
+    schedule_sources_updated_at: null
+  - id: "074bcac0-b143-4a67-9270-fdb0cbb1b9a8"
+    title: North Conway Community Center
+    address: "76 Norcross Cir, North Conway, NH, 03860, USA"
+    lat: 44.050668
+    lng: -71.128048
+    coords: "01010000005E143DF031C851C0147AFD497C064640"
+    phone: "6033562096"
+    email: null
+    url: "http://northconwaycommunitycenter.org/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, wheelchair accessible]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/QlqDWFQjTwew44OaYH92"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/northconway.communitycenter/photos/pb.100065008471196.-2207520000./3299488410375868/?type=3"
+        attribution_html: null
+        attribution_name: North Conway Community Center
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: north-conway
+    city_id: 1840002222
+    slug: north-conway-community-center
+    path: /courts/us/new-hampshire/north-conway/north-conway-community-center
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-24T17:09:48.461Z"
+    updated_at: "2022-12-19T11:13:30.513Z"
+    schedule_sources_updated_at: null
+  - id: d7479943-ffa0-4f0b-9a09-4ec9f179e8c9
+    title: Nottingham Community Gym
+    address: "139 Stage Rd, Nottingham, NH, 03290, USA"
+    lat: 43.119052
+    lng: -71.10166
+    coords: "0101000000EDD3F19881C651C0FF428F183D8F4540"
+    phone: "6036793435"
+    email: null
+    url: "https://www.nottingham-nh.gov/recreation-department"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 2
+    outdoor_courts: 0
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: [restrooms]
+    description: null
+    access_details: null
+    schedule_details: Closed to pickleball for the season and reopens in September.
+    images:
+      - url: "https://cdn.filestackcontent.com/Rw6bCdvcQUKRallRXR5O"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/109392450605429511504"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/109392450605429511504\">Samantha Donovan</a>"
+        attribution_name: Samantha Donovan
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: nottingham
+    city_id: 1840055357
+    slug: nottingham-community-gym
+    path: /courts/us/new-hampshire/nottingham/nottingham-community-gym
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-22T21:42:22.557Z"
+    updated_at: "2025-06-11T10:10:34.575Z"
+    schedule_sources_updated_at: null
+  - id: f995c047-9933-4b51-a2a5-ecb4f447fd9a
+    title: Owl's Nest Resort
+    address: "60 Clubhouse Ln, Thornton, NH 03285, USA"
+    lat: 43.8703525
+    lng: -71.651877
+    coords: "0101000000EF004F5AB8E951C0F5BEF1B567EF4540"
+    phone: "+16037263076"
+    email: cos@owlsnestresort.com
+    url: "https://www.owlsnestresort.com/racquet-sports/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 13
+    total_courts: 13
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms, water, wheelchair accessible, pro shop, training]
+    description: ""
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/zrcl2jskQLSnITmQIoQi"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Our Courts
+      - url: "https://cdn.filestackcontent.com/L71HYX0vT7iN7gZUXcAq"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Our Courts
+      - url: "https://cdn.filestackcontent.com/t0SYrQ4DRx24mDlaeOd8"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Our Courts
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: thornton
+    city_id: 1840055691
+    slug: owls-nest-resort
+    path: /courts/us/new-hampshire/thornton/owls-nest-resort
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-10T09:43:06.411Z"
+    updated_at: "2024-05-10T09:44:03.780Z"
+    schedule_sources_updated_at: null
+  - id: "36738bec-563a-430f-99c2-c04a31a72185"
+    title: Paddleworks Pickleball Club
+    address: "41 N Labombard Rd, Lebanon, NH, USA"
+    lat: 43.6567873
+    lng: -72.24080630000002
+    coords: "0101000000EFCAD35E690F52C0CDF6329B11D44540"
+    phone: null
+    email: info@paddleworkspickleball.com
+    url: "https://www.paddleworkspickleball.com/"
+    reservation_url: "https://app.courtreserve.com/Online/Calendar/Events/17720/Month"
+    facility_type: null
+    access: needs-audit
+    has_reservations: true
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted, pro shop, training, wheelchair accessible, youth, water, restrooms]
+    description: ""
+    access_details: Courts are available to rent by the hour as well as numerous open play options.  Various membership levels also available.
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/1cDwfUeSB275ck2afhbF"
+        source: user
+        attribution_url: "https://www.paddleworkspickleball.com/wp-content/uploads/2025/11/Diagonal_No-Columns_2.jpg"
+        attribution_html: null
+        attribution_name: Paddleworks
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: lebanon
+    city_id: 1840002192
+    slug: paddleworks-pickleball-club
+    path: /courts/us/new-hampshire/lebanon/paddleworks-pickleball-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-04-16T05:16:04.650Z"
+    updated_at: "2026-04-20T09:44:39.575Z"
+    schedule_sources_updated_at: null
+  - id: "414cd0d2-fa2c-4864-a25c-453d52fed002"
+    title: Pickleball 603
+    address: "45 Danville Rd, East Hampstead, NH 03826, USA"
+    lat: 42.892623
+    lng: -71.1346174
+    coords: "01010000003E9E4C929DC851C02654707841724540"
+    phone: "+16037651237"
+    email: pickleball603@gmail.com
+    url: "https://pickleball603.com"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 6
+    outdoor_courts: 6
+    total_courts: 12
+    has_pickleball: true
+    surface: [acrylic]
+    lines: permanent
+    nets: permanent
+    amenities: [food, locker rooms, restrooms, water, lighted, training, pro shop, wheelchair accessible]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/IYIdpBP4TMWOLji2Sd9U"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: east-hampstead
+    city_id: 1840079615
+    slug: pickleball-603
+    path: /courts/us/new-hampshire/east-hampstead/pickleball-603
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-03-15T00:24:09.587Z"
+    updated_at: "2024-04-04T08:26:38.244Z"
+    schedule_sources_updated_at: null
+  - id: "7f2fae61-73f0-4118-bc6e-5a1cf0b5bb89"
+    title: Portsmouth NH South Playground
+    address: "Junkins Ave, Portsmouth, NH, 03801, USA"
+    lat: 43.061336
+    lng: -70.766653
+    coords: "01010000005798BED710B151C0A208A9DBD9874540"
+    phone: null
+    email: null
+    url: ""
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 8
+    total_courts: 8
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/5bYqALXGQNKkmJcdeTPq"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/109457187657517769451"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/109457187657517769451\">Jennifer Saylor</a>"
+        attribution_name: Jennifer Saylor
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: portsmouth
+    city_id: 1840002932
+    slug: portsmouth-nh-south-playground
+    path: /courts/us/new-hampshire/portsmouth/portsmouth-nh-south-playground
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-02T03:15:24.055Z"
+    updated_at: "2025-05-26T06:46:57.674Z"
+    schedule_sources_updated_at: null
+  - id: "8719ac70-f79f-4439-b425-d93803dd911e"
+    title: Prescott Park
+    address: "335 Daniel Webster Hy, Meredith, NH, 03253, USA"
+    lat: 43.661076
+    lng: -71.500308
+    coords: "0101000000577BD80B05E051C0D3156C239ED44540"
+    phone: null
+    email: null
+    url: "http://www.meredithnh.org/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 12
+    total_courts: 12
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/hMG7XInQaaLVo5tDkwAw"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/photo/?fbid=10231139021120963&set=g.1530182740405256"
+        attribution_html: null
+        attribution_name: Daniel Estes
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: meredith
+    city_id: 1840055178
+    slug: prescott-park
+    path: /courts/us/new-hampshire/meredith/prescott-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-21T10:59:21.859Z"
+    updated_at: "2025-08-18T06:15:03.566Z"
+    schedule_sources_updated_at: null
+  - id: "26e93041-0b99-4790-b77e-b8b8a63a1562"
+    title: Prout Park
+    address: "202 Jewett St, Manchester, NH 03103, USA"
+    lat: 42.9783739
+    lng: -71.4384011
+    coords: "0101000000F2C17CC30EDC51C047E11F5B3B7D4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: []
+    description: City of Manchester public park and public Courts. New
+    access_details: Free
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/k4dXbc4XRAKTrh0AxlNL"
+        source: user
+        attribution_url: "https://pickleballlink.com/proud-park-manchester-nh/"
+        attribution_html: null
+        attribution_name: PickleballLink
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: manchester
+    city_id: 1840002983
+    slug: prout-park
+    path: /courts/us/new-hampshire/manchester/prout-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-04-03T05:20:36.801Z"
+    updated_at: "2025-08-15T00:55:31.844Z"
+    schedule_sources_updated_at: null
+  - id: "8040ee2d-152d-48d6-ac79-2c20f5ce43e4"
+    title: Robin Hood Park
+    address: "1 Reservoir St, Keene, NH, 03431, USA"
+    lat: 42.935568
+    lng: -72.26517
+    coords: "01010000005778978BF81052C0929735B1C0774540"
+    phone: "6033579829"
+    email: null
+    url: "http://ci.keene.nh.us/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: [hard]
+    lines: temporary
+    nets: byo
+    amenities: [restrooms, water]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/pGrrzstlRcGuE0PdepDe"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: keene
+    city_id: 1840003050
+    slug: robin-hood-park
+    path: /courts/us/new-hampshire/keene/robin-hood-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-09T10:58:31.194Z"
+    updated_at: "2022-12-19T23:29:41.483Z"
+    schedule_sources_updated_at: null
+  - id: a3eb5a2f-813d-416c-9cab-1e552ad536f4
+    title: Rock Rimmon Pickleball Courts
+    address: "Rock Rimmon Park, 264 Mason St, Manchester, NH 03102, USA"
+    lat: 42.99882094532145
+    lng: -71.48539102939567
+    coords: "0101000000AD4189A510DF51C0935B5F5DD97F4540"
+    phone: "6036246444"
+    email: null
+    url: "http://www.manchesternh.gov/Departments/Parks-and-Recreation/Parks-Facilities/Parks/Rock-Rimmon-Park"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: Restroom is portapotty
+    access_details: If using Club equipment they will ask fee
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/CnH4IX2rTZCnUL5WFyJi"
+        source: user
+        visible: true
+        attribution_url: "https://manchesterinklink.com/grand-re-opening-of-rock-rimmon-park-set-for-oct-23/"
+        attribution_html: null
+        attribution_name: Carol Robidoux
+      - url: "https://cdn.filestackcontent.com/Tl9gE4SlTHusUS98lRQz"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/116681135833061463752"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/116681135833061463752\">Tania Lupo</a>"
+        attribution_name: Tania Lupo
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: manchester
+    city_id: 1840002983
+    slug: rock-rimmon-pickleball-courts
+    path: /courts/us/new-hampshire/manchester/rock-rimmon-pickleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-20T02:43:39.557Z"
+    updated_at: "2023-04-03T05:36:29.798Z"
+    schedule_sources_updated_at: null
+  - id: b86b65f5-3746-4585-9e52-cd3cffc0bcad
+    title: Rolfe Park
+    address: "79 Community Drive, Penacook , NH 03303, USA"
+    lat: 43.2773304
+    lng: -71.5924239
+    coords: "01010000009AF7EE45EAE551C0E21703907FA34540"
+    phone: "6032258690"
+    email: null
+    url: "http://www.concordparksandrec.com"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [lighted]
+    description: ""
+    access_details: Free
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/ZKGUdZbHTT6UFB1lWPy5"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110942129093173183645"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110942129093173183645\">Anastasia Stewart (TheRealMink)</a>"
+        attribution_name: Anastasia Stewart (TheRealMink)
+      - url: "https://cdn.filestackcontent.com/AOpKzWDOSHiHWk8aNFwU"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110942129093173183645"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110942129093173183645\">Anastasia Stewart (TheRealMink)</a>"
+        attribution_name: Anastasia Stewart (TheRealMink)
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: boyce
+    city_id: 1840079517
+    slug: rolfe-park
+    path: /courts/us/new-hampshire/boyce/rolfe-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-05-29T14:41:03.356Z"
+    updated_at: "2023-11-24T08:28:27.459Z"
+    schedule_sources_updated_at: null
+  - id: "0a055ab1-f09c-4c95-aa91-f88a6153e9c6"
+    title: Rollins Park
+    address: "33 Bow St, Concord, NH, 03301, USA"
+    lat: 43.183893
+    lng: -71.538124
+    coords: "0101000000554CA59F70E251C04E7B4ACE89974540"
+    phone: "6032258690"
+    email: null
+    url: "http://www.onconcord.com/website/ConcordParks/default.htm"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 1
+    total_courts: 1
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: byo
+    amenities: [restrooms, water, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/ZlLzGztjTcq6p2c5Q56N"
+        source: user
+        visible: true
+        attribution_url: "https://s3.amazonaws.com/pointsearchwp-images/wp-content/uploads/2018/09/05190832/5.44.jpg"
+        attribution_html: null
+        attribution_name: PointSearch
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: concord
+    city_id: 1840002747
+    slug: rollins-park
+    path: /courts/us/new-hampshire/concord/rollins-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-28T04:29:58.981Z"
+    updated_at: "2023-05-30T08:41:48.627Z"
+    schedule_sources_updated_at: null
+  - id: e4c295ab-9818-4b4b-a510-807612acac84
+    title: Seacoast Fitness and Pickleball
+    address: "191 Exeter Rd, Newmarket, NH 03857, United States"
+    lat: 43.053345
+    lng: -70.93596699999999
+    coords: "0101000000A7C821E2E6BB51C0DB334B02D4864540"
+    phone: "+16036593151"
+    email: pickleball@seacoast-fitness.com
+    url: "https://seacoastfitnessandpickleball.com/pickleball/"
+    reservation_url: "https://app.courtreserve.com/"
+    facility_type: null
+    access: membership
+    has_reservations: true
+    indoor_courts: 5
+    outdoor_courts: 0
+    total_courts: 5
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, training]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/DjrjeFzaTfZkDdesLUzZ"
+        source: user
+        attribution_url: "https://www.google.com/search?q=Seacoast+Fitness+%26+Pickleball+191+Exeter+Rd%2C+Newmarket%2C+Nh%2C+03857&sca_esv=286d0914a7b01ae4&ei=MTkpabGSC5vAvr0Ps5PW8Ao&ved=0ahUKEwjx7rqnlJSRAxUboK8BHbOJFa4Q4dUDCBE&oq=Seacoast+Fitness+%26+Pickleball+191+Exeter+Rd%2C+Newmarket%2C+Nh%2C+03857&gs_lp=Egxnd3Mtd2l6LXNlcnAiQVNlYWNvYXN0IEZpdG5lc3MgJiBQaWNrbGViYWxsIDE5MSBFeGV0ZXIgUmQsIE5ld21hcmtldCwgTmgsIDAzODU3SIVvUMoFWNplcAF4AZABAJgBiQGgAfYCqgEDMC4zuAEMyAEA-AEB-AECmAIDoAKnAqgCCsICFxAAGIAEGIoFGJECGOcGGOoCGLQC2AEBwgIdEC4YgAQYigUYkQIY5wYYxwEYrwEY6gIYtALYAQHCAhAQABgDGI8BGOoCGLQC2AEBwgIJEAAYgAQYChgLwgIIEAAYgAQYogTCAggQABiJBRiiBMICBRAAGO8FwgIHEAAYgAQYDcICCxAAGIAEGIoFGIYDmAMaugYECAEYB5IHAzEuMqAH-A-yBwMwLjK4B4wCwgcFMi0xLjLIByQ&sclient=gws-wiz-serp#lpg=cid:CgIgAQ%3D%3D,ik:CAoSHENJQUJJaENsdzdJLU8tV3hQX2JfSS0wcjlYWnA%3D"
+        attribution_html: null
+        attribution_name: " joseph puccia"
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: newmarket
+    city_id: 1840055265
+    slug: seacoast-fitness-and-pickleball
+    path: /courts/us/new-hampshire/newmarket/seacoast-fitness-and-pickleball
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-11-28T06:08:55.919Z"
+    updated_at: "2025-11-28T06:08:55.919Z"
+    schedule_sources_updated_at: null
+  - id: c98b835b-2d76-4076-a7ff-eb216e0f4e85
+    title: Shady Lane
+    address: "47 Shady Ln, Nashua, NH 03062, USA"
+    lat: 42.7244089
+    lng: -71.4794083
+    coords: "0101000000957B26A0AEDE51C036374B6EB95C4540"
+    phone: "+16035893370"
+    email: recreation@nashuanh.gov
+    url: "https://www.nashuanh.gov/393/Parks-Recreation"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: [asphalt]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, lighted]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/A7ihNbbpRiuSF7PBQrLP"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: nashua
+    city_id: 1840002984
+    slug: shady-lane
+    path: /courts/us/new-hampshire/nashua/shady-lane
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-03-18T12:16:30.883Z"
+    updated_at: "2025-08-11T07:10:23.533Z"
+    schedule_sources_updated_at: null
+  - id: c3b0c684-e625-44aa-93bc-1068e0e6b125
+    title: Skate Murdough
+    address: "1165 Pine St, Contoocook, NH, 03229, USA"
+    lat: 43.209802
+    lng: -71.752196
+    coords: "0101000000A60BB1FA23F051C05551BCCADA9A4540"
+    phone: "6037465901"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 1
+    outdoor_courts: 1
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images: []
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: contoocook
+    city_id: 1840002749
+    slug: skate-murdough
+    path: /courts/us/new-hampshire/contoocook/skate-murdough
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T04:38:14.385Z"
+    updated_at: "2022-12-20T08:27:16.100Z"
+    schedule_sources_updated_at: null
+  - id: "95cd79be-baa9-4d95-b3f3-19c6e109c889"
+    title: Spinnaker Point Recreation Park
+    address: "30 Spinnaker Way, Portsmouth, NH 03801, United States"
+    lat: 43.085577
+    lng: -70.7777388
+    coords: "010100000023B5F578C6B151C01825E82FF48A4540"
+    phone: "6037661483"
+    email: null
+    url: "https://www.cityofportsmouth.com/recreation/spinnaker-point"
+    reservation_url: null
+    facility_type: public
+    access: membership
+    has_reservations: false
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: tennis
+    amenities: [restrooms, water, lighted]
+    description: NOT public. This a membership only club
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/LOD7z0sMQ5CrTuN2VA20"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: portsmouth
+    city_id: 1840002932
+    slug: spinnaker-point-recreation-park
+    path: /courts/us/new-hampshire/portsmouth/spinnaker-point-recreation-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-18T08:07:32.806Z"
+    updated_at: "2023-09-27T05:23:55.574Z"
+    schedule_sources_updated_at: null
+  - id: "79f159dd-dc4f-4c6d-be6f-b07a11cd8af7"
+    title: Stevens Park
+    address: "68 Bunker Hill Ave, Stratham, NH, 03885, USA"
+    lat: 43.004797
+    lng: -70.904924
+    coords: "010100000064575A46EAB951C0390F27309D804540"
+    phone: "6037727450"
+    email: null
+    url: "http://www.strathamnh.gov/"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/2GiKFH4jQoa3I4Intruh"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: stratham
+    city_id: 1840055601
+    slug: stevens-park
+    path: /courts/us/new-hampshire/stratham/stevens-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T03:28:13.437Z"
+    updated_at: "2025-08-21T03:29:10.217Z"
+    schedule_sources_updated_at: null
+  - id: "7b571d33-f3d7-4094-bbae-368a75e48668"
+    title: The Fieldhouse at Homestead Mills
+    address: "2 N Winchester St, Swanzey, NH, 03446, USA"
+    lat: 42.872703
+    lng: -72.329624
+    coords: "010100000082FE428F181552C0800F5EBBB46F4540"
+    phone: null
+    email: null
+    url: "https://www.thefieldhousenh.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/1UHbCv2SXaWHssdmly7L"
+        source: user
+        visible: true
+        attribution_url: "https://www.thefieldhousenh.com/"
+        attribution_html: null
+        attribution_name: THE FIELDHOUSE AT HOMESTEAD MILLS
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: swanzey
+    city_id: 1840055665
+    slug: the-fieldhouse-at-homestead-mills
+    path: /courts/us/new-hampshire/swanzey/the-fieldhouse-at-homestead-mills
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-25T18:00:27.284Z"
+    updated_at: "2022-12-19T23:18:42.386Z"
+    schedule_sources_updated_at: null
+  - id: cad0d2b5-af7a-4438-827f-7d90a0ad1bce
+    title: The Picklr Seabrook
+    address: "270 Lafayette Rd, Seabrook, NH 03874, United States"
+    lat: 42.88399889999999
+    lng: -70.8634637
+    coords: "01010000001F3240FD42B751C097993EE026714540"
+    phone: "+16035805373"
+    email: null
+    url: "https://thepicklr.com/location/seabrook/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 0
+    total_courts: 0
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms, water, pro shop, training, locker rooms]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/5m0GQvjUSYqthFMPLZwW"
+        source: user
+        attribution_url: "https://www.facebook.com/photo.php?fbid=122125181295159691&set=pb.61584790756242.-2207520000&type=3"
+        attribution_html: null
+        attribution_name: The Picklr Seabrook
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: seabrook
+    city_id: 1840055531
+    slug: the-picklr-seabrook
+    path: /courts/us/new-hampshire/seabrook/the-picklr-seabrook
+    is_hidden: false
+    is_deleted: false
+    created_at: "2026-06-25T10:31:01.476Z"
+    updated_at: "2026-06-25T10:31:01.476Z"
+    schedule_sources_updated_at: null
+  - id: be499434-f714-425b-8710-251797135dbb
+    title: Tuck Field at Eaton Park
+    address: "38 Park Ave, Hampton, NH, USA"
+    lat: 42.9339143
+    lng: -70.8351986
+    coords: "01010000008F2AD4E473B551C024E2F7808A774540"
+    phone: "+16039266766"
+    email: null
+    url: "https://www.hamptonnh.gov/386/Parks-Facilities"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: ""
+    access_details: No Fees
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/IIRUvV7nQl2Y28RIa2Ww"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: hampton
+    city_id: 1840054955
+    slug: tuck-field-at-eaton-park
+    path: /courts/us/new-hampshire/hampton/tuck-field-at-eaton-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-03-12T03:33:44.408Z"
+    updated_at: "2025-10-14T08:45:47.265Z"
+    schedule_sources_updated_at: "2024-08-08T09:21:54.832Z"
+  - id: bf346a50-2538-4e5a-81aa-bc453d827d0f
+    title: Tuftonboro Central School
+    address: "205 Middle Rd, Center Tuftonboro, NH, 03816, USA"
+    lat: 43.664612
+    lng: -71.253068
+    coords: "010100000081EA1F4432D051C0BB438A0112D54540"
+    phone: null
+    email: null
+    url: "https://www.tuftonborocentralschool.com/"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: 3
+    outdoor_courts: 0
+    total_courts: 3
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: byo
+    amenities: [lighted]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/g0grFiVBQbOEMYAx31yh"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/113837403339833828559"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/113837403339833828559\">JB The Milker</a>"
+        attribution_name: JB The Milker
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: center-tuftonboro
+    city_id: 1840079548
+    slug: tuftonboro-central-school
+    path: /courts/us/new-hampshire/center-tuftonboro/tuftonboro-central-school
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-03-27T10:59:05.608Z"
+    updated_at: "2022-12-20T08:31:43.560Z"
+    schedule_sources_updated_at: null
+  - id: "7d5fc0c5-0f1c-468a-8e5e-1cee39cca2cc"
+    title: UNH - University of New Hampshire
+    address: "5 Edgewood Road Durham, NH 03824, USA"
+    lat: 43.139013
+    lng: -70.9332367
+    coords: "0101000000537B6C26BABB51C0035C902DCB914540"
+    phone: "+16038622031"
+    email: null
+    url: "https://campusrec.unh.edu/facilities/tennis-pickleball-courts"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 5
+    total_courts: 5
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: permanent
+    amenities: [restrooms]
+    description: Courts have over heard lights that can be turned on when night arises until 1030
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/c3VJ9AghTcLj6yHzJ7KS"
+        source: user
+        attribution_url: "https://campusrec.unh.edu/sites/default/files/styles/max_width_1200px/public/media/2022-09/tennis-and-pickleball-courts.jpg?itok=POMWtc7P"
+        attribution_html: null
+        attribution_name: Campus Recreation
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: durham
+    city_id: 1840054805
+    slug: unh-university-of-new-hampshire
+    path: /courts/us/new-hampshire/durham/unh-university-of-new-hampshire
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-20T11:00:36.995Z"
+    updated_at: "2024-08-05T07:11:41.291Z"
+    schedule_sources_updated_at: null
+  - id: "7b1f36b9-d81d-4652-adfa-df5a7821d9e9"
+    title: Wasserman Park
+    address: "116 Naticook Rd, Merrimack, NH, 03054, USA"
+    lat: 42.82153
+    lng: -71.53083
+    coords: "0101000000156F641EF9E151C0695721E527694540"
+    phone: "6038821046"
+    email: null
+    url: "http://merrimack.patch.com/listings/wasserman-park"
+    reservation_url: null
+    facility_type: public
+    access: free
+    has_reservations: null
+    indoor_courts: 0
+    outdoor_courts: 14
+    total_courts: 14
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water]
+    description: ""
+    access_details: null
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/p5EF1doNQY6m0ubEAtpY"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: merrimack
+    city_id: 1840080351
+    slug: wasserman-park
+    path: /courts/us/new-hampshire/merrimack/wasserman-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-04T21:31:01.228Z"
+    updated_at: "2025-08-19T08:55:09.567Z"
+    schedule_sources_updated_at: null
+  - id: "3676224f-d5af-422f-999d-c37fb16b63c2"
+    title: West High School
+    address: "Jack Amero Way, Manchester, NH, USA"
+    lat: 42.986793
+    lng: -71.4733
+    coords: "0101000000984C158C4ADE51C0FB75A73B4F7E4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 3
+    total_courts: 3
+    has_pickleball: true
+    surface: [asphalt, concrete]
+    lines: permanent
+    nets: tennis
+    amenities: []
+    description: ""
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/aJPsUfkxT7O3CfcMeHZh"
+      - url: "https://cdn.filestackcontent.com/O8O3AWWXSjoT0Xy3O0Zg"
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: manchester
+    city_id: 1840002983
+    slug: west-high-school-tennispckleball-courts
+    path: /courts/us/new-hampshire/manchester/west-high-school-tennispckleball-courts
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-14T11:53:26.455Z"
+    updated_at: "2024-05-14T11:55:04.783Z"
+    schedule_sources_updated_at: null
+  - id: c21905b3-60d8-45d3-894f-d3f0706f620c
+    title: Westwood YMCA
+    address: "90 Northwest Blvd, Nashua, NH 03063, USA"
+    lat: 42.7958144
+    lng: -71.54068099999999
+    coords: "010100000063247B849AE251C0CAD70A3FDD654540"
+    phone: "+16034022258"
+    email: null
+    url: "https://nmymca.org/locations/westwood-park-branch/"
+    reservation_url: null
+    facility_type: null
+    access: membership
+    has_reservations: false
+    indoor_courts: 6
+    outdoor_courts: 0
+    total_courts: 6
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [locker rooms, restrooms, water, training]
+    description: ""
+    access_details: $15 for non-members
+    schedule_details: "When school is out, the schedule changes and limited courts are available. Friday is also open 5PM-8PM."
+    images: []
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: nashua
+    city_id: 1840002984
+    slug: westwood-ymca
+    path: /courts/us/new-hampshire/nashua/westwood-ymca
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-03-15T00:26:15.779Z"
+    updated_at: "2024-03-15T00:26:15.779Z"
+    schedule_sources_updated_at: null
+  - id: a4281873-5de8-4988-adfd-29a5b7a448da
+    title: White Mountain Hotel and Resort
+    address: "87 Fairway Drive, North Conway, NH, USA"
+    lat: 44.0540393
+    lng: -71.1647136
+    coords: "0101000000364DE9AA8ACA51C0701981C2EA064640"
+    phone: "6033567100"
+    email: null
+    url: "http://www.whitemountainhotel.com/"
+    reservation_url: null
+    facility_type: null
+    access: one-time
+    has_reservations: true
+    indoor_courts: 0
+    outdoor_courts: 2
+    total_courts: 2
+    has_pickleball: true
+    surface: []
+    lines: permanent
+    nets: permanent
+    amenities: [food, restrooms]
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/WfVCnwTfa8fX9LqywzMg"
+        source: user
+        visible: true
+        attribution_url: "https://www.facebook.com/WhiteMountainHotel/photos/pb.100063916658962.-2207520000./10157623919410723/?type=3"
+        attribution_html: null
+        attribution_name: The White Mountain Hotel & Resort
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: north-conway
+    city_id: 1840002222
+    slug: white-mountain-hotel-and-resort
+    path: /courts/us/new-hampshire/north-conway/white-mountain-hotel-and-resort
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-10T00:50:05.558Z"
+    updated_at: "2023-04-06T04:55:42.509Z"
+    schedule_sources_updated_at: null
+  - id: "79769e8b-2417-425e-9ff9-d3864ea19cbc"
+    title: White Mountain Pickleball Club
+    address: "557 U.S. 3 unit b, Lincoln, NH 03251, USA"
+    lat: 44.076564
+    lng: -71.6848748
+    coords: "0101000000B1F61CFDD4EB51C0850662D9CC094640"
+    phone: "603-722-0754"
+    email: info@whitemountainpickleball.com
+    url: "http://www.whitemountainpickleball.com"
+    reservation_url: ""
+    facility_type: null
+    access: one-time
+    has_reservations: false
+    indoor_courts: 4
+    outdoor_courts: 0
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard, concrete]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms, water, lighted, training]
+    description: ""
+    access_details: "Various membership levels. Non members pay for court time.\nMembers use Court Reserve app to book court time."
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/CzvJ3ftmTvSCuHoYDVHO"
+        source: google-places
+        attribution_url: "https://maps.google.com/maps/contrib/103403940164262353591"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/103403940164262353591\">Jillian Twohig-Cerqueira</a>"
+        attribution_name: Jillian Twohig-Cerqueira
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: lincoln
+    city_id: 1840055093
+    slug: white-mountain-pickleball-club
+    path: /courts/us/new-hampshire/lincoln/white-mountain-pickleball-club
+    is_hidden: false
+    is_deleted: false
+    created_at: "2025-09-23T06:56:03.276Z"
+    updated_at: "2025-09-23T07:06:23.847Z"
+    schedule_sources_updated_at: null
+  - id: d90af498-0c92-44e9-99f9-898e1a4f5f55
+    title: Woodlock Park
+    address: "27-99 Woodlock Park Ln, Atkinson, NH 03811, USA"
+    lat: 42.8375431
+    lng: -71.1774235
+    coords: "0101000000AE8218E85ACB51C0C7BEBF9C346B4540"
+    phone: null
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 4
+    total_courts: 4
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: []
+    description: "4 pickleball courts on the 2 tennis courts. 2 Portable nets. Upgrades coming to courts spring of 2023"
+    access_details: ""
+    schedule_details: ""
+    images:
+      - url: "https://cdn.filestackcontent.com/492a0JeQQHaGozpzW9wf"
+        source: user
+        visible: true
+        attribution_url: null
+        attribution_html: null
+        attribution_name: Pictometry
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: atkinson
+    city_id: 1840054547
+    slug: woodlock-park
+    path: /courts/us/new-hampshire/atkinson/woodlock-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2023-02-09T21:27:03.820Z"
+    updated_at: "2023-02-09T21:29:38.816Z"
+    schedule_sources_updated_at: null
+  - id: "6666f8a3-4caa-4913-9f21-d548d73b61c3"
+    title: Woodridge Park
+    address: "6 Meserve Rd, Durham, NH 03824, USA"
+    lat: 43.12456299999999
+    lng: -70.952012
+    coords: "01010000009259BDC3EDBC51C053A52DAEF18F4540"
+    phone: null
+    email: null
+    url: "https://www.ci.durham.nh.us/boc_conservation/father-lawless-fields-woodridge-park"
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: false
+    indoor_courts: 0
+    outdoor_courts: 5
+    total_courts: 5
+    has_pickleball: true
+    surface: [hard]
+    lines: permanent
+    nets: portable
+    amenities: [restrooms]
+    description: "There are 5 courts within the tennis courts that have pickleball lines and rolling nets PLUS one with permanent lines but no fencing or nets.\n\nOpen dawn to dusk.\n\nParking area\nPlayground\nSkateboard park\nBaseball and soccer fields\n4 Tennis courts and 2 half-court basketball courts\nExercise/stretching area\nPicnic tables, benches, portable toilet (seasonal)"
+    access_details: null
+    schedule_details: "Connect with \"Driveway Bangers Club\" on Pickleheads for weekly 3.0+ sessions or \"Durham Future Bangers\" group for 2.0-2.75 level sessions.."
+    images:
+      - url: "https://cdn.filestackcontent.com/XHr6BDWXRxCUP8TRuLdy"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+      - url: "https://cdn.filestackcontent.com/WlT1NiNFR4Z1MdDLJfbH"
+        source: user
+        attribution_url: null
+        attribution_html: null
+        attribution_name: null
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: durham
+    city_id: 1840054805
+    slug: woodridge-park
+    path: /courts/us/new-hampshire/durham/woodridge-park
+    is_hidden: false
+    is_deleted: false
+    created_at: "2024-05-30T15:06:05.661Z"
+    updated_at: "2026-05-15T05:32:58.438Z"
+    schedule_sources_updated_at: null
+  - id: b72be185-07a3-4c58-8d10-9d6df3b6c16b
+    title: "Woodward Park, New London"
+    address: "191 Parkside Rd, New London, NH, 03257, USA"
+    lat: 43.414677
+    lng: -71.993002
+    coords: "010100000035B742588DFF51C0A2B3CC2214B54540"
+    phone: "6038631436"
+    email: null
+    url: null
+    reservation_url: null
+    facility_type: null
+    access: free
+    has_reservations: null
+    indoor_courts: null
+    outdoor_courts: 6
+    total_courts: 6
+    has_pickleball: true
+    surface: []
+    lines: temporary
+    nets: byo
+    amenities: []
+    description: null
+    access_details: null
+    schedule_details: null
+    images:
+      - url: "https://cdn.filestackcontent.com/kaKNBqXATMGY5eLhTUYA"
+        source: google-places
+        visible: true
+        attribution_url: "https://maps.google.com/maps/contrib/110990520841615889274"
+        attribution_html: "<a href=\"https://maps.google.com/maps/contrib/110990520841615889274\">Ben Tolosa</a>"
+        attribution_name: Ben Tolosa
+    country_slug: us
+    state_slug: new-hampshire
+    city_slug: new-london
+    city_id: 1840055261
+    slug: woodward-park-new-london
+    path: /courts/us/new-hampshire/new-london/woodward-park-new-london
+    is_hidden: false
+    is_deleted: false
+    created_at: "2022-04-07T04:14:51.554Z"
+    updated_at: "2022-07-12T07:38:45.721Z"
+    schedule_sources_updated_at: null
