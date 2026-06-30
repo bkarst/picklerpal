@@ -83,6 +83,36 @@ These are 3+ word phrases with lower search volume (1K–10K or under) that are 
 
 ---
 
+## 🏆 Category 4: Leagues, Tournaments & Organizer Tools
+
+> *Added 2026-06-30 from a live Keyword Planner pull (US, Jun 2025–May 2026). These organizer/event terms were absent from the original 195-keyword "pickleball" seed analysis above. Bid ranges are included because they reveal commercial intent that search volume alone hides.*
+
+This category splits into **two distinct demand pools** with very different economics:
+
+- **Pool A — Event Finder (consumers looking to *join*).** Real volume, low competition, near-zero CPC (advertisers don't value the clicks → cheap organic ranking). Acquisition traffic, same shape as the court finder.
+- **Pool B — Organizer Tools (people who *run* events).** Low volume, but bids 100–300× higher — these searchers convert to recurring SaaS revenue. Few visitors, each worth a lot.
+
+| Keyword | Avg. Monthly Searches | YoY | Competition | Top-of-page bid (low–high) | Pool |
+|---|---|---|---|---|---|
+| pickleball tournament | 10K – 100K | 0% | **Low** | $0.01 – $0.04 | A (find) |
+| pickleball tournaments near me | 1K – 10K | **+900%** 🔥 | **Low** | $0.01 – $1.16 | A (find) |
+| pickleball leagues near me | 1K – 10K | 0% | **Low** | $0.68 – $3.03 | A (find) |
+| pickleball league | 1K – 10K | 0% | **Low** | $0.67 – $3.56 | A (find) |
+| pickleball tournament registration | 100 – 1K | **+900%** 🔥 | **Low** | — | A (transact) |
+| pickleball tournament software | 1K – 10K | 0% | **Low** | $1.66 – $4.90 | B (tool) |
+| round robin generator | 1K – 10K | 0% | **Low** | $0.64 – $5.83 | B (tool) |
+| pickleball round robin generator | 100 – 1K | 0% | **Low** | $0.57 – $6.92 | B (tool) |
+| pickleball round robin | 100 – 1K | 0% | **Low** | — | B (tool) |
+| pickleball league software | 10 – 100 | 0% | **Low** | **$2.68 – $12.50** | B (tool) |
+| pickleball bracket maker | 10 – 100 | 0% | **Low** | — | B (tool) |
+| pickleball ladder | 10 – 100 | −90% | **Low** | — | B (tool) |
+
+**Everything here is Low competition** — nobody is bidding hard. Volume lives on the consumer side ("pickleball tournament," 10K–100K, trending +900% on the "near me" variants); *money* lives on the organizer side (the $5–$12.50 tool bids).
+
+**Strategic read:** bundle an event *finder* into the directory (cheap, low-comp, +900% trending), ship a *free* round-robin/bracket generator as the organizer acquisition wedge (targets the high-CPC tool terms), then monetize acquired organizers with a paid leagues/ladders/tournament-management SaaS (subscription + player-funded loop, and/or per-registration take-rate).
+
+---
+
 ## Key Takeaways
 
 **Most overlooked opportunity:** The local/facility long-tails like "pickleball near me indoor," "pickleball park near me," and "indoor pickleball court near me" are massive-volume *or* low-competition phrases that businesses (courts, clubs, gyms) almost completely ignore in their content.
@@ -90,3 +120,7 @@ These are 3+ word phrases with lower search volume (1K–10K or under) that are 
 **Fastest growing hidden gems:** "selkirk pickleball rackets" (+900% YoY, Low comp) and "franklin x 40 outdoor pickleballs" (+900% YoY, Medium comp) are trending hard with almost no competitive resistance.
 
 **Biggest gap:** The instructional content space — "pickleball strategies," "pickleball for beginners," "history of pickleball," "pickleball coach near me" — is massively underserved relative to the gear/equipment keyword space, which is saturated with High competition.
+
+**Highest commercial intent (per CPC):** Organizer-tool terms — "pickleball league software" ($2.68–$12.50 top bid), "pickleball round robin generator" (up to $6.92), "round robin generator" (up to $5.83) — carry bids 100–300× the consumer terms despite tiny volume, signaling high-LTV SaaS buyers. Acquire them with a *free* generator tool rather than direct SEO (search volume is too small to target directly), then upsell paid management features (see Category 4).
+
+**Trending event discovery:** "pickleball tournaments near me" and "pickleball tournament registration" are both **+900% YoY** at Low competition — a fast-growing, uncontested event-finder opportunity that reuses the same programmatic directory template as the court finder.
