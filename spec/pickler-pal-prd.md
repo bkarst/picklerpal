@@ -44,13 +44,14 @@
 | Payments | **Stripe** | Checkout + Payment Intents for registration fees; Connect (Express) for paying out organizers; webhooks → DynamoDB (idempotent). |
 | Search (geo) | **Geohash GSI** on the table | Radius "near me" search (§9.7). No external search engine in v1; directory pages are static, not query-driven. |
 | Media | **S3 + CloudFront** | Court photos, avatars, OG images. On-the-fly OG image generation via Next.js `ImageResponse`. |
-| Auth | **Cognito / Auth.js** | Email + OAuth; anonymous check-ins need *no* account (ephemeral token). |
+| Auth | **Firebase Auth** | Email/password + OAuth (Google/Apple); **Firebase sends email verification + password-reset** and provides 2FA. The client holds a Firebase **ID token**, verified server-side in route handlers (Admin SDK) to authorize writes. Anonymous check-ins need *no* account (ephemeral token). |
 | Analytics | **PostHog · GA4 · Google Search Console** | PostHog = product analytics, funnels, retention, flags/experiments (client SDK + **server SDK**); GA4 = site-wide web analytics (anonymous directory + logged-in app); Search Console = organic-search performance + index-coverage monitoring. Consent-gated; kept off the CWV critical path (§3.8). Instrumentation rules + event taxonomy in **§2.1**; North Star/metrics in [`picklerpal-strategy.md`](./picklerpal-strategy.md). |
 | Ads | **Google AdSense** | Display ads on **free content-rich indexable** pages only (directory · content · news · finders · public detail); **never** on checkout/console/account/homepage. Reserved CWV-safe slots, consent-gated (Consent Mode v2), `ads.txt`. See **§2.2**. |
 | Hosting | **Vercel or SST/AWS** | ISR + edge caching for directory pages. |
 
 **Architectural rules:**
 - **Indexable pages never depend on a logged-in session.** Personalization (your check-in state, RSVP state) hydrates client-side over a static shell so the crawlable HTML is complete.
+- **Static generation scales by tier, not all-at-build.** The high-traffic head (top cities, courts, content) is **pre-rendered at build**; the long tail (~16K courts + cities/types/amenities) uses **on-demand ISR** (`fallback: 'blocking'`) — a page generates on first request, then caches and revalidates per its ISR window; segmented sitemaps warm the cache. Building every page at deploy is **not** assumed. (Confirm the exact API against the customized Next.js — AGENTS.md.)
 - **Reads are cheap and pre-shaped.** The table is modeled for the read patterns of each view (§9.5); we denormalize aggressively and reconcile via Streams.
 - **Writes are funneled through API route handlers** that own validation, Stripe calls, and transactional integrity.
 - **Confirmed events are emitted server-side.** The revenue/play events that define the funnel (payment success, registration confirmed, check-in, RSVP) fire from the route handlers / Stripe webhook / DynamoDB Streams — never only the browser — so adblock and client drop-off don't undercount conversions (§2.1).
@@ -153,7 +154,7 @@ Dynamic OG image per page via `ImageResponse` (1200×630).
 
 **3.5 Internal linking** (the graph): every court → nearby courts + nearby cities; every city → its courts + neighboring cities; every outing/tournament → its court; content articles → relevant courts/cities/guides; homepage directory → top of the graph (**PH §6.5, §14.5**).
 
-**3.6 Freshness signals:** live check-in counts, upcoming-game schedules, "last verified" dates, month-stamped content, ISR revalidation. Perpetually-updating pages (**PH §14.5**).
+**3.6 Freshness signals:** recent (same-day) check-ins, upcoming-game schedules, new reviews, month-stamped content, ISR revalidation. Perpetually-updating pages (**PH §14.5**). *(No live/"playing now" presence — a check-in is a same-day record, not a real-time signal (§6.2). "Last verified" dates are **not** shown until a re-verification cadence exists — court-admin deferred.)*
 
 **3.7 Crawl management:** `robots.txt` disallows `/api/`, `/account/*`, `/search?*` (parameterized), `/round-robin/*/live`, Stripe callback routes; allows the directory + content. Segmented `sitemap.xml` (courts, cities, states, countries, tournaments, leagues, groups, content, news), regenerated on a schedule. **`ads.txt`** at the domain root declares the AdSense publisher ID (§2.2).
 
@@ -220,7 +221,7 @@ Persistent top nav (mirrors PH's intent-segmented mega-menus, **PH §3**, but ti
 │   /account/registrations          My event registrations + receipts (auth)
 │   /account/payments               Payment methods (Stripe) (auth)
 │   /account/courts                 Saved / followed courts (auth)
-│   /account/alerts                 Notifications & alert preferences (auth)
+│   /account/alerts                 Notifications & alert prefs (auth) — DEFERRED (separate Notifications PRD)
 │   /account/settings               Account & security (password, 2FA, delete) (auth)
 │
 ├── AUTH & ONBOARDING ───────────────────────────────────────────
@@ -266,6 +267,8 @@ Persistent top nav (mirrors PH's intent-segmented mega-menus, **PH §3**, but ti
 │   /leagues/[leagueId]/register                Registration → Stripe (auth)
 │   /leagues/[leagueId]/standings               Standings + schedule
 │   /leagues/[leagueId]/my-team                 Participant console (auth)
+│   /ladders                                    Ladder hub + finder (SEO)
+│   /ladders/[country]/[state]/[city]           Ladder location finder (SEO)
 │   /ladders/[ladderId]                         Ladder detail (rankings)
 │   /ladders/[ladderId]/challenges              My challenges (auth)
 │   /organize/leagues/new                       Create league/ladder (auth)
@@ -291,7 +294,7 @@ Persistent top nav (mirrors PH's intent-segmented mega-menus, **PH §3**, but ti
   - Hero search box ("Search courts, cities, games…") with typeahead.
   - **Geo-IP local snapshot** chips: "{N} courts near you," "{N} games this week," "See all in {City}" → links to the visitor's city page.
   - Rail of upcoming local **outings** (date, time, court).
-  - "Playing now" live ticker (aggregate check-ins in the metro).
+  - "Checked in today" strip (count of players who checked in across the metro today — a daily tally, not live presence).
   - **Programmatic directory** block — tabs: Cities · States · Countries · Court Types · Amenities — each card shows Locations / Courts / Games counts → deep links into the graph.
   - Content-hub teasers (how-to, gear, news) and a "Run a free round robin" CTA.
   - Stat band + FAQ accordion (FAQ JSON-LD).
@@ -331,7 +334,7 @@ Persistent top nav (mirrors PH's intent-segmented mega-menus, **PH §3**, but ti
 - **Contents:**
   - **Header:** name, court count (indoor/outdoor/total), access badge (free / membership / one-time / reservation), facility type (public/club/school/private), hero photo (with credit when the source requires attribution), **Follow** + **Check In** + **Add an Outing** actions, sidebar (embedded map, address, phone, website, **reserve** link when available).
   - **Description** + **Surface & Features** (lines, nets, surface material(s), indoor/outdoor court counts, lighting, amenities).
-  - **"Playing now"** live count + recent check-ins (anonymous shown as "A player") — freshness.
+  - **"Checked in today"** — recent same-day check-ins (anonymous shown as "A player"); a daily record, not live presence ("checked in" ≠ "currently playing") — freshness.
   - **Community band:** "{N} players · {N} games · {N} reviews · {N} groups" aggregates.
   - **Upcoming Games** weekly grid (Today→+6d), All/Open-Play filter, "+ add a game" affordance on empty slots (organizer on-ramp, **PH §6.2**).
   - **Reviews** module (§6.4): avg stars, rating histogram, review list, "Write a review."
@@ -351,20 +354,20 @@ Persistent top nav (mirrors PH's intent-segmented mega-menus, **PH §3**, but ti
 
 ### 6.2 Check-ins / Anonymous Check-ins
 
-**Why:** turns static court pages into *live* pages (freshness for SEO + social proof + retention). The "playing now" signal is a differentiator (**PH** has follows/RSVPs but PicklerPal makes presence first-class).
+**Why:** turns static court pages into *fresh* pages (freshness for SEO + social proof + retention) — a same-day record of who's been checking in. *(v1 makes no real-time "playing now" claim; a check-in shows someone was here today, not that they're on court now.)*
 
 #### View: Check-In Action (component on Court Detail) — action on `/courts/.../[court]`
 - **Render:** CSR widget · **Auth:** optional (anonymous allowed)
 - **Purpose:** one-tap "I'm playing here now."
 - **Contents:**
-  - Logged-in: "Check in" button → sets presence with **TTL expiry** (default 3h), optional note ("open play, 3.0–3.5"), optional skill + "looking for a 4th" flag.
-  - **Anonymous:** "Check in without an account" → issues an ephemeral browser token, creates a TTL'd anonymous check-in (counts toward "playing now," shown as "A player"). Upsell: "Create a profile to be visible & get invited."
-  - Live count + avatar/initial row of current check-ins; "checked in X min ago."
+  - Logged-in: "Check in" button → records a **same-day check-in** (a durable CHECKIN item, **no presence TTL**), optional note ("open play, 3.0–3.5"), optional skill, optional "looking to play" flag.
+  - **Anonymous:** "Check in without an account" → issues an ephemeral browser token, creates an anonymous check-in (counts toward "checked in today," shown as "A player"). Upsell: "Create a profile to be visible & get invited."
+  - Today's count + avatar/initial row of recent check-ins; "checked in at h:mm."
 - **Links to:** profiles of checked-in players (if public), "Start an outing here," sign-up.
-- **Data:** `CHECKIN` items with `expiresAt` TTL (§9). Live count via time-windowed query or maintained counter.
+- **Data:** durable `CHECKIN` items (§9; **no presence TTL**). Today's list = same-day check-ins for the court; "checked in today" count via a day-bucketed counter (§9.4).
 
-#### View: "Who's playing now" (section on Court + City pages)
-- **Render:** ISR shell + CSR count refresh · **Contents:** aggregate count per court; city page rolls up metro-wide "X players checking in today." **SEO value:** dynamic, ever-changing content block.
+#### View: "Checked in today" (section on Court + City pages)
+- **Render:** ISR shell (no live refresh / no polling) · **Contents:** same-day check-in list + count per court; city page rolls up metro-wide "X players checked in today." Updates on ISR revalidation, not in real time. **SEO value:** day-fresh, ever-changing content block.
 
 #### View: My Check-in History — `/account/checkins`
 - **Render:** SSR · **Auth:** required · **Contents:** chronological list of courts you've checked into, frequency stats, "favorite courts," re-check-in shortcut. **Links to:** court details, follow prompts.
@@ -483,10 +486,10 @@ Persistent top nav (mirrors PH's intent-segmented mega-menus, **PH §3**, but ti
 
 **Why:** the single highest-ROI organizer acquisition feature (**KW Cat 4** — "round robin generator" CPC up to $5.83, "pickleball round robin generator" up to $6.92, Low comp). Free, no account needed, public shareable results → ranks AND captures organizers, then on-ramps to paid (**PH §9.2**).
 
-**Engine — formats, generation & scoring.** The generator is the free wedge; this specs *what it computes*. One pipeline for every format: **entrants → format + params → schedule → score entry → standings → champion.** Generation is **seeded** (a stored `rngSeed`) so "Shuffle" is reproducible and a shared event renders identically for every viewer.
+**Engine — formats, generation & scoring.** The generator is the free wedge; this specs *what it computes*. One pipeline for every format: **entrants → format + params → schedule → score entry → standings → champion.** Generation is **seeded** (a stored `rngSeed`): **static** schedules are a pure function of the seed (so "Shuffle" is reproducible and the event renders identically for every viewer); **dynamic** schedules (E3/E4/E5-bracket) are a deterministic function of the seed **plus the confirmed scores so far**.
 
 - **Entry mode:** `SINGLES` (1v1) or `DOUBLES` (2v2). Doubles has a **partner mode** — `FIXED` (partners stay together; *entrants are teams*) or `ROTATING` (partners change each round; *entrants are individuals*, standings individual).
-- **Params:** `pointsTo` (11/15/21) · `winBy` (1/2) · optional `hardCap` · optional `timeCapSec` (high score at the buzzer; ties allowed if enabled) · `courts C` · `rounds` (auto or set) · `seedBy` (rating/random) · `twice` (RR plays every opponent twice).
+- **Params:** `pointsTo` (11/15/21) · `winBy` (1/2) · optional `hardCap` · optional `timeCapSec` (high score at the buzzer; **a single tiebreak point settles a buzzer tie — no draws in v1**, so standings stay strictly W-L) · `courts C` · `rounds` (auto or set) · `seedBy` (rating/random) · `twice` (RR plays every opponent twice).
 
 **Five engines back the gallery:**
 
@@ -503,16 +506,16 @@ Persistent top nav (mirrors PH's intent-segmented mega-menus, **PH §3**, but ti
 
 **Generation, per engine:**
 - **E1 (circle method):** entrants `0..N-1`; if `N` is odd add a `BYE` entrant. Fix `0`, rotate the rest each round; round `r` pairs position `i` with `N-1-i`. → `N-1` rounds × `⌊N/2⌋` matches, everyone meets once; `twice` mirrors for `2(N-1)`. A pairing vs `BYE` = a sit-out.
-- **E2 (mixer):** objective in priority order — (1) **no repeat partner** until all pairs are used, (2) **minimize repeat opponents**, (3) **balance games played**. Use **precomputed balanced tables** for common sizes (≈4–24 — the published individual-doubles / Whist charts clubs use); otherwise a **greedy-with-repair** generator (each round minimize `w₁·repeatPartner + w₂·repeatOpponent`, give most-byed entrants priority to play, then a local-search pass to cut repeats). **Popcorn** = same engine, randomized greedy with a **hard no-repeat-partner** constraint and random tie-breaks, for a chosen round count (needn't complete a full design).
+- **E2 (mixer):** objective in priority order — (1) **no repeat partner** until all pairs are used, (2) **minimize repeat opponents**, (3) **balance games played**. Use **precomputed balanced tables** for common sizes (≈4–24 — the published individual-doubles / Whist charts clubs use); otherwise a **greedy-with-repair** generator (each round minimize `w₁·repeatPartner + w₂·repeatOpponent`, give most-byed entrants priority to play, then a local-search pass to cut repeats). **Popcorn** = same engine, randomized greedy with a **hard no-repeat-partner** constraint and random tie-breaks, for a chosen round count (needn't complete a full design); the round count is **capped at the feasible maximum for the entry count** — you cannot exceed the unique-partner ceiling (e.g. 4 players → 3 rounds max) — surfaced in the live preview.
 - **E3 (court movement):** courts ranked `1..C` (1 = top). Wants ≈ `4·C` players; surplus wait in a **rotating sub box**. Each round = one (usually time-capped) game per court with fresh partners. After each game — *Up & Down*: winners → court above, losers → below (court 1 winners & court C losers hold); *King of the Court*: winners → court 1 (or hold), losers → bottom. Partners reassigned on arrival. Next round computed from results (dynamic). Standings = individual games won.
 - **E4 (Swiss):** seed by rating/random. Round 1 by seed (`Gauntlet` seeds to "climb"); later rounds pair **nearest record**, never repeating a pairing, balancing byes (≤ 1 bye/entrant). Runs `R` rounds (default `⌈log₂N⌉`, organizer-set). Dynamic.
 - **E5 (pool → bracket):** snake-seed entrants into `P` pools; each runs E1; top `k`/pool seed a single/double-elimination **bracket** (reuses the §7.1 bracket renderer). Static pools, dynamic bracket.
 
 **Courts & byes (all formats):** concurrent matches per round are capped at `C`; extra matches run in **waves** (timeslots) within the round, or — when entrants exceed playable slots — the surplus **sits (bye)**. **Bye fairness:** no one gets a second bye until everyone's had one (track `byeCount`; prioritize the most-byed to play). Movement formats pin entrants to specific courts by rule.
 
-**Standings & champion:** canonical tiebreak ladder — **1) Wins** (win % when games played differ via byes) → **2) point differential** → **3) points for** → **4) head-to-head** → **5) fewest byes** → **6) seed/random**. Rotating/mixer aggregate **individually** across rounds; pool→bracket = pool standings then bracket result. **Champion** = standings leader (or bracket winner). Standings **materialize** on each score write (§9.4).
+**Standings & champion:** canonical tiebreak ladder — **1) Wins** (win % when games played differ via byes) → **2) point differential** → **3) points for** → **4) head-to-head** (only where the tied entrants met as opponents a set number of times — E1/E4/E5; **skipped for rotating/mixer** E2/E3, which fall through to the next rung) → **5) fewest byes** → **6) seed/random**. Rotating/mixer aggregate **individually** across rounds; pool→bracket = pool standings then bracket result. **Champion** = standings leader (or bracket winner). Standings **materialize** on each score write (§9.4).
 
-**Lifecycle & edits:** **static** schedules (E1/E2/E5-pools) generate fully up front; **dynamic** (E3/E4/E5-bracket) generate the next round on advance from confirmed scores. **Shuffle** = a new `rngSeed` on a not-yet-started schedule. **Late add** → into the remaining bye rotation (static) or next pairing (dynamic); **drop** → removed from future rounds (played results stand). Any participant may enter a score (**optimistic**; conflicting entries flag for resolution). Link-shared events stay editable by anyone until **claimed**.
+**Lifecycle & edits:** **static** schedules (E1/E2/E5-pools) generate fully up front; **dynamic** (E3/E4/E5-bracket) generate the next round on advance from confirmed scores. **Shuffle** = a new `rngSeed` on a not-yet-started schedule. **Late add** → for **static** formats the entrant joins as an **alternate that only fills byes** (the core pairing design is not regenerated); for **dynamic** formats it enters the next computed pairing. **Drop** → removed from future rounds (played results stand). Any participant may enter a score (**optimistic**; conflicting entries flag for resolution). Link-shared events stay editable by anyone until **claimed**.
 
 **Validation (per format):** doubles ≥ 4 players; fixed doubles need an even team count; mixer best 4–24 (warn past balanced-table coverage → greedy); court movement wants players ≈ `4·C` (else a rotating sub box); Swiss needs ≥ `2·R` entrants; pool→bracket needs ≥ 2 pools × bracket size; `courts ≥ 1`, `rounds ≥ 1`.
 
@@ -532,14 +535,14 @@ Persistent top nav (mirrors PH's intent-segmented mega-menus, **PH §3**, but ti
 - **Links to:** `/organize/leagues/new` (prefilled from roster), `/organize/tournaments/new`.
 
 #### View: Run Console — `/round-robin/[eventId]/live`
-- **Render:** CSR · **noindex** · **Contents:** fast score entry (any player can enter), **round advance** — preset next round for static formats, computed next round for dynamic (E3 court movement / E4 Swiss / E5 bracket) — court assignments, **bye/sub display**, late-arrival add + drop, timer, conflict resolution. Real-time standings.
+- **Render:** CSR · **noindex** · **Contents:** fast score entry (any player can enter), **round advance** — preset next round for static formats, computed next round for dynamic (E3 court movement / E4 Swiss / E5 bracket) — court assignments, **bye/sub display**, late-arrival add + drop, timer, conflict resolution. Standings recompute on each score entry on the operator's device; shared views update on refresh / ISR revalidation — no real-time push required.
 - **Data:** `RR#<eventId>` with `ENTRANT#`, `ROUND#r#META`, `ROUND#r#MATCH#m`, `STANDING#` (§9.3).
 
 ---
 
 ### 6.9 Groups & Clubs
 
-**Why:** persistent communities are the connective tissue PH monetizes (**PH §6.3, §11**) — the "see who's playing → get invited → play again" loop, driven by **member-status visibility** (which members are playing now, looking for a game, or coming to the next meet-up — **not chat**) — plus a programmatic SEO surface for the **public** groups that opt in — **private is the default**, so discovery/indexing is opt-in (**PH §14.1** shows ~5K such pages at scale). A PicklerPal **group** is **one entity covering both an informal crew and a formal club** (a `public|unlisted|private` visibility flag + a `joinPolicy`); members hold **admin** or **member** roles; a group has **home court(s)** and a **skill band**, and it **schedules meet-ups** — recurring or one-off games at courts. **Meet-ups reuse Outings (§6.7)** (`hostType=GROUP`): all recurrence (RRULE), RSVP, waitlist, and visibility behavior is inherited, not rebuilt. Groups are the natural on-ramp from ad-hoc play to a **paid League** (§8). *(**Group chat is out of scope for v1** — §13 — the value is discovery + scheduling + membership.)*
+**Why:** persistent communities are the connective tissue PH monetizes (**PH §6.3, §11**) — the "see who's playing → get invited → play again" loop, driven by **member-status visibility** (which members checked in today, are looking to play, or are coming to the next meet-up — **not chat**) — plus a programmatic SEO surface for the **public** groups that opt in — **private is the default**, so discovery/indexing is opt-in (**PH §14.1** shows ~5K such pages at scale). A PicklerPal **group** is **one entity covering both an informal crew and a formal club** (a `public|unlisted|private` visibility flag + a `joinPolicy`); members hold **admin** or **member** roles; a group has **home court(s)** and a **skill band**, and it **schedules meet-ups** — recurring or one-off games at courts. **Meet-ups reuse Outings (§6.7)** (`hostType=GROUP`): all recurrence (RRULE), RSVP, waitlist, and visibility behavior is inherited, not rebuilt. Groups are the natural on-ramp from ad-hoc play to a **paid League** (§8). *(**Group chat is out of scope for v1** — §13 — the value is discovery + scheduling + membership.)*
 
 #### View: Group Hub / City Finder — `/groups` and `/groups/[country]/[state]/[city]`
 - **Render:** ISR(3600) · **Auth:** none · **Purpose:** rank for "pickleball groups/clubs in {city}" + browse.
@@ -549,7 +552,7 @@ Persistent top nav (mirrors PH's intent-segmented mega-menus, **PH §3**, but ti
 #### View: Group Detail — `/groups/[groupId]` ★ (slug-resolved)
 - **Render:** ISR(3600) shell + CSR membership state · **Auth:** none to view (public); private → access-gated.
 - **Purpose:** the indexed community home + the join / get-invited loop.
-- **Contents:** header (name, cover, skill band, public/private badge, member count, **home court(s)** → court pages); membership action **per `joinPolicy`** — **Join** (open) / **Request to join** (request) / **Invite only** (invite — the default; join via an admin invite) / **Following**; description; **member status / activity** (the connective tissue) — **"playing now"** (members currently checked in, + "looking for a 4th"), recent member check-ins/RSVPs, **respecting each member's presence visibility**; **Upcoming meet-ups** (the group's outings — recurring + one-off — with inline RSVP) → outing details; **recurring-schedule** summary ("Every Tue 7pm at {Court}"); **members** roster (avatar, rating, **status chip** [playing now / looking / free]; admins badged); **"Plays at these courts"**; recent activity. Admins see **Manage** affordances. **Free→paid nudge:** "Running a season or collecting fees? → **Turn this into a League**."
+- **Contents:** header (name, cover, skill band, public/private badge, member count, **home court(s)** → court pages); membership action **per `joinPolicy`** — **Join** (open) / **Request to join** (request) / **Invite only** (invite — the default; join via an admin invite); description; **member status / activity** (the connective tissue) — **"checked in today"** (members who checked in today, + "looking to play"), recent member check-ins/RSVPs, **respecting each member's check-in visibility**; **Upcoming meet-ups** (the group's outings — recurring + one-off — with inline RSVP) → outing details; **recurring-schedule** summary ("Every Tue 7pm at {Court}"); **members** roster (avatar, rating, **status chip** [checked in today / looking to play / —]; admins badged); **"Plays at these courts"**; recent activity. Admins see **Manage** affordances. **Free→paid nudge:** "Running a season or collecting fees? → **Turn this into a League**."
 - **Links to:** meet-ups/outings, home courts, member profiles, city group finder, `/organize/leagues/new` (carries roster + court). **SEO:** `Organization` (sport-scoped) + `ItemList` of `SportsEvent`; `noindex` when private/unlisted; in `groups` sitemap.
 
 #### View: Create / Edit Group — `/groups/new` (and `?edit`)
@@ -636,7 +639,7 @@ All paid flows share: **Stripe Checkout/Payment Intents** for registrant fees, *
 
 #### View: My Team / Participant Console — `/leagues/[leagueId]/my-team`
 - **Render:** SSR + CSR · **Auth:** required (registered participant)
-- **Contents:** your division + standing, **this week's matchup** (opponent, court, time, directions, weather), **score entry** (any participant can submit; opponent confirms), full schedule with your games highlighted, **substitute/availability** ("I can't make week 5" → notify organizer/sub pool), **team chat / broadcast**, DUPR submission status, payment/receipt. Late-arrival & guest handling.
+- **Contents:** your division + standing, **this week's matchup** (opponent, court, time, directions, weather), **score entry** (any participant can submit; opponent confirms), full schedule with your games highlighted, **substitute/availability** ("I can't make week 5" → notify organizer/sub pool), **team chat / broadcast**, DUPR rating (read-only; connected status — no score write-back in v1), payment/receipt. Late-arrival & guest handling.
 - **Links to:** league standings, court detail, opponent profiles, account registrations.
 
 #### View: My Leagues (in account) — section of `/account/registrations`
@@ -649,6 +652,9 @@ All paid flows share: **Stripe Checkout/Payment Intents** for registrant fees, *
 ### 7.4 Ladders (continuous challenge play)
 
 **Why:** dynamic, low-commitment competitive play; modeled as a **league variant** with `format=LADDER` (shared schema, different UI). Demand bundled under leagues (**KW Cat 4**); "pickleball ladder" small but Low comp.
+
+#### View: Ladder Hub / Finder — `/ladders` and `/ladders/[country]/[state]/[city]`
+- **Render:** ISR(3600) · **Auth:** none · **Purpose:** give the "Ladders" nav a real indexable destination and rank for "pickleball ladder near me." Mirrors the league finder (§7.2): hub = explainer + featured/nearby ladders + **"Run a ladder"** CTA; location finder = H1 "Pickleball Ladders in {City}, {ST}" + ladder cards (skill band, players, join fee) + nearby cities. **SEO:** `ItemList` + `BreadcrumbList`; in a `ladders` (or shared `leagues`) sitemap.
 
 #### View: Ladder Detail — `/ladders/[ladderId]`
 - **Render:** ISR(600) + CSR · **Auth:** none to view
@@ -676,7 +682,7 @@ The funnel is **discovery → community → free organizing → paid organizing*
 | **Profile / DUPR rating** | **Paid events** | DUPR-gated divisions require a connected rating → drives profile completion → eligibility for paid play. |
 | **Court / City SEO traffic** | **Tournament & League finders** | Every city + court page cross-links "Tournaments & leagues here." |
 | **City game finder** (open play) | **Leagues** | "Want structured competition? See leagues in {City}." |
-| **Check-ins / "looking for a 4th"** | **Outings → Leagues** | Presence → ad-hoc game → recurring → paid season. |
+| **Check-ins / "looking to play"** | **Outings → Leagues** | Daily check-in → ad-hoc game → recurring → paid season. |
 
 **Pricing levers (configurable, not hardcoded):**
 - **Display ads (Google AdSense)** on free directory / content / news / finder pages — a **parallel** revenue stream monetizing SEO traffic, independent of registration fees; never on checkout/console/account/homepage, CWV-safe, consent-gated (**§2.2**). Members/subscribers may later get a reduced/ad-free experience.
@@ -698,7 +704,7 @@ The funnel is **discovery → community → free organizing → paid organizing*
 - **Model the access patterns, not the entities** — every query in §9.5 is a single `Query`/`GetItem`, no scans, no joins.
 - **Denormalize for reads; reconcile on writes** via DynamoDB Streams → aggregation Lambdas (counts, averages).
 - **Idempotency** for Stripe webhooks via a dedupe item.
-- **TTL** for check-ins (auto-expire "playing now") and ephemeral tokens.
+- **TTL** only for ephemeral anonymous tokens. **Check-ins are durable** (a same-day record + lasting history) — no presence TTL.
 
 ### 9.2 Global secondary indexes
 | GSI | Role | Partition (`xPK`) | Sort (`xSK`) |
@@ -737,7 +743,7 @@ City           PK CITY#<c>#<st>#<city>  SK META
 **Court**
 ```
 Court meta     PK COURT#<courtId>       SK META
-               GSI2 CITY#<c>#<st>#<city> / COURT#<popularityRank>#<courtId>   (courts in a city)
+               GSI2 CITY#<c>#<st>#<city> / COURT#<courtId>                     (courts in a city; order by popularityRank in the read layer — rank is a non-key attr, never in the SK)
                GSI3 COURTSLUG#<c>#<st>#<city>#<slug> / META                   (court by URL)
                GSI4 GEO#<geohash6> / <geohash9>#<courtId>                     (radius search)
                attrs — identity/geo:   name, slug, cityKey, cityId, lat, lng, geohash, address
@@ -751,24 +757,25 @@ Court meta     PK COURT#<courtId>       SK META
                attrs — media:          photos[]{url, source(user|google-places|…), visible, attribution{url,html,name}}
                                        (re-hosted S3 keys → photoKeys[] optional)
                attrs — content:        description
-               attrs — computed:       reviewCount, ratingAvg, liveCheckinCount, groupCount, popularityRank
+               attrs — computed:       reviewCount, ratingAvg, checkinsTodayCount, playerCount, groupCount, popularityRank
                attrs — provenance/lifecycle: sourceId, source, hidden, deleted, createdAt, updatedAt,
-                                       scheduleSourcesUpdatedAt, verifiedAt(= seed updated_at)
+                                       scheduleSourcesUpdatedAt, importedAt(= seed updated_at; provenance only)
 Court review   PK COURT#<courtId>       SK REVIEW#<ts>#<uid>                  (reviews for a court)
                GSI1 USER#<uid> / REVIEW#<ts>                                  (a user's reviews)
                attrs: rating1to5, title, body, tags[], helpfulCount, checkinVerified
-Check-in       PK COURT#<courtId>       SK CHECKIN#<ts>#<id>                  (recent check-ins)
-               GSI1 USER#<uid> / CHECKIN#<ts>                                 (my check-ins; null for anon)
-               attrs: uid|null, anonymous, note, skill, lookingForPlayers, expiresAt(TTL)
+Check-in       PK COURT#<courtId>       SK CHECKIN#<ts>#<id>                  (durable; recent / same-day check-ins)
+               GSI1 USER#<uid> / CHECKIN#<ts>                                 (my check-in history; null for anon)
+               attrs: uid|null, anonymous, note, skill, lookingToPlay, checkinDay(court-local yyyymmdd), createdAt
+                      (no presence TTL — durable; "today" = filter SK/checkinDay to the court-local day)
 ```
 
 **Outings & RSVPs**
 ```
 Outing         PK OUTING#<outingId>     SK META
                GSI1 USER#<organizerId> / OUTING#<startTs>                     (organizer's outings)
-               GSI2 CITYGAME#<c>#<st>#<city>#<yyyymmdd> / <startTs>#<outingId> (city game finder by date)
+               GSI2 CITYGAME#<c>#<st>#<city>#<yyyymmdd> / <startTs>#<outingId> (city game finder; <yyyymmdd> = court-local day from the court tz at write, not UTC)
                GSI3 (none; outings indexed by id) 
-               also: GSI2b COURT#<courtId> / OUTING#<startTs>                  (games at a court) *via GSI1 overload or extra*
+               also: OUTINGREF item (§9.5 #9) PK COURT#<courtId> / SK OUTING#<startTs>#<outingId>  (games at a court; projects visibility, hostType, groupId for one-pass filtering)
                attrs: title, type, hostType(USER|GROUP), groupId|null, courtId, cityKey, organizerId,
                       startTs, endTs, tz, skillMin, skillMax, capacity, waitlist, seriesId, rrule, visibility, description
 RSVP           PK OUTING#<outingId>     SK RSVP#<uid>                         (attendees)
@@ -781,7 +788,7 @@ Series master  PK SERIES#<seriesId>     SK META   attrs: rrule, template, organi
 ```
 Group          PK GROUP#<groupId>       SK META
                GSI1 USER#<creatorId> / GROUP#<createdAt>                      (creator's groups)
-               GSI2 GROUPLOC#<c>#<st>#<city> / <popularity>#<groupId>         (city group finder)
+               GSI2 GROUPLOC#<c>#<st>#<city> / <groupId>                       (city group finder; order by popularity in the read layer — not in the SK)
                GSI3 GROUPSLUG#<slug> / META                                   (group by URL)
                attrs: name, slug, description, visibility(private*|unlisted|public),
                       joinPolicy(invite*|request|open), skillMin, skillMax, homeCourtIds[],   (* = default)
@@ -833,7 +840,7 @@ Tournament     PK TOURNEY#<tid>         SK META
                attrs: name, slug, courtId, cityKey, startDate, endDate, status, regOpen, regClose,
                       refundPolicy, connectAccountId, feeModel, description
 Division       PK TOURNEY#<tid>         SK DIVISION#<did>   attrs: name, skillRange, eventType,
-                      stripePriceId, fee, capacity, registeredCount, format
+                      stripePriceId, fee(integer minor units), currency(ISO-4217), capacity, registeredCount, format
 Registration   PK TOURNEY#<tid>         SK REG#<did>#<uid>
                GSI1 USER#<uid> / REG#TOURNEY#<startDate>             (my registrations)
                attrs: paymentStatus, stripePaymentIntentId, partnerUid, waiverAt, seed, registeredAt
@@ -847,7 +854,7 @@ League/Ladder  PK LEAGUE#<lid>          SK META       (ladders use LADDER#<lid>;
                GSI3 LEAGUESLUG#<slug> / META
                GSI1 USER#<organizerId> / LEAGUE#<startDate>
                attrs: name, slug, format, courtId, cityKey, startDate, weeks, regOpen/Close,
-                      partnerMode, divisions[], stripePriceId, feeModel, connectAccountId, status, rules
+                      partnerMode, divisions[], stripePriceId, fee(integer minor units), currency(ISO-4217), feeModel, connectAccountId, status, rules
 Division/Flight PK LEAGUE#<lid>         SK DIVISION#<did>   attrs: name, skillRange
 Team           PK LEAGUE#<lid>          SK TEAM#<teamId>    attrs: playerUids[], name, divisionId
 Registration   PK LEAGUE#<lid>          SK REG#<uid>
@@ -869,20 +876,18 @@ Stripe dedupe  PK STRIPEEVENT#<evtId>   SK META           (idempotency; TTL)   a
 Anon token     PK ANON#<token>          SK META  (TTL)    attrs: lastCourtId
 ```
 
-**Notifications & onboarding** *(backs Alerts §13.6 and Onboarding §13.8)*
+**Onboarding** *(backs Onboarding §13.8)*
 ```
-Notification   PK USER#<uid>            SK NOTIF#<ts>#<id>            ← Alerts (§13.6)
-               attrs: type(rsvp|waitlist|challenge|league|payment|…), summary, link, read, channelsSent
-               (unread count maintained on USER/PROFILE via Streams)
 Onboarding     onboarded flag + completedSteps[] added to USER/PROFILE attrs  ← Onboarding (§13.8)
 ```
+> **Notifications/alerts deferred.** The `Notification` entity, the Alerts views, channel preferences, and the email/push **delivery providers** are specced in a **separate Notifications PRD** — *not in the initial build*. (Auth emails — verify/reset — are sent by **Firebase Auth**, §2; receipts by **Stripe**, §10.)
 > **Court contribution/claim entities are deferred.** The pending-court, edit-suggestion, court-claim, and court-manager items + their `MODQUEUE#` GSIs live in [`court-admin.md`](./court-admin.md) §5, since add/edit/claim are not in the initial build. The launch directory is **seeded** (bulk import), so COURT items are written by the import pipeline, not by members.
 
 ### 9.4 Aggregates via DynamoDB Streams
 | Aggregate | Stored on | Trigger |
 |---|---|---|
 | `reviewCount`, `ratingAvg` | `COURT#…/META` | REVIEW insert/modify/remove |
-| `liveCheckinCount` | `COURT#…/META` + city rollup | CHECKIN insert + TTL-expire |
+| `checkinsTodayCount` (court) + city `CITYDAY#` rollup, `playerCount` | `COURT#…/META`, `CITYDAY#<cityKey>#<day>` | CHECKIN insert (day-bucketed; no TTL-expire dependency) |
 | `registeredCount` / `spotsLeft` | `DIVISION` / `META` | REG payment-confirmed |
 | `counts{courts,games,players,groups}` | CITY/STATE/COUNTRY | court/outing/user/group writes |
 | `memberCount` | `GROUP#…/META` | MEMBER insert/remove |
@@ -895,10 +900,10 @@ Onboarding     onboarded flag + completedSteps[] added to USER/PROFILE attrs  �
 | 2 | Courts in a city (city page) | `GSI2 = CITY#c#st#city`, SK begins `COURT#` |
 | 3 | Courts near lat/lng (map) | `GSI4 = GEO#<prefix>` (multi-cell, §9.7) |
 | 4 | Court reviews (paged) | `PK=COURT#id`, SK begins `REVIEW#` |
-| 5 | Live check-ins at court | `PK=COURT#id`, SK begins `CHECKIN#`, filter `expiresAt>now` |
+| 5 | Recent / same-day check-ins at court | `PK=COURT#id`, SK begins `CHECKIN#` (newest first; filter `checkinDay = today`) |
 | 6 | My check-ins | `GSI1 = USER#uid`, SK begins `CHECKIN#` |
 | 7 | Cities in a state / states in country | `GSI2 = STATE#…` / `COUNTRY#…` |
-| 8 | Games in a city on a date | `GSI2 = CITYGAME#…#yyyymmdd` |
+| 8 | Games in a city on a date | `GSI2 = CITYGAME#…#yyyymmdd` (`yyyymmdd` = court-local day) |
 | 9 | Games at a court | `PK=COURT#id` (outing pointer) / GSI overload |
 | 10 | Outing detail + RSVPs | `PK=OUTING#id` (META + RSVP#) |
 | 11 | My outings (hosting / attending) | `GSI1 = USER#uid`, SK `OUTING#` / `RSVP#` |
@@ -920,7 +925,7 @@ Onboarding     onboarded flag + completedSteps[] added to USER/PROFILE attrs  �
 | 27 | My groups | `GSI1 = USER#uid`, SK begins `GROUPMEMBER#` |
 | 28 | Groups that play at a court | `PK=COURT#id`, SK begins `GROUP#` |
 
-> **Note on pattern 9** (games at a court): to avoid overloading GSI1 with both organizer-feeds and court-feeds, store a lightweight `OUTINGREF` item `PK=COURT#id / SK=OUTING#<startTs>#<outingId>` written alongside each outing. Cheap, keeps each query single-partition.
+> **Note on pattern 9** (games at a court): to avoid overloading GSI1 with both organizer-feeds and court-feeds, store a lightweight `OUTINGREF` item `PK=COURT#id / SK=OUTING#<startTs>#<outingId>` written alongside each outing, **projecting `visibility`, `hostType`, `groupId`** so the court/city game queries filter out private (e.g. private-group) meet-ups in a single pass — a private meet-up never surfaces on a public court or city page. Cheap, keeps each query single-partition.
 
 ### 9.6 Why single-table (trade-offs)
 - **Pro:** every view = 1 round trip; predictable cost; no fan-out joins; aggregates pre-computed.
@@ -949,7 +954,7 @@ The launch directory (read-only, no member contribution — see [`court-admin.md
 | `phone`/`email`/`url` | `phone`/`email`/`website` | |
 | `images[]{url,source,visible,attribution_*}` | `photos[]{url,source,visible,attribution{url,html,name}}` | **keep attribution** (legal); S3 re-host optional |
 | `is_hidden`/`is_deleted` | `hidden`/`deleted` | excluded from render + index + sitemap |
-| `created_at`/`updated_at`/`schedule_sources_updated_at` | same + `verifiedAt` = `updated_at` | seeds the "last verified" freshness signal (§3.6) |
+| `created_at`/`updated_at`/`schedule_sources_updated_at` | same + `importedAt` = `updated_at` | provenance only; **no "last verified" UI** until a re-verification cadence exists (court-admin deferred) |
 | `has_pickleball` · `description` | `hasPickleball` · `description` | |
 
 **Ingestion pipeline:** parse YAML → normalize/validate → compute `geohash` + `cityKey` → **upsert** COURT/META + GSI projections; create/own missing CITY/STATE/COUNTRY items and roll up `counts` via the §9.4 **batch** path (not per-item Streams); set `popularityRank` (seed by totalCourts + has-photos, refine later). Idempotent on `sourceId` (re-runnable imports). Skip `is_deleted`; store `is_hidden` but exclude it from render/sitemap/index. Only courts with `hasPickleball && !hidden && !deleted` that clear the §14.4 content threshold are indexed; the rest are stored `noindex` (guards against thin/doorway pages — review S2/SEO1).
@@ -963,9 +968,10 @@ The launch directory (read-only, no member contribution — see [`court-admin.md
 | Concern | Implementation |
 |---|---|
 | **Registrant payment** | Stripe **Checkout** (hosted) or Payment Intents (embedded) per division/registration; `stripePriceId` per division. |
-| **Organizer payouts** | Stripe **Connect (Express)** — organizer onboards during event creation; funds flow to their connected account; PicklerPal takes an **application fee** (platform %). |
+| **Organizer payouts** | Stripe **Connect (Express)** — organizer onboards during event creation; PicklerPal takes an **application fee** (platform %). **Payouts are held until after the event** (delayed payout / rolling reserve) so registrant refunds & disputes stay funded and the platform isn't left covering a paid-out organizer's negative balance. |
 | **Fee model** | Per-event: absorb (organizer pays) or pass-through (added to registrant total). Configurable, mirrors proven tournament-platform economics. |
-| **Refunds** | Organizer-initiated from dashboard within policy; Stripe refund API; reflected in `/account/registrations`. |
+| **Refunds** | Organizer-initiated from dashboard within policy; Stripe refund API; reflected in `/account/registrations`. The platform **application fee is refunded on organizer-cancellation** (full-event cancel / organizer fault) and **retained on registrant-initiated** refunds within policy (`refund_application_fee` set accordingly). |
+| **Amounts & currency** | All money stored as **integer minor units** (e.g. cents) + an **ISO-4217 `currency`** per priced entity (division/league fee, service fee, payment) — no floating-point money; one currency per event. |
 | **Webhooks** | Route handler verifies signature → idempotent write (`STRIPEEVENT#<id>` dedupe) → update `REG` paymentStatus + Stream updates `registeredCount`. |
 | **Receipts** | Stripe receipts + in-app `/account/registrations` history (`Payment` items). |
 | **Security** | PicklerPal never stores card data (Stripe Elements/Checkout only). Per platform rules, no card/credential entry is handled outside Stripe's hosted/Elements surfaces. |
@@ -1014,6 +1020,7 @@ The launch directory (read-only, no member contribution — see [`court-admin.md
 | League register | `/leagues/[id]/register` | SSR+Stripe | ✅ | ⛔ | Leagues 💲 |
 | League standings | `/leagues/[id]/standings` | ISR/SSR | — | ✅ | Leagues 💲 |
 | Participant console | `/leagues/[id]/my-team` | SSR | ✅ | ⛔ | League Participation 💲 |
+| Ladder hub / finder | `/ladders`(`/...`) | ISR | — | ✅ | Ladders 💲 |
 | Ladder board | `/ladders/[id]` | ISR | — | ✅ | Ladders 💲 |
 | Ladder challenges | `/ladders/[id]/challenges` | SSR | ✅ | ⛔ | Ladders 💲 |
 | Create league/ladder / dashboard | `/organize/leagues/**` | CSR/SSR | ✅ | ⛔ | Leagues/Ladders 💲 |
@@ -1022,7 +1029,7 @@ The launch directory (read-only, no member contribution — see [`court-admin.md
 | Organizer hub | `/organize` | SSR | ✅ | ⛔ | Organizer 💲 |
 | Partner invite accept | `/invites/[token]` | SSR | ✅ | ⛔ | Paid (all) 💲 |
 | Saved courts | `/account/courts` | SSR | ✅ | ⛔ | Court Finder |
-| Alerts | `/account/alerts` | SSR | ✅ | ⛔ | Account |
+| Alerts *(deferred — separate Notifications PRD)* | `/account/alerts` | SSR | ✅ | ⛔ | Account |
 | Account settings | `/account/settings` | SSR | ✅ | ⛔ | Account |
 | Onboarding | `/welcome` | CSR | ✅ | ⛔ | Profile |
 | Auth pages | `/login·/signup·/forgot-password·/reset-password·/verify-email` | SSR/CSR | — | ⛔ | Account |
@@ -1073,11 +1080,13 @@ Decisions made (override as needed):
 6. **Service-fee-per-registration** as the primary monetization; organizer subscription deferred.
 7. **No native app v1**; responsive web (the round-robin console and consoles are PWA-friendly).
 8. **Groups = one entity for informal groups *and* clubs** (`visibility` + `joinPolicy` flags), **private + invite-only by default** (privacy-first, cf. decision 3 — discovery/SEO is opt-in by going public); **meet-ups reuse Outings** (`hostType=GROUP`) rather than a separate scheduler; **group chat deferred** (§6.9).
+9. **DUPR is read-only in v1** — connect/read ratings and gate divisions by them; **no score write-back** (deferred pending a partnership). The UI shows "connected," not "submit."
+10. **Auth = Firebase Auth** (§2); **notifications/alerts + email/push** are carved into a **separate Notifications PRD** (not in the initial build).
 
 Open questions for product:
 - Singles vs. doubles support depth for ladders/leagues at launch?
 - Weather data source (build vs. buy)?
-- DUPR partnership scope (read ratings only, or write scores back like PH §9.1)?
+- *(Resolved — decision 9: DUPR is read-only in v1, no score write-back.)*
 - Moderation model for reviews (auto + queue)? *(Crowdsourced court add/edit/claim moderation is deferred — see [`court-admin.md`](./court-admin.md).)*
 - International rollout order (URL taxonomy supports it; data seeding does not yet)?
 
@@ -1110,10 +1119,10 @@ E2E runs against a **production build** (`next build && next start`) wired to **
 **Critical journeys (the §8 funnel — all must pass to merge):**
 | # | Journey | Key assertions |
 |---|---|---|
-| J1 | **Discover → court detail → check in** (anonymous, then authed) | static HTML complete with JS off (§14.4); CHECKIN + TTL written; "playing now" increments; anon token carries no PII |
+| J1 | **Discover → court detail → check in** (anonymous, then authed) | static HTML complete with JS off (§14.4); durable CHECKIN written (no presence TTL); "checked in today" count increments; the check-in shows in My Check-in history; anon token carries no PII |
 | J2 | **Search / map** (courts + games) | geohash radius returns the expected courts (§9.7); list↔pin sync; filters; text-list a11y equivalent |
 | J3 | **Create outing → RSVP → waitlist** | OUTING + OUTINGREF + RSVP items; capacity enforced; waitlist position; series RRULE expansion |
-| J4 | **Round robin: create → run → standings** (the wedge) | schedule equals the engine output for the `rngSeed` (§6.8); score entry → materialized STANDING; champion; **the no-login path never blocks** |
+| J4 | **Round robin: create → run → standings** (the wedge) | static schedule = engine output for the `rngSeed`; **dynamic** rounds = engine output for the `rngSeed` **+ confirmed scores** (§6.8); score entry → materialized STANDING; champion; **the no-login path never blocks** |
 | J5 | **Paid registration → Stripe Checkout → webhook → confirmation** | PaymentIntent (test mode); webhook **idempotent** (replay = no double-charge); `registeredCount` via Streams; receipt + `payment_succeeded` event |
 | J6 | **Organizer: create event + Connect onboarding** | cannot publish until Connect complete + ≥1 division (§7.1); draft autosave; absorb-vs-pass-through fee math |
 | J7 | **League participant: register (free-agent / partner) → console → score** | partner-pending lifecycle (slot hold, expiry); score submit + opponent confirm; standings update |
@@ -1137,8 +1146,8 @@ Organic is goal 1, so SEO correctness is a **first-class automated target**, not
 
 ### 14.6 Data & concurrency verification
 - **Access patterns** (DynamoDB Local): each §9.5 pattern resolves in **one** `Query`/`GetItem` — assert call count = 1, **no scans**.
-- **Streams aggregation**: insert/modify/remove → expected `ratingAvg`, `liveCheckinCount`, `registeredCount`, materialized `STANDING#`.
-- **TTL**: an expired CHECKIN drops out of "playing now".
+- **Streams aggregation**: insert/modify/remove → expected `ratingAvg`, `checkinsTodayCount`, `registeredCount`, materialized `STANDING#`.
+- **Check-in recency**: a check-in from a prior day drops out of the court's "checked in today" list but **remains in the user's history** (durable, no TTL).
 - **Concurrency / races**: two writers for the **last spot** / waitlist promotion / ladder-challenge accept → **conditional writes** prevent oversell (run parallel writes; exactly one wins).
 - **Anti-abuse**: anonymous check-in rate-limit holds under burst (presence counts stay trustworthy).
 

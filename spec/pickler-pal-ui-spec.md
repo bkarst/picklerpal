@@ -62,7 +62,7 @@ Each component: **anatomy → variants → states → behavior**. Variants are b
 - **Dual-range slider:** for skill range (min–max).
 
 ## 2.3 Chips, badges, tags
-- **Status badge:** short label conveying state (e.g. *Indoor*, *Outdoor*, access *Free* / *Membership* / *One-time* / *Reservation*, *Playing now* with a live dot, *Open Play*, *Registering*, *Full/Waitlist*, *Closed/Past*). Always label-bearing; live states may animate a dot.
+- **Status badge:** short label conveying state (e.g. *Indoor*, *Outdoor*, access *Free* / *Membership* / *One-time* / *Reservation*, *Checked in today*, *Open Play*, *Registering*, *Full/Waitlist*, *Closed/Past*). Always label-bearing.
 - **Filter chip (toggle):** selectable/removable; selected vs unselected states; optional trailing remove control.
 - **Skill-range chip:** compact numeric range (e.g. 2.0–3.5).
 - **RatingBadge:** rating system abbreviation + value (DUPR / UTR-P / WPR / CTPR / Self); a **verified** marker when the source is connected/validated.
@@ -142,7 +142,7 @@ Sticky top; elevates on scroll.
 **Mega-menu panel** (full-width dropdown): left = link columns, right = a promo card.
 | Menu | Columns | Promo card |
 |---|---|---|
-| **Play** | Find Courts · Find Games · Check In Near You | "See who's playing now →" |
+| **Play** | Find Courts · Find Games · Check In Near You | "See who's checked in today →" |
 | **Compete** | Tournaments · Leagues · Ladders · Round Robin Tool (free) | "Host a free round robin →" |
 | **Learn** | How to Play · Rules · Strategy · Gear Guides · News | latest article |
 | **Organize** | Host a Round Robin · Run a Tournament · Run a League · Run a Ladder | "Get paid with Stripe →" |
@@ -180,7 +180,7 @@ A persistent, unobtrusive help/chat entry point (support + FAQ assistant). Hidde
 ╚════════════════════════════════════════════════════════════════════════════════╝
   ── Upcoming games near you ──────────────────────────────────  [ ‹ ][ › ]
   [EventCard][EventCard][EventCard][EventCard]  → horizontal scroll
-  ── Playing now ──  "38 players checked in around Lenexa today"   (live strip)
+  ── Checked in today ──  "38 players checked in around Lenexa today"   (daily strip)
   ── Run pickleball, the easy way ──  [Round Robin][Leagues][Tournaments] tiles
   ── Find courts, games & tournaments wherever you go ──
      Tabs: Cities | States | Countries | Court Types | Amenities
@@ -193,7 +193,7 @@ A persistent, unobtrusive help/chat entry point (support + FAQ assistant). Hidde
 **Regions:**
 1. **Hero** — H1 + subhead over a court photo; the §2.10 typeahead with a trailing CTA "Search"; **geo-IP stat chips** below (each a link; "See all in {City}" → city page). Geo unknown → national defaults + "Set your location".
 2. **Upcoming games rail** — section title + prev/next; horizontally-scrollable EventCards; "See all games →". Hidden when empty.
-3. **Playing-now strip** — live count for the metro (CSR-refreshed). Hidden if 0.
+3. **Checked-in-today strip** — same-day check-in count for the metro (from the day-bucketed counter; not live, no polling). Hidden if 0.
 4. **Organizer tiles** — three cards (Round Robin "free", Leagues, Tournaments): title, one-liner, button. Mid-funnel into Compete/Organize.
 5. **Programmatic directory** — Tabs; tab body = responsive CityCard grid (4-up → 2-up → 1-up); links into `/courts/...`. Other tabs swap States/Countries/Court Types/Amenities. **Crawl entry point** — server-rendered links.
 6. **Learn & news** — three ArticleCards + link to `/learn`.
@@ -201,7 +201,7 @@ A persistent, unobtrusive help/chat entry point (support + FAQ assistant). Hidde
 8. **FAQ** — accordion (8–12 Q/A), `FAQPage` JSON-LD.
 **States:** loading → hero static + skeleton rails/cards. Geo denied → national defaults. Empty rails are hidden (never an empty rail).
 **Responsive:** hero H1 steps down, search full-width; rails stay horizontal-scroll; directory grid → 1 column.
-**Data:** stat chips ← city `counts`; rails ← outings (GSI2); directory ← CITY/STATE items; live ← `liveCheckinCount` rollup.
+**Data:** stat chips ← city `counts`; rails ← outings (GSI2); directory ← CITY/STATE items; checked-in-today ← `checkinsTodayCount` / `CITYDAY#` rollup.
 **SEO:** title "Find Pickleball Courts, Games & Tournaments Near You | PicklerPal"; `WebSite`+`Organization`+`FAQPage` JSON-LD.
 
 ## 4.2 Map Finder — `/search` · CSR · public · **noindex**
@@ -267,7 +267,7 @@ Lenexa Community Center               [ Membership ][ Indoor ]
 3 courts · Lenexa, KS                       [ Follow ] [ Check In ] (CTA)
 ┌──────────────────────────────────────────────┬───────────────────────────┐
 │ MAIN (wider)                                  │ SIDEBAR (sticky, narrower)│
-│ • 6 playing now — Sarah, +5  (live)           │  ┌ mini-map ────────────┐ │
+│ • 6 checked in today — Sarah, +5              │  ┌ mini-map ────────────┐ │
 │ About: Come play pickleball at…  (description)│  └──────────────────────┘ │
 │ Surface & Features: ✓Perm lines ✓Indoor…      │  Address · phone · website│
 │ Connect: 43 players · 4 games · 12 reviews    │  [ Add an outing ]        │
@@ -285,15 +285,15 @@ Lenexa Community Center               [ Membership ][ Indoor ]
 1. **Breadcrumb** to court.
 2. **Hero** — media gallery (thumbnails/swipe; optional watermark; **per-image credit/attribution** [contributor name → source link] shown when the photo source requires it — legal; **save/follow** control). No photo → branded placeholder.
 3. **Title band** — name (H1), sub "{n} courts · {City}, {ST}", status badges (access [Free/Membership/One-time/Reservation], Indoor and/or Outdoor, Lighted; facility type [Public/Club/School/Private] when set). Actions: **Follow** (toggles to "Following") + **Check In** (CTA — primary action; opens Check-In sheet §5.1).
-4. **Playing-now strip** (live) — count + first names/avatars (anonymous = "A player"); CSR-refresh; hidden if 0.
+4. **Checked-in-today strip** — same-day check-in count + first names/avatars (anonymous = "A player"); no live presence claim ("checked in" ≠ "currently playing"); part of the ISR shell, updates on revalidation (no polling); hidden if 0.
 5. **About** — description paragraph.
 6. **Surface & Features** — two-column checklist: **lines** [permanent/temporary/tape/chalk], **nets** [permanent/portable/BYO/tennis], **surface material(s)** [hard · concrete · asphalt · wood · acrylic · clay — may be several], **indoor / outdoor court counts** (e.g. 3 indoor · 0 outdoor; total), **lighting**, **amenities** (restrooms, water, food, training, locker rooms, pro shop, youth, adaptive, wheelchair-accessible), **facility type**. Unknown/empty fields are omitted (not shown blank).
-7. **Connect band** — aggregate stats (players · games · reviews · groups) + "Follow to see who's playing & get invited".
+7. **Connect band** — aggregate stats (players · games · reviews · groups) + "Follow to see who's checked in & get invited".
 8. **Upcoming Games** — **week grid**: 7 day-columns (Today highlighted), time-ordered slot pills (time + skill chip + RSVP count) → outing detail; **empty slot shows a `+`** → create outing (organizer on-ramp). Controls: All / Open Play filter, week pager, timezone label.
 9. **Reviews** (§7) — avg ★ + count + **histogram**; sort control; ReviewCard list (Load-more); **Write a review** (auth-gated). `AggregateRating`+`Review` JSON-LD.
 10. **Tournaments & leagues here** — EventCard rail (cross-sell); else "Run an event here →".
 11. **Court FAQ** — accordion, `FAQPage`.
-12. **Sidebar (sticky)** — mini-map (→ directions); full address (copy), phone, website, **Reserve a court** (reservation link, shown when reservations are available); **Add an outing**; **7-day weather forecast** (day · hi/lo · conditions · wind · precip%); **Last verified {date}** (freshness). *(Claim/Suggest-edit links deferred — see [`court-admin.md`](./court-admin.md).)*
+12. **Sidebar (sticky)** — mini-map (→ directions); full address (copy), phone, website, **Reserve a court** (reservation link, shown when reservations are available); **Add an outing**; **7-day weather forecast** (day · hi/lo · conditions · wind · precip%). *(No "Last verified" date until a re-verification cadence exists — court-admin deferred. Claim/Suggest-edit links also deferred — see [`court-admin.md`](./court-admin.md).)*
 13. **Interlink footer** — Nearby courts rail + Nearby cities grid (SEO graph).
 **States:** unauth + Check In → anonymous allowed (§5.1, no modal); Follow / Write-review → Auth modal. Loading → hero + sidebar skeletons. Weather fail → hide widget. No reviews → "No reviews yet — be the first" + CTA. No upcoming games → all-empty week grid with `+` affordances.
 **Responsive:** single column; sidebar reflows under title (map → address → actions); **Follow + Check In become a sticky bottom action bar**; week grid → horizontally-scrollable day columns or day-tabs + agenda list.
@@ -314,8 +314,7 @@ Modal (desktop) / bottom-sheet (mobile).
 **Wireframe:**
 ```
 ┌ Check in at Lenexa Community Center ──────────────────────── ✕ ┐
-│  6 players here now                                            │
-│  How long?   [ 1h ][ 2h ][ 3h ✓ ][ Until I leave ]            │ segmented (sets TTL)
+│  6 players checked in here today                              │
 │  Skill (optional)   [ 2.5 ][ 3.0 ✓ ][ 3.5 ][ 4.0+ ]           │ chips
 │  ☐ Looking for players to join                                │
 │  Note (optional)  [ e.g. open play, bring a paddle ]          │
@@ -325,12 +324,12 @@ Modal (desktop) / bottom-sheet (mobile).
 │  Create a profile to be visible & get invited →               │ link
 └────────────────────────────────────────────────────────────────┘
 ```
-**Behavior:** duration segmented control sets `expiresAt` TTL (default ~3h); skill chips (single-select, optional); "Looking for players" sets a flag shown on the court strip; note input (short max). **CTA "Check in"** (logged-in) writes a CHECKIN with `uid`; **"Check in without an account"** issues an anonymous TTL token (no PII) and writes an anonymous CHECKIN (shown publicly as "A player"). On success: sheet closes, count increments **optimistically**, toast with **Undo** (5s).
-**States:** already checked in → "You're here until 9:42 AM" + [ Extend ] + [ Check out ]. Submit fail → inline error + retry. Anonymous repeat → reuses stored token.
+**Behavior:** skill chips (single-select, optional); "Looking for players" sets an optional same-day flag shown on the court's checked-in-today list; note input (short max). **CTA "Check in"** (logged-in) writes a **durable** CHECKIN with `uid` (**no presence TTL**); **"Check in without an account"** issues an anonymous ephemeral token (no PII) and writes an anonymous CHECKIN (shown publicly as "A player"). On success: sheet closes, today's count increments **optimistically**, toast with **Undo** (5s).
+**States:** already checked in today → "You're checked in here today" + [ Undo ]. Submit fail → inline error + retry. Anonymous repeat → reuses stored token (one active check-in per court per day).
 
-## 5.2 Playing-now displays (read-only, embedded)
-- **Court strip** (Court Detail region 4): live dot + "N playing now" + avatar group (public logged-in; anonymous = neutral "A player"). Tap → popover list (name, skill, "looking for players", checked-in Xm ago). Refresh ~60s.
-- **City rollup** (City page + Homepage strip): "N players checking in around {City} today" — aggregate only, no identities.
+## 5.2 Checked-in-today displays (read-only, embedded)
+- **Court strip** (Court Detail region 4): "N checked in today" + avatar group (public logged-in; anonymous = neutral "A player"). Tap → popover list (name, skill, "looking to play", checked in at h:mm). No live presence, no polling — refreshes on navigation / ISR revalidation.
+- **City rollup** (City page + Homepage strip): "N players checked in around {City} today" — same-day aggregate only, no identities.
 **States:** 0 → component hidden entirely.
 
 ## 5.3 My Check-ins — `/account/checkins` · SSR · auth · noindex
@@ -374,7 +373,7 @@ Default rating source:  ( DUPR ▾ )
 ```
 "Don't have a rating? → How ratings work" link. DUPR row → connect/validate; verified shows a marker + "official".
 3. **Contact** — emails (repeatable; one Primary), phone(s); verify states.
-4. **Notifications** — toggles: games at followed courts, RSVPs, league updates, news digest.
+4. **Notifications** *(deferred — ships with the separate Notifications PRD)* — toggles: games at followed courts, RSVPs, league updates, news digest.
 5. **Privacy** — Profile visibility (Public / Followers / Private); Check-in visibility; Searchable toggle.
 **Behavior:** dirty-tracked Save bar (disabled until valid); inline validation; username change warns about URL change; save → button loading → success toast.
 **States:** loading skeleton; conflict (username taken) → field error. **Data:** USER/PROFILE + RATING#<system>.
@@ -560,7 +559,7 @@ Account shell; **Tabs: Hosting · Attending**.
 ╔══════════ HERO ══════════╗
 Free Pickleball Round Robin Generator        (H1)
 Ditch the spreadsheet. Generate matchups, enter scores,
-see live standings — in seconds, free.
+see standings update as scores come in — in seconds, free.
 [ Create a round robin ] (CTA)        ▓ product preview ▓
 ── 8 fun formats ── [cards: Singles RR · Team RR · Mixer · Popcorn ·
    Up & Down the River · King of the Court · Gauntlet · Pool→Bracket]
@@ -603,13 +602,13 @@ STANDINGS                                              [ Display on TV ]
 # Player        W-L   Pts   +/-
 1 ● Cara        6-1   88   +22
 2 ● Bob         5-2   80   +12
-…   (StandingRow table, live)
+…   (StandingRow table)
 SCHEDULE   Round 3 of 7 ▾
  Court 1: Ann/Bob 11–7 Cara/Dan   (final)
  Court 2: …                       [ enter score ]
 Upsell ribbon: "Running this regularly? Turn it into a League with paid signups →"
 ```
-**Contents:** header (name, format, counts, Share, **Run/Score** primary); **Standings** tab (live StandingRow table, top-3 treatment; columns **adapt** — individual W-L for mixer/rotating, **Team** for fixed, **Court + movement arrows** for Up-&-Down/King; byes and tiebreaks surfaced, §6.8); **Schedule** tab (round selector, per-court matchups + scores; **dynamic formats** show "next round posts once this round's scores are in"); **TV/Display mode** (large type, auto-advance); persistent **upsell ribbon** → `/organize/leagues/new` (carries roster; **Pool→Bracket** also → `/organize/tournaments/new`). Owner sees edit affordances; viewers read-only.
+**Contents:** header (name, format, counts, Share, **Run/Score** primary); **Standings** tab (StandingRow table — recomputes on score entry; top-3 treatment; columns **adapt** — individual W-L for mixer/rotating, **Team** for fixed, **Court + movement arrows** for Up-&-Down/King; byes and tiebreaks surfaced, §6.8); **Schedule** tab (round selector, per-court matchups + scores; **dynamic formats** show "next round posts once this round's scores are in"); **TV/Display mode** (large type, auto-advance); persistent **upsell ribbon** → `/organize/leagues/new` (carries roster; **Pool→Bracket** also → `/organize/tournaments/new`). Owner sees edit affordances; viewers read-only.
 **States:** **setup** (no scores yet) · **in-progress** · **completed** (champion banner — standings leader or bracket winner — + "Create another"); bye/sit-out rows flagged per round; unclaimed event editable by anyone with the link until claimed. **SEO:** light indexable results page.
 
 ## 11.4 Run Console — `/round-robin/[eventId]/live` · CSR · **noindex**
@@ -774,9 +773,9 @@ Wednesday Night 3.5 Doubles · You: 3rd of 12          [ League standings → ]
 ── My schedule ── (your games highlighted, full season)
 ── Availability ── Week 5  ( I'm in ▾ | Need a sub )
 ── Team chat ── [messages]  [ broadcast to confirmed ]
-── My registration ── paid $80 · receipt → · DUPR submit: ✓
+── My registration ── paid $80 · receipt → · DUPR: connected (read-only)
 ```
-**Contents:** your standing chip + link to full standings; **This week** card (opponent, court, time, weather, directions, **score entry/confirm** — you submit, opponent confirms); **My schedule** (season, your games highlighted); **Availability** per week (I'm in / Need a sub → notifies organizer + sub-pool); **team chat / broadcast**; **registration** summary (paid, receipt, DUPR status).
+**Contents:** your standing chip + link to full standings; **This week** card (opponent, court, time, weather, directions, **score entry/confirm** — you submit, opponent confirms); **My schedule** (season, your games highlighted); **Availability** per week (I'm in / Need a sub → notifies organizer + sub-pool); **team chat / broadcast**; **registration** summary (paid, receipt, **DUPR rating — read-only/connected**; no score write-back in v1).
 **States:** pre-season (schedule TBA); bye week; sub-needed flagged; playoffs (bracket). **Responsive:** This-week card pinned; tabs for schedule/chat/availability. **Data:** LEAGUE WEEK#/STANDING#/AVAIL#/REG.
 
 ### 12.4.2 My Leagues (in account) — section of `/account/registrations`
@@ -867,13 +866,14 @@ Triggered by any auth-gated action. **Log in / Sign up** tabs; email + password;
 ```
 My Courts                                            (H1)
 ( Followed | Recently played | Nearby )              (tabs)
-[ CourtCard(list): name · distance · upcoming games · "N playing now" (live) ]
+[ CourtCard(list): name · distance · upcoming games · "N checked in today" ]
    [ Unfollow ]  [ Add an outing ]
 ```
 **Contents:** tabs (Followed / Recently played / Nearby); CourtCard list with upcoming-games count + live check-in count + quick actions (unfollow, add outing).
 **States:** empty → "Follow courts to track games and get invited" + [ Find courts ]. **Data:** FOLLOW#COURT via GSI1 USER#uid.
 
 ## 13.6 Notifications & Alerts — `/account/alerts` · SSR · auth · noindex
+> ⏳ **Deferred — not in the initial build.** Notifications, this Alerts page, the header bell, channel preferences, and email/push **delivery** are specced in a **separate Notifications PRD**. Retained here for reference only. (Auth emails come from Firebase Auth (§13.9); receipts from Stripe.)
 > §14.4 specs the header bell dropdown; this is the full page + preferences.
 **Wireframe:**
 ```
@@ -966,8 +966,10 @@ Full-page route error → "Something went wrong" + Retry + "Back to home". 404 �
 | Round robin landing | paid cross-sell band | tournaments / leagues |
 **Rule:** free value is never walled; the upgrade is always *additive* (money, structure, brackets, payouts) and one click away with context carried over.
 
-## 14.4 Notifications & alerts
-In-app: header bell → dropdown (RSVPs, waitlist promotions, challenge requests, league match reminders, receipts), each linking to its source. Toasts for immediate feedback. Email/push (prefs in §6.2): game reminders, waitlist openings, challenge deadlines, registration confirmations, weekly league recaps. Quiet hours respected.
+## 14.4 Notifications & alerts — ⏳ deferred (separate Notifications PRD)
+> The header bell, alert dropdown, email/push delivery, channel preferences, and quiet hours are **not in the initial build** — specced in a separate **Notifications PRD**. Transient **toasts** for immediate action feedback (§2.7) remain in this build; auth emails come from Firebase Auth and receipts from Stripe. Description below retained for reference.
+>
+> In-app: header bell → dropdown (RSVPs, waitlist promotions, challenge requests, league match reminders, receipts), each linking to its source. Toasts for immediate feedback. Email/push (prefs in §6.2): game reminders, waitlist openings, challenge deadlines, registration confirmations, weekly league recaps. Quiet hours respected.
 
 ## 14.5 Ad slots (AdSense)
 Ad-eligible page classes (**PRD §2.2**) place **AdSlot** (§2.12) in fixed, reserved positions; **ineligible classes carry none**. Map:
@@ -1051,10 +1053,10 @@ Ad-eligible page classes (**PRD §2.2**) place **AdSlot** (§2.12) in fixed, res
 | Group finder / detail | #25 / #24 + #26 |
 | My groups | #27 |
 | Groups at a court | #28 |
-| Alerts | **new** notification items per user (schema addition) |
+| Alerts *(deferred — Notifications PRD)* | notification items per user (specced in the Notifications PRD, not core §9) |
 | Account settings / Onboarding | USER/PROFILE + RATING writes |
 
-> **§9 schema note:** the added views surface **entities not yet in the original PRD §9** — **notifications/alerts** (§13.6) and an **onboarded** flag on the user (§13.8) — now added to the core PRD §9.3. (Court contribution/claim entities live in [`court-admin.md`](./court-admin.md), deferred.)
+> **§9 schema note:** the **onboarded** flag (§13.8) is added to the core PRD §9.3. **Notifications/alerts entities are deferred** to a separate Notifications PRD (not in core §9). (Court contribution/claim entities live in [`court-admin.md`](./court-admin.md), deferred.)
 
 ---
 
@@ -1066,7 +1068,7 @@ Ad-eligible page classes (**PRD §2.2**) place **AdSlot** (§2.12) in fixed, res
 ```
 Simple pricing                                       (H1)
 Free for players, forever. Organizers pay only when they collect.
-┌ Player (Free) ┬ Organizer ┬ Facility ┐
+┌ Player (Free) ┬ Organizer ┬ Facility (soon) ┐
 │ court finder  │ everything │ claim &  │   comparison table:
 │ check-ins     │ in Free +  │ manage   │   feature × tier (✓ / —)
 │ profile       │ paid events│ promote  │
@@ -1074,10 +1076,10 @@ Free for players, forever. Organizers pay only when they collect.
 │ round robin   │ no sub     │          │
 └───────────────┴────────────┴──────────┘
 Per-registration service fee explained (absorb vs pass-through) + Stripe fees note
-[ Start free ]   [ Run an event → ]   [ Contact sales (facility) ]
+[ Start free ]   [ Run an event → ]   [ Get notified (facility — coming soon) ]
 ── FAQ ── (FAQPage)
 ```
-**Contents:** H1 + positioning; **comparison table** (Free player / Organizer / Facility) of features; the **fee model** (per paid registration; absorb vs pass-through; Stripe fees); facility tier + contact; FAQ; CTAs. **SEO:** `FAQPage`; title "Pricing | PicklerPal".
+**Contents:** H1 + positioning; **comparison table** (Free player / Organizer) of features; the **fee model** (per paid registration; absorb vs pass-through; Stripe fees); a **Facility tier shown as "coming soon"** (claim / manage / promote depend on court-admin, deferred — a lead-gen "get notified" row only, not a buyable plan); FAQ; CTAs. **SEO:** `FAQPage`; title "Pricing | PicklerPal".
 
 ## 16.2 About — `/about` · ISR · public · indexable
 H1 + mission + story + team + endorsements/partners + press + links (careers/contact). **SEO:** `AboutPage`/`Organization`.
@@ -1095,7 +1097,7 @@ Standalone pages: centered message + (404) search box + popular links / (500) Re
 
 # PART 17 — GROUPS & CLUBS (free; community)
 
-> Implements **PRD §6.9**. A **group** is one entity for an informal crew *or* a formal club (`public/unlisted/private` + `joinPolicy`); members are **admin/member**; **meet-ups reuse Outings** (Part 10) with `hostType=GROUP` — there is **no separate meet-up view**. The connective tissue is **member-status visibility** — seeing which members are *playing now*, *looking for a game*, or *coming to the next meet-up* — **not chat** (out of scope, PRD §1). *(Logical placement is right after Part 10; appended here to avoid renumbering Parts 12–16.)*
+> Implements **PRD §6.9**. A **group** is one entity for an informal crew *or* a formal club (`public/unlisted/private` + `joinPolicy`); members are **admin/member**; **meet-ups reuse Outings** (Part 10) with `hostType=GROUP` — there is **no separate meet-up view**. The connective tissue is **member-status visibility** — seeing which members *checked in today*, are *looking to play*, or are *coming to the next meet-up* — **not chat** (out of scope, PRD §1). *(Logical placement is right after Part 10; appended here to avoid renumbering Parts 12–16.)*
 
 ## 17.1 Group Hub / City Finder — `/groups` (`/groups/[c]/[st]/[city]`) · ISR(3600) · indexable
 **Wireframe (city):**
@@ -1105,12 +1107,12 @@ Pickleball Groups & Clubs in Lenexa, KS                    (H1)
 [ Search groups ]                            [ Start a group ] (CTA)
 ┌────────────────────────────────────┐
 │ Lenexa Dinkers        ● Public      │  3.0–3.5 · 124 members
-│ home: Lenexa CC →   • 6 playing now │  next: Tue 7pm   [ View ]
+│ home: Lenexa CC → • 6 checked in today │ next: Tue 7pm [ View ]
 └────────────────────────────────────┘
 [GroupCard grid …]
 ── Nearby cities ── [CityCards]      [FOOTER]
 ```
-**Contents:** (hub) search; featured + nearby **public** groups; **Start a group** CTA; groups-vs-leagues explainer. (city) breadcrumb; H1; **GroupCard** grid (name, public badge, skill band, member count, home court, next meet-up, live "N playing now"); nearby-cities interlink. *(Finders + the `groups` sitemap list **public** groups only — private is the default, so most groups are members-only and excluded.)*
+**Contents:** (hub) search; featured + nearby **public** groups; **Start a group** CTA; groups-vs-leagues explainer. (city) breadcrumb; H1; **GroupCard** grid (name, public badge, skill band, member count, home court, next meet-up, "N checked in today"); nearby-cities interlink. *(Finders + the `groups` sitemap list **public** groups only — private is the default, so most groups are members-only and excluded.)*
 **States:** empty → "No groups in {City} yet — start one" + CTA (keep nearby + FAQ for SEO); loading skeletons.
 **Responsive:** grid 3→2→1. **Data:** GROUPLOC GSI by city. **SEO:** `ItemList` + `BreadcrumbList`; in `groups` sitemap.
 
@@ -1125,19 +1127,19 @@ Lenexa Dinkers        [ ● Public ][ 3.0–3.5 ]        [ Join ] (CTA)
 ┌──────────────────────────────────────┬──────────────────────────┐
 │ MAIN                                 │ SIDEBAR (sticky)         │
 │ About: casual evening dinkers…       │  Home court(s) → court   │
-│ ── Playing now (members) ──          │  Skill 3.0–3.5           │
+│ ── Checked in today (members) ──     │  Skill 3.0–3.5           │
 │  • Ann @ Lenexa CC  • Bo "looking 4th"│  Members 124 · Admins 3  │
 │ ── Upcoming meet-ups ──              │  [ Invite members ]      │
 │  Tue Jul 7 · 7pm · Lenexa CC · 6/8   │  (admin) [ Manage ]      │
 │   [ RSVP ]   Every Tue (series)      │                          │
 │ ── Members ──  status chips           │                          │
-│   ● Ann 3.4 ·playing now· ● Bo 3.2 ·free│                       │
+│   ● Ann 3.4 ·checked in· ● Bo 3.2 ·—   │                       │
 │ ── Plays at ── [CourtCards]          │                          │
 └──────────────────────────────────────┴──────────────────────────┘
 ── Other groups in Lenexa ── [GroupCards]   [FOOTER]
 ```
-**Regions:** (1) Breadcrumb. (2) **Header** — cover, name (H1), public/private + skill badges, member count, home court link; membership action **per `joinPolicy`** — **Join** (open) / **Request to join** (request) / **Invite only** (invite — the default; join via an admin invite) / **Following** (auth-gated, optimistic). (3) **About**. (4) **Member status / activity** (the connective tissue) — **"Playing now"** (members currently checked in, with court + "looking for a 4th"), recent member activity (checked-in / RSVP'd); **respects each member's presence visibility** (Part 5/§6.2). (5) **Upcoming meet-ups** — group outings (recurring + one-off) with inline RSVP → outing detail; series summary. (6) **Members** roster — avatar, name, rating, **status chip** (playing now / looking / free / —); admins badged; → profiles. (7) **Plays at these courts** — CourtCards. (8) **Sidebar** — home court(s), skill band, member/admin counts, Invite, Manage (admin). (9) Interlink: other groups in city.
-**States:** **private** (the default) → members-only gate ("This group is private — ask an admin for an invite" / accept via invite link), `noindex`; **unlisted** → viewable by link, `noindex`; **public + request** → Request to join; non-member → status modules show counts, identities follow presence-visibility; empty meet-ups → "No meet-ups scheduled" (admins: "+ Schedule one"); loading skeletons; admin → Manage affordances.
+**Regions:** (1) Breadcrumb. (2) **Header** — cover, name (H1), public/private + skill badges, member count, home court link; membership action **per `joinPolicy`** — **Join** (open) / **Request to join** (request) / **Invite only** (invite — the default; join via an admin invite); auth-gated, optimistic. (3) **About**. (4) **Member status / activity** (the connective tissue) — **"Checked in today"** (members who checked in today, with court + "looking to play"), recent member activity (checked-in / RSVP'd); **respects each member's check-in visibility** (Part 5/§6.2). (5) **Upcoming meet-ups** — group outings (recurring + one-off) with inline RSVP → outing detail; series summary. (6) **Members** roster — avatar, name, rating, **status chip** (checked in today / looking to play / —); admins badged; → profiles. (7) **Plays at these courts** — CourtCards. (8) **Sidebar** — home court(s), skill band, member/admin counts, Invite, Manage (admin). (9) Interlink: other groups in city.
+**States:** **private** (the default) → members-only gate ("This group is private — ask an admin for an invite" / accept via invite link), `noindex`; **unlisted** → viewable by link, `noindex`; **public + request** → Request to join; non-member → status modules show counts, identities follow check-in visibility; empty meet-ups → "No meet-ups scheduled" (admins: "+ Schedule one"); loading skeletons; admin → Manage affordances.
 **Responsive:** sidebar reflows under header; **Join becomes a sticky bottom action bar**; roster → list.
 **Data:** GROUP/META + MEMBER# + MEETUP refs (→ OUTING) + members' CHECKIN/RSVP for status. **SEO:** `Organization` + `ItemList` of `SportsEvent`; `noindex` when private/unlisted; in `groups` sitemap. *(\*indexable only when public.)*
 
@@ -1172,13 +1174,13 @@ MEET-UPS  [ + Schedule meet-up ] → Outing create (group prefilled)
 
 ## 17.5 My Groups — `/account/groups` · SSR · auth · noindex
 Account shell; **Tabs: Member · Admin** + a **Requests** badge.
-**Contents:** GroupCard list per tab (name, role, member count, **next meet-up**, "N playing now" among members); quick links (View, Manage). Requests badge → pending approvals (admin) / pending joins (member). Empty → "Find or start a group" + [ Find groups ].
+**Contents:** GroupCard list per tab (name, role, member count, **next meet-up**, "N checked in today" among members); quick links (View, Manage). Requests badge → pending approvals (admin) / pending joins (member). Empty → "Find or start a group" + [ Find groups ].
 **Data:** `GSI1 USER#uid` `GROUPMEMBER#`.
 
 ## 17.6 Components & cross-refs
-- **GroupCard** (extends §2.5 card family): cover/avatar, name, public/private badge, skill-range chip, member count, home court, next meet-up, live **"N playing now"** (members). Whole card → group detail.
-- **Member-status chip:** *Playing now* (live dot + court) · *Looking for a game* · *Free this week* · neutral. Reuses check-in presence (Part 5) scoped to the group; honors each member's presence visibility (§6.2).
-- **Court Detail (§4.5):** the **"Groups that play here"** rail uses GroupCards; the Connect band counts groups and reads **"Follow to see who's playing & get invited"** (no chat).
+- **GroupCard** (extends §2.5 card family): cover/avatar, name, public/private badge, skill-range chip, member count, home court, next meet-up, **"N checked in today"** (members). Whole card → group detail.
+- **Member-status chip:** *Checked in today* (court) · *Looking to play* · neutral. Reuses the same-day check-in (Part 5) scoped to the group; honors each member's check-in visibility (§6.2).
+- **Court Detail (§4.5):** the **"Groups that play here"** rail uses GroupCards; the Connect band counts groups and reads **"Follow to see who's checked in & get invited"** (no chat).
 - **Meet-ups** are Outings (Part 10) rendered with "hosted by {Group}" attribution — no dedicated meet-up route.
 
 ---
