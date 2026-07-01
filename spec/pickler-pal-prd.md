@@ -39,7 +39,7 @@
 | Layer | Choice | Notes |
 |---|---|---|
 | Web | **Next.js (App Router)** | RSC by default; SSG/ISR for all indexable pages; route handlers for the API; `next/image` + `next/font` for Core Web Vitals. |
-| UI components | **HeroUI v3** (React Aria + Tailwind CSS v4) | Component library for the whole app; built on React Aria (accessibility/behavior baked in) and Tailwind v4. **Rule: use HeroUI v3 components wherever an equivalent exists; build custom only where it doesn't.** Theme it for the designer's visual system. |
+| UI components | **HeroUI v3** (React Aria + Tailwind CSS v4) | Component library for the whole app; built on React Aria (accessibility/behavior baked in) and Tailwind v4. **Rule: use HeroUI v3 components wherever an equivalent exists; build custom only where it doesn't.** Theme it for the designer's visual system, sourced from the centralized brand config (§2.3) — never hardcode brand tokens into the theme. |
 | Data | **DynamoDB** (single table) | Single-table design (§9). DynamoDB Streams → aggregation Lambdas for counters/denormalization. TTL for ephemeral check-ins. |
 | Payments | **Stripe** | Checkout + Payment Intents for registration fees; Connect (Express) for paying out organizers; webhooks → DynamoDB (idempotent). |
 | Search (geo) | **Geohash GSI** on the table | Radius "near me" search (§9.7). No external search engine in v1; directory pages are static, not query-driven. |
@@ -56,6 +56,7 @@
 - **Reads are cheap and pre-shaped.** The table is modeled for the read patterns of each view (§9.5); we denormalize aggressively and reconcile via Streams.
 - **Writes are funneled through API route handlers** that own validation, Stripe calls, and transactional integrity.
 - **Confirmed events are emitted server-side.** The revenue/play events that define the funnel (payment success, registration confirmed, check-in, RSVP) fire from the route handlers / Stripe webhook / DynamoDB Streams — never only the browser — so adblock and client drop-off don't undercount conversions (§2.1).
+- **Brand identity is centralized, never hardcoded.** Name, tagline, logo/wordmark, favicon, color palette, and every other brand asset live in exactly one configurable source of truth that all other surfaces import — see §2.3. This is a hard requirement, not a style preference.
 
 > ⚠️ **AGENTS.md note:** this repo runs a customized Next.js — read `node_modules/next/dist/docs/` before implementing routing/rendering. Treat the render annotations here as intent, not literal API.
 
@@ -119,6 +120,20 @@
 
 **Policy & ops.** Publish **`ads.txt`** at the domain root (declares the AdSense publisher ID, §3.7); ad-eligibility uses the **same content threshold as indexation** (§14.4) to meet AdSense's content policy and keep ads off thin/doorway pages; no ad adjacent to a Stripe surface (policy + trust). **Members / subscribers** may later get a **reduced or ad-free** experience (future lever, §8).
 
+### 2.3 Branding & centralized configuration
+
+> ⚠️ **Hard requirement — highest priority in this section.** Every brand-identity value is defined **exactly once**, in a single centralized, strongly-typed config (e.g. a `brand.config.ts` feeding the HeroUI/Tailwind theme — or a CMS/DB-backed record if non-engineers need to edit it without a deploy). Every other surface **imports** that config; nothing hardcodes a duplicate copy of a brand string, hex value, or asset path. A hardcoded brand value found anywhere outside the config is a **bug**, not a style nit.
+
+**Why this matters more here than in a typical app.** PicklerPal is ~16K+ court pages and ~9.7K city pages (§3.1) generated programmatically, plus emails, legal pages, dynamically-rendered OG images, and JSON-LD — all rendering brand identity independently and continuously. A hardcoded copy in even one of those surfaces becomes a silent drift point the moment the name, logo, or palette changes, and forecloses any future rename/rebrand/white-label/multi-brand without a full-codebase find-and-replace.
+
+**The centralized config owns:**
+- **Identity:** product name, one-line tagline/positioning, legal entity name, support email, social handles/URLs.
+- **Logo system:** full lockup, icon/mark-only, **wordmark**-only, monochrome + reversed variants, favicon, and app icons — versioned assets referenced by a single import/path, never re-uploaded or re-embedded per surface.
+- **Visual tokens:** the **color palette** (primary/secondary/semantic, light + dark mode) and type scale, expressed as the HeroUI/Tailwind theme tokens (§2 UI components row). The designer still chooses the *values* (out of scope per the UI spec); this config is their **one** destination, not one of several places they end up copied into.
+- **Social defaults:** default OG/Twitter card image + fallback copy (§3.3).
+
+**Consumers (import, never redeclare):** `<title>`/meta templates (§3.3), `Organization`/`WebSite` JSON-LD (§3.4), dynamic OG image generation (§3.3), header logo + footer brand block (UI §3.2/§3.3), auth screens (UI §13.9), 404/500 branded screens (UI §16.5), email templates (Resend, §2), legal pages (`/legal/[doc]`, UI §16.4), `ads.txt` (§2.2/§3.7), seed/fixture data (§9.8).
+
 ---
 
 ## 3. SEO Strategy (cross-cutting — applies to every free view)
@@ -161,7 +176,7 @@ Dynamic OG image per page via `ImageResponse` (1200×630).
 
 **3.6 Freshness signals:** recent (same-day) check-ins, upcoming-game schedules, new reviews, month-stamped content, ISR revalidation. Perpetually-updating pages (**PH §14.5**). *(No live/"playing now" presence — a check-in is a same-day record, not a real-time signal (§6.2). "Last verified" dates are **not** shown until a re-verification cadence exists — court-admin deferred.)*
 
-**3.7 Crawl management:** `robots.txt` disallows `/api/`, `/account/*`, `/search?*` (parameterized), `/round-robin/*/live`, Stripe callback routes; allows the directory + content. Segmented `sitemap.xml` (courts, cities, states, countries, tournaments, leagues, groups, content, news), regenerated on a schedule. **`ads.txt`** at the domain root declares the AdSense publisher ID (§2.2).
+**3.7 Crawl management:** `robots.txt` disallows `/api/`, `/account/*`, `/search?*` (parameterized), `/round-robin/*/live`, Stripe callback routes; allows the directory + content. Segmented `sitemap.xml` (courts, cities, states, countries, tournaments, leagues, groups, content, news), regenerated on a schedule. Every URL entry carries an accurate **`<lastmod>`** (W3C datetime). **Court pages: `lastmod` is set on *every* court URL in the `courts` sitemap** — parity with **PH §14** (whose `courts` sitemap stamps a real per-court `lastmod` on all 24K+ URLs, driven by each court's DB `updated_at`, not a single build timestamp). PicklerPal's court pages are *richer* than PH's — they carry live community data — so `lastmod` = the court's most recent **significant** change (Google's bar: main content, structured data, or links — *not* trivia): `max(META.updatedAt` (§9.3)`, last review create/edit/delete, last game/outing added at the venue)`. A **review create/edit/delete counts** (it changes visible content + the `AggregateRating`/`Review` JSON-LD that renders SERP stars, §3.4) — but a review's **"helpful"-vote tick does *not*** (a bare counter, no meaningful content change). It likewise **excludes** the daily "checked-in today" tally (§6.2) — both are high-churn ephemeral counters that would bump `lastmod` on nearly every court daily and, because Google trusts `lastmod` **all-or-nothing sitewide** ([Illyes, 2024](https://www.searchenginejournal.com/googles-gary-illyes-lastmod-signal-is-binary/519239/)), erode the signal for the *whole site*; that freshness stays a §3.6 ISR concern, not a `lastmod` one. Only `hasPickleball && !hidden && !deleted` courts that clear the §14.4 content threshold appear in the sitemap (thin/`noindex` courts are excluded, §14.3-ingest). **`ads.txt`** at the domain root declares the AdSense publisher ID (§2.2).
 
 **3.8 Performance:** static-first, `next/image`, route-level code splitting, edge caching. CWV is a ranking input — budget LCP < 2.5s on directory pages.
 
@@ -1154,7 +1169,7 @@ E2E runs against a **production build** (`next build && next start`) wired to **
 Organic is goal 1, so SEO correctness is a **first-class automated target**, not a manual check:
 - **Render mode.** Each indexable view renders **complete crawlable HTML with JavaScript disabled** (no session dependency, per §2). E2E loads key pages JS-off and asserts H1, body, and links are present.
 - **Metadata & structured data.** Per-template snapshots of `<title>`/description/**canonical**/OG/`hreflang`; **JSON-LD validated** against the schema.org types in §3.4 (`SportsActivityLocation`, `Event`+`Offer`, `BreadcrumbList`, `FAQPage`, `Review`, `Article`, `NewsArticle`).
-- **Crawl artifacts.** `robots.txt` disallows (§3.7) and the segmented `sitemap.xml` (valid URLs + `lastmod`) asserted; **`noindex` present on every non-indexable route** (§11).
+- **Crawl artifacts.** `robots.txt` disallows (§3.7) and the segmented `sitemap.xml` (valid URLs + `lastmod`) asserted — **every entry in the `courts` sitemap carries a `<lastmod>`** that tracks the court's last content-affecting change and is **stable across rebuilds when nothing changed** (no build-time churn; §3.7); **`noindex` present on every non-indexable route** (§11).
 - **CWV budgets in CI.** Lighthouse CI on representative templates (home, city, court, article) gates **LCP < 2.5s** + INP/CLS (§3.8); analytics/maps must not regress them (§2.1).
 - **Thin-content guard.** Assert the indexation rule: a page below the content threshold emits `noindex` until populated (prevents doorway pages on the seeded long tail).
 
